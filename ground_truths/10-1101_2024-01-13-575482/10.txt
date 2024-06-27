@@ -1,0 +1,12 @@
+Figure 5. Key variables emerging from the theory, plotted in upper row for a purely Gaussian prior distribution and in the
+lower row for a leptokurtic prior. The different columns show (a) the prior distribution itself, mesokurtic in the upper row
+and leptokurtic in the lower row 2; (b) the internal measurement model, i.e. the relevant likelihood function, normal in both
+cases; (c) the resulting posterior distribution, which becomes bimodal in the leptokurtic case; (d) the optimal estimator used
+to evaluate utility, i.e. the mean of the posterior distribution; (e) the perceived utility as a function of the probability of a
+non-null outcome in a decision-making test such as those of [15]; (6) the perceived utility, as a function of the odds q =
+1−p
+p
+.
+All results come from the gaussian mixture model defined in Sec. S-IV B), the parameter values being α = 0, γ = 2σ = 1 in
+the upper row and α = 0.5, γ = 2, δ = 0.3, σ = 1 in the lower row. We fixed x = 3 in panels b and c, r = 1 in panels e and f of
+either row.

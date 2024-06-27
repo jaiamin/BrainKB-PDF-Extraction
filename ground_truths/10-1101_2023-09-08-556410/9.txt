@@ -1,0 +1,41 @@
+functioning, other aspects of brain health may explain more variance in cognition in the oldest-
+old. This possibility remains to be tested. Third, we did not compare our cognitively-intact
+
+sample to oldest-old adults with MCI or dementia; we hypothesize that impaired oldest-old
+adults would show lower GABA levels. Fourth, because individual sex, race/ethnicity, and
+education data were unavailable for the eight published datasets, we were unable to assess the
+impact of demographic characteristics on our findings. Prior studies have demonstrated that the
+impact of age on GABA may be greater in women (Gao et al., 2013) and that GABA may be
+associated with cognition in older women, but not older men (Jiménez-Balado et al., 2021).
+Furthermore, our sample was predominantly White and well-educated. Further research should
+consider sex, and potentially environmental factors such as socioeconomic status, directly.
+Additionally, potential lifestyle influences on GABA, such as lifetime substance use, are beyond
+the scope of the present analysis. Finally, we analyzed only a small number of participants over
+the age of 95, resulting in greater uncertainty regarding the trajectory of GABA differences after
+95 (and a wider credible interval).
+In conclusion, we observed attenuation of the slope of age-related differences in cortical
+GABA concentrations in oldest-old age, consistent with a minimum GABA “floor”
+physiologically necessary to sustain cognitive function. This lower limit may also reflect a state
+below which excitotoxic processes accelerate. The current analysis provides a descriptive
+benchmark for future studies examining GABA change in the oldest-old population; additionally,
+this analysis highlights the impact of study inclusion criteria and survivorship on observed
+physiological stability in oldest-old age.
+MATERIALS AND METHODS
+Design
+206 community-dwelling adults aged 85 to 99 were recruited at the University of Alabama at
+Birmingham, the University of Florida, the University of Miami, and the University of Arizona
+as part of a larger study of cognition and brain function in oldest-old adults (McKnight Brain
+Aging Registry), funded by the Evelyn F. McKnight Brain Foundation. Sites have been
+designated Site 1-Site 4 to protect participant anonymity. Exclusion criteria included Mild
+Cognitive Impairment (MCI) or dementia, a history of neurological disease, and a history of
+intractable psychiatric disorders. Participants were screened for MCI by research coordinators
+using the Telephone Interview for Cognitive Status-Modified (TICS-M) and Montreal Cognitive
+Assessment (MoCA): scores of 28 or below on the TICS-M and 22 or below on the MoCA
+resulted in a consensus conference to assess cognitive performance, aided by a neurologist’s
+evaluation. All participants gave informed consent and were compensated for their participation.
+Study procedures were approved by the Institutional Review Boards of the University of
+Alabama at Birmingham (#X160113004), University of Florida (#201300162), University of
+Miami (#20151783) and University of Arizona (#1601318818) and conformed to the standards
+of the Declaration of Helsinki.
+Of the 206 participants recruited, MEGA-PRESS MRS data were acquired from 164 individuals.
+39 scans were corrupted or failed visual quality inspection. To ensure that all participants were

@@ -1,0 +1,53 @@
+Plating in 3D
+Devices were plasma treated (Plasma cleaner/sterilizer PDC-32G, Harrick Plasma, Ithaca, US) for
+2 min to sterilize and generate hydrophilic surfaces. As cells should remain suspended in 3D, no
+coating for cell adhesion was applied. The cell suspension was mixed with a Matrigel matrix (356230,
+Grow Factor Reduced Matrigel® matrix, Corning Incorporated, MA, US) at a 1:4 ratio in cold
+conditions and pipetted in the reservoir of each microfluidic channel. The liquid mixture readily fills the
+channels and compartments, stopping at the mesh ceilings (Figure 1b). Immediately after, the device
+was incubated upside-down at 37 oC for 10 min to promote the polymerization of the hydrogel and the
+homogeneous distribution of the neurons. Then, wells were filled with plating medium (50 μL per well).
+The cell density employed was 10 to 15 thousand cells per microliter and the volume of each channel
+was 0.4 μl. Cultures were maintained for up to two weeks with medium changes every two to three
+days. After 6 DIV, plating medium was replaced with maturation medium, consisting of BrainPhys
+Neuronal (05790, STEMCELL Technologies Inc., Germany) with the same supplements as in the
+plating medium.
+2.3 Morphological analysis
+One day after plating, neurons growing in 3D were transduced to express a fluorescence protein by
+adeno-associated virus (AAV) with 104
+
+to 105 virus copies per cell (pAAV-hSyn- hChR2(H134R)-
+EYFP, 26973, Addgene, MA, US). The expression was monitored by confocal/spinning disk
+microscopy. Images were taken after one week in vitro with a Zeiss Cell Observer® System with
+spinning disk head and the software ZEN version 2.3. Afterward, images were processed and
+reconstructed by Imaris 4.6 (Bitplane AG, Oxford Instruments, UK).
+2.4 Electrophysiological recording
+Spontaneous activity was recorded with a 50 kHz bandwidth using the USB-MEA256 amplifier and
+MC_Rack version 4.6.2 (Multi Channel Systems MCS GmbH, Germany). Experiments were performed
+at 36.5 °C, 80 % humidity and 5 % CO2, controlled using a customized incubation chamber (Okolab
+Srl, Italy). Recordings started 10 min after closing the chamber for stabilization of the conditions. Acute
+response to 3 μM picrotoxin (PTX) was monitored by adding PTX diluted in maturation medium.
+Spike detection, burst, and network burst analysis were performed with NeuroExplorer (version 5.212).
+First, recordings were filtered with a fourth-order bandpass filter (5–6000 Hz). Then, action potentials
+were detected by a threshold crossing algorithm using five times the standard deviation of the
+background noise (Quiroga et al., 2004). Burst detection was performed by NeuroExplorer’s Poisson
+surprise algorithm with a minimum burst duration of 5 ms, a minimum of 5 spikes per burst, and a
+surprise value of 4. For detection of network bursts, bursts detected on all electrodes (using their
+median time) were projected as single events in one timeline, and the Poisson surprise algorithm was
+used with a surprise value of 3 and a minimum duration of 5 ms. Moreover, network bursts were
+confirmed if at least one third of electrodes (i.e. six) contributed.
+2.5 Cleaning and reuse
+After conducting the experiments, the neuronal culture was discarded and devices were cleaned by
+rinsing with distilled water and Tergazyme (0.1% w/v) immersion for at least 3 h. After rinsing again
+with water, drying at room temperature, and plasma cleaning, devices could be reused.
+3 Results and discussion
+3.1 Device design
+Devices were designed to support simultaneous morphological and functional assessment of 3D
+neuronal networks. Materials were selected for sufficient thermal stability, solvent compatibility,
+biocompatibility, and reusability. For the microfluidic structures, permanent epoxy photoresists enabled
+high resolution patterning of multiple structural layers.
+Functional structures
+Microfluidic microelectrode arrays were designed based on a 49×49 mm2 format with 256 electrodes
+for compatibility with commercial electrophysiology amplifiers (Figure 1a & Figure 4). Microfluidics
+were addressed by a 6×6 array of wells with a 4.5 mm pitch based on the ANSI/SBS 384-well
+microplate format for compatibility with automated liquid handling.

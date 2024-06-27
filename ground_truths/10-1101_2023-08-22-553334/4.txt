@@ -1,0 +1,56 @@
+4E&F). These findings are consistent with the existence of not only a biochemical Pdlim5:PalmD complex but also a
+functional dependence between Pdlim5 and PalmD in the process of dendritic branching.
+
+DISCUSSION.
+The complexity of neuronal interconnections allowing for vertebrate central nervous system functions is impressive by
+any standard, and there remains much to be learned about how dendrites are shaped to enable such interconnections.
+Generally, neuronal networking requires the control of dendrite morphology because neuron:neuron interactions
+depend upon the precise postsynaptic contacts of each dendrite’s associated synaptic spines. The postsynaptic
+specializations of dendrites receive signals from the presynaptic terminals of axons that extend from nearby or distal
+neurons. In this report, we focused upon the gross shaping of dendrites as opposed to the formation of precise synaptic
+contacts, but these vastly different morphologic scales remain interrelated given that proper synapse patterning can
+only come about when dendrites adopt morphologies consistent with spine/ synapse generation. There are numerous
+extrinsic and intrinsic cellular factors that modulate neuronal branching. With regards to extrinsic cues, glutamate 27,28
+and brain derived neurotrophic factor (BDNF) 29 are just two examples, along with varied transmembrane
+ligand:receptor pairings inclusive of cell:cell adhesion molecules 30,31. Prominent intrinsic cellular factors include
+examples like small-GTPases, cytoskeletal components or regulators (e.g., affecting organelle distribution and the extent
+or polarity of vesicular traffic), and varied intracellular or junctional signaling entities 32. Nuclear contributions (e.g.,
+transcriptional) are also relevant in establishing gross or refined morphologies but their varied effects are generally
+viewed as being more indirect.
+Using rat primary hippocampal neurons, we here reveal that increasing PalmD levels heightens dendritic branching,
+while decreasing PalmD has the opposite effect. PalmD has been suggested to engage in shaping membranes,
+potentially by enhancing their curvature while facilitating intracellular interactions with actin-based processes 19,20. Such
+a possibility is consistent with properties ascribed to related family members of PalmD such as paralemmin 33-36, for
+which C-terminal palmitoylation and thereby enhanced membrane localization was indicated to promote neuronal
+process complexity. Recently, PalmD was reported to promote process formation in the basal progenitor cells of the
+mammalian neocortex 20. In that work, PalmD bearing a C-terminal Caax motif was proposed to achieve membrane
+localization via Caax palmitoylation in line with its activity in process formation. Our findings were instead derived from
+differentiated rat hippocampal and cortical neurons. They indicate that even a PalmD isoform lacking the C-terminal
+Caax motif (isoform having four terminal KKVI residues instead 20,37) remained robustly capable of advancing dendritic
+branching. In the neuronal context, one possibility is that PalmD lacking its C-terminal Caax motif might still become
+palmitoylated or otherwise lipidated elsewhere within its structure. This could enable PalmD’s presence and interactions
+at presumptive or forming dendritic membranes to advance branching processes. Alternatively, a fraction of PalmD
+might become membrane localized through its direct association with Pdlim5 or other potential membrane associated
+binding partners. Membrane localization was artifically reflected here using an experimental approach we earlier
+devised (GLS assay) 7
+
+. In it, we targeted Pdlim5 to the Golgi and demonstrated co-targeting of PalmD, that is, Palm D
+came along for the ride. In normal neuronal contexts, the PDZ-domain of Pdlim5 is capable of binding to multiple
+proteins bearing PDZ-motifs, presumably including that proportion of delta-catenin at dendritic membranes 7
+. Other
+possibilities to consider as tethers to the membrane-cytoskeleton include adducin 20, as well as potentially indirect
+interactions of PalmD with alpha-actinin or cortactin (see below). In all cases, while beyond the scope of our report here,
+future work in the field is required to address PalmD’s downstream mechanisms of action, inclusive of its indirect
+associations with the inner dendritic membrane or with relevant cytoskeletal elements.
+Using multiple orthogonal tests, we provide evidence of PalmD’s association with Pdlim5, a scaffold that we earlier
+characterized in association with delta-catenin 7
+
+. Each of these three proteins enhance dendrite branching when
+exogenously expressed alone, and conversely, the knockdown of each individual gene product alone leads to neurons
+having a greatly reduced presence of dendritic processes. delta-Catenin is thought to promote dendrite branching in
+part through inhibition of the small-GTPase RhoA 38-41, which we have likewise indicated is the case for Pdlim5 7
+. Given
+that PalmD associates with Pdlim5, there is the possibility that PalmD’s effects may likewise involve RhoA or another
+small-GTPase. Further potential links of PalmD to cytoskeletal modulation revolve around the presence of additional
+associated proteins in complex with Pdlim5 or with delta-catenin. For example, associations based upon the respective
+interactions of Plim5 and delta-catenin with the potent cytoskeletal regulators alpha-actinin 15,16 and cortactin 40,41, each

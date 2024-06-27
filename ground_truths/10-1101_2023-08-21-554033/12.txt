@@ -1,0 +1,93 @@
+(a)
+
+contact pad
+400μm ITO MEA
+-0.1
+0
+0.1
+
+-50
+0
+50
+
+120
+
+-20
+0
+20
+
+0 20 40 60 80 80
+
+time (s)
+
+∆F/F LFP μV MUA μV
+-2 -1
+-0.05
+0
+0.05
+0.1
+
+-60
+-40
+-20
+0
+20
+40
+
+0 1 2 3 4
+time (s)
+∆F/F
+
+LFP μV
+
+track
+
+t=56.1s t=56.8s
+(b) ROI
+ch. 117
+
+ch. 117
+ch. 117
+ROI
+
+Figure 6: Alteration of the recording platform to facilitate concurrent electrophysiology and microscopic imaging. (a) Placing
+of the recording device inside an inverted microscopic chamber. A thin layer of aluminum mesh is fabricated to wrap around the device and
+serve as Faraday cage. ITO MEAs and PNs are utilized in this experiment. (b) Examples of simultaneously acquired fluorescence signal and
+electrophysiology data. Video analysis is performed within a ROI of 0.57×0.82mm, while electrical data are recorded from a channel located near
+the center of the ROI. Left inset: A peak in the ∆F/F0 signal and a LFP event share similar temporal characteristics, where a rapid initiation
+period (<150ms) is followed by a gradual restoring phase (1s for LFP and 3s for ∆F/F0). We align the two signals according to their first edge.
+Right inset: snapshots of the fluorescence signal before and during a burst event.
+Alternatively, NTMs can also be realized through the creation of 3D neural spheroids. Formed from embryonic
+stem cells, and further differentiated into neural lineage, these spheroids recapitulate physiologically relevant features
+such as cellular and extracellular matrix composition [56]. We fabricate the neural spheroids by first obtaining
+embryoid bodies following the standard SFEBq method [57], and then differentiating them into cortical lineage by
+selective Shh (via cyclopamine) and Wnt pathway (via IWP-2) inhibition. The resulting spheroids are maintained
+in a suspension culture for 20 days before seeding on MEAs for recording (Fig. 5g). Here, in order to showcase the
+native platform compatibility with commercial MEAs, we specifically employ one from the Multichannel system
+60MEA series. Figure 5g depicts a microscopic image taken on day 7 after seeding, illustrating a spheroid extending
+neurites on the commercial MEA. Corresponding recordings on day 12 after seeding demonstrate the successful
+detection of neural firing (Fig. 5h).
+4.3 Concurrent calcium imaging
+A unique aspect of a fully-customizable system is that its components can be continuously adapted to comply with
+existing industrial standards, or new standards as they emerge, while retaining the same core infrastructure. We
+showcase this here by reshaping our platform to allow concurrent calcium imaging. We alter the design of Fig. 1a
+to match the dimensions of a standard 96-well microplate (Society for Biomolecular Screening, SBS), enabling
+the integration with inverted microscopic chambers. As seen in Fig. 6a, a new PCB interface that accommodates
+a single 128-channel recording headstage (rather than two 64-channel headstages as in Fig. 1b) is mounted onto
+reshaped acrylic layers to deliver a compact, SBS-compatible layout.
+
+Upon integration within the microscope chamber (Fig. 6a), we proceed with testing the simultaneous electro-
+physiology and calcium imaging in 2D cultures of primary hippocampal neurons (PNs). PN cells utilized in this
+
+experiment are collected from embryonic rat brains (E18-E19) and cultured on MEAs following the same ESC-MNs
+seeding protocol. PNs are chosen because, unlike ESC-MNs, they do not express constitutive fluorescent reporters,
+and therefore allow the undisturbed visualization of the calcium signal. For this specific application we employ
+transparent MEAs. These are microfabricated following the same procedure described in Section 3, except for
+the addition of an annealing process after the ITO deposition to enhance transmittance and conductivity [58].
+Annealing is carried out by placing the MEA sample in a vacuum chamber at 450◦C for 1 hour, leading to ITO
+transmittance of ∼ 80% and resistivity of ∼ 4.5e
+
+−4Ωcm (see SI), enabling both optical electrical measurements.
+We perform concurrent measurements 12 days after seeding. Cells are loaded with the calcium indicator
+Oregon Green 488, following manufacturer’s recommendations (Section 6.3). The loaded sample is then placed in
+our platform within the microscopic chamber, ready for measurement. After setting the laser source, video and

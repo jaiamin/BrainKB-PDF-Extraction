@@ -1,0 +1,11 @@
+Importantly, no differences were detected in optical withdrawal thresholds between baseline
+and vehicle trials (0.55 ± 0.15 mW vs. 0.62 ± 0.19 mW), withdrawal latency (0.44 ± 0.06 s
+vs. 0.49 ± 0.09 s), and response duration (0.86 ± 0.40 s vs. 0.33 ± 0.16 s). In contrast,
+morphine significantly increased the optical withdrawal threshold compared to both baseline
+and vehicle (1.98 ± 0.27 mW vs. 0.55 ± 0.15 mW vs. 0.62 ± 0.19 mW, morphine vs. baseline
+vs. vehicle; p < 0.001; Figure 5). Given the change in optical threshold evoked by morphine,
+for threshold comparisons of withdrawal latency and duration, to baseline and vehicle results,
+morphine was assigned the maximum possible value of 1.5 s for latency and the minimum
+value of 0s for response duration. These results indicate the peripheral photostimulation
+model is sensitive to morphine analgesia supporting its utility as a novel analgesic efficacy
+screening tool.

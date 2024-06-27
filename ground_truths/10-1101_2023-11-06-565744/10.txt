@@ -1,0 +1,36 @@
+Figure 4: Handling of the microfluidic device. a: The 36 wells were designed for handling with multi-pipetting
+systems for cell plating and medium exchange. b: The layout was compatible with 256-channel amplifiers from
+Multi Channel Systems. c: Application of compounds to the 3D neuronal circuits while recording functional effects.
+3.4 Growth and morphology of 3D neuronal circuits
+With our device, we demonstrated 3D culture of neurons forming functional neuronal networks within
+and between the two compartments (Figure 5a). The top-down approach enabled control of cell types
+and densities, in contrast to bottom-up organoids or neurospheres. The 3D cultures with a thickness of
+150 μm enclosed by the perforated ceilings were healthy without active perfusion or agitation, and
+culture medium in the wells could be exchanged without disturbing the cultured cells. This method
+avoided complicated microfluidic tubing systems, which can have issues of bubbles and
+contamination. Furthermore, perfusion systems can require larger volumes of culture medium.
+Primary neurons mixed with the hydrogel were distributed in the 3D space and soma remained
+
+suspended in the hydrogel without adhering to the device. After four to five days, neurons were live-
+labeled with GFP and morphology could be monitored by confocal microscopy. Neuronal populations
+
+in the two compartments were interconnected by neurites through the tunnels (Figure 5b) ensuring
+that functional activity would be recorded by the integrated microelectrodes (Figure 6). By employing
+confocal microscopy, the impact of the autofluorescence of the epoxy structures was minimized, and
+subcellular features were visible even in the narrow tunnels.
+We observed shrinkage of the hydrogel scaffold over days in culture, resulting in a visible gap forming
+between the channel walls and the hydrogel (with embedded cells). This shrinkage appeared to be
+caused by the growing neurons and was proportional to the neuronal cell density; without plating cells,
+hydrogel did not shrink. With a density of 10 to 15 thousand cells per microliter the 3D culture could be
+maintained for up to two weeks. Lower densities would inhibit network formation and reduce the
+likelihood of neurites entering the tunnels.
+In our work, the same cells were cultured in both compartments of each module, as our focus was on
+demonstrating successful cultures with morphological and functional readout. However, the design of
+this device encourages the combination of two different cultures. This capability could allow the
+investigation of different neural types, analyze the transfer of protein deposits associated with
+neurodegenerative disorders between two neuronal populations (Dujardin et al., 2014; Song et al.,
+2014) or study innervation by including non-neuronal cells in one compartment. Moreover, by addition
+of endothelial cells directly in the central well of each module, a blood-brain model could be
+developed. Transendothelial electrical resistance (TEER) measurements would be possible between
+the reference electrodes in the central well and large electrodes in each outer well (visible at all inlets
+in Figure 1a).

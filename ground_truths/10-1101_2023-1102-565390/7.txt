@@ -1,0 +1,34 @@
+between sessions. Following acclimatization, animals entered an experimental protocol. On
+the testing day, each animal was placed in the recording arena for 10 minutes prior to
+photostimulation, with video recording commenced to capture baseline activity. Following a
+simplified up-down approach modelled to that described by Bonin et al. [7] for von Frey
+filament testing, 5 photostimulation trials were applied, varying photostimulation intensity in
+an ‘up/down’ manner. The first stimulus trial was at the approximate photostimulation
+intensities (1mW) required to provoke a withdrawal response, determined in a pilot test
+cohort. The subsequent photostimulation intensity was determined by the up/down rules
+based on the response to the previous trial. Photostimulation intensity was increased if no
+response was recorded for the prior trial and decreased if the prior trial recorded a withdrawal
+response. Each trial commenced once the animal stopped moving and appeared to be settled,
+with the LED activated to deliver a 1-second light pulse to the right hindpaw and observing
+the response (Figure 1B). A three-minute time out between photostimulation trials allowed
+the animal behaviour to return to baseline. The response to the photostimulation (yes/no) was
+noted and the LED intensity was adjusted for the next photostimulation. All testing was
+scored in real time (response vs. no response) to determine the next photostimulation
+intensity value (Figure 1C). The optical threshold was assigned as the intensity of the last
+photostimulation intensity +/- an adjustment factor that was half the increment to the next
+intensity (up if there was no response or down if the last trial caused a response).
+
+Testing trials were spaced 3-days apart, and three initial baseline optical threshold testing
+sessions were performed to test the stability of baseline optical thresholds and response
+behaviours (n=9). An additional fourth baseline test was undertaken in a subset of animals
+(n=6) at a later timepoint (14 days following conclusion of the initial baseline testing), which
+would exceed the time required to undertake analgesic screening. This was used to assess the
+long-term stability of optical thresholds and nociceptive responses for several repeat tests. A
+cohort of animals also underwent baseline optical threshold testing before being administered
+morphine (10 mg/kg, s.c.) and sham injection (isotonic saline) prior to additional optical
+threshold trials, also spaced 3-days apart.
+
+Video recordings also captured each photostimulation trial for post hoc analysis using BORIS
+[17], an open-source event-logging software for video/audio coding and live observations.
+Each file assessed for specific behaviours and conditions (Table 1). Analysis was performed
+frame-by-frame, with behaviours coded in the pre-photostimulation period (active or

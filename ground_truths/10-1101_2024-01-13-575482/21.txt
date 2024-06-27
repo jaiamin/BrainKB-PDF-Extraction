@@ -1,0 +1,171 @@
+which demonstrates that, around x = 0, this estimator features a shape that is convex for positive x’s and concave
+for negative x’s, suppressing small fluctuations. However the convex-concave shape is lost for larger values of |x|, and
+for large x the estimator approaches a linear asymptote sˆ = ax from below.
+Plugging into Eq. (S32), we obtain
+
+U(q, r) = aqr
+1 + q
+
+
+1
+1 + b exp 
+−
+q
+2r
+2
+2 ̃σ2
+ −
+1
+1 + b exp
+−
+r
+2
+2 ̃σ2
+
+
+ (S38)
+
+which is the function shown in Fig. 3 of the main text.
+
+B. Gaussian-mixture prior
+
+By a gaussian-mixture prior we mean a linear combinations of two gaussian density functions.As seen in the main
+text, a gaussian-mixture prior with one infinitely narrow gaussian ("spike") fullfills the phenomonological requirement
+for any value of σ. On the other hand, assuming Gaussian priors are an adequate model, we don’t expect that the
+value of σ in the actual experiment would ever vanish, and we may assume that in all experiments conducted so far
+σ was larger than some baseline value δ. Such a gaussian-mixture prior has been used to generate figure 5, and for
+this reason we see it worthwhile to outline it here.
+We write
+
+ρ(s) = αgδ(s) + (1 − α)gγ(s) (S39)
+
+for a constant α ∈]0, 1[, with γ > δ.
+Since the prior S39 is symmetric, all the odd cumulants vanish. Let us compute the central moments
+
+s
+2 = (1 − α)γ
+
+2 + αδ2 < γ2
+
+(S40)
+
+s
+4 = 3(1 − α)γ
+
+4 + 3αδ4 < 3γ
+4
+
+(S41)
+(S42)
+
+and the kurtosis
+
+κ = s
+4
+
+(s
+2)
+2 =
+3
+α
+1 + 1−α
+α
+η
+4
+1 + 2 1−α
+α
+η
+2 +
+(1−α)
+2
+α2 η
+4
+
+(S43)
+
+where η ≡ γ/δ. Since κ > 3 for any η ≥ 0, this is a leptokurtic prior.
+Applying Eq. S6 leads to the posterior distribution
+
+φ(s) = (1 − β(x))G
+s −
+γ
+2x
+σ
+2 + γ
+2
+;
+γσ
+p
+σ
+2 + γ
+2
+!
++ β(x) G
+
+s −
+δ
+2x
+σ
+2 + δ
+2
+;
+δσ
+√
+σ
+2 + δ
+2
+
+
+(S44)
+
+where
+
+β(x) = αG(x;
+√
+σ
+2 + δ
+2)
+
+(1 − α)G
+
+x;
+p
+σ
+2 + γ
+2
+
++ αG
+x;
+√
+σ
+2 + δ
+2
+
+
+(S45)
+
+Applying Eq. S6 leads to the optimal estimator
+
+sˆ(x) =
+(1−α)γ
+2
+(σ2+γ2)
+3/2 e
+x
+2
+2λ2 +
+αδ2
+(σ2+δ
+2)
+3/2
+
+1−α
+(σ2+γ2)
+1/2 e
+x2
+2λ2 +
+α
+(σ2+δ
+2)
+1/2
+x (S46)

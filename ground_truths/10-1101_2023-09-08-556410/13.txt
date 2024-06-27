@@ -1,0 +1,19 @@
+All analyses were conducted in R 4.2.2 (R Core Team, 2022) using the cmdstanr package to
+implement Stan 2.21.0 (Stan Development Team, 2021). Following the approach of Porges et al.
+(2021), posterior probability distributions were estimated for all parameters simultaneously using
+Markov Chain Monte Carlo (MCMC). This approach permits estimates to covary appropriately
+for non-linear regression. For each model, we fit the overall function, a global error term, and
+one feature scaling factor Fs per dataset. Fs is the estimated multiplier needed to bring each
+dataset into standardized units with an overall geometric mean of 1.0, thereby correcting for
+systematic methodological differences. This approach assumes that data within a single dataset
+are comparable, that all data reflect a similar underlying lifespan trajectory, and that age ranges
+overlap between datasets. We generated Fs as in Porges et al. (2021), weakly penalizing to
+discourage unlikely extreme values at the tails of the distribution and excluding negative values
+by setting a lower bound.
+We initially fit separate linear regressions in Stan predicting GABA+/Cr+PCr concentrations
+from age for each of the four novel datasets. We then fit a penalized cubic basis spline model
+(Kharratzadeh 2017; Porges et al. 2021), which imposes few assumptions on the shape of the
+dataset. 19 knots were spaced evenly throughout the model and a smoothing parameter was
+imposed to minimize overfitting (Kharratzadeh 2017). To quantify the change in model slope
+with the addition of the four novel datasets, we took the first derivative of the model, which
+represents the velocity of GABA+ change across the lifespan.

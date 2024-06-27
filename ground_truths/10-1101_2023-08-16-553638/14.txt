@@ -1,0 +1,35 @@
+Functional Language Mapping for Epilepsy Surgery. Frontiers in Neuroscience,
+14:409, May 2020.
+27. Shuji Komeiji, Kai Shigemi, Takumi Mitsuhashi, Yasushi Iimura, Hiroharu Suzuki,
+Hidenori Sugano, Koichi Shinoda, and Toshihisa Tanaka. Transformer-Based
+Estimation of Spoken Sentences Using Electrocorticography. In ICASSP 2022 -
+2022 IEEE International Conference on Acoustics, Speech and Signal Processing
+(ICASSP), pages 1311–1315, Singapore, Singapore, May 2022. IEEE.
+28. Satohiro Tajima, Toru Yanagawa, Naotaka Fujii, and Taro Toyoizumi.
+Untangling Brain-Wide Dynamics in Consciousness by Cross-Embedding. PLOS
+Computational Biology, 11(11):e1004537, November 2015.
+29. Leslie G. Ungerleider and Mortimer Mishikin. Ungerleider, L. G., & Mishkin, M.
+(1982). Two cortical visual systems. In D. J. Ingle, M. A. Goodale, & R. J. W.
+Mansfield (Eds.), Analysis of visual behavior (pp. 549-586). Cambridge: MIT
+Press. The MIT Press, 1982.
+30. Melvyn A. Goodale and A.David Milner. Separate visual pathways for perception
+and action. Trends in Neurosciences, 15(1):20–25, January 1992.
+31. Melvyn A. Goodale. Transforming vision into action. Vision Research,
+51(13):1567–1587, July 2011.
+32. Quanxin Wang, Enquan Gao, and Andreas Burkhalter. Gateways of Ventral and
+Dorsal Streams in Mouse Visual Cortex. The Journal of Neuroscience,
+31(5):1905–1918, February 2011.
+33. Guy N. Elston. Pyramidal Cells of the Frontal Lobe: All the More Spinous to
+Think With. The Journal of Neuroscience, 20(18):RC95–RC95, September 2000.
+34. Guy N. Elston, Ruth Benavides-Piccione, Alejandra Elston, Bendan Zietsch,
+Javier Defelipe, Paul Manger, Vivien Casagrande, and Jon H. Kaas.
+Specializations of the granular prefrontal cortex of primates: Implications for
+cognitive processing. The Anatomical Record Part A: Discoveries in Molecular,
+Cellular, and Evolutionary Biology, 288A(1):26–35, January 2006.
+35. Guy N. Elston, Rowan Tweedale, and Marcello G.P. Rosa. Cellular heterogeneity
+in cerebral cortex: A study of the morphology of pyramidal neurones in visual
+areas of the marmoset monkey. The Journal of Comparative Neurology,
+415(1):33–51, December 1999.
+36. Guy N. Elston. [No title found]. Journal of Neurocytology, 31(3/5):317–335, 2002.
+37. K. Amunts, A. Schleicher, and K. Zilles. Cytoarchitecture of the cerebral
+cortex—More than localization. NeuroImage, 37(4):1061–1065, October 2007.

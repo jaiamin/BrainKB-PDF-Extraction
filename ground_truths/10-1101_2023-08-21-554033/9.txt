@@ -1,0 +1,81 @@
+(a) (c)
+
+(d) (e)
+
+(f) (g)
+
+Maturation
+
+30μm
+
+5μm
+Days After Seeding
+15 19 23 27
+
+30μm
+
+5μm
+
+1
+120
+channel
+100
+80
+60
+40
+20
+0 5 10 15 20
+time (s)
+
+25 30
+
+(b)
+
+firing rate (Hz)
+spike cutout 1ms 40μV
+
+50μV
+1s ch. 44
+
+ch.
+
+2
+4
+6
+8
+firing rate (Hz)
+
+0 4 8
+hours
+Long-term
+
+12 16 20 24
+
+0
+
+200μm
+
+Figure 4: 2D neural systems. (a) Fluorescence microscopic image of eGFP ESC-MNs seeded on MEA. (b) Raster plot shows the spontaneous
+neural activity recorded from a rectangular MEA layout (Fig. 3b) of 30μm-electrode on day 17 after seeding. Three seconds of filtered data from a
+representative channel reveal individual spikes as well as a burst event. Filtering is performed using a third-order bandpass Butterworth filter
+with cutting frequencies at 200 and 3000Hz. Spikes are overlaid after sorting. (c) Averaged firing rates across all channels over 2 minutes, as a
+function of days after seeding. Results from MEA chips of 30 and 5μm electrodes are reported. Error bars indicate standard deviation across
+channels. (d) Averaged firing rate of each recording channel on day 17. The dataset is used to calculate the signal to noise ratio (SNR), defined
+as the ratio between the mean spike peak amplitude and the standard deviation of the full signal. (e) Spatial activity propagation in response
+to localized electrical stimulation, at two different stimulation sites (top and bottom) and with two different intensities (700mV, 1500mV). Each
+stimulation experiment entails 6 to 8 trains of 20Hz biphasic stimulation pulses, with each train lasting for 1 second. Biphasic pulses present a
+positive-to-negative transition, where each phase has a duration of 400μs. These parameters are selected based on [52]. Data are recorded from the
+30μm MEA of Fig. 3b, on day 17 for the 700mV tests and on day 19 for the 1500mV test. (f) ESC-MNs cultured on a 4-well MEA. Spontaneous
+activity is recorded (left raster plot) and channel-wise correlation coefficients are computed to demonstrate separation between different clusters. We
+then proceed with selective optical stimulation of well #3. Stimulation lasts 1min with a 1s pulse train delivered every 5s. Each train is comprised
+of pulses at 40Hz, 20% duty cycle and 1A current amplitude. The experiment is performed on day 13 using a 465nm LED source acquired from
+Doric Lenses. (g) Long-term recording for 24 hours. Box plot shows the spontaneous activity recorded for the first 12mins of every hour. The red
+dash denotes the median value, the box indicates the range from the first quartile (Q1) to the third quartile (Q3), and the vertical line extends from
+the box by 1.5 times of the inter-quartile range (IQR = Q3 − Q1). Outliers beyond the range of the vertical line are not plotted.
+outside the incubation chamber. It should further be noticed that in case of failure, financial losses are minimized
+given our system’s low-cost. We then demonstrate the continuous monitoring of ESC-MNs cultures over 24 hours.
+As illustrated in Fig. 4g, an overall consistent level of spontaneous neural activity is observed, showing no sign of
+either hardware or culture-wise degradation throughout the recording. We also note that prolonged recordings
+inevitably produce high volumes of data (in the TB range), rendering post-processing via standard PC workstations
+cumbersome and time-consuming. This motivates the extension of our software to include functionalities for
+streamlining large-scale post analysis through cloud storage and HPC. Results in Fig. 4g are obtained by deploying

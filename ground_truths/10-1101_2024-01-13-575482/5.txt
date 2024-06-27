@@ -1,0 +1,90 @@
+ρ(s|(x, σ), H1) ̸= ρ(s|H1) (7)
+
+The posterior distribution of s has a form similar to the prior:
+ρ(s|(x, σ)) = p1δ(s − s0) + (1 − p1)gγ1
+
+(s − s1) (8)
+where p1, γ1, and s1 are updated values of parameters that depend on the parameters of the prior as well as on the
+observation. In particular, p1 = P(H0|(x, σ)) is the posterior probability of the hypothesis H0:
+
+p1 =
+1
+1 + K−1
+
+(9)
+
+where
+
+K =
+p0
+1 − p0
+gσ(x − s0)
+gσ ̃(x − s0)
+
+(10)
+
+and
+
+σ ̃
+2 = σ
+2 + γ
+2
+0
+
+(11)
+
+The width of the slab decreases according to the formula
+γ
+−2
+1 = γ
+−2
+0 + σ
+−2
+
+(12)
+
+The location of the slab shifts towards the observation as
+s1 =
+γ
+−2
+0
+γ
+−2
+0 + σ−2
+s0 +
+σ
+−2
+γ
+−2
+0 + σ−2
+x (13)
+Since the location of the spike is constant, in general the location of the spike and Gaussian slab in the posterior do
+not coincide (s1 ̸= s0).
+
+B. Single adjustment step
+
+Let us first assume that just a single adjustment step has been made–a likely scenario when faced with very limited
+time. After the adjustment step the posterior has been calculated, but what value should be used to compare options
+and take a decision? Let us denote the point estimator used for decision-making to compare options as sˆ. If the
+observation confirms the anchor (x = s0), the optimal estimator should remain the anchor, so we must have sˆ(0) = s0.
+On the other hand, any difference between sˆ and x must clearly come from a bias in the prior distribution ρ0(s), and
+in the limit where the prior is very flat (p0 → 0), we must have the asymptotic behavior sˆ ≈ x.
+These requirements are satisfied by a wide range of estimators and many results presented in this work should
+extend to other such estimators. For concreteness, in the following we choose the minimum mean squared error
+estimator, which amounts to calculating the expectation sˆ = ⟨s|x⟩ over the posterior distribution. Measuring the
+argument of the estimator by its displacement from the anchor, we define sˆ(x − s0; s0) := ⟨s|x⟩, and will omit explicit
+mention of the anchor as the second argument of sˆ where obvious. The explicit expression for sˆ reads
+
+sˆ = s0 +
+1
+1 + K
+γ
+2
+0
+σ
+2 + γ
+2
+0
+(x − s0). (14)
+Note that, due to the dependence on the Bayes factor K, sˆ is a nonlinear function of x − s0. This nonlinearity will be
+essential when we discuss the role of anchoring-with-adjustment in the fourfold pattern of risk attitudes (Section V).

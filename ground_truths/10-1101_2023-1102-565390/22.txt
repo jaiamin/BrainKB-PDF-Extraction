@@ -1,0 +1,6 @@
+was assigned the maximum possible value of 1.5 s, and response duration the minimum value
+of 0. Both values differed significantly from both baseline and vehicle (p < 0.001, and p <
+0.01, respectively). There were no significant differences detected between baseline and
+vehicle trials. Abbreviation NR = No response.
+
+Table 1. BORIS coded behaviours list and exclusion matrix for coded behaviours.

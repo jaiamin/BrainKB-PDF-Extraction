@@ -1,0 +1,37 @@
+minutes. Proteins were then transferred to nitrocellulose membranes (GE Whatman) using a Pierce Power Blotter
+(Thermo Fisher Scientific). Membranes were blocked in TBS supplemented with 0.1% Tween-20 plus 1% dry milk, with
+incubation for 4-to-12 hours at 4°C. Blocked membranes were incubated in primary antibodies overnight at 4°C before
+being incubated with HRP-conjugated secondary antibodies (Invitrogen) for 1-to-2 hours at room temperature. Lastly,
+membranes were incubated with Pierce ECL immuno-blotting substrate (Thermo Fisher Scientific # 32106) and imaged
+using a ChemiDoc MP imaging system (Bio-Rad).
+Immunofluorescence staining and Confocal microscopy
+Immunostaining of rat primary hippocampal neurons or HT-22 cells employed established protocols (Baumert at al.,
+2020; Lee et al., 2014). Briefly, cells cultured on poly-D-lysine-coated coverslips were fixed with 4% paraformaldehyde
+for 10 minutes at room temperature and then permeabilized with 0.5% Triton X-100 solution for 15 min. Following
+fixation and permeabilization, cells were blocked with PBS containing 1% bovine serum albumin overnight at 4°C. Cells
+were then incubated with the indicated primary antibodies overnight at 4°C and subsequently rinsed three times with
+fresh PBS for 10 min each, followed by an overnight rinse with PBS at 4°C. Cells were then incubated with Alexa Fluor
+fluorescent dye-conjugated secondary antibodies (Invitrogen) for 1 hour at room temperature before the coverslips
+were washed and finally mounted onto glass slides with Vectashield (Vector Laboratories) mounting solution. Cells were
+visualized using a Nikon T2i Inverted Confocal Microscope with an Apo-Plan 60× 1.4 NA oil objective at room
+
+temperature. Images were captured with a Nikon A1-DUG GaAsP hybrid four-channel multi-detector and Nikon NIS-
+Elements software. All z-series images were acquired at a pixel size of 100 nm and a step size of 0.2 μm.
+
+Neuronal morphological analysis by IMARIS9.9
+Rat primary hippocampal neurons underwent assessment of their morphological characteristics with a focus upon
+neurites/ dendrites. z-Series images of immunofluorescently stained neurons were captured using a Nikon T2i Inverted
+Confocal Microscope, as previously mentioned. Prior to analysis, IMARIS 9.9 was utilized to generate a 2-dimensional
+maximum-projection image with background subtraction from the confocal z-series of each neuron. In cases where
+dendrite number was evaluated, counting focused upon the number of dendrite tips per neuron, excluding any
+protrusions shorter than 5 μm. Dendritic length was measured by tracing from the cell body to the tip of the dendrite
+using IMARIS 9.9 filament tracer. Thresholds and settings for IMARIS 9.9 filament tracer were kept the same for all samples. For
+Sholl analysis, the maximum-projection images were converted to binary and analyzed in IMARIS 9.9 filament tracer
+using concentric rings with a 5 μm step size to evaluate dendrite morphology in relation to the distance from the cell
+body 44.
+Statistical analysis
+Data were analyzed using GraphPad Prism. Statistical significance for Sholl data were determined using a two-way
+ANOVA with Bonferroni post-hoc analysis (figure 1D, 4C, 4E and S4E). For all other comparisons, a one-way ANOVA with
+Tukey’s test was used (Figure S1B, S1D, 2B, 2D, 2E, 3B, 3D, S4B, S4C and S4D). Data distribution was assumed to be
+normal, but this was not formally tested. Significance was assigned at P < 0.05. Please refer to each Legend for specific
+information related to experimental statistical considerations.

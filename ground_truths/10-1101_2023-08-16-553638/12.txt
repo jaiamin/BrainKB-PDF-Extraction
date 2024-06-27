@@ -1,0 +1,39 @@
+observations might reflect underlying neuronal properties, ranging from dendritic 294
+structures to cytoarchitectural differences. Our findings have added to the existing body 295
+of knowledge on the cortex’s electrophysiological properties, and we anticipate further 296
+research will continue to clarify these complex relationships. 297
+Acknowledgments 298
+This work was supported by JST, Moonshot R&D Grant Number JPMJMS2012. 299
+References
+1. V. Mountcastle. The columnar organization of the neocortex. Brain,
+120(4):701–722, April 1997.
+2. Nicola Palomero-Gallagher and Karl Zilles. Cortical layers: Cyto-, myelo-,
+receptor- and synaptic architecture in human cortical areas. NeuroImage,
+197:716–741, August 2019.
+3. Christine E. Collins, David C. Airey, Nicole A. Young, Duncan B. Leitch, and
+Jon H. Kaas. Neuron densities vary across and within cortical areas in primates.
+Proceedings of the National Academy of Sciences, 107(36):15927–15932,
+September 2010.
+4. Patricia S. Goldman-Rakic. Development of Cortical Circuitry and Cognitive
+Function. Child Development, 58(3):601, June 1987.
+5. Nelson Spruston. Pyramidal neurons: dendritic structure and synaptic
+integration. Nature Reviews Neuroscience, 9(3):206–221, March 2008.
+6. Xiao-Jing Wang. Macroscopic gradients of synaptic excitation and inhibition in
+the neocortex. Nature Reviews Neuroscience, 21(3):169–178, March 2020.
+7. Gy ̈orgy Buzs ́aki, Costas A. Anastassiou, and Christof Koch. The origin of
+extracellular fields and currents — EEG, ECoG, LFP and spikes. Nature Reviews
+Neuroscience, 13(6):407–420, June 2012.
+8. Rodolfo R. Llin ́as. The Intrinsic Electrophysiological Properties of Mammalian
+Neurons: Insights into Central Nervous System Function. Science,
+242(4886):1654–1664, December 1988.
+9. N Leresche, S Lightowler, I Soltesz, D Jassik-Gerschenfeld, and V Crunelli.
+Low-frequency oscillatory activities intrinsic to rat and cat thalamocortical cells.
+The Journal of Physiology, 441(1):155–174, September 1991.
+10. H Jahnsen and R Llin ́as. Ionic basis for the electro-responsiveness and oscillatory
+properties of guinea-pig thalamic neurones in vitro. The Journal of Physiology,
+349(1):227–247, April 1984.
+11. Gaby Maimon and John A. Assad. Beyond Poisson: Increased Spike-Time
+Regularity across Primate Parietal Cortex. Neuron, 62(3):426–440, May 2009.
+12. Richard Gao, Ruud L. Van Den Brink, Thomas Pfeffer, and Bradley Voytek.
+Neuronal timescales are functionally dynamic and shaped by cortical
+microarchitecture. preprint, Neuroscience, May 2020.

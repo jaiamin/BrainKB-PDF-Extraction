@@ -1,0 +1,39 @@
+A microphysiological system for parallelized
+
+morphological and electrophysiological read-
+out of 3D neuronal cell culture
+
+Peter D. Jones1†
+
+*, Beatriz Molina-Martínez1†a
+
+, Anita Niedworok1
+
+, Paolo Cesare1,2
+*
+
+1. NMI Natural and Medical Sciences Institute at the University of Tübingen, 72770 Reutlingen,
+Germany.
+2. Department for Microphysiological Systems, Institute of Biomedical Engineering, Eberhard
+Karls University Tübingen, 72074 Tübingen, Germany.
+† Equal contributions: P.D.J. & B.M.M.
+* Corresponding authors: peter.jones@nmi.de, paolo.cesare@nmi.de
+a Current affiliation: Biobide (BBD BioPhenix S.L.U), San Sebastián, Gipuzkoa, Spain.
+Abstract
+Three-dimensional in vitro models in microfluidic systems are promising tools for studying cell biology,
+with complex models using multiple cell types combined with high resolution imaging. Neuronal
+models demand electrical readout of the activity of networks of single neurons, yet classical planar
+microelectrode arrays struggle to capture extracellular action potentials when neural soma are
+suspended distant from the microelectrodes. This study introduces sophisticated microfluidic
+microelectrode arrays, specifically tailored for electrophysiology of 3D neuronal cultures. Using
+multilayer photolithography of permanent epoxy photoresists, we developed devices having 12
+independent culture modules in a convenient format. Each module has two adjacent compartments for
+hydrogel-based 3D cell culture, with tunnels allowing projection of neurites between compartments.
+Microelectrodes integrated in the tunnels record action potentials as they pass between the
+compartments. Mesh ceilings separate the compartments from overlying wells, allowing for simple cell
+seeding and later nutrient, gas and waste exchange and application of test substances. Using these
+devices, we have demonstrated 3D neuronal culture, including electrophysiological recording and live
+imaging. This microphysiological platform will enable high-throughput investigation of neuronal
+networks for investigation of neurological disorders, neural pharmacology and basic neuroscience.
+Further models could include cocultures representing multiple brain regions or innervation models of
+other organs.

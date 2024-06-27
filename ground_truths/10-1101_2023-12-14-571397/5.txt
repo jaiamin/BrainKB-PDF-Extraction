@@ -1,0 +1,111 @@
+Let y(t) represent the target speech envelope at sample time t, and xc(t) the sample
+of the c-th EEG channel at sample time t. The goal is to reconstruct the T subsequent
+target speech envelope samples y =
+
+y(0) y(1) · · · y(T − 1)T
+∈ R
+T ×1
+
+from channel-
+concatenated and time-lagged EEG signals X ∈ R
+
+T ×LC, defined as:
+
+X =
+
+X1 X2 · · · XC
+
+
+Xc =
+
+
+
+
+xc(0) xc(1) · · · xc(L − 1)
+xc(1) xc(2) · · · xc(L)
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+xc(T − 1) 0 · · · 0
+
+
+
+
+,
+
+(1)
+
+where C denotes the number of EEG channels, T the number of training samples, and
+L the number of time lags. This reconstruction is achieved by designing a decoder dˆ ∈
+R
+LC×1
+that minimises the mean squared error between the ground truth envelope y and
+the reconstructed envelope Xd [1], [9]:
+dˆ = argmin
+d
+||y − Xd||2
+2,
+
+(2)
+
+of which the solution equals [1], [9]:
+dˆ = (X
+TX)
+−1 X
+Ty (3a)
+
+= R
+−1
+xx rxy. (3b)
+
+Herein, Rxx ∈ R
+
+LC×LC and rxy ∈ R
+LC×1
+
+respectively denote the estimated EEG auto-
+correlation matrix and EEG-envelope cross-correlation vector.
+
+At validation time, this decoder is applied to the validation data that were held out
+during training. The EEG data X(val) ∈ R
+
+Tv×LC are then used to reconstruct the speech
+
+envelope yˆ ∈ R
+
+Tv×1 of length Tv:
+
+yˆ = X
+(val)dˆ. (4)
+
+The correlation ρ(yˆ, y
+(val)
+) between this reconstructed envelope yˆ and the ground truth
+
+envelope y
+(val) ∈ R
+Tv×1
+, computed over Tv samples, is hypothesised to be higher when
+actively listening [11]. Therefore, we use this stimulus correlation as a first feature to
+discriminate between active and passive listening. As per [11], the Spearman correlation
+coefficient, a rank-ordered Pearson correlation, is used in this work [19].
+B. Spectral entropy
+
+SE is a measure for the uncertainty of a random variable by characterising the peaked-
+ness of the probability density function [20]. Herein, large SE values map to high
+
+uncertainty and hence lower predictability. Since power spectral densities (PSDs) after
+normalisation are non-negative and sum to one like probability density functions, the
+SE can also be applied to these normalised PSDs in the frequency domain in order to
+describe the peakedness of these PSDs [14], [16]. This so-called SE can be hypothesised
+to be used to leverage spectral differences, where higher SE levels correspond to less
+predictability in the neural response. Let Pxc
+
+(f) ∈ R represent the normalised PSD

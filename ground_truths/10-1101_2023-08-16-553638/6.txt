@@ -1,0 +1,26 @@
+Figure 1. The panels in this figure show the preprocessing of ECoG data and the model
+trained to predict the region where the electrode belonged. (A) The cortex was divided
+into seven regions based on the atlas. ECoGs were cut every 20 seconds from electrodes
+belonging to each region and transformed into spectrograms after preprocessing. Four
+macaque data were used to generalize the model. (B) Model architecture. The model is
+trained to predict the region which input spectrogram belongs to. The model is divided
+into two parts, Pre-training and Downstream, with Pre-training on the left side of the
+architecture and Downstream on the right side. In pretraining, first, we masked the
+contiguous segments to zero in spectrogram along both time and frequency axis. Second,
+we trained the model by reconstruction the masked spectrogram. In Downstream, we
+fine-tuned the model so that the model predict the region the input spectrogram belongs
+to by supervised learning. (C) After training the model, we used the test data to extract
+the activation patterns of the layer before the final output layer for each input, and used
+those patterns as feature vectors. For each region, the feature vector was concatenated
+to create a concatenate vector for that region.
+Results 167
+Prediction accuracy 168
+The prediction accuracy as indexed by the F value per region for each individual is 169
+shown in Figure2.A along with the average across four animals per region. As shown, 170
+the transformer-based architecture successfully classified the region based on a single 171
+channel ECoG signal over 20 seconds for almost all region for all the four animals. The 172
+prediction accuracy of the HVC and LVC regions were relatively high, while the 173
+accuracy for the PMC region was lower than in the other regions. These results support 174
+our hypothesis that the temporal patterns in single channel ECoG signals contain some 175
+information about the recorded region. 176
+However, the specific attributes of the signals that contributed to the predictions are 177

@@ -1,0 +1,36 @@
+Main Text:
+Introduction
+The human brain enables remarkable cognitive achievements that are unparalleled in any other
+species. It contains more neurons and shows an increased size in comparison to the brains of
+other primates, particularly in the cerebellum and cortex (1). However, this expansion
+represents an expected scaling across hominids (2) which does not correlate with cognition (3),
+suggesting that different mechanisms account for human-specific cognitive abilities. In this
+regard, human neurons lag in development when compared to the developmental timing of other
+species (a concept called human neoteny), illustrated by a slower reach of the maximal synapse
+density followed by a delayed pruning of the acquired synapses (1). The resulting prolonged
+synaptogenesis and synaptic plasticity period has been suggested to be key in the enhanced
+social and cultural learning of humans (4).
+Little is known regarding the genetic mechanisms underlying human-specific aspects of
+synaptogenesis and plasticity. For example, human-specific non-synonymous base pair
+substitutions in the Foxp2 gene, which is mutated in a monogenic speech disorder, lead to
+increased neurite outgrowth and synaptic plasticity of corticostriatal circuits along with
+behavioral phenotypes in mice (5). Moreover, expression of the human-specific Srgap2c in
+mice, which originates from a gene duplication, delays synapse maturation in cortical pyramidal
+neurons (1, 6, 7). However, due to the generally high conservation of protein-coding genes, it
+has been suggested early on that most phenotypic differences between humans and other
+primates might be rather caused by changes in non-coding DNA regulating gene expression (8).
+Regulatory regions of the genome that evolved particularly fast in humans, such as the human
+accelerated regions (HAR) and human gained enhancers (HGE), represent interesting
+
+candidates in this regard (9). In addition to fulfilling gene regulatory functions in cis, non-
+coding DNA is pervasively transcribed into a plethora of non-coding RNA (ncRNA) families
+
+that control gene expression in trans, such as long non-coding RNAs (lncRNAs) and
+microRNAs (miRNAs) (10). An expansion in the repertoire of miRNAs was suggested to
+contribute to the increased complexity of the brain throughout evolution (11, 12). Human
+miRNA expression in the brain has been profiled previously in adulthood and development
+from post-mortem tissue samples (13-16). Moreover, the human-specific miR-941 has been
+investigated with regards to its expression levels in the brain and putative functionality in cell
+lines (17). However, despite their well-documented role in neuronal development in vertebrates
+(18), it is unknown whether miRNAs control aspects of human neoteny, such as delayed
+neuronal maturation and synaptogenesis.

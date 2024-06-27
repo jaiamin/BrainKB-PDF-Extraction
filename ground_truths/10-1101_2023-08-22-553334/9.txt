@@ -1,0 +1,54 @@
+detect endogenous Pdlim5 via immunofluorescence (Figure 1A). A rabbit polyclonal antibody directed against Pdlim5
+(#38–8800) was used for both blot and immunofluorescence (IF) assays. Primary rabbit IgG from Life Technologies
+(#10500C) was used for negative-control “IPs”, as was mouse IgG from Invitrogen (#10400C). (Figure 3A, S3A, S3B, S3C).
+To detect endogenous PalmD in immunofluorescence assays, we employed a rabbit polyclonal antibody (ProteinTech,
+catalog # 16531-1-AP) (Figure3A and S3A). delta-Catenin was visualized using a mouse monoclonal antibody (BD
+Transduction Laboratories catalog # 611537, not shown). All HRP-conjugated goat polyclonal secondary antibodies were
+obtained from Thermo Fisher Scientific (anti-mouse #31430 and anti-rabbit #31460). All Alexa fluor immunofluorescent
+
+secondary antibodies were purchased from Invitrogen (488 anti-mouse #A32723, 488 anti-rabbit #A22008, 555 anti-
+mouse #A21422, 555 anti-rabbit #A32732 and 555 anti-chicken A32932).
+
+Golgi Localization Sequence Assay (GLS)
+Immortalized mouse hippocampal neuronal cells (HT-22) were cultured in DMEM cell culture media (Sigma-Aldrich)
+supplemented with 10% FBS (Sigma-Aldrich) and 1x penicillin-streptomycin (Life Technologies). Transfections of cells
+were done at 50%-to-60% confluency using Lipofectamine 2000. Golgi co-relocalization was examined by fixation with
+4% PFA 24 hours after transfection, followed by immunostaining and subsequent image collection using confocal
+microscopy. To ectopically relocalize Pdlim5 to the Golgi, Pdlim5 was tagged at its’ N-terminus with the Golgi localization
+sequence (GLS) of mammalian target of rapamycin (mTOR) 7
+
+. Following co-transfection with one of Pdlim5’s putative
+partners (e.g., PalmD), the cells were subjected to immunofluorescence staining as previously described 7,44. Qualitative
+analysis involved visual examination of co-relocalized partner proteins to the Golgi, occurring only when GLS-Pdlim5 is
+present. Quantitative analysis involved measuring the average fluorescence intensity of the Golgi body compared to that
+of the cytosol in each optical channel using ImageJ. This comparison generated a Golgi:cytosolic intensity ratio for each
+condition.
+GLS from mammalian target of rapamycin: 5ʹ-ACTAGTGAAATGCTGGTCAACATGGGAAACTTGCCTCTGGATGAGTTCTACCCA
+GCTGTGTCCATGGTGGCCCTGATGCGGATCTTCCGAGACCAGTCACTCTCTCATCATCACACCATGGTTGTCCAGGCCATCACCTTC
+ATCTTCAAGTCCCTGGGACTCAAATGTGTGCAGTTCCTGCCCCAGGTCATGCCCACGTTCCTTAACGTCATTCGAGTCTGTGATGGG
+GCCATCCGGGAATTTTTGTTCCAGCAGCTGGGAATGTTGGTGTCCTTTGTGAAGAGCCACATCAGACCTTATATGGATGAAATAGTC
+ACCCTCATGAGA-3ʹ.
+Proximity Ligation Assay (PLA)
+To perform Proximity Ligation Assays (PLA), neurons were fixed at 4 days in vitro (DIV4) with 4% PFA and the Duolink
+PLA kit was employed as previously described 7 following the manufacturer's (Sigma-Aldrich) protocol 45.
+In brief, cells were permeabilized with 0.5% Triton-X 100 and blocked with 1% BSA blocking solution. Neurons were then
+incubated with primary antibodies specific to each of the two endogenous target proteins, such as Pdlim5 and PalmD.
+Subsequently, the cells were washed with PBS and incubated with Duolink PLA probes. These probes recognize the
+primary antibodies and enable the generation of a DNA structure recognized by manufacturer-provided fluorescent
+probes. To generate the DNA structure, the cells were incubated with a ligase and amplification enzymes. Finally, the
+permeabilized and blocked cells were incubated with the fluorescent probes and imaged using a Nikon T2i Inverted
+Confocal Microscope equipped with an Apo-Plan 60× 1.4 NA oil objective. The imaging was conducted at a pixel size of
+100 nm, and image stacks were converted into maximum projection images for analysis. The quantification of puncta
+was performed using the Puncta Analyzer plugin within the ImageJ software.
+Co-immunoprecipitations and immunoblots
+For immunoblot assay of endogenous proteins from rat primary cortical neurons, 2 x 106 cells from six 10 cm dishes
+were collected and lysed at DIV9. For immunoblotting assays of exogenous co-immunoprecipitated proteins, HEK293
+cells were lysed 24-to-48 hours following their co-transfection, using established protocols 7
+
+. In brief, following lysis and
+pelleting of debris, protein concentrations of lysates were equalized (500-1000 μg per condition/ IP) and incubated with
+primary antibodies for 2-to-12 hours at 4°C with gentle rotation. Protein-A and Protein-G Dynabeads (Invitrogen,
+#10002D and #10004D) were added to each tube and incubated for an additional 20-30 min with gentle rotation at 4°C.
+After washing, the associated proteins were eluted from the beads upon addition of 2× sample buffer with βME and
+heated at 95°C for 5 min. Co-IP samples, or in the case of whole-cell extracts equalized cell lysates, were then loaded
+onto 10% polyacrylamide gels using a BioRad mini-PROTEAN Tetra Cells, 2-gel system setup (#1658005) and run for 120

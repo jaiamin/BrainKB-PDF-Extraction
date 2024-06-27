@@ -1,0 +1,23 @@
+ABSTRACT
+The goal of this study was to characterize a model that specifically activates peripheral
+nociceptors, allowing pure nociceptive thresholds to be monitored over a range of conditions
+including pathology or in screening analgesic compounds. Transgenic mice expressing
+channelrhodopsin-2 (ChR2) in cell populations positive for the transient receptor potential
+cation channel subfamily V member 1 (TRPV1) gene were bred to enable peripheral
+nociceptor photostimulation. Preliminary experiments confirmed the expected localisation
+pattern of ChR2 positive profiles in the dorsal root ganglion and superficial dorsal horn,
+mirroring TPRV1 expression. Brief hindpaw photostimulation with 470nm light caused
+hindpaw withdrawal and nocifensive behaviours in ChR2 positive animals but not control
+ChR2 negative animals. Using a simplified up/down approach, ‘optical' nociceptive
+thresholds were assessed with a 5-intensity hindpaw photostimulation paradigm, establishing
+the minimum intensity required to produce a withdrawal response (optical threshold). All
+testing was also video recorded and analysed post-hoc to assess additional photostimulation
+evoked behaviours. Repeated testing over several days showed optical nociceptive thresholds
+and response duration were similar, supporting the stability of these variables across a
+timeframe relevant to onset of pathology or drug administration. Optical nociceptive
+thresholds were also assessed following morphine administration (30 mg/kg), which
+significantly raised thresholds, highlighting analgesic screening utility of this model.
+Together, these findings demonstrate the peripheral photostimulation with optical
+thresholding is a useful addition to the preclinical nociception assessment toolkit, with the
+key advantage of inducing a purely nociceptive response to a non-invasive, non-tissue
+damaging stimulus.

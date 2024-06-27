@@ -1,0 +1,25 @@
+Porges, E.C., Jensen, G., Foster, B., Edden, R.A.E., & Puts, N.A.J. (2021). The trajectory of
+cortical GABA across the lifespan, an individual participant data meta-analysis of edited
+MRS studies. eLife, 10, e62575.
+Porges, E.C., Woods, A.J., Edden, R.A.E., Puts, N.A.J., Harris, A.D., Chen, H., Garcia, A.M.,
+
+Seider, T.R., Lamb, D.G., Williamson, J.B., & Cohen, R.A. (2017). Frontal Gamma-
+Aminobutyric Acid Concentrations Are Associated With Cognitive Performance in Older
+
+Adults. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 2(1), 38-44.
+R Core Team (2022). R: A language and environment for statistical computing. R Foundation for
+Statistical Computing, Vienna, Austria. https://www.R-project.org/
+Silverman, J.M., & Schmeidler, J. (2018). The protected survivor model: Using resistant
+successful cognitive aging to identify protection in the very old. Medical Hypotheses,
+110, 9-14.
+Simmonite, M., Carp, J., Foerster, B.R., Ossher, L., Petrou, M., Weissman, D.H., & Polk, T.A.
+(2019). Age-Related Declines in Occipital GABA are Associated with Reduced Fluid
+Processing Ability. Academic Radiology, 26(8), 1053-1061.
+Stan Development Team. (2021). Stan Modeling Language Users Guide and Reference Manual,
+2.21. https://mc-stan.org
+Stern, Y. (2009). Cognitive reserve. Neuropsychologia, 47(10), 2015-2028.
+Rozycka, A., & Liguz-Lecznar, M. (2017). The space where aging acts: focus on the
+GABAergic synapse. Aging Cell, 16(4), 634-643.
+Yaffe, K., Middleton, L.E., Lui, L.Y., Spira, A.P., Stone, K., Racine, C., Ensrud, K.E., &
+Kramer, J.H. (2011). Mild Cognitive Impairment, Dementia, and Their Subtypes in
+Oldest Old Women. Arch Neurol, 68(5). 631-636.

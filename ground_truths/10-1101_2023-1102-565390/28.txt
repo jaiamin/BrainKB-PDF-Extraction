@@ -1,0 +1,50 @@
+Morphine
+Vehicle
+
+3
+2
+1
+
+0
+Optical threshold (mW)
+Baseline
+Morphine
+Vehicle * NR
+0.75
+0.50
+0.25
+0
+Withdrawal latency (s)
+Baseline
+Morphine
+Vehicle
+
+Response intensity
+0% 100% Baseline
+
+Vehicle
+
+Averages
+Timeline
+
+B
+V
+M
+M1
+M3
+M4
+M2
+M5
+M7
+M6
+M1
+M3
+M4
+M2
+M5
+M7
+Ave
+
+Ave
+M6
+A

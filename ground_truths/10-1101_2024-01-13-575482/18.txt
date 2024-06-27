@@ -1,0 +1,88 @@
+The assumption of a Gaussian measurement model turns Eq. (S18) into the ratio between the variance of the
+posterior and the variance of the likelihood
+sˆ
+′
+(x) = variance of posterior for outcome x
+
+variance of likelihood (S19)
+
+as also follows from Eq. (S10) evaluated with n = 1.
+Because this derivative is in principle measurable from experiments that probe the perceived utility curve, its range
+of values may offer a further experimental test for the theory. Obviously it can never be equal to zero, because the
+numerator of Eq. (S19) vanishes only if the observations are completely uninformative or the prior itself has zero
+variance. This marks a difference between the theory presented here and the power-law ansatz seen in [7], where this
+derivative vanishes in the origin.
+Under the assumptions of Sec. S-II D, it can be seen that the ratio (S19) is always subunity at x = 0. To prove
+that, it is sufficient to restate the main result of Sec. S-II D as sˆ(x)
+
+x < 1. Since under the same conditions sˆ(0) = 0, we
+
+find
+
+limx→0
+sˆ
+′
+(x) = limx→0
+sˆ(x)
+x
+< 1 (S20)
+
+F. Asymptotics of the posterior mean
+
+The asymptotics of the posterior mean has asymptotic scaling contained between O(1) and O(x) in the limit of
+large outcomes (x → ∞).
+To see this, begin by noticing that the posterior mean is a nondecreasing function of the outcome x. From this, it
+follows that no scaling below O(1) is possible.
+On the other hand, suppose the scaling was larger than O(x). It would then be possible to find a sufficiently large
+value x∗, such that for x > x∗ the inequality ⟨s⟩ ≥ x is violated. Since this inequality was proven in Sec. S-II D, it
+follows that ( under the same conditions given in that section) the large-x scaling of sˆ(x) is linear at most.
+
+G. Compact-support priors and posterior mean
+
+A preliminary step to prove the open-mind theorem is to study the asymptotic behavior of the posterior mean for
+compact-support priors.
+In the following we consider the limit x → ∞ for convenience, although the same considerations apply to the limit
+x → −∞. We prove that the two statements of sˆ(x) having a finite limit for large x and the prior having compact
+support are equivalent, as long as ρ ∈ C
+
+0 and σ < ∞.
+
+We start from the assumption that the prior has compact support. The set of points {s : ρ(s) > 0} has therefore
+a supremum S < ∞, and from the definition of sˆ(x) it follows sˆ(x) < S ∀x, entailing that the large-x limit of sˆ(x) is
+finite.
+Vice versa, to prove that a finite limit entails a compact support, we suppose ad absurdum that the support is not
+compact. It follows that for every L ∈ R we can find an increasing sequence s1 < s2 < . . . such that L < s1 and
+ρ(si) > 0 ∀i ≥ 1. Since ρ ∈ C
+0
+, we also have that ρ(s) is positive in a neighborhood of each si
+.
+The statement being true for any L, it holds in particular for L = limx→∞ sˆ(x). We write therefore
+
+sˆ(x) = ⟨s⟩
+[−∞,s1]
+s|x w(−∞, s1|x) + ⟨s⟩
+[s1,∞]
+s|x w(s1, ∞|x) (S21)
+
+where
+
+⟨s⟩
+[a,b]
+s|x =
+R b
+a
+ds s ρ(s)gσ(s − x)
+R b
+a
+ds ρ(s)gσ(s − x)
+
+(S22)
+
+w(a, b|x) =
+R b
+a
+ds ρ(s)gσ(s − x)
+R ∞
+−∞ ds ρ(s)gσ(s − x)
+
+(S23)

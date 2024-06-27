@@ -1,0 +1,52 @@
+Table 1. Number of channels in each region
+
+Monkey LPFC PMC MSC PC TC HVC LVC
+M1 12 12 12 12 12 12 12
+M2 11 11 11 11 11 11 11
+M3 14 14 14 14 14 14 14
+M4 12 12 12 12 12 12 12
+
+LPFC - Lateral Prefrontal Cortex, PMC - Premotor Cortex, MSC - Motor and So-
+matosensory Cortex, PC - Parietal Cortex, TC - Temporal Cortex, HVC - Higher Visual
+
+Cortex, LVC - Lower Visual Cortex
+Table 2. Length of data
+
+Monkey Time (min)
+M1 15
+M2 15
+M3 20
+M4 20
+
+effectiveness in handling temporal data. Originally developed for speaker identification 64
+in speech recognition research, TERA shares a similar objective, as we aimed to identify 65
+the “speaker” of cortical signals from time series data. TERA, an acronym 66
+for“Transformer Encoder Representations from Alteration”, utilizes the encoder part of 67
+the transformer architecture. In this study, we trained TERA from scratch to predict 68
+which electrode corresponds to which brain region using only single channel ECoG 69
+signals. 70
+TERA acquires the latent features of waveform data in a self-supervised manner by 71
+reconstructing the original spectrogram through a one-to-one correspondence between 72
+the input data converted into a spectrogram and the data partially masked from the 73
+spectrogram. The following is the method used in this study to train TERA to acquire 74
+the latent space of ECoG and the corresponding feature vectors.(Figure1) 75
+1. Electrode labeling according to an atlas 76
+First, the electrodes were labelled according to which region they were attached to 77
+as designated by an atlas [28] of the cerebral cortex. The placement of electrodes 78
+is depicted in Figure1.A. As described earlier, we standardized the number of 79
+electrodes across the seven regions for each animal, adjusting to match the region 80
+with the fewest electrodes 1. For each electrode, ECoG data was collected in 81
+distinct, non-overlapping segments, with each segment spanning 20 seconds. After 82
+that, the data, which was originally sampled at 1 kHz, was downsampled to 250 83
+Hz. 84
+2. Preprocessing Subsequently, we implemented the Common Average Reference 85
+method by averaging all channels and then subtracting the resultant signal from 86
+each individual channel. As outlined in the original TERA paper by [23], we 87
+converted the data into a log Mel spectrogram with a dimension of 80. Feature 88
+extraction was executed using a window of 25 ms and a stride of 10 ms. Following 89
+this, we applied CMVN (cepstral mean and variance normalization) to the 90
+extracted features. 91
+3. Training the deep learning model In the final stage, we utilized the preprocessed 92
+spectrograms for model training, which consisted of two phases: Pre-training and 93
+Downstream. During the pre-training phase, the spectrograms were masked along 94
+both time and frequency dimensions. The model then learned latent spaces by 95

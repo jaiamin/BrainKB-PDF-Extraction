@@ -1,0 +1,55 @@
+‘Are you even listening?’ - EEG-based
+detection of absolute auditory attention to
+natural speech with application to
+neuro-steered hearing devices
+
+Arnout Roebben1,∗
+
+, Nicolas Heintz1,2
+
+, Simon Geirnaert1,2
+
+, Tom Francart2
+
+and Alexander Bertrand1,3
+
+Abstract
+
+In this study, we use electroencephalography (EEG) recordings to perform absolute auditory
+attention detection (aAAD), i.e., determine whether a subject is actively listening to a presented
+speech stimulus or not. More precisely, we aim to discriminate between an active listening
+condition, and a distractor condition where subjects passively listen to the speech stimulus
+while performing another cognitive task. To this end, we re-use an existing EEG dataset where
+the subjects watch a silent movie as a distractor condition, and introduce a new EEG dataset with
+two other distractor conditions (silently reading a text and performing arithmetic exercises). We
+focus on two EEG features, namely neural envelope tracking (NET) and spectral entropy (SE).
+We find significantly higher NET and lower SE in the active listening condition compared
+to the distractor conditions, which for the SE is the reverse of what was previously found
+for an active listening versus passive listening condition (without any distractors). In addition,
+aAAD is used in the context of a selective auditory attention decoding (sAAD) task, where
+the goal is to decode to which of two competing speakers the subject is attending, which is a
+core task in the context of so-called neuro-steered hearing devices. We show that evaluating
+sAAD performance only on segments of active listening improves sAAD performance when
+detecting these active listening segments as having higher NET, whereas the reverse trend is
+observed when detecting these segments as having lower SE. We conclude that NET is a more
+reliable metric for aAAD as it is consistently higher for the active listening condition, whereas
+the relation of the SE between the active listening and passive listening conditions seems to
+depend on the nature of the distractor task. Consequently, NET shows the most promise for
+aAAD and to detect auditory inattentive segments in neuro-steered hearing devices.
+
+Index Terms
+
+Absolute auditory attention detection, Selective auditory attention decoding, EEG, Neural
+envelope tracking, Spectral entropy, Neuro-steered hearing device, Brain-computer interface.
+
+I. INTRODUCTION
+
+The human auditory system is able to focus on a single speaker of interest while
+filtering out the speech of competing speakers in a so-called cocktail party scenario. This
+process is often referred to as selective (auditory) attention. Recently, there has been
+1KU Leuven, Dept. Electrical Engineering (ESAT), Stadius Center for Dynamical Systems, Signal Processing and
+Data Analytics, Kasteelpark Arenberg 10, B-3001 Leuven, Belgium.
+∗
+arnout.roebben@esat.kuleuven.be
+2KU Leuven, Dept. of Neurosciences, ExpORL. Herestraat 49 bus 721, B-3000 Leuven, Belgium
+3Leuven.AI - KU Leuven institute for AI

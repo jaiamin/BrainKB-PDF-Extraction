@@ -1,0 +1,53 @@
+text reading and arithmetic exercise solving distractor conditions are considered as one
+distractor condition, and hence their data are concatenated to increase the amount of
+data. We justify this approach since we want to binary discriminate between the active
+listening condition and the passive listening condition, although the amount of data for
+the text reading distractor condition is larger.
+B. Data processing
+1) Preprocessing: The preprocessing framework is chosen the same as in [11], yet,
+with an additional muscle artefact removal step. The speech envelope is extracted from
+the audio data based on the procedure proposed in [2]. First, the raw audio data are filtered
+using a gamma-tone filterbank consisting of 28 filters, with centre frequencies between
+50 Hz and 5 kHz, spaced according to 1 equivalent rectangular bandwidth [26], [27]. The
+output signal of each filter is thereafter transformed with a power law, i.e., |yk(t)|
+0.6
+,
+k = 1..28. The signals are then linearly combined with equal weight and downsampled
+to 256 Hz, with the built-in low-pass anti-aliasing filter in MATLAB 2021b, to extract
+the envelope.
+The EEG data are first also downsampled to 256 Hz. Next, muscle and eye artefacts
+are removed using a multichannel Wiener filter (MWF) approach according to [28], [29].
+Since the MWF is a data-driven filter, the data for all conditions for the same subject
+are filtered using the same MWF in order to avoid condition-dependent preprocessing.
+This approach requires artefact annotation, for which heuristic detection mechanisms are
+
+utilised [11], [30], further specified in Appendix. The EEG data are subsequently re-
+referenced to the Cz-channel. Both the EEG and envelope are either bandpass filtered us-
+ing a Chebyshev type 2 filter with cutoff frequencies tailored to the delta band (0.5−4 Hz)
+
+(for the NET calculation), or passed through unfiltered (for the SE calculation), as the
+SE frequency selection will be performed directly on the PSD in correspondence to (5).
+Finally, both signals are downsampled to 128 Hz and periods of longer silence (>0.25 s)
+are removed.
+Additionally, for Dataset I, the EEG data are first linearly detrended to compensate
+for the strong baseline drift. The first downsampling before artefact removal is dropped
+for Dataset III, as the EEG data in this case are only available at 128 Hz and highpass
+filtered above 0.5 Hz [21].
+2) Hyperparameters: The following hyperparameters are adhered to:
+• NET: The lag value L is chosen equal to L = 64, corresponding to a time window of
+500 ms, to capture the relevant neural response [8], [11]. For the two 64-channel EEG
+datasets (Dataset II and Dataset III), the correlation matrix in (3b) is of dimension
+LC × LC where LC = 4096, which is quite large. For the sake of numerical
+stability and to avoid overfitting, we, therefore, apply L2-regularisation R
+(reg)
+xx =
+αRxx + βILC×LC, wherein α, β are computed according to the method presented in
+[31], of which a MATLAB implementation is available [32].
+
+• SE: In correspondence to [13], the SE is calculated in a network of frontal, parietal-
+occipital and occipital channels (Fp1, Fpz, Fp2, AF7, AF3, AFz, AF4, AF8, F7, F5,
+
+F3, F1, Fz, F2, F4, F6, F8, PO7, PO3, POz, PO4, PO8, O1, Oz and O2 for the 64-
+channel EEG cap and Fp1, Fp2, F7, F8, Fz, O1 and O2 for the 24-channel EEG cap)
+on a frequency range spanning the alpha (8−13 Hz) and beta (13−30 Hz) bands, i.e.,
+setting f1 = 8 Hz and f2 = 30 Hz in (5). The average of the SE values over these

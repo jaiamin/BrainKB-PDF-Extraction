@@ -1,0 +1,9 @@
+Figure 4. Heatmap of frontal voxel location, superior to the genu of the corpus callosum,
+superimposed over the MNI152 template brain.
+
+Figure 5. GABA+/Cr and Glx/Cr difference spectrum from a representative participant. The raw
+difference spectrum is plotted in black; the fitted model is plotted in red.
+Statistical Analysis
+Eight other datasets were derived from a systematic literature search identifying studies reporting
+cortical GABA, acquired using MEGA-PRESS, in healthy populations. The methods and results
+of this systematic review have previously been fully reported in Porges et al. (2021).

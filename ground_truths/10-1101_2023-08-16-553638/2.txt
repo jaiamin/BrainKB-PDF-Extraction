@@ -1,0 +1,47 @@
+the intrinsic timescales, derived from the autocorrelation of neural activity, become 17
+progressively longer as the cortical hierarchy goes higher. This phenomenon has been 18
+observed in both local field potentials (LFP) captured by ECoG and the spiking 19
+patterns of individual neurons [12]. Notably, distinct variations in spike patterns have 20
+been identified across different brain regions, including V1, V2, MT, vlPFC, PMd, and 21
+SNr [13].Besides, it has been investigated that there are cortical functional 22
+heteroginity [14–16]. Besides, there are gradients in cortical thickness across the 23
+cortex [17–19]. Notably, the dominant peak frequency in a brain area significantly 24
+decreases along the posterior-anterior axis, aligning with the global hierarchy from early 25
+sensory to higher-order areas. This spatial gradient of peak frequency is inversely 26
+correlated with cortical thickness, which serves as an indicator of the cortical 27
+hierarchical level [20]. 28
+In this study, we aimed to determine whether the functional heterogeneities of 29
+cortical regions are reflected in the temporal patterns of the local electrophysiological 30
+signals as measured by ECoG. To this end, we trained a deep learning model on ECoG 31
+data to identify similarities and differences between brain regions and extracted latent 32
+ECoG features. If cytoarchitectural diversity is reflected in each region’s ECoG, we 33
+expect to observe distinct temporal patterns. We hypothesize that the model can learn 34
+these patterns and predict the corresponding cortical region. Additionally, we predicted 35
+that regions with similar cytoarchitecture would display similar latent ECoG features, 36
+while regions with distinct cytoarchitecture would exhibit more divergent ECoG 37
+characteristics. We divided the cortical regions into seven areas based on the atlas (see 38
+Materials and Methods for details), and used the feature vectors obtained from the 39
+trained deep learning models to analyze the similarities among those areas. 40
+Materials and Methods 41
+Experiment Condition of the datasets 42
+In this study, we used ECoG signals measured by electrodes covering most of the lateral 43
+cortex in four macaque monkeys during awake conditions from public database. [21, 22]. 44
+ECoG singnals were recorded from most of the lateral cortex in four macaques during 45
+awake (eyes-opened, eyes-closed), anesthetic and sleeping conditions. During the 46
+recordings, monkeys were seated in a primate chair with both arms and head movement 47
+restricted. The awake condition had eyes-opened and eyes-closed conditions. In 48
+eyes-opened condition, the monkey’s eyes were open and the monkey sat calmly. In 49
+eyes-closed condition, the monkey’s eyes were covered by an eye-mask to refrain from 50
+evoking visual response. We used ECoG data from the eye-opened condition. The 51
+sampling rate was 1kHz. 52
+To prevent sample imbalances from different regions in the process of prediction by 53
+machine learning, we standardized the number of electrodes across the seven regions for 54
+each animal, adjusting to match the region with the fewest electrodes. During this 55
+modification, electrodes near the boundaries of cortical regions were removed to 56
+eliminate potential ambiguity regarding their regional affiliation. The following table1 57
+shows the number of electrodes for each region, and table2 shows the length of the data 58
+for each electrode for each individual. 59
+Deep Learning Model 60
+In this study, we used a transformer-based model called TERA [23] known for its high 61
+accuracy in time-series analysis. While there are various analysis methods available for 62
+ECoG [24–27], our research employs this transformer-based model due to its proven 63

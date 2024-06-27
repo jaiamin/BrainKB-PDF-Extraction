@@ -1,0 +1,34 @@
+METHODS
+
+All experimental procedures were conducted at the University of Newcastle in accordance
+with the University’s Animal Care and Ethics Committee guidelines (protocol A-2021-134).
+
+Animals
+Experimental mice were derived by crossing TRPV1Cre with Ai32 (Jackson Laboratories, Bar
+Harbor, Maine, USA; lines #024109 and #017769, respectively). This generated offspring
+with ChR2/EYFP expressed in TRPV1 positive sensory neurons and their peripheral and
+central terminals. Both male and female mice (TRPV1Cre;Ai32; 3-6 months) were used as
+experimental animals. The uncrossed Ai32 parent line was used to confirm ChR2 activation
+underpinned responses to stimuli.
+
+Immunohistochemistry
+Tissue was prepared for immunofluorescence confirmation of ChR2 expression and
+localization by animal overdose with pentobarbitone (800 mg/kg, i.p.; Virbac, NSW,
+Australia) followed by transcardial perfusion with 4% paraformaldehyde in phosphate buffer.
+The spinal cord and dorsal root ganglion (DRG) were there dissected free and post-fixed for
+an additional 2 hours in the same fixative. Transverse spinal cord sections prepared from the
+lumbar enlargement (L3-L5, 30 μm) embedded in TissueTek (Sakura Finetek, California,
+USA) and sectioned at -20°C on a Leica CM1950 cryostat (Leica, Wetzlar, Germany).
+Alternatively, DRGs were polyethylene glycol (PEG) embedded after a series of washing and
+clearing steps: 3 x 15 min 80% ethanol (EtOH), 3 x 15 min dimethyl sulfoxide (DMSO) and
+then 3 x 15 min 100% EtOH. DRGs were then placed melted 1000MW PEG in a 46OC
+vacuum oven (Thermoline, NSW, Australia) until the tissue sank (approximately 2 hrs). The
+tissue was then embedded in 1450MW PEG, hardened, and sectioned (20 μm) on a
+microtome (American Optical, Illinois, USA).
+
+Tissue sections from both the spinal cords and DRGs were placed in 10% normal donkey
+serum (Jackson ImmunoResearch, Pennsylvania, USA) in antibody diluent (0.3 M NaCl, 7.5
+mM NaH2PO4, 0.3% TritonX-1000, 0.05% Na+ Azide), for 1 hour to block non-specific
+
+antibody binding. Sections were incubated overnight in primary antibodies against green-
+fluorescent protein (GFP, 1:1000 in antibody diluent, Abcam, ab13970), calcitonin gene-

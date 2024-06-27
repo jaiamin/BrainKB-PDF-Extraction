@@ -1,0 +1,23 @@
+experiences a higher resistance) and thereby the resulting voltage amplitude is higher. This effect
+amplifies the extracellular action potential of a neurite to levels that can be resolved against the
+background noise of several microvolts. The recorded waveforms are as expected for extracellular
+axonal action potentials (Figure 6c).
+To demonstrate the capability to monitor the effect of chemical compounds on 3D cultures, we applied
+picrotoxin (PTX) during recordings. PTX is an antagonist of gamma-aminobutyric acid receptors and a
+hyperactive reference substance. Acute application of 3 μM PTX rapidly modified the electrical activity
+inducing more frequent and regular synchronous activity (Figure 6d). This effect corresponds to the
+expected response of a mature neuronal network response with inhibitory neurons after 13 DIV
+(Bradley and Strock, 2019). Moreover, these data demonstrating the chemical modulation of 3D
+neuronal cultures show that PTX diffused through the hydrogel within seconds, as expected for small
+molecules.
+It is important to note that in this device neurites may come from either of the two compartments, and
+that multiple neurites from multiple neurons may enter single tunnels. Unidirectional outgrowth could
+be achieved by structured tunnels (Holloway et al., 2019). Different waveforms can be recognized in
+some cases, although we have not investigated this in detail. If activity is synchronized as in our
+recordings, the multiple neurites may generate overlapping spikes. Moreover, the integration of two
+microelectrodes in a single tunnel could determine the direction and speed of action potential
+propagation.
+We have demonstrated a reliable approach to record the activity from 3D neuronal circuits by
+spontaneous trapping of neurites in tunnels having integrated microelectrodes. Contrary to other
+techniques, recording does not depend on the location of the neuronal soma in the 3D space. Our
+approach with substrate-integrated microelectrodes should prove useful for various 3D neural cultures.

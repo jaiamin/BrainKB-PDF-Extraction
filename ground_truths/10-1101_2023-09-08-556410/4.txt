@@ -1,0 +1,54 @@
+INTRODUCTION
+Gamma-aminobutyric acid (GABA) regulates inhibitory function in the mammalian brain.
+Substantial evidence for reduced GABAergic function during the aging process, regarding both
+synthesis and receptor expression, has been reported in human and animal models (e.g.,
+McQuail, Frazier, & Bizon, 2015; Rozycka and Liguz-Lecznar, 2017). Cross-sectional magnetic
+resonance spectroscopy (MRS) studies in humans have shown reduced regional GABA in older
+adults (Gao et al., 2013; Porges et al., 2017; Cuypers et al., 2020; Chamberlain et al., 2021; for
+contrast, see Pitchaimuthu et al., 2017). Recently, our group demonstrated that GABA declines
+gradually and nonlinearly with age (Porges et al., 2021).
+Lower cortical GABA levels are associated with worse global cognition, fluid processing,
+sensorimotor performance, and memory performance in normative aging (Porges et al., 2017;
+Simmonite et al., 2019; Cassady et al., 2019; Murari et al., 2020; Jiménez-Balado et al., 2021;
+
+reviewed in Li et al., 2022). However, few studies of cortical GABA levels have included oldest-
+old adults (85 years and older), and none have compared young-old and old-old adults (Porges et
+
+al., 2017; Simmonite et al., 2019). The oldest-old, particularly the cognitively-intact oldest-old,
+may disproportionately carry longevity-related physiological traits or engage in protective
+behaviors (Silverman and Schmeidler et al., 2018; Kawas, Legdeur, & Corrada, 2021);
+“successful agers” may thereby be atypically resistant to neuropathology or able to compensate
+for neuropathology (e.g., Berlau et al., 2009). Given the association between GABA and
+cognition in normative aging, maintained GABAergic function may be protective in the
+cognitively-intact oldest-old (e.g., by reducing excitotoxic injury).
+We describe GABA levels among cognitively-intact oldest-old adults, incorporating four novel
+datasets into a previously-reported individual participant data meta-analysis (Porges et al., 2021).
+We report stabilization in the slope of age-related GABA decline among the cognitively-intact
+oldest-old, potentially related to survivorship in this subpopulation.
+RESULTS
+To test the linearity of GABA-age relationships in oldest-old adults, we fit separate linear
+regression models (Table 1); data were feature-scaled by dividing raw scores by their geometric
+mean to increase comparability between datasets. No model explained more than 10% of
+variance per R2
+
+, consistent with nonlinear relationships or high inter-individual variability.
+
+Table 1. Regression statistics for simple linear fits.
+Site Mean
+Slope
+
+95% Credible
+Interval of
+Posterior Estimate
+Mean
+residual σ
+
+Lower and upper
+bounds
+
+R2
+
+Site 1 0.0101 -0.0083 to 0.0289 0.195 0.1539 to 0.2510 0.037
+Site 2 0.0166 -0.0148 to 0.0499 0.226 0.1578 to 0.3313 0.077
+Site 3 -0.0125 - 0.0289 to 0.0036 0.1424 0.1083 to 0.1912 0.091
+Site 4 0.0143 -0.0344 to 0.0615 0.1954 0.1398 to 0.2763 0.022

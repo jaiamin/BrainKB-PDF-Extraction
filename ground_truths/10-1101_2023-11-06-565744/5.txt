@@ -1,0 +1,29 @@
+drying with nitrogen required aiming the nitrogen pistol at the channel openings to clear solvents from
+them. The metal foil spacer was removed during development.
+The microfluidic MEAs were finally hard-baked in an oven at 200°C for 30 min (ramping up and down
+at 0.5 °C/min) to complete cross-linking for chemical stability (Jones, 2017) and to prevent toxicity
+(Baëtens et al., 2020).
+An array of wells was milled out of COC (Topas 6013) then cleaned in acetone and isopropanol. The
+microfluidic MEA and wells were treated with air plasma for 90 s, then glued together (Figure S3) with
+EPO-TEK 301-2FL (Epoxy Technology, Billerica, MA, USA) by wicking of the liquid adhesive between
+the ADEX and COC surfaces (Lu et al., 2008), and cured in an oven at 80 °C for 3 h with ramping up
+and down at 0.5 °C/min.
+
+Figure 2: Microfluidic fabrication process. Fabrication begins with a glass substrate with gold microelectrodes
+(1). The upper surface is silicon nitride, and ITO electrical paths (height ~200 nm) are omitted for simplicity.
+Tunnels are produced in a spin-coated layer of SU-8 (3 μm) (2). Compartments are defined by a laminated layer
+of SUEX (150 μm) (3) and enclosed by a laminated ceiling of ADEX (20 μm) (4).
+2.2 Cell culture
+Preparation of primary mouse hippocampal neurons
+Primary cultures were prepared with dissociated hippocampal neurons of Swiss mice (Janvier Labs,
+France). All experiments were conducted in accordance with the European Union (EU) and German
+legislation for the care and use of laboratory animals (Directive 2010/63/EU, of the European
+Parliament on the protection of animals used for scientific purposes, German Tierschutzgesetz).
+Isolation of hippocampi from day 16 embryos (E16) was performed based on previously published
+work (Seibenhener and Wooten, 2012). The cell dissociation procedure followed the guidelines of the
+Neural Dissociation Kit (T) (130-093-231, Miltenyi Biotec GmbH, Germany). After filtering with medium
+with 10 % (v/v) fetal bovine serum (10082139, Thermo Fisher Scientific, MA, US), cells were counted
+(NucleoCounter® NC-200TM, ChemoMetec A/S, Denmark), centrifuged, and resuspended in plating
+medium based on Neurobasal Plus Medium (A3582901, Gibco, Thermo Fisher Scientific, MA, US)
+with 2 % (v/v) of SM1 Neuronal Supplement (5711, STEMCELL Technologies Inc., Germany) and
+0,5 % (v/v) of Penicillin-Streptomycin solution (P4333-20mL, Sigma-Aldrich, Merck KGaA, Germany).

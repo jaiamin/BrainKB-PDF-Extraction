@@ -1,0 +1,114 @@
+where
+
+λ
+2 =
+(δ
+2 + σ
+2
+)(γ
+2 + σ
+2
+)
+γ
+2 − δ
+2
+. (S47)
+
+From this, applying Eq. S32, we see that the formula for perceived utility has the form
+
+U(q, r) = Kr e
+−
+q
+2r
+2
+2λ2 − e
+− r
+2
+2λ2
+
+Ae−
+(q2+1)r2
+2λ2 + Be−
+q2r2
+2λ2 + Be− r2
+2λ2 + C
+
+(S48)
+
+where
+
+K = α(1 + α)
+q
+1 + q
+σ
+2
+(γ
+2 − δ
+2
+)
+
+p
+σ
+2 + γ
+2
+√
+σ
+2 + δ
+2
+
+(S49)
+
+A = (1 − α)
+2
+(σ
+2 + δ
+2
+) (S50)
+
+B = α(1 − α)
+p
+σ
+2 + δ
+2
+p
+σ
+2 + γ
+2 (S51)
+
+C = α
+2
+(σ
+2 + γ
+2
+) (S52)
+This indeed has a single zero at the half-point (q = 1). As seen from the only part of the numerator that changes
+sign, at that point the functions turns from negative to positive if r > 0, so it is indeed an increasing function of q
+there (and a decreasing one if r < 0) as desired.
+All of the above formula also hold true in the limit δ → 0, where one of the two gaussians becomes a delta function
+and the spike-and-slab results are recovered with p0 = α.
+
+S-V. GENERAL RESULTS
+A. Posterior mean vanishes for zero deviations
+
+The reflection effect is, in our framework, the fact that the perceived utility U(p, r) gets positive for sufficiently
+large p if r is negative, and gets negative for sufficiently large p if r is positive. From that fact, we infer in particular
+the inequalities
+
+U(p = 1, r > 0) ≥ 0 (S53)
+U(p = 1, r < 0) ≤ 0 (S54)
+On the other hand, from the definition of U(p, r) we see that U(p = 1, r) is always equal to ⟨s⟩0 regardless of the
+sign of r. So the only way to satisfy both inequalities is if ⟨s⟩0 = 0.
+That’s of course automatically satisfied if the prior is symmetric around zero. But as seen here, it has to be true
+also for asymmetric priors.
+
+B. Gaussian prior generates rational preferences
+
+Eq. (S9) shows that the posterior mean is linear in the measurement.
+Plugging that linear law into Eq. (S32), we find
+
+U(q, r) ≡ 0 (S55)
+
+for any value of q and for any value of r, as shown in Fig. 5.
+
+The finding is therefore that U is a measure of nongaussianity – or, in other words,the Kahneman-Tversky experi-
+ment itself measures the nongaussianity of the prior. If the prior was Gaussian, experimental subjects would choose

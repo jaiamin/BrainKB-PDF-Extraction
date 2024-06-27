@@ -1,0 +1,49 @@
+using RNA from igNeurons (day 21) following pLNA application (day 9). The primate-specific
+miR-3943 served as further specificity control. Expression levels were normalized to U6 and
+the “Empty” condition. Statistical analysis was performed on the logarithmic values normalized
+to U6 (N = 4 differentiations, statistics: linear model ( ~ condition*target +
+differentiation*target), post-hoc analysis with emmeans) d) Smoothed mean of all images used
+for the synapse quantification in Fig. 1c) with circles indicating the two time points (day 21 &
+day 33) at which morphology was assessed upon pLNA addition. e) Representative images of
+pLNA-treated igNeurons (pLNA-1229 & pLNA-Ctrl) are displayed on the left (MAP2 in gray,
+PSD95 in red and SYN1 in green). Quantification of synaptic co-clusters (PSD-95/SYN1) in
+pLNA-treated igNeurons at day 21 and 33 of four independent differentiations is shown on the
+right (64 images per condition and time point in total, taken from two CVS each). Shown are
+violin plots of all datapoints together with the mean and standard deviation of each
+differentiation. Values were transformed with the square root to account for skewed data. A
+robust linear model was applied over the aggregated means of each pLNA-condition and
+differentiation ( ~ condition + differentiation). Post-hoc analysis was done using emmeans. f)
+Quantification of the number of secondary dendrite branches in pLNA treated igNeurons at
+day21 and 33 of four independent differentiations (32 tile images per condition and time point
+in total). Shown are the mean and standard deviation of all datapoints of each differentiation.
+Statistical analysis was performed on the aggregated means of each pLNA-condition and
+differentiation with a robust linear model ( ~ condition + differentiation). Post-hoc analysis was
+
+done using emmeans. g) Spontaneous excitatory postsynaptic current (sEPSC) traces of pLNA-
+treated igNeurons with or without NBQX. h) Example traces of sEPSC bursts recorded by
+
+patch-clamp. i-j) Quantification of sEPSC frequency, charge transfer and amplitude (recorded
+from 15 (pLNA-Ctrl) and 21 (pLNA-1229) neurons of three independent differentiations) (i) as
+well as quantification of charge transfer and amplitude in recorded sEPSC bursts (obtained from
+11 (pLNA-Ctrl) and 21 (pLNA-1229) neurons of three independent differentiations) (j). Shown
+are box plots of all datapoints together with the mean and standard deviation of each
+differentiation. Values were log-transformed and aggregated per cell. A linear model plus
+emmeans were used for the statistical analyses ( ~ condition + differentiation). (* = p-value <
+0.05, ** = p-value < 0.01, *** = p-value < 0.001, **** = p-value < 0.0001)
+
+miR-1229-3p regulates genes involved in mitochondrial homeostasis
+The observation that miR-1229 depletion leads to pronounced morphological and functional
+changes during human excitatory synapse development prompted us to further investigate the
+molecular mechanisms underlying these effects. We therefore profiled the protein-coding
+transcriptome of pLNA-1229-, pLNA-181c-, pLNA-Ctrl-treated, as well as untreated
+igNeurons by polyA-RNA-sequencing during the synaptic growth period at day 21 (cf. Fig. 3d,
+Suppl. fig. S17-18). When comparing the transcriptome of pLNA-1229 to pLNA-Ctrl-treated
+and untreated neurons (see methods), we detected 414 candidate differentially expressed genes
+(cDEG) (FDR < 0.5; Fig. 4a). Strikingly, the vast majority of cDEGs were downregulated upon
+miR-1229-3p inhibition, suggesting that most of the observed changes are not a primary effect
+due to the loss of miRNA repression, but rather secondary gene expression changes (Fig. 4a,
+Suppl. fig. S17b). To gain further insight into the cellular pathways regulated by miR-1229-3p,
+we performed gene ontology (GO-term) analysis of cDEGs (Fig. 4b, Suppl. fig. S17c). Among
+the top 15 biological processes enriched in the dataset, many were associated with
+mitochondrial function. While most mitochondrial proteins are transcribed from the nuclear
+genome, mitochondria still retain their own DNA (mtDNA) encoding for 13 proteins of the

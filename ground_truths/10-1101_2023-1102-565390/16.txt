@@ -1,0 +1,33 @@
+REFERENCES:
+[1] Abdus-Saboor I, Fried NT, Lay M, Burdge J, Swanson K, Fischer R, Jones J, Dong P, Cai
+W, Guo X. Development of a mouse pain scale using sub-second behavioral mapping
+and statistical modeling. Cell reports 2019;28(6):1623-1634. e1624.
+[2] Arcourt A, Gorham L, Dhandapani R, Prato V, Taberner FJ, Wende H, Gangadharan V,
+Birchmeier C, Heppenstall PA, Lechner SG. Touch Receptor-Derived Sensory
+Information Alleviates Acute Pain Signaling and Fine-Tunes Nociceptive Reflex
+Coordination. Neuron 2017;93(1):179-193.
+[3] Barik A, Thompson JH, Seltzer M, Ghitani N, Chesler AT. A brainstem-spinal circuit
+controlling nocifensive behavior. Neuron 2018;100(6):1491-1503. e1493.
+[4] Barrot M. Tests and models of nociception and pain in rodents. Neuroscience
+2012;211:39-50.
+[5] Black CJ, Allawala AB, Bloye K, Vanent KN, Edhi MM, Saab CY, Borton DA.
+Automated and rapid self-report of nociception in transgenic mice. Scientific reports
+2020;10(1):1-10.
+[6] Blivis D, Haspel G, Mannes PZ, O'Donovan MJ, Iadarola MJ. Identification of a novel
+spinal nociceptive-motor gate control for Aδ pain stimuli in rats. Elife 2017;6:e23584.
+[7] Bonin RP, Bories C, De Koninck Y. A simplified up-down method (SUDO) for
+measuring mechanical nociception in rodents using von Frey filaments. Molecular
+pain 2014;10(1):1-11.
+[8] Browne LE, Latremoliere A, Lehnert BP, Grantham A, Ward C, Alexandre C, Costigan
+M, Michoud F, Roberson DP, Ginty DD. Time-resolved fast mammalian behavior
+reveals the complexity of protective pain responses. Cell reports 2017;20(1):89-98.
+[9] Browne LE, Latremoliere A, Lehnert BP, Grantham A, Ward C, Alexandre C, Costigan
+M, Michoud F, Roberson DP, Ginty DD, Woolf CJ. Time-Resolved Fast Mammalian
+Behavior Reveals the Complexity of Protective Pain Responses. Cell Rep
+2017;20(1):89-98.
+[10] Burgess G, Williams D. The discovery and development of analgesics: new
+mechanisms, new modalities. J Clin Invest 2010;120(11):3753-3759.
+[11] Cavanaugh DJ, Chesler AT, Bráz JM, Shah NM, Julius D, Basbaum AI. Restriction of
+transient receptor potential vanilloid-1 to the peptidergic subset of primary afferent
+neurons follows its developmental downregulation in nonpeptidergic neurons. J
+Neurosci 2011;31(28):10119-10127.

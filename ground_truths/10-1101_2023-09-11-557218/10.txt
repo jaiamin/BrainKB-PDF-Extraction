@@ -1,0 +1,75 @@
+Fig. 6. POA neurons projecting to the MRN convey
+
+photoperiod signals and modulate adaptation to changes
+in daylength. a, Schematic of the experimental approach and
+timeline. b, Representative image of the injection site in the
+
+MRN (AAVretro-cre; right) and in the POA (AAV-DIO-
+Flpo; left) where POA→MRN neurons are labelled with
+
+tdTomato (from dual Cre/Flpo-mediated recombination of
+the intersectional reporter Ai65). Scale bar, 1mm (left);
+500μm (right). c, Superresolution images showing VGLUT3
+localization within 5-HT axons in the SCN of mice in which
+POA→MRN have been silenced, as compared to control
+mice. Arrowheads indicate double positive boutons. d,
+Quantification of VGLUT3-5-HT colocalization in the SCN
+(two-tailed t test, t = 7.611, df = 4, p = 0.0016, n = 3). e,
+Schematic of the experimental approach and timeline. f,
+Representative heatmaps depicting control (upper row) and
+POA→MRN-silenced (lower row) mouse daily wakefulness,
+NREM and REM sleep across days during habituation to
+short photoperiod (schedule schematized in upper left panel).
+Black arrow and dashed white line indicate switch to short
+photoperiod g, Time spent awake between ZT5 and ZT12
+(two-way ANOVA, interaction time x genotype, F (20, 60) =
+2.027, p = 0.0186, followed by Sidak’s multiple comparison
+test). h, Time spent asleep (NREM+REM) between ZT5 and
+ZT12 (two-way ANOVA, interaction time x genotype, F (20,
+60) = 1.978, p = 0.0317, followed by Sidak’s multiple
+comparison test). Short photoperiod: POA→MRN silenced).
+All data expressed as mean ± s.e.m. Curve graph: solid line,
+mean; shaded area, s.e.m.
+
+reconstructions to reveal those input boutons likely
+contacting mrEn1-Pet1→SCN soma. Specifically, we
+infused Fluorogold 4% in the SCN of En1-cre, Pet1-
+Flpe, RC-FrePe mice, highlighting mrEn1-Pet1→SCN
+neurons with GFP (intersectional) and Fluorogold,
+and infused the potential afferent source nuclei
+(POA, LH, or LHb, using separate cohorts) with
+AAV2-CAG-tdTomato (Fig. 5d). We segmented
+tdTomato-positive axons (coming from the input
+region) differentially based on their distance to
+mrEn1-Pet1→SCN neuron somata (GFP+ Fluorogold+
+)
+with a threshold of 0.5μm43 (Fig. 5e) and thus likely
+making synaptic contacts, which we observed from
+all three input regions (Fig. 5f), suggesting that the
+
+mrEn1-Pet1→SCN neuron group receives inputs from
+the POA, LH and LHb.
+POA→MRN circuit underlies adaptation
+to photoperiod shifts
+Among the mapped inputs to mrEn1-Pet1→SCN
+neurons, we speculated the existence of at least one
+whose function is to decode and propagate
+photoperiod information to associated brain circuits,
+ultimately modulating adaptation. We reasoned that
+altering the activity of such a pathway might
+artificially mimic a change in daylength and
+consequently alter the percentage of 5-HT+
+boutons
+in the SCN that are now also positive for VGLUT3+
+, much like that observed on shift from equinox to
+short/long photoperiod (Fig. 2b-d). We therefore
+
+devised an intersectional strategy for stable, non-
+invasive silencing of projection-defined neuronal
+
+populations in vivo. We infused AAVretro-cre in the
+MRN to deliver the cre transgene and thus Cre
+expression to input neurons, such as from the POA,
+LH, or Hb, and injected AAV-DIO-Flpo in either the
+
+POA, LH, or Hb of RC-PFtox27, Ai65 trans-

@@ -1,0 +1,55 @@
+TECHNICAL SUPPLEMENT
+S-I. NOTATION
+
+This supplement contains mathematical derivation of various aspects of the theory helpful for a fuller comprehension
+of its structure. To ease the writing and reading of such derivations, in the supplement we will use a leaner notation
+than in the main text.
+• The function gσ(x) is, as in the main text, a standard Gaussian probability density with zero mean and standard
+deviation σ. To avoid lengthy pedices, where the expressions for variances get long we will use the notation
+G(x; σ) = gσ(x) and Gμσ(s) = gσ(s − μ).
+• The prior distribution will be called simply ρ(s) rather than ρ0(s) as in the main text.
+• Random utilities are measured as shifts from the mean value of their prior distribution (equal to the anchor s0
+for the spike-and-slab case), so that the prior itself has zero mean. The variable s (now meaning s − s0) will
+be referred to as the "deviation", and "zero-deviation" will mean "for s = 0. We will call x the displacement of
+the outcome from that mean, which in the main text would have been called x − s0.
+• The posterior distribution conditioned to a given value x of the measurement will be called φ(s|x) (with its
+dependence on the measurement error σ being implicit) rather than ρ(s|(x, σ)).
+• We use overlines to indicate averages over ρ:
+h(s) = Z ∞
+−∞
+ds h(s)ρ(s) (S1)
+• We use the notation ⟨. . .⟩x (or simply ⟨. . .⟩, leaving the value of the outcome implicit) to denote the average
+over the posterior given outcome x.
+• Finally, assuming the measurement error to be Gaussian with variance σ
+2
+, we write the likelihood ρ((x, σ)|s) as
+
+gσ(x − s).
+The one-step Bayesian update is thus described by:
+
+φ(s|x) = ρ(s)gσ(x − s)
+R
+ds ρ(s)gσ(x − s)
+
+(S2)
+
+S-II. GENERAL PROPERTIES
+A. Symmetry of the prior
+
+With the extra assumption that ρ(s) is symmetric around 0, it follows that the optimal estimator given by the
+posterior mean sˆ(x) = ⟨s⟩x is antisymmetric.
+Indeed write
+
+sˆ(x) =
+R
+ds sρ(s)gσ(x − s)
+R
+dsρ(s)gσ(x − s)
+
+(S3)
+and notice that if we replace x with -x, but then flip the sign of the integration variable and use the symmetry of
+gσ , we end up having on the RHS the same object as before but with a minus in front.
+The converse is also true. Indeed using the identity
+∂xgσ(x − s) = σ
+−2
+(s − x)gσ(x − s) (S4)

@@ -1,0 +1,48 @@
+attempting to reconstruct these masked spectrograms. The L1 Loss served as the 96
+loss function for this reconstruction phase.For the Downstream phase, we added a 97
+classifier to the final layer of the model using the parameters of the pre-trained 98
+model. The model was trained by supervised learning with correct labels of the 99
+regions corresponding to the input ECoG data. The model was trained to predict 100
+the electrode location from the input spectrogram. (Figure1.B) 101
+We used 80% of the data for training and 20% for the test. The same training 102
+data were used both for pre-training and the downstream task, and the test data 103
+for validation were carefully separated from this. In pre-training, we used all the 104
+training data from all the four macaques, whereas the downstream fine-tuning was 105
+done for each macaque separately. We used the data of four macaques in order to 106
+generalize the model. 107
+To discern which aspects of the spectrograms contribute the prediction of ECoG 108
+electrodes, we took two approaches. First, to investigate to what extent frequency 109
+profile contains the information about the electrode location, we tested how 110
+prediction accuracy degrades by averaging the power over time prior to model 111
+input. Second, to gauge the contribution of temporal patterns, we randomized 112
+shuffled all the time points in a randomized order before feeding them to the 113
+model. These analyses are expected to provide a hint as to which aspects of the 114
+spectrograms contain the characteristics of brain regions that contributed to 115
+successful predictions. 116
+In order to quantify to what extent the model managed to predict the region of 117
+the target ECoG electrode, we calculated F1 value for each region. F1 value is the 118
+harmonic mean of two other metrics, precision and recall. The formula is as 119
+follows; 120
+
+F1 = 2Recall · Precision
+Recall + Precision (1)
+Precision represents the proportion of correct predictions made by the model 121
+among all the predictions it made. Recall, on the other hand, represents the 122
+proportion of correct predictions made by the model among all the actual positive 123
+cases. 124
+4. Saliency Map 125
+To investigate which parts of the spectrogram the model relied on, we computed 126
+saliency maps. Saliency maps are widely used in deep learning as a technique to 127
+understand the importance or relevance of different regions within an input image 128
+or data. They provide a visual representation that highlights the most significant 129
+areas or features that contribute to a model’s prediction. 130
+In this study, saliency maps were generated using gradient backpropagation. 131
+These methods exploit the gradients of the model’s output with respect to the 132
+input features to determine the importance of each feature. The gradients were 133
+computed by backpropagating the model’s output through its layers, attributing 134
+relevance to the input features based on their impact on the final prediction. This 135
+process allows the identification of the most influential features that contribute 136
+positively or negatively to the model’s decision. 137
+Once the gradients were obtained, they were visualized as a saliency map, which is 138
+a heatmap overlayed on the input image. The heatmap assigned different 139
+intensities of colors to different regions, with the most salient areas represented by 140

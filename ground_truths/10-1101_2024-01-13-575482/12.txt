@@ -1,0 +1,30 @@
+Figure 6. Sketch depicting the open mind theorem. If the prior has compact support as in panel d, the comparative utility
+function U behaves as in the dashed red curves of panels a and b. An "open-minded" prior excluding no outcome a prior (panel
+c) is needed to give the perceived utility a slope compatible with the fourfold pattern (blue curve in panels a and b).
+
+VIII. DISCUSSION
+
+We introduced Bayesian Anchoring, a formalization of the anchoring-and-adjustment heuristic according to the
+Bayesian inference paradigm. In Bayesian Anchoring, the anchoring effect is implemented at the level of a prior belief
+utilized in the subsequent Bayesian inference that is assumed to take place during adjustment steps.
+In order to account for the experimentally observed features of the anchoring-and-adjustment process, the prior
+should strongly bias the inference towards the anchor. Arguably, the simplest prior satisfying this condition takes
+the form of a "spike and slab", which we adopted in our base analysis. We showed that this rather simple model
+reproduces the fourfold pattern of risk attitudes mechanistically and without the somewhat arbitrary probability
+weighting introduced in Prospect Theory. We also showed that less stringent constraints on the initial prior lead to
+equivalent results. The latest generation of decision-making experiments has provided new evidence not explained by
+Prospect Theory, such as obtained by modulating processing speed and processing order. We showed that Bayesian
+Anchoring provides a mechanistic explanation for those results.
+One of the central tenets of Prospect Theory is the idea that humans evaluate their options in terms of gains
+and losses with respect to a reference point, which depends on the context and can be manipulated from outside, for
+instance by rephrasing the description of a decision problem. Since losses and gains are not treated equally, the results
+of the evaluation depend on the reference point, leading to framing effects. Our results suggest that the existence of
+the reference point in Prospect Theory should be interpreted as an example of anchoring effect.
+The anchoring effect and other cognitive biases have been traditionally explained in terms of bounded rationality [35,
+36] which posits that humans, given their imperfect knowledge of the world and limited cognitive resources, attempt
+to make good-enough ("satisficing") rather than optimal decisions. More recently this view has been enriched by
+quantitative models of cognitive biases in the framework of resource-rationality [37], wherein each unit computation
+has an associated cost and the optimal behavior has to balance costs of computation and sub-optimal decisions. In
+this framework, anchoring-and-adjustment has been interpreted as a costly MCMC sampling process [29, 38]. MCMC
+samplers start from an arbitrary initial guess and follow stochastic dynamics to generate samples from a desired
+distribution. Since the values generated in the initial phase are usually correlated with the initial guess and may not

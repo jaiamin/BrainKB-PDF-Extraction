@@ -1,0 +1,17 @@
+Fig. 4. miR-1229-3p regulates genes involved in mitochondrial homeostasis.
+a) Volcano plot indicating significantly changing genes upon miR-1229-3p depletion.
+Upregulated genes (FDR < 0.05) are displayed in yellow, downregulated genes (FDR < 0.05)
+in blue. b) GO-Term analysis (biological processes) of significantly changing genes (FDR <
+0.5) in the pLNA-1229 condition. Displayed are the top 15 significant GO-Terms with less than
+500 genes annotated. The number of significantly changing genes within each GO-term is
+represented by the red (downregulated) and yellow (upregulated) bars. c) Heatmap showing the
+scaled expression of genes encoded by the mitochondrial genome in pLNA-treated igNeurons.
+
+d) GO-Term analysis (biological processes) of upregulated genes (p-value < 0.05) in pLNA-
+1229 treated igNeurons. The top 10 most significant GO-terms with more than 15 and less than
+
+500 annotated genes are displayed. Yellow bars indicate the number of genes associated with
+each GO-Term. e) Predicted miR-1229-3p binding sites in 3’UTRs of genes upregulated in
+pLNA-1229 treated igNeurons and associated with the GO-Term autophagy. Shown are log(KD)
+values (ScanMiR-predicted miRNA binding site affinity (30)) of canonical binding sites and
+their position on the 3’UTR. f) Luciferase measurement of Pink1 3’UTR constructs transfected

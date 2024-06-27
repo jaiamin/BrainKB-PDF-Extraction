@@ -1,0 +1,46 @@
+Odawara, A., Gotoh, M., and Suzuki, I. (2013). A three-dimensional neuronal culture technique that
+controls the direction of neurite elongation and the position of soma to mimic the layered structure of
+the brain. RSC Adv. 3, 23620. doi: 10.1039/c3ra44757j.
+Pan, L., Alagapan, S., Franca, E., Brewer, G. J., and Wheeler, B. C. (2011). Propagation of action
+potential activity in a predefined microtunnel neural network. J. Neural Eng. 8, 046031. doi:
+10.1088/1741-2560/8/4/046031.
+Papadimitriou, C., Celikkaya, H., Cosacak, M. I., Mashkaryan, V., Bray, L., Bhattarai, P., et al. (2018).
+3D Culture Method for Alzheimer’s Disease Modeling Reveals Interleukin-4 Rescues Aβ42-Induced
+Loss of Human Neural Stem Cell Plasticity. Developmental Cell 46, 85-101.e8. doi:
+10.1016/j.devcel.2018.06.005.
+Park, J., Wetzel, I., Marriott, I., Dréau, D., D’Avanzo, C., Kim, D. Y., et al. (2018). A 3D human
+triculture system modeling neurodegeneration and neuroinflammation in Alzheimer’s disease. Nat
+Neurosci 21, 941–951. doi: 10.1038/s41593-018-0175-4.
+Peyrin, J.-M., Deleglise, B., Saias, L., Vignes, M., Gougis, P., Magnifico, S., et al. (2011). Axon diodes
+for the reconstruction of oriented neuronal networks in microfluidic chambers. Lab on a chip 11, 3663–
+73. doi: 10.1039/c1lc20014c.
+Quiroga, R. Q., Nadasdy, Z., and Ben-Shaul, Y. (2004). Unsupervised Spike Detection and Sorting
+with Wavelets and Superparamagnetic Clustering. Neural Computation 16, 1661–1687. doi:
+10.1162/089976604774201631.
+Ren, K., Zhou, J., and Wu, H. (2013). Materials for Microfluidic Chip Fabrication. Acc. Chem. Res. 46,
+2396–2406. doi: 10.1021/ar300314s.
+Seibenhener, M. L., and Wooten, M. W. (2012). Isolation and Culture of Hippocampal Neurons from
+Prenatal Mice. JoVE, 3634. doi: 10.3791/3634.
+Shin, H., Jeong, S., Lee, J.-H., Sun, W., Choi, N., and Cho, I.-J. (2021). 3D high-density
+microelectrode array with optical stimulation and drug delivery for investigating neural circuit dynamics.
+Nat Commun 12, 492. doi: 10.1038/s41467-020-20763-3.
+Song, H.-L., Shim, S., Kim, D.-H., Won, S.-H., Joo, S., Kim, S., et al. (2014). β-Amyloid is transmitted
+via neuronal connections along axonal membranes: β-Amyloid Transmission. Ann Neurol. 75, 88–97.
+doi: 10.1002/ana.24029.
+Soscia, D. A., Lam, D., Tooker, A. C., Enright, H. A., Triplett, M., Karande, P., et al. (2020). A flexible
+3-dimensional microelectrode array for in vitro brain models. Lab Chip, 10.1039.C9LC01148J. doi:
+10.1039/C9LC01148J.
+Taylor, A. M., Blurton-Jones, M., Rhee, S. W., Cribbs, D. H., Cotman, C. W., and Jeon, N. L. (2005). A
+microfluidic culture platform for CNS axonal injury, regeneration and transport. Nat Methods 2, 599–
+605. doi: 10.1038/nmeth777.
+Tekin, H., Simmons, S., Cummings, B., Gao, L., Adiconis, X., Hession, C. C., et al. (2018). Effects of
+3D culturing conditions on the transcriptomic profile of stem-cell-derived neurons. Nat Biomed Eng 2,
+540–554. doi: 10.1038/s41551-018-0219-9.
+Todd, G. K., Boosalis, C. A., Burzycki, A. A., Steinman, M. Q., Hester, L. D., Shuster, P. W., et al.
+(2013). Towards Neuronal Organoids: A Method for Long-Term Culturing of High-Density
+Hippocampal Neurons. PLoS ONE 8, e58996. doi: 10.1371/journal.pone.0058996.
+Toepke, M. W., and Beebe, D. J. (2006). PDMS absorption of small molecules and consequences in
+microfluidic applications. Lab Chip 6, 1484. doi: 10.1039/b612140c.
+Uzel, S. G. M., Platt, R. J., Subramanian, V., Pearl, T. M., Rowlands, C. J., Chan, V., et al. (2016).
+Microfluidic device for the formation of optically excitable, three-dimensional, compartmentalized motor
+units. Sci. Adv. 2, e1501429. doi: 10.1126/sciadv.1501429.

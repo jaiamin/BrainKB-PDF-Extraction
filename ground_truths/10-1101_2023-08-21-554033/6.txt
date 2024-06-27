@@ -1,0 +1,82 @@
+(a) MEA Fabrication (b) Electrode Quantities
+
+glass wafer
+
+MEA
+pattern
+
+(c)Spatial Topologies
+
+ground stim.
+
+stimulation electrode
+
+3N4 - 500nm
+maskless constitutive materials
+etching PECVD
+multi-well photolithography
+
+- 100nm
+
+(-)
+(+)
+chloroplatinic acid solution
+30μm 5μm before
+
+after
+59
+
+128 256
+512
+
+Pt black
+
+impedance |
+Z|(MΩ)
+
+10 20 60 100
+deposition time (s)
+-30
+-40
+-50
+-60
+-70
+-80
+phase (deg.)
+(g)
+5μm
+10μm
+20μm
+30μm
+
+1 MΩ
+
+deposition
+
+~ 1.6μm
+
+Figure 3: MEA-chips fabrication, design, and characterization. (a) Overview of the MEA fabrication process using cleanroom techniques.
+(b) Custom MEA designs of variable capacity (59, 128, 256 and 512 electrodes). Electrodes are 30μm in diameter. The 59-electrode version
+replicates the design of the widely employed commercial Multichannel System 60MEA200/30 series. (c) Three 128-channel MEA designs with
+customized topologies. The curved layout presents a curvature of ∼0.35mm−1
+
+, matching the typical morphology of mouse cerebral cortex [46].
+The perturbed layout entails random electrode displacements of up to 50μm from the standard, rectangular layout of (b). (d) Platinum black
+deposition reduces electrodes impedance. Microscopic images are taken after deposition for both 30μm and 5μm electrodes. Close-ups illustrate the
+granular structure that Pt forms on the electrode. (e) Impedance magnitude before and after Pt deposition across electrodes of different sizes. (f)
+Time-deposition dependent impedance magnitude reduction. (g) Time-deposition dependent change in impedance phase.
+Comparison with alternatives and cost breakdown. With all major specifications illustrated, we summarize
+and compare our in vitro electrophysiology approach with other previously reported custom solutions. As illustrated
+in Fig. 2, from a recording system perspective our approach demonstrates the highest level of versatility, while
+being fully committed to open-sourcing both hardware and software. Further, and importantly, the robustness and
+utility of our system is comprehensively demonstrated across a range of neural substrates and stimulation settings,
+long-term and off-site recordings, as well as through extensions such as fluidic circulation and concurrent imaging.
+A cost estimate is also provided. Incorporating open-source components as well as inexpensive, accessible
+materials, our platforms can be assembled at a fraction of the investment necessary for a comparable commercial
+product. Indeed, our platforms range from approximately ∼ $2,500 for a 59-channel system to ∼ $12,000 for a
+512-channel device (both including the Open Ephys terminal), delivering ∼10-25X cost reductions, depending on
+vendor and comparative specifications. Given the modularity of our approach, this price advantage becomes even
+more significant considering that a single fabricated system can be reconfigured to satisfy a number of different or
+evolving needs. Details of the cost breakdown can be found in SI.
+Finally, we emphasize that all CAD designs, manufacturing and assembly instructions, software and user
+documentation are made available with links to permanent repositories (Material and Methods and SI).

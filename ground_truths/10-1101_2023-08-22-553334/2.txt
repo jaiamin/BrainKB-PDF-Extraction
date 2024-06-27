@@ -1,0 +1,51 @@
+lamellipodia formation 17. In excitatory pyramidal hippocampal neurons, Pdlim5 inhibits formation of dendritic spines
+(via the inhibition of SPAR) 14. In relation to gene activity, Pdlim5 affects neuron differentiation through cytoplasmic
+sequestration of the Id2 transcriptional regulator 18. In summary, Pdlim5 exhibits context-dependent positive and
+negative roles in dendrites, with Pdlim5 expression increasing dendritic arbor complexity as we have reported 7
+.
+Here, we reveal that Pdlim5 engages with a key partner protein, PalmD, in dendrite shaping. PalmD is of interest since it
+appears to be involved in membrane protrusion 19,20 necessary to initiate dendrite branching. PalmD is also found to
+associate with adducin 20, a component of the spectrin-actin cytoskeleton that in turn acts in multiple cellular functions
+21,22. Importantly, as demonstrated in this report, PalmD robustly passed our validation tests for association with Pdlim5,
+and it has attributes supporting a functional Pdlim5:PalmD relationship in dendrite branching.
+
+RESULTS.
+Pdlim5 is a positive regulator of dendritic branching.
+In our studies, we have employed mixed cultures of primary rat primary hippocampal neurons in vitro. This selection
+was made given their faithful reflection of key morphogenic properties found in vivo, while at the same time offering
+facile manipulation for mechanistic and phenotypic tests. As outlined in Methods, we generally introduce control or
+experimental constructs into the cultured neurons at DIV1-3 (days in vitro 1-3) and fix at DIV5-7. Here, we assayed for
+endogenous protein expression as shown for Pdlim5 across DIV1-9. In unperturbed cells Pdlim5 is primarily evident in
+soma and neurites. It thus appears that in common with PalmD (see below Figure 2), Pdlim5 is available to make
+potentially-varied contributions across a series of neuronal developmental phases (e.g., from neurite through dendritic
+stages that are inclusive of initial through advanced branching events and synapse formation) (Figure 1A; see also Figure
+2). Further, Pdlim5 and PalmD continue to be expressed in the adult CNS (www.proteinatlas.org). To form a baseline for
+subsequent phenotypic comparisons, we first built on our earlier findings demonstrating that the exogenous expression
+of Pdlim5 promotes the branching of rat primary hippocampal dendrites (Figure 1C&D) 7
+
+. We complemented the
+exogenous expression phenotypes by conducting Pdlim5 knock-downs. Each of two independent siRNAs efficiently
+depleted Pdlim5 (Supplemental Figure 1C&D). Further, each siRNA severely reduced branching as seen in representative
+immunofluorescent images and as quantified by Sholl analysis (Figure 1C&D). Our findings here are entirely consistent
+with our prior work 7 showing that Pdlim5 has a functional role in dendritic branching.
+PalmD associates with Pdlim5, likely directly.
+To glean insight into candidate partners of Pdlim5, we undertook yeast two-hybrid (Y2H) screens of a mouse brain
+library (Hybrigenics, Inc.). Y2H screens of a chosen “bait” (e.g., Pdlim5) often provide initial clues pointing to direct
+interactions with “prey” proteins, and ours pointed to PalmD in the company of additional candidates (Supplemental
+Figure 2). Our interest focused on PalmD from the fact that little is known of its mechanisms of action, yet it has
+proposed roles in membrane protrusion, an early step in dendrite branching. Further, PalmD is thought to bind (via
+adducin) to the spectrin-actin cytoskeleton, a significant player in the shaping and functions of neurons 20-24. While not
+pursued here, we note that also arising from our Y2H findings was alpha-actinin4, an established crosslinker of actin
+microfilaments 25,26 that was independently reported to associate with Pdlim5 15,16.
+First, we looked at the relative degree of immunofluorescence colocalization of endogenous Pdlim5 and PalmD in rat
+primary hippocampal neurons (Figure 2A&B). Given that each neuron will go on to bear only one axon, we can assume
+that we primarily scored neurites destined to become dendritic processes. In DIV4 neurons, colocalization of Pdlim5 and
+PalmD was evaluated via immunocytochemistry, quantified by employing Mean Pearson’s Coefficient. Values greater
+than zero are associated with positive correlations. In line with our expectation that Pdlim5 and PalmD form both paired
+and distinct complexes within cells, our findings are consistent with a significant but not complete overlap of their
+endogenous localizations.
+We next quantitated the relative distributions of Pdlim5 and PalmD in the soma (cellular region immediately
+surrounding the nucleus), dendritic processes, and nuclei of DIV1&5 rat primary hippocampal neurons (Figure 2E). Given
+significant areas of co-presence, our findings were consistent with the possibility that these two proteins might form
+complexes within intracellular neuronal regions undergoing morphological differentiation. However, there remained the
+need to turn to additional assays for more definitive assessments of direct binding.

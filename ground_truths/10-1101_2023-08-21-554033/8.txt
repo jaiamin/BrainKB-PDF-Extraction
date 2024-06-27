@@ -1,0 +1,50 @@
+rendering our chips well-suited for electrophysiology.
+4 Results
+Through a variety of 2D and 3D neural systems derived from a broad number of sources, we illustrate the
+functionalities of our hardware and software both on-site and off-site, involving multi-modal stimulation, concurrent
+imaging and fluidic support. All demonstrations entail the use of a 128-channel platform configuration, selected
+because of its exact compatibility with both Open Ephys and Intan bidirectional modules. However, results relative
+to our other configurations can be found in the SI.
+4.1 2D neural systems
+We first test our interface via 2D cultures from both mouse embryonic stem cell-derived motor neurons (ESC-MNs) and
+dissociated mouse primary neurons (PNs). These cultures are prepared following different dissociation/differentiation
+protocols but share a conserved seeding procedure. Seeding is directly performed on MEAs that are surface treated
+to enhance cell attachment (protocols details in Section 6.2). Throughout, ESC-MNs represent our main cell line,
+as it endogenously expresses Channelrhodopsin-2 (ChR2) enabling optical stimulation [53], and because it can be
+differentiated into motor neurons that co-express enhanced green fluorescent protein (eGFP). This conveniently
+allows us to monitor culture conditions during preparation and maturation. Further, recorded data can be more
+easily interpreted with the aid of fluorescent microscopy. Results in this section are then shown for ESC-MNs,
+however, a parallel study with PN cultures (without GFP or optogenetic stimulation) is reported in the SI.
+We seed ESC-MNs on two 128-channel MEAs, realized with either 30μm or 5μm electrode diameters (Fig. 4a),
+and begin recording spontaneous neural activity 7 days after seeding. Each recording consists of 2 minutes of
+data and is repeated every other day, at the same time, for 20 consecutive days. Raw neural signals are recorded
+using Open Ephys and are then processed offline through our software, for filtering and spike detection. The
+spike raster of Fig. 4b showcases spontaneous neural activity from the 30μm MEA, where single unit activity is
+plotted across channels. The use of high-density MEAs helps reveal intrinsic network properties, reflected here in
+highly synchronized population bursts, which would not be detectable at the single site level (e.g., patch clamp
+electrophysiology). Waveforms from all recording channels are sorted using PCA to isolate signal fingerprints
+matching characteristic neuron spike shapes (cutouts of Fig. 4b). The performance stability of our system is
+illustrated by plotting daily average spiking rates across all channels over 4 weeks, where a typical in vitro neuron
+maturation-degradation curve is observed. As can be seen in Fig. 4c, for MEAs of both electrode sizes, average
+spiking rates first increase during network maturation, to then plateau and gradually decrease as cells begin to age.
+We also quantify the quality of our recording setup by determining the mean signal to noise ratio (SNR) across
+channels. As seen in Fig. 4d, spiking channels (95% of channels for 30μm MEA and 70% for 5μm MEA) consistently
+exhibit an SNR>5 after filtering, on-par with reported performance of commercially available devices [54].
+On top of spontaneous activity recording, we consider simultaneous multi-modal stimulation. While this is a
+useful paradigm in neuroscience for studying synaptic potentiation [55], it is also a pre-requisite to encode inputs
+for potential computing applications. As an example of electrical stimulation, we consider a single-well MEA seeded
+with ESC-MNs, and apply brief, biphasic electric pulses (Stimjim [36]) at a designated location. The heat-maps of
+Fig. 4e show the effect of such stimulations, visualizing the average neural firing recorded by each microelectrode.
+We find that within our cultures, firing rates of neurons surrounding the stimulation site are enhanced, with levels
+of activation proportional to the intensity of the stimulus.
+We proceed by pairing optical stimulation with a 4-well chip design, to illustrate a parallel environment for
+control and selective stimulation experiments. To this end, ESC-MNs are seeded into four independent clusters on
+the MEA of Fig. 4f. Spontaneous activity is first recorded and processed to compute network correlations within
+wells and across wells. We see that recordings within the same cluster show high correlation scores. We then
+selectively apply optical stimulation to one well (#3), obtaining a highly synchronized response compared to the
+other wells.
+Finally, we consider long-term electrophysiology applications. Complementary to short-term recordings that
+reveal transient and fast neural responses, longer recordings are necessary for investigating prolonged and slow
+plastic behaviors, such as facilitation, habituation, and long-term potentiation. However, as underscored in Section 2,
+performing long-term recordings inside a high-humidity environment challenges the recording system with accelerated
+electronic degradation. We reduce liability via a modular design for which most of the delicate electronics are kept

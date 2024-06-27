@@ -1,0 +1,50 @@
+[14] H. Viertiö-Oja, V. Maja, M. Särkelä, P. Talja, N. Tenkanen, H. Tolvanen-Laakso, M. Paloheimo, A. Vakkuri,
+A. Yli-Hankala, and P. Meriläinen, “Description of the EntropyTM algorithm as applied in the Datex-Ohmeda
+S/5TM Entropy Module,” Acta Anaesthesiologica Scandinavica, vol. 48, no. 2, pp. 154–161, 2004.
+[15] I. Rezek and S. Roberts, “Stochastic complexity measures for physiological signal analysis,” IEEE Transactions
+on Biomedical Engineering, vol. 45, no. 9, pp. 1186–1191, 1998.
+[16] T. Inouye, K. Shinosaki, H. Sakamoto, S. Toi, S. Ukai, A. Iyama, Y. Katsuda, and M. Hirano, “Quantification
+of EEG irregularity by use of the entropy of the power spectrum,” Electroencephalography and Clinical
+Neurophysiology, vol. 79, no. 3, pp. 204–210, Sep. 1991.
+[17] D. Lesenfants, D. Habbal, C. Chatelle, A. Soddu, S. Laureys, and Q. Noirhomme, “Toward an Attention-Based
+Diagnostic Tool for Patients With Locked-in Syndrome,” Clinical EEG and Neuroscience, vol. 49, no. 2, pp.
+122–135, Mar. 2018.
+[18] A. Belyavin and N. A. Wright, “Changes in electrical activity of the brain with vigilance,” Electroencephalography
+and Clinical Neurophysiology, vol. 66, no. 2, pp. 137–144, Feb. 1987.
+[19] J. C. F. de Winter, S. D. Gosling, and J. Potter, “Comparing the Pearson and Spearman correlation coefficients
+across distributions and sample sizes: A tutorial using simulations and empirical data,” Psychological Methods,
+vol. 21, no. 3, pp. 273–290, Sep. 2016.
+[20] E. R. Dougherty, Random Processes for Image Signal Processing. Bellingham: Wiley-IEEE Press, Nov. 1998.
+[21] N. Das, T. Francart, and A. Bertrand, “Auditory attention detection dataset kuleuven (1.0.0) [data set],”
+https://zenodo.org/record/3377911, 2019.
+[22] “Mobile EEG for Neuroscience Reseach - mbt | mBrainTrain,” Jan. 2023. [Online]. Available:
+https://mbraintrain.com/
+[23] J. Lindgren, “Converting .ov files to Matlab,” Dec. 2015. [Online]. Available: http://openvibe.inria.fr/
+converting-ov-files-to-matlab/
+[24] deBuren, “Radioboeken voor kinderen,” 2007. [Online]. Available: https://soundcloud.com/deburen-eu/sets/
+radioboeken-voor-kinderen
+[25] R. Dahl, Alle verhalen. Amsterdam: Meulenhof, Sep. 2013.
+[26] R. D. Patterson, M. H. Allerhand, and C. Giguère, “Time-domain modeling of peripheral auditory processing: A
+modular architecture and a software platform,” The Journal of the Acoustical Society of America, vol. 98, no. 4,
+pp. 1890–1894, Oct. 1995.
+[27] P. Søndergaard and P. Majdak, “The Auditory Modeling Toolbox,” in The Technology of Binaural Listening,
+Modern Acoustics and Signal Processing. Berlin: Springer, Jan. 2013, pp. 33–56.
+[28] B. Somers, T. Francart, and A. Bertrand, “Github repository: MWF toolbox for EEG artifact removal,” Jun.
+2023. [Online]. Available: https://github.com/exporl/mwf-artifact-removal
+[29] ——, “A generic EEG artifact removal algorithm based on the multi-channel Wiener filter,” Journal of Neural
+Engineering, vol. 15, no. 3, p. 036007, Jun. 2018.
+[30] A. Delorme, T. Sejnowski, and S. Makeig, “Enhanced detection of artifacts in EEG data using higher-order
+statistics and independent component analysis,” NeuroImage, vol. 34, no. 4, pp. 1443–1449, 2007.
+[31] O. Ledoit and M. Wolf, “A well-conditioned estimator for large-dimensional covariance matrices,” Journal of
+Multivariate Analysis, vol. 88, no. 2, pp. 365–411, Feb. 2004.
+[32] ——, “Honey, I Shrunk the Sample Covariance matrix,” 2014. [Online]. Available: http://ledoit.net/honey_
+abstract.htm
+[33] B. Babadi and E. N. Brown, “A Review of Multitaper Spectral Analysis,” IEEE Transactions on Biomedical
+Engineering, vol. 61, no. 5, pp. 1555–1564, May 2014.
+[34] T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical Learning, 2nd ed., ser. Springer Series in
+Statistics. New York: Springer, 2009.
+[35] F. Wilcoxon, “Individual Comparisons by Ranking Methods,” Biometrics Bulletin, vol. 1, no. 6, pp. 80–83, 1945.
+[36] Y. Benjamini and Y. Hochberg, “Controlling the False Discovery Rate: A Practical and Powerful Approach to
+Multiple Testing,” Journal of the Royal Statistical Society. Series B (Methodological), vol. 57, no. 1, pp. 289–300,
+1995.
+[37] Student, “The Probable Error of a Mean,” Biometrika, vol. 6, no. 1, pp. 1–25, 1908.

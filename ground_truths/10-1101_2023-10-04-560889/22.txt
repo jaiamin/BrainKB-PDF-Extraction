@@ -1,0 +1,49 @@
+47. M. Hansen et al., Generation and characterization of human iPSC lines SANi001-A
+and SANi002-A from mobilized peripheral blood derived megakaryoblasts. Stem Cell
+Res 25, 42-45 (2017).
+48. M. Hansen et al., Generation and characterization of human iPSC line MML-6838-Cl2
+from mobilized peripheral blood derived megakaryoblasts. Stem Cell Res 18, 26-28
+(2017).
+49. Y. Qi et al., Combined small-molecule inhibition accelerates the derivation of
+functional cortical neurons from human pluripotent stem cells. Nat Biotechnol 35,
+154-163 (2017).
+50. R. Nehme et al., Combining NGN2 Programming with Developmental Patterning
+Generates Human Excitatory Neurons with NMDAR-Mediated Synaptic
+Transmission. Cell Rep 23, 2509-2523 (2018).
+51. S. M. Ho et al., Rapid Ngn2-induction of excitatory neurons from hiPSC-derived
+neural progenitor cells. Methods 101, 113-124 (2016).
+52. M. Lackinger et al., A placental mammal-specific microRNA cluster acts as a natural
+brake for sociability in mice. EMBO Rep 20, (2019).
+53. C. B. Mulholland et al., A modular open platform for systematic functional studies
+under physiological conditions. Nucleic Acids Res 43, e112 (2015).
+54. S. Butkyte et al., Splicing-dependent expression of microRNAs of mirtron origin in
+human digestive and excretory system cancer cells. Clin Epigenetics 8, 33 (2016).
+55. J. M. Baker, F. M. Boyce, High-throughput functional screening using a homemade
+dual-glow luciferase assay. J Vis Exp, (2014).
+56. T. Liu et al., Multi-color live-cell STED nanoscopy of mitochondria with a gentle
+inner membrane stain. Proc Natl Acad Sci U S A 119, e2215799119 (2022).
+57. T. J. Nieland et al., High content image analysis identifies novel regulators of
+synaptogenesis in a high-throughput RNAi screen of primary neurons. PLoS One 9,
+e91744 (2014).
+58. R. Tian et al., CRISPR Interference-Based Platform for Multimodal Genetic Screens
+in Human iPSC-Derived Neurons. Neuron 104, 239-255 e212 (2019).
+59. O. L. Barreto-Chang, R. E. Dolmetsch, Calcium imaging of cortical neurons using
+Fura-2 AM. J Vis Exp, (2009).
+60. A. N. Ngo, M. J. Ezoulin, I. Youm, B. B. Youan, Optimal Concentration of 2,2,2-
+Trichloroacetic Acid for Protein Precipitation Based on Response Surface
+Methodology. J Anal Bioanal Tech 5, (2014).
+61. J. R. Wisniewski, A. Zougman, N. Nagaraj, M. Mann, Universal sample preparation
+method for proteome analysis. Nat Methods 6, 359-362 (2009).
+62. A. Dobin et al., STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29, 15-21
+(2013).
+63. Y. Liao, G. K. Smyth, W. Shi, featureCounts: an efficient general purpose program for
+assigning sequence reads to genomic features. Bioinformatics 30, 923-930 (2014).
+64. M. D. Robinson, D. J. McCarthy, G. K. Smyth, edgeR: a Bioconductor package for
+differential expression analysis of digital gene expression data. Bioinformatics 26,
+139-140 (2010).
+65. R. U. Rahman et al., Oasis 2: improved online analysis of small RNA-seq data. BMC
+Bioinformatics 19, 54 (2018).
+66. D. Risso, J. Ngai, T. P. Speed, S. Dudoit, Normalization of RNA-seq data using factor
+analysis of control genes or samples. Nat Biotechnol 32, 896-902 (2014).
+67. A. J. Whipple et al., Imprinted Maternally Expressed microRNAs Antagonize
+Paternally Driven Gene Programs in Neurons. Mol Cell 78, 85-95 e88 (2020).

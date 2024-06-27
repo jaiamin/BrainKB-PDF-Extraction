@@ -1,0 +1,40 @@
+Kawas, C.H., Legdeur, N., & Corrada, M.M. (2021). What have we learned from cognition in the
+oldest-old. Curr Opin Neurol, 34(2), 258-265.
+
+Kharratzadeh, M. (2017). Splines in Stan. Stan Case Studies. https://mc-
+stan.org/users/documentation/case-studies/splines_in_stan.html
+
+Kiemes, A., Davies, C., Kempton, M.J., Lukow, P.B., Bennallick, C., Stone, J.M., & Modinos,
+
+G. (2021). GABA, Glutamate, and Neural Activity: A Systematic Review With Meta-
+Analysis of Multimodal 1H-MRS-fMRI Studies. Front Psychiatry, 12.
+
+Li, H., Heise, K.F., Chalavi, S., Puts, N.A.J., Edden, R.A.E., & Swinnen, S.P. (2022). The role of
+MRS-assessed GABA in human behavioral performance. Progress in Neurobiology, 212,
+102247.
+Lin A., Andronesi O., Bogner W., Choi I.Y., Coello E., Cudalbu C., Juchem C., Kemp G.J.,
+Kreis R., Krššák M., Lee P., Maudsley A.A., Meyerspeer M., Mlynarik V., Near J., Öz
+G., Peek A.L., Puts N.A., Ratai E.M., Tkáč I., Mullins P.G. (2021). Experts' Working
+Group on Reporting Standards for MR Spectroscopy. Minimum Reporting Standards for
+in vivo Magnetic Resonance Spectroscopy (MRSinMRS): Experts' consensus
+recommendations. NMR. Biomed, 34(5), e4484. https://doi.org/10.1002/nbm.4484
+McQuail, J.A., Frazier, C.J., & Bizon, J.L. (2015). Molecular aspects of age-related cognitive
+decline: the role of GABA signaling. Trends Mol Med, 21(7), 450-60.
+Mikkelsen, M., et al. (2017). Big GABA: Edited MR Spectroscopy at 24 Research Sites.
+NeuroImage, 159, 32-45.
+Murari, G., Liang, D.R.S., Ali, A., Chan, F., Mulder-Heijstra, M., Verhoeff, N.P.L.G.,
+Herrmann, N., Chen, J.J., & Mah, L. (2020). Prefrontal GABA Levels Correlate with
+Memory in Older Adults at High Risk for Alzheimer’s Disease. Cerebral Cortex
+Communications, 1(1), tgaa022.
+Oeltzschner, G., Zöllner, H.J., Hui, S.C.N., Mikkelsen, M., Saleh, M.G., Tapper, S., & Edden,
+R.A.E. (2020). Osprey: Open-source processing, reconstruction, and estimation of
+magnetic resonance spectroscopy data. Journal of Neuroscience Methods, 343, 108827.
+Peltz, C.B., Corrada, M.M., Berlau, D.J., & Kawas, C.H. (2012). Cognitive impairment in
+nondemented oldest-old: Prevalence and relationship to cardiovascular risk factors.
+Alzheimer’s & Dementia, 8(2), 87-94.
+Pitchaimuthu, K., Wu, Q-Z., Carter, O., Nguyen, B.N. Ahn, S., Egan, G.F., & McKendrick, A.M.
+(2017). Occipital GABA levels in older adults and their relationship to visual perceptual
+suppression. Scientific Reports, 7, 14231.
+Pinto, J.G.A., Hornby, K.R., Jones, D.G., & Murphy, K.M. (2010). Developmental changes in
+GABAergic mechanisms in human visual cortex across the lifespan. Front. Cell.
+Neurosci, 4, 16.

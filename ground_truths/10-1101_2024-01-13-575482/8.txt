@@ -1,0 +1,30 @@
+Figure 3. Perceived utility of a risky option with loss/gain probability p, measured relative to the riskless option with equivalent
+expected outcome. Left: Predictions of the anchoring theory. The main features of experiments, such as the transition between
+risk-aversion and risk-seeking and the associated reflection principle, are reproduced. Right: Predictions of the phenomenological
+model of [7] shown for comparison. One difference between the two predictions is that the Bayesian model does not lead to
+U → ±∞ with p → 0. In its basic version, the Bayesian model can only reproduce the symmetric version with k = 1 and
+the bias towards risk aversion must be introduced ad hoc, similarly to the model of [7]. The parameter values used here are
+p0 = 0.2 and γ0 = 10.
+making is performed immediately upon hearing the second option. An alternative way to think about this is that two
+different aspects contribute to the determination of the anchor, saliency and primacy. The interference between these
+two effects is constructive if the risk-free option is presented first, destructive otherwise. This agrees with the result
+of experiments where the processing order is monitored as in [28].
+Experiments that vary the processing speed have a more elaborate output and will be discussed next.
+VI. TIME-DEPENDENT FLUCTUATIONS: EXPERIMENTS AND THEORY
+
+Kirchler et al. [15] conducted a comprehensive study of the fourfold pattern of risk attitudes over a large sample,
+with real financial rewards and across multiple geographical areas.
+One of their findings is that fluctuations in the response are enhanced by time pressure. In section 5 of [15],
+the different components of such fluctuations are teased out by breaking apart the effect of time pressure on risk
+preferences and the effect of time pressure on noisiness.
+Experiment includes a risky option and a non-risky option. The amount suggested for the non-risky option is given
+and requires no calculation, so in the Bayesian Anchoring framework it would correspond to the anchor s0. Thus, s0
+is induced externally and as such will not cause much fluctuations.
+However, whatever fluctuations there are will be dependent on the number of steps you go through before issuing a
+verdict. The more time you have, the more refined an estimation you will do. In the Bayesian Anchoring framework,
+the number of adjustments you take in your process will affect how much variance there is in the verdict. Indeed,
+our simulations of multistep adjustment process (Fig. 4) confirm this intuition and show that the variance of the
+estimate decreases with the number of adjustment steps. This result shows that Bayesian Anchoring theory can
+qualitatively reproduce human risk behavior under time pressure and suggests that experiments similar to the ones
+performed in [15] could be designed to further validate the theory and pinpoint its exact details including the form of
+the reanchoring.

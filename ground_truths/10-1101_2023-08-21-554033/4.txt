@@ -1,0 +1,55 @@
+The platform consists of two layers of laser-cut acrylic board that are connected by a plastic hinge and can be
+locked in-place through a latch. This design eases loading and unloading of the chips and allows for rapid changes
+in recording configurations. The bottom layer also accommodates four sliding guides and 3D-printed stoppers, to
+conveniently center and hold chips of different sizes and shapes. Underneath the bottom layer, four soft rubber
+bumpers are affixed to insulate the platform against vibrations, minimizing recording noise. Secured to the top
+acrylic layer, a PCB provides the signal interface between the MEA chip and the Open Ephys data acquisition
+terminal. To ensure a firm, yet compliant contact with the MEA, arrays of spring-loaded contact (pogo) pins are
+soldered to the bottom of the PCB. Upon loading a chip, the top layer is closed and locked with the pins gently
+making contact with metal pads patterned on the perimeter of the MEA. These pads, and the electronic tracks
+emanating from them, are designed to connect one-to-one with micro-electrodes located at the center of the chip,
+where neural substrates are plated and incubated. Signals sampled at 30kHz at each electrode are then transferred
+through these tracks, pogo pins and PCB before being received and processed by amplifier headstages located on the
+rear edge of the PCB. Intan Technologies headstages, connected to Open Ephys terminals through serial peripheral
+interface (SPI) cables, are utilized here because of their wide compatibility.
+Supported recording capacities. With versatility in mind, our system supports a range of recording capacities
+and configurations. The Open Ephys board allows the connection of up to 4 SPI cables, each capable of handling
+up to 128 digital data streams, setting the maximum capacity to 512 recording channels. This translates into
+high-density chips of 512 microelectrodes. Practically, in certain contexts, it may be desirable to employ fewer
+recording channels. Indeed, fewer channels imply fewer headstages (significantly reducing costs), simpler MEAs and
+PCB designs, as well as less computationally intensive data processing and analysis. Our system then provides
+built-in modularity to mix-and-match Intan headstages of variable capacity (32, 64, 128 channels), through a series
+of swappable PCB options supporting 59 (compatible with the widely used Multichannel system 60MEA series), 128,
+256 and 512 recording channels. An example of 128-channel recording system, employing two 64-channel headstages,
+is illustrated in Fig. 1b. Assembly details for each standard are found in the SI.
+Extension to electrical and optical stimulation. Our system supports both electrical and optical neural simulation
+to enable multimodal inputs to the neural tissue. Through extended pogo pins on the PCB (Fig. 1a), designated
+electrodes can be directly connected with an external electric source for stimulation. This allows the utilization
+of low-cost stimulators, such as Stimjim [36] (Fig. 1c). Alternatively, if a large number of stimulation channels
+is desired for fine spatial control, a bidirectional Intan controller can be connected to the platform’s headstages,
+enabling the simultaneous stimulation of up to 128 channels (details in SI). Another powerful, widely adopted
+modality of neural interaction is optical stimulation. At the cellular level, the expression of light sensitivity to
+specific wavelengths is achieved via channelrhodopsin transfection [37]. Here, we employ 465nm LED and lasers
+from Doric Lenses connected to optic fibers to locally stimulate transfected neural populations. To this end, our
+platform is designed to be top and bottom accessible, with openings on both acrylic layers, allowing optical fibers
+to be placed underneath or above the MEA-chip (Fig. 1c). This design allows to flexibly combine recording, and
+electrical/optical stimulation, either concurrently or serially, to achieve the desired input/output protocol.
+Deployment in the lab. The platform deployment is presented in Fig.1d, illustrating its integration with
+a workstation, multiple data acquisition/stimulation controllers, optical/electrical stimulators, and incubators
+of different dimensions and specifications, all fitting within the space of a standard benchtop. With the largest
+dimension below 150mm, the recording platform, upon sanitization, can be easily placed and operated across
+incubators. Apart from providing the necessary environment for maintaining neural cultures, incubators also serve
+as noise canceling Faraday cages that minimize interference, thanks to their conductive inner surfaces. Assembled
+from inexpensive materials, the recording platform can be conveniently duplicated to allow parallel recordings.
+Short-term experiments (<2 hours), during which culture media evaporation and pH change are not a major concern
+(at least in the case of dissociated cell cultures), are performed in a mini-incubator tower stack. Maintaining only
+temperature, these incubators are low-cost, portable, and have simple chambers that can be easily reconfigured and
+sanitized. Several demonstrations of Section 4 have been carried out in this environment. For long-term recordings
+(>24 hours) instead, more capable incubators for the control of temperature, pH, and humidity are necessary. The
+required high-humidity levels, in particular, pose a significant challenge for electronics, leading to rapid oxidation
+and signal degradation. This is one of the reasons why long-term in vitro electrophysiology remains uncommon,
+given the investment associated with commercial setups. In our case, the separation between data acquisition
+terminal and on-site signal amplification, combined with the use of inexpensive components, reduces the liability
+of operating our platform in incubator atmospheres for extensive periods of time, minimizing financial losses in
+the event of electronics failure. A 24-hour experiment with no appreciable hardware degradation is reported in
+Section 4.

@@ -1,0 +1,95 @@
+estimate of the EEG signal xc(t) in channel c, then the SE in channel c and across the
+frequency band f1 − f2 is defined as:
+SEc [f1 − f2] = −
+X
+f2
+f=f1
+Pxc
+(f) log2
+(Pxc
+(f)). (5)
+
+Previously, this SE allowed to the predict anaesthetic depth [14], [15], respiration move-
+ments [15], sleep stages [15], and imagined finger movement [15]. In addition, the
+
+SE allowed to discriminate between subjects in rest from subjects performing mental
+arithmetic [16], and subjects in rest from subjects fixated on flashing patterns [17]. It
+was hypothesised, that this predictive and discriminative power arises from the regularity
+and predictability differences in the EEG activity as characterised by the SE. In [13],
+higher SE values were hypothesised to correlate with higher levels of auditory attention,
+as training decoders on the high SE segments outperformed the decoders trained on the
+low SE segments when evaluating on the full validation set [13].
+III. APPLICATION TO SELECTIVE AUDITORY ATTENTION DECODING
+As opposed to detecting when the subject is attentive or inattentive to a specific speech
+stimulus, in the sAAD setting, we aim to decode to which speaker the subject is attending
+in a multi-speaker scenario [1], [2], [5]. This corresponds to a selective auditory attention
+setup, as illustrated in Fig. 1.
+In an sAAD framework, similar neural decoders can be used to reconstruct the envelope
+of the attended speaker [1], [2], [5]. Here, the decoder dˆ
+sAAD ∈ R
+LC×1
+is computed using
+
+the envelope ya ∈ R
+
+T ×1 of the attended speaker, while the envelope(s) of the unattended
+
+speaker(s) is not used during training [1], [2], [5], [9]:
+
+dˆ
+sAAD = argmin
+dsAAD
+= ||ya − XdsAAD||2
+2.
+
+(6)
+At validation time, the output of the decoder is correlated with the speech envelopes of
+all speakers over Tv samples. The speaker that yields the highest correlation ρ(.) between
+the reconstructed envelope yˆ = X(val)dˆ
+
+sAAD and the speaker envelope y
+(val)
+i ∈ R
+Tv×1
+(for speaker i) is decoded as the attended one [1], [2], [9]. In the case of two speakers,
+the decision process can be described as:
+
+If ρ
+
+yˆ, y
+(val)
+1
+
+> ρ
+yˆ, y
+(val)
+2
+
+, Speaker 1 attended
+
+If ρ
+
+yˆ, y
+(val)
+1
+
+< ρ
+yˆ, y
+(val)
+2
+
+, Speaker 2 attended.
+
+(7)
+As illustrated in Fig. 1, both aAAD and sAAD can be combined. By only evaluating
+the sAAD performance on those segments where the subject is signalled to be in a state
+of active listening, the auditory inattentive segments are removed. We hypothesise that
+removing these auditory inattentive segments in which the subject is not paying auditory
+attention will improve the sAAD decision process.
+
+IV. EXPERIMENTAL PROCEDURES
+
+To validate our methods, a new dataset was recorded, which is complementary to the
+datasets of [11] and [21], which will also be used in our study. The dataset descriptions
+are given first and the corresponding data processing thereafter. The experimental setup
+is subsequently formulated, as well as the hypothesis tests.

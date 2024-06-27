@@ -1,0 +1,102 @@
+neurotransmitters thus represents an essential, non-
+canonical form of plasticity that expands
+
+mechanisms employed by neurons to finely
+modulate circuits and ultimately behaviour
+depending upon state and condition.
+Interestingly, a more severe desynchronization to
+short photoperiod was unmasked when monitoring
+sleep/wake synchronization as compared to wheel
+running activity. This suggests that the latter might
+boost synchronization, in keeping with previous
+reports48
+. Further, sleep/wake desynchronization was
+milder in response to the long as compared to short
+photoperiod shift, indicating that avoidance to light
+might be a prevailing stimulus that induces mice to
+seek shelter and sleep more. Mechanistically,
+photoperiod-dependent neurotransmitter
+reorganization and resulting glutamate increase
+synaptically through augmented VGLUT3
+localization could represent a reinforcing signal that
+works synergistically with environmental light input
+to reset clock neurons in the SCN. It is noteworthy
+that both short and long photoperiod shifts induce an
+increase in VGLUT3 within mrEn1-Pet1 boutons,
+albeit to different extents. We speculate that the
+postsynaptic target neurons may be different for
+those mrEn1-Pet1 boutons that become VGLUT3+
+in
+response to a short vs. long photoperiod, thus
+modulating the circuit differentially depending on
+daylength. Interestingly, some SCN neurons (those
+positive for Vasoactive Intestinal Polypeptide and
+Neuromedin S) display adaptive neurotransmitter
+switching in response to photoperiod change6
+.
+Investigating whether mrEn1-Pet1 neurons contact
+SCN “switching” neurons, perhaps selectively via
+boutons that undergo VGLUT3 reorganization, and
+whether they play a causal role in this switching is an
+important future direction.
+At the circuit level, we identified the POA as an
+essential node49,50 upstream of mrEn1-Pet1 neurons
+responsible for decoding and propagating
+photoperiod information. Adult-induced silencing of
+POA→MRN neurons was sufficient to cause
+neurotransmitter reorganization in 5-HT boutons
+innervating the SCN, artificially mimicking a change
+in daylength duration in otherwise equinox
+conditions; however, sleep/wake was unaltered.
+These findings suggest that deployment of VGLUT3
+by mrEn1-Pet1→SCN neurons is not sufficient per se
+to modify sleep/wake patterns; albeit it is necessary,
+
+as shown by the Vglut3 cKO results. Only when
+exposed to short photoperiod, POA→MRN-silenced
+mice showed disrupted sleep/wake adaptation,
+suggesting necessity of an intact POA-MRN circuit.
+The POA appears to be uniquely positioned
+anatomically to modulate photoperiod adaptation as
+it receives innervation from both retinal ganglion
+cells39 and SCN neurons10, thus representing an
+integration site of both direct light input and central
+clock output. Further circuit mapping will be
+required to discern whether such integration happens
+in individual or separate but locally interconnected
+POA cells, and whether these cells are those that
+innervate the MRN.
+In summary, we identified a novel POA→mrEn1-
+Pet1→SCN/PVT/SFi circuit essential for
+behavioural adaptation to changes in atmospheric
+light duration. A critical component of this circuit is
+the MRN mrEn1-Pet1 neuron group, which shows a
+novel form of periodic, branch-specific
+neurotransmitter reorganization that tracks with
+photoperiod changes and is necessary for
+behavioural adaptation. By identifying relevant
+molecules, cells, and circuit nodes, this work has the
+potential to inform therapeutic interventions for
+disorders characterized by circadian and sleep timing
+disturbances.
+References
+1. Walton, J. C., Weil, Z. M. & Nelson, R. J.
+Influence of photoperiod on hormones,
+behavior, and immune function. Front.
+Neuroendocrinol. 32, 303–319 (2011).
+2. Zhang, R. & Volkow, N. D. Seasonality of
+brain function: role in psychiatric disorders.
+Transl. Psychiatry 13, 65 (2023).
+3. Forni, D. et al. Genetic adaptation of the human
+circadian clock to day-length latitudinal
+variations and relevance for affective disorders.
+(2014).
+4. Depner, C. M., Stothard, E. R. & Wright, K. P.
+Metabolic Consequences of Sleep and
+Circadian Disorders. Curr. Diab. Rep. 14, 507
+(2014).
+5. Tackenberg, M. C., Hughey, J. J. & McMahon,
+D. G. Optogenetic stimulation of VIPergic SCN
+neurons induces photoperiodic‐like changes in
+the mammalian circadian clock. Eur. J.
+Neurosci. 54, 7063–7071 (2021).

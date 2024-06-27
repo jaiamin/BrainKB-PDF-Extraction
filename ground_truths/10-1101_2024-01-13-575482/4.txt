@@ -1,0 +1,61 @@
+where we are abusing notation by denoting both likelihood and posterior densities as ρ, with arguments and
+conditionalities to distinguish the distributions, while we call ρ0 the distribution of prior beliefs. The next step
+consists in determining an ansatz on the function ρ0(s) enforced by existing experimental knowledge.
+To this aim, we will briefly review the relevant phenomenology.
+
+III. REVIEW OF ANCHORING AND ADJUSTMENT
+
+The anchor-and-adjust heuristic is a simple heuristic widely observed in human cognition [29]. It is usually associated
+with the purported irrationality of human behavior as it leads to cognitive biases that do not seem to follow rules of
+logic and probability as well as give rise to sub-optimal decision-making. While the concept has wide applicability, the
+case most relevant to this work is the one where subjects, faced with uncertainty, start their estimation process from
+a very rough guess termed anchor, possibly suggested by the experimenter, and then integrate additional information
+to adjust the estimate. Since often these adjustments are not sufficient, this leads to an observable bias that can be
+manipulated by the experimenter.
+For example, in one well-known experiment [31] participants (high-school students) were divided into two groups
+and were asked to multiply either
+
+1 × 2 × 3 × 4 × 5 × 6 × 7 × 8 (3)
+
+or
+
+8 × 7 × 6 × 5 × 4 × 3 × 2 × 1 (4)
+The trick was that the participants were given only 5 seconds to report the answer—way below the time required for
+most people to perform such mental calculations. Thus, they had to resort to heuristics. One may expect that people
+would perform a few steps of computation, starting from numbers on the left, and the extrapolate to estimate the
+full product. Since the adjustments are often insufficient, we should expect students to underestimate these products.
+Moreover, the first group should get lower values of the anchor and thus underestimate more. Indeed, the median
+estimate for the first group was 512, compared to 2250 for the other group. This is obviously much lower than the
+correct result (40320).
+IV. ANCHORING AS BAYESIAN INFERENCE WITH A SPIKE-AND-SLAB PRIOR
+In this section we formalize the Bayesian Anchoring model, describe its single-step realization, and discuss possible
+multi-step extensions.
+
+A. General considerations
+
+The phenomenology we just summarized can be formalized into a choice for the cognitive prior figuring in Eq. (2).
+Given an initial guess (anchor) s0, we posit that the belief over X is stored as a (prior) density
+
+ρ0(s) = p0δ(s − s0) + (1 − p0)gγ0
+
+(s − s0) (5)
+We will refer to this as spike-and-slab prior [32, 33], the "slab" component being here not uniform but modulated
+(for simplicity, as a Gaussian with variance γ
+2
+0
+).
+
+This prior can be interpreted as a mixture of two hypotheses about S. Under the first hypothesis (H0, with prior
+probability P(H0) = p0) the initial guess is correct, i.e., ρ(s|H0) = δ(s − s0). As a consequence, observing any
+information from the set of accessible knowledge cannot influence the initial guess, since we have
+
+ρ(s|(x, σ), H0) = gσ(x − s)ρ(s|H0)
+
+R
+dsgσ(x − s)ρ(s|H0)
+
+= δ(s − s0) = ρ(s|H0) (6)
+In contrast to H0, the other hypothesis presumes non-zero variance of the initial guess ρ(s|H1) = gγ0
+(s − s0).
+Accordingly, H1 acknowledges the possibility that relevant knowledge can change the belief over S, since in general
+we have

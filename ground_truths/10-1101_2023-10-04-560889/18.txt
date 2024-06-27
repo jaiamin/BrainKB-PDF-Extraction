@@ -1,0 +1,50 @@
+deviation.b) Co-staining of MAP2 (grays), Mitotracker CMXRos and LAMP2 (green) at day
+24. c) Confocal images of neurons stained for MAP2 (grays) and with Mitotracker CMXRos
+(red) at a lower dilution (1:5000, 200nM) to allow detection of mitochondria in processes (day
+23). d) Quantification of the Mitotracker entropy and the Mitotracker intensity in the soma (d),
+
+as well as the number of mitochondria in axons (e) of day 23 neurons treated with the pLNA-
+Ctrl or pLNA-1229. Images were acquired from three independent differentiations (72 pictures
+
+for the pLNA-Ctrl and 64 pictures for the pLNA-1229 condition). Shown are violin plots of all
+datapoints together with the mean and standard deviation of each differentiation. A robust linear
+model was applied over the aggregated means of each condition and differentiation ( ~
+condition + differentiation). Statistical differences were assessed with emmeans. Values were
+transformed with the square root to account for skewness in the data. f) Example snippet of a
+video acquired with the structured illumination microscope (SIM) of igNeurons incubated with
+a mitochondrial dye at day 29. The widefield image is displayed on the left and the processed
+version on the right. g) Mitochondrial length quantification at two time points (day 29 and day
+36) from individual images obtained from the SIM-videos of three independent differentiations
+(20-23 videos of each condition per time point). Shown are violin plots of all datapoints together
+with the mean and standard deviation of each differentiation. Values were aggregated per video
+(mean) and a linear model plus emmeans was used for the statistical analyses ( ~ condition +
+differentiation). h) Scheme to illustrate neuronal energy supply by mitochondrial respiration
+and glycolysis. i) Secreted lactate levels were measured from neuronal media supernatant in a
+
+luminescence assay from four independent differentiations. A linear model with emmeans post-
+hoc analysis was used for the statistics at each time point ( ~ condition + differentiation). j)
+
+Calcium peak intensity (df / F) of human neurons recorded at day 37 from three independent
+differentiations. GSK-2837808A and AlbuMAX were added to the media from day 16 on to
+activate mitochondria. Shown are violin plots of all datapoints together with the mean and
+standard deviation of each differentiation. Statistics were performed on the log-transformed,
+aggregated values per cell (means) with a linear model accounting for the interaction effect
+between the pLNA condition and the drug ( ~ pLNA*drug + differentiation). Post-hoc analysis
+was done using emmeans (pLNA|drug). pLNAs were generally added to the media for all
+experiments on day nine. (* = p-value < 0.05, *** = p-value < 0.001, **** = p-value < 0.0001)
+
+Discussion
+The prolonged synaptogenesis period in specific areas of the human brain is likely one of the
+most important determinants of human-specific cognitive and behavioral traits. In this regard,
+the development of cellular systems (2D, 3D) that mimic human brain development has greatly
+facilitated the discovery of human-specific aspects of synaptogenesis. Here, we modified a
+neuronal differentiation protocol allowing us to profile ncRNA expression during the time
+course of human excitatory synapse development at unprecedented resolution. Thereby, we
+observed widespread dynamic regulation of several classes of ncRNAs during this period,
+highlighting the potential importance of the ncRNA regulatory layer in human brain
+development. By focusing on dynamically expressed, human-specific miRNAs, we identified
+miR-1229-3p as a potential regulator of the developmental timing of excitatory synaptogenesis.
+Four point-mutations within the miR-1229 gene, which occurred at the transition from great
+ape to human, allowed its efficient processing to a mature miRNA. Particularly the nature of
+miR-1229 being a mirtron and thereby bypassing the regulatory constraints of DROSHA
+mediated processing might have facilitated this evolutionary adaptation (42). As most of the

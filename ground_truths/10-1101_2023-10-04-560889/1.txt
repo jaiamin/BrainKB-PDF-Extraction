@@ -1,0 +1,39 @@
+Title: A human-specific microRNA controls the timing of
+
+excitatory synaptogenesis.
+
+Authors: Michael Soutschek1
+
+, Alessandra Lo Bianco1
+
+, Simon Galkin1
+
+, Tatjana Wüst1,4, David
+
+Colameo1
+, Tomas Germade1,5, Fridolin Gross1,6, Lukas von Ziegler2
+
+, Johannes Bohacek2
+,
+
+Pierre-Luc Germain1,2,3, Jochen Winterer1
+
+, Tatjana Kleele7 and Gerhard Schratt1
+*
+
+Affiliations:
+1 Laboratory of Systems Neuroscience, Institute for Neuroscience, Department of Health
+Science and Technology, ETH Zürich, Switzerland
+2 Laboratory of Molecular and Behavioural Neuroscience, Institute for Neuroscience,
+Department of Health Science and Technology, ETH Zürich, Switzerland
+3 Lab of Statistical Bioinformatics, IMLS, University of Zürich, Switzerland
+4 present address: Ncardia Services B.V., Leiden, The Netherlands
+5 present address: Laboratory of Epigenetics and Neuroendocrinology, Institute for
+Neuroscience, Department of Health Science and Technology, ETH Zürich, Switzerland
+6 present address: CNRS UMR5164 ImmunoConcEpT, University of Bordeaux, France
+7 Department of Biology, Institute of Biochemistry, ETH Zurich, Zurich, Switzerland..
+*Corresponding author: gerhard.schratt@hest.ethz.ch
+
+Keywords: non-coding RNA, microRNA, human synaptogenesis, developmental timing,
+mitochondria, mitophagy, Pink1
+Running title: miR-1229-3p in human excitatory synaptogenesis

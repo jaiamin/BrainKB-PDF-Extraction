@@ -1,0 +1,55 @@
+PO8 and P10 for the 64-channel EEG cap, and F7, T7, CP5, F8, T8, TP9 and TP10 for
+the 24-channel EEG cap) is higher than 60 times the baseline power in those channels
+[30].
+
+ACKNOWLEDGEMENTS
+
+We thank Ir. Linsey Dewit-Vanhaelen and Ir. Elly Brouckmans for writing the protocol
+and performing the experimental recordings for the new Dataset I. We thank the authors
+of [11] (Dr. Jonas Vanthornhout, Dr. Lien Decruy and Prof. Tom Francart) for granting
+us access to Dataset II.
+This research is funded by Aspirant Grant 1S31522N (for N. Heintz) from the Research
+Foundation - Flanders (FWO), a PDM mandate from KU Leuven (for S. Geirnaert, No.
+PDMT1/22/009), a junior postdoctoral fellowship fundamental research from the FWO
+(for S. Geirnaert, No. 1242524N), FWO project nr. G081722N, Internal Funds KU Leuven
+IDN project IDN/23/006, the European Research Council (ERC) under the European
+Union’s Horizon 2020 research and innovation programme (grant agreement No 802895),
+and the Flemish Government (AI Research Program). The scientific responsibility is
+assumed by its authors.
+
+CONFLICT OF INTEREST
+
+The authors declare no competing interests.
+REFERENCES
+
+[1] J. A. O’Sullivan, A. J. Power, N. Mesgarani, S. Rajaram, J. J. Foxe, B. G. Shinn-Cunningham, M. Slaney,
+S. A. Shamma, and E. C. Lalor, “Attentional Selection in a Cocktail Party Environment Can Be Decoded from
+Single-Trial EEG,” Cerebral Cortex, vol. 25, no. 7, pp. 1697–1706, Jul. 2015.
+[2] W. Biesmans, N. Das, T. Francart, and A. Bertrand, “Auditory-Inspired Speech Envelope Extraction Methods for
+Improved EEG-Based Auditory Attention Detection in a Cocktail Party Scenario,” IEEE Transactions on Neural
+Systems and Rehabilitation Engineering, vol. 25, no. 5, pp. 402–412, May 2017.
+[3] S. Vandecappelle, L. Deckers, N. Das, A. H. Ansari, A. Bertrand, and T. Francart, “EEG-based detection of the
+locus of auditory attention with convolutional neural networks,” eLife, vol. 10, p. e56481, Apr. 2021.
+[4] S. Geirnaert, T. Francart, and A. Bertrand, “Fast EEG-Based Decoding Of The Directional Focus Of Auditory
+Attention Using Common Spatial Patterns,” IEEE Transactions on Biomedical Engineering, vol. 68, no. 5, pp.
+1557–1568, May 2021.
+[5] S. Geirnaert, S. Vandecappelle, E. Alickovic, A. de Cheveigne, E. Lalor, B. T. Meyer, S. Miran, T. Francart,
+and A. Bertrand, “Electroencephalography-Based Auditory Attention Decoding: Toward Neurosteered Hearing
+Devices,” IEEE Signal Processing Magazine, vol. 38, no. 4, pp. 89–102, Jul. 2021.
+[6] N. Ding and J. Z. Simon, “Emergence of neural encoding of auditory objects while listening to competing
+speakers,” Proceedings of the National Academy of Sciences, vol. 109, no. 29, pp. 11 854–11 859, Jul. 2012.
+[7] E. M. Zion Golumbic, N. Ding, S. Bickel, P. Lakatos, C. A. Schevon, G. M. McKhann, R. R. Goodman,
+R. Emerson, A. D. Mehta, J. Z. Simon, D. Poeppel, and C. E. Schroeder, “Mechanisms Underlying Selective
+Neuronal Tracking of Attended Speech at a ‘Cocktail Party’,” Neuron, vol. 77, no. 5, pp. 980–991, Mar. 2013.
+[8] K. C. Puvvada and J. Z. Simon, “Cortical Representations of Speech in a Multitalker Auditory Scene,” Journal
+of Neuroscience, vol. 37, no. 38, pp. 9189–9196, Sep. 2017.
+[9] S. Geirnaert, T. Francart, and A. Bertrand, “Unsupervised Self-Adaptive Auditory Attention Decoding,” IEEE
+journal of biomedical and health informatics, vol. 25, no. 10, pp. 3955–3966, Oct. 2021.
+[10] ——, “Time-Adaptive Unsupervised Auditory Attention Decoding Using EEG-Based Stimulus Reconstruction,”
+IEEE Journal of Biomedical and Health Informatics, vol. 26, no. 8, pp. 3767–3778, Aug. 2022.
+[11] J. Vanthornhout, L. Decruy, and T. Francart, “Effect of Task and Attention on Neural Tracking of Speech,”
+Frontiers in Neuroscience, vol. 13, p. 977, 2019.
+[12] Y.-Y. Kong, A. Mullangi, and N. Ding, “Differential modulation of auditory responses to attended and unattended
+speech in different listening conditions,” Hearing Research, vol. 316, pp. 73–81, Oct. 2014.
+[13] D. Lesenfants and T. Francart, “The interplay of top-down focal attention and the cortical tracking of speech,”
+Scientific Reports, vol. 10, no. 1, p. 6922, Dec. 2020.

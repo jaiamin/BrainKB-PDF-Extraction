@@ -1,0 +1,26 @@
+based on those concatenated vectors obtained for each region (Figure1.C) as follows. Let 226
+a and b be two representative vectors, the distance between vectors can be obtained as 227
+
+cos θ =
+a · b
+∥a∥∥b∥
+
+(2)
+The Cosine Similarity diagram (Figure4) shows that both HVC and TC were 228
+independent of other regions and the other regions forms one cluster. Within the big 229
+cluster, MSC and PMC, and LVC and PC, respectively formed subclusters. These 230
+results suggest that ECoG signals derived from the temporal cortex exhibit more 231
+distinct characteristics compared to other regions. 232
+
+Figure 4. This is the Similarity matrix between the regions. Concatenated Vectors
+were created by adding the Feature Vectors for each region, and the distance between
+the concatenated Vectors for each region was calculated using cosine similarity.
+Discussion 233
+The purpose of this study was to test whether different cortical regions exhibit distinct 234
+electrophysiological characteristics. We used ECoG signals obtained from each electrode 235
+for classifying the corresponding electrode’s region into one of seven categories, as 236
+delineated by anatomical criteria. Our anticipation was grounded in the notion that the 237
+diversity in cytoarchitecture and distinct connectivities across regions would manifest as 238
+discernible temporal patterns in their respective ECoG signals. Thus we hypothesized 239
+that deep learning models would be able to learn those distinct temporal patterns and 240
+determine which region the ECoG belonged to. 241

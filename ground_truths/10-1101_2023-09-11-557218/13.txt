@@ -1,0 +1,103 @@
+6. Porcu, A. et al. Seasonal changes in day length
+induce multisynaptic neurotransmitter switching
+to regulate hypothalamic network activity and
+behavior. Sci. Adv. 8, eabn9867 (2022).
+7. Okaty, B. W. et al. Multi-Scale Molecular
+Deconstruction of the Serotonin Neuron
+System. Neuron 88, 774–791 (2015).
+8. Ren, S. et al. The paraventricular thalamus is a
+critical thalamic area for wakefulness. Science
+362, 429–434 (2018).
+9. Hastings, M. H., Maywood, E. S. & Brancaccio,
+M. Generation of circadian rhythms in the
+suprachiasmatic nucleus. Nat. Rev. Neurosci.
+19, 453–469 (2018).
+10. Abrahamson, E. E. & Moore, R. Y.
+Suprachiasmatic nucleus in the mouse: retinal
+innervation, intrinsic organization and efferent
+projections. Brain Res. 916, 172–191 (2001).
+11. Dopico, X. C. et al. Widespread seasonal gene
+expression reveals annual differences in human
+immunity and physiology. Nat. Commun. 6,
+7000 (2015).
+12. Nassan, M. & Videnovic, A. Circadian rhythms
+in neurodegenerative disorders. Nat. Rev.
+Neurol. 18, 7–24 (2022).
+13. Chellappa, S. L., Vujovic, N., Williams, J. S. &
+Scheer, F. A. J. L. Impact of Circadian
+Disruption on Cardiovascular Function and
+Disease. Trends Endocrinol. Metab. 30, 767–
+779 (2019).
+14. Dulcis, D., Jamshidi, P., Leutgeb, S. & Spitzer,
+N. C. Neurotransmitter Switching in the Adult
+Brain Regulates Behavior. Science 340, 449–
+453 (2013).
+15. Muzerelle, A. et al. Dorsal raphe serotonin
+neurotransmission is required for the expression
+of nursing behavior and for pup survival. Sci.
+Rep. 11, 6004 (2021).
+16. Meyer-Bernstein, E. L. & Morin, L. P.
+Electrical stimulation of the median or dorsal
+raphe nuclei reduces light-induced FOS protein
+in the suprachiasmatic nucleus and causes
+circadian activity rhythm phase shifts.
+Neuroscience 92, 267–279 (1999).
+17. Glass, J. D., Grossman, G. H., Farnbauch, L. &
+DiNardo, L. Midbrain Raphe Modulation of
+Nonphotic Circadian Clock Resetting and 5-HT
+Release in the Mammalian Suprachiasmatic
+Nucleus. J. Neurosci. 23, 7451–7460 (2003).
+18. Smith, V. M., Jeffers, R. T. & Antle, M. C.
+Serotonergic enhancement of circadian
+
+responses to light: role of the raphe and
+intergeniculate leaflet. Eur. J. Neurosci. 42,
+2805–2817 (2015).
+19. Meyer-Bernstein, E. L., Blanchard, J. H. &
+Morin, L. P. The serotonergic projection from
+the median raphe nucleus to the suprachiasmatic
+nucleus modulates activity phase onset, but not
+other circadian rhythm parameters. Brain Res.
+755, 112–120 (1997).
+20. Malek, Z. S. & Labban, L. M. Photoperiod
+regulates the daily profiles of tryptophan
+hydroxylase-2 gene expression the raphe nuclei
+of rats. Int. J. Neurosci. 131, 1155–1161 (2021).
+21. Green, N. H., Jackson, C. R., Iwamoto, H.,
+Tackenberg, M. C. & McMahon, D. G.
+Photoperiod Programs Dorsal Raphe
+Serotonergic Neurons and Affective Behaviors.
+Curr. Biol. 25, 1389–1394 (2015).
+22. Majrashi, N. A., Ahearn, T. S. & Waiter, G. D.
+Brainstem volume mediates seasonal variation
+in depressive symptoms: A cross sectional study
+in the UK Biobank cohort. Sci. Rep. 10, 3592
+(2020).
+23. Jensen, P. et al. Redefining the serotonergic
+system by genetic lineage. Nat. Neurosci. 11,
+417–419 (2008).
+24. Bang, S. J., Jensen, P., Dymecki, S. M. &
+Commons, K. G. Projections and
+interconnections of genetically defined
+serotonin neurons in mice: Networks of
+rhombomere-specific serotonin neurons. Eur. J.
+Neurosci. 35, 85–96 (2012).
+25. Brust, R. D., Corcoran, A. E., Richerson, G. B.,
+Nattie, E. & Dymecki, S. M. Functional and
+Developmental Identification of a Molecular
+Subtype of Brain Serotonergic Neuron
+Specialized to Regulate Breathing Dynamics.
+Cell Rep. 9, 2152–2165 (2014).
+26. Niederkofler, V. et al. Identification of
+Serotonergic Neuronal Modules that Affect
+Aggressive Behavior. Cell Rep. 17, 1934–1949
+(2016).
+27. Kim, J. C. et al. Linking Genetically Defined
+Neurons to Behavior through a Broadly
+Applicable Silencing Allele. Neuron 63, 305–
+315 (2009).
+28. Wang, H.-L. et al. Dorsal Raphe Dual
+Serotonin-Glutamate Neurons Drive Reward by
+Establishing Excitatory Synapses on VTA
+Mesoaccumbens Dopamine Neurons. Cell Rep.
+26, 1128-1142.e7 (2019).

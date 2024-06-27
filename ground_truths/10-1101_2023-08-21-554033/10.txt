@@ -1,0 +1,52 @@
+such functionalities on the supercomputing facility Frontera at the Texas Advanced Computing Center.
+4.2 Higher dimensional neural systems
+While 2D cultures allow for initial characterization and understanding of a networked cellular system, their lack
+of 3D organization does not fully capitalize on neurons’ potential for enhanced connectivity, compute density, or
+miniaturization, nor can they recapitulate physiological architectures. Here, we demonstrate our platform in a
+higher-dimensional context, by considering both ex vivo tissue and 3D engineered mimics.
+Organotypic brain slices. Organotypic cultures are prepared from slices of rat cortex that are 450μm thick.
+While these compress to about 100μm during incubation, they nevertheless preserve an intrinsic connectivity
+structure which is lacking in the 2D monolayer cultures described above. At the same time, brain slices do not
+possess a clear 3D shape like the tissue mimics we will discuss below. To highlight this distinction, we consider
+organotypic cultures to be of intermediate dimension (2.5D). Relative to 2D cultures, experimentation with higher
+dimensional systems poses additional challenges such as ensuring that the tissue is broadly and firmly in contact
+with the microelectrodes, as well as provisions for continuous media, oxygen or drugs replacement. To address
+these challenges, we augment our system through a 3D printed fluidic interface that is modularly integrated via
+accessory posts protruding from the top acrylic layer (Fig. 5a). The printed apparatus hosts a pair of L-shape fluid
+delivery cannulas, connected to a peristaltic pump for continuous media delivery and aspiration. This can be further
+extended to support a ‘plug’ system whereby a biocompatible nylon filter mesh can be gradually lowered towards
+the tissue to apply a gentle pressure onto it, thus enhancing contact across the electrodes surface.
+Using this particular accessory, we perform longitudinal recordings in mature organotypic cortex cultures. As
+previously discussed, this preparation is commonly employed because it preserves much of the intrinsic tissue
+structure found in vivo, like cortical layers and corresponding cell types. Further, it facilitates in-depth culture
+manipulation via localized drug delivery, optical control and cell identity imaging, which are difficult to perform
+in vivo. Cortical tissue is dissected from rat pups on postnatal day 5. These slice cultures are incubated for 26
+days before transferring the slices to the MEA-chips for recording (protocol in Section 6.2). For this application
+we utilize the curved MEA of Section 3 to conform to the natural morphology of the region of interest (Fig. 5b).
+Neural activity recorded from a 5μm-MEA sample is presented in Fig. 5c, illustrating spontaneous spiking events as
+a raster plot, together with corresponding waveforms (spike cutouts). We use our software to isolate both multi-unit
+activity (MUA) and single-unit activity (SUA) across the electrode array, and find that MUA is highly synchronized
+across the cortical culture, consistent with significantly correlated bursting activity.
+In addition to spontaneous recordings, we employ the same biphasic stimulation protocol of Section 4.1 to study
+the tissue neural response. Activity in the sample is found to be strongly driven by the electrical stimulation (the
+red dashed line overlaid to the raster plot) across the entire 128-channel array. We note here that the use of curved
+MEAs also allows for consistent alignment of electrode sites to anatomical points of reference across the tissue. This
+enhances yield and increases usability, making it easier to reliably place and align the tissue to enhance experimental
+consistency across samples. Good alignment and yield are demonstrated in Fig. 5d, where recorded activity (firing
+rates) is mapped to the electrodes’ physical locations.
+Engineered tissue mimics. While organotypic slices are representative of the intrinsic connectivity of brain
+tissue, engineered mimics potentially allow the realization of 3D neural architectures of desired size, topology
+and composition. This, combined with custom MEAs for interfacing, provides a unique opportunity to extend
+applications from neuroscience to engineering devices for sensing, processing and computing. We present here two
+different methods of bio-fabricating 3D engineered neural tissue mimics (NTMs), and demonstrate their integration
+in our platforms.
+We first extend our 2D monolayer cultures to 3D NTMs by mixing ESC-MNs with 6mg/ml Matrigel (ECM). Here,
+we showcase the control over our NTM geometry by seeding the cell-ECM mixture into PDMS (polydimethylsiloxane)
+molds placed on our multi-well MEAs (Fig. 3c). Molds are fabricated with cavities of different shapes, allowing the
+mixtures to polymerize into 3D neural constructs of prescribed configuration (Fig. 5e). To confirm the success of
+the NTM fabrication, fluorescence imaging is performed to visualize live neurons’ GFP signals. As illustrated in
+Fig. 5e, neurons are evenly distributed within the constructs, and network formation is observed. We then deploy
+our platform for electrophysiology recording. Figure 5f illustrates the activity obtained from an NTM sample, where
+spikes and synchronized events are detected across multiple channels. We note that fewer active channels are seen
+here compared to 2D neural cultures. Indeed, since neurons are distributed in three-dimensional space the number
+of cells residing at the bottom of the tissue is reduced, rendering activity less detectable by the electrodes.

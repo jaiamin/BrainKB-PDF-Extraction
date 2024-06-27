@@ -1,0 +1,19 @@
+Figure 3. Smoothed GABA spline data are superimposed over a conceptual model of age-related
+cognitive change. Age-associated differences in GABA may function as a biological influence
+modulating trajectories of cognition in aging (Hertzog et al., 2008). Figure adapted from Hertzog
+et al. (2008).
+Strengths of our analysis include the individual participant data meta-analytic approach,
+which allows us to leverage datasets covering the full lifespan; additionally, our Markov Chain
+Monte Carlo approach, in which dataset-specific feature scaling factors and the spline model are
+estimated simultaneously, reduces the impact of inter-dataset methodological heterogeneity on
+our model. However, our analysis has several limitations. First, although our model represents
+the full lifespan, all included data are cross-sectional. Therefore, we cannot report individual
+participants’ cognitive trajectories; some participants with currently-intact cognitive function
+may have borne neuropathology undetected due to strong compensatory abilities or high baseline
+function (Stern, 2009) and may ultimately experience cognitive decline, while others may sustain
+
+cognitive function throughout their lives. Second, although all participants were cognitively-
+intact, we did not directly examine association between GABA and cognitive performance; while
+
+prior evidence from mixed young-old and oldest-old samples (e.g., Porges et al., 2017) is
+consistent with an association, it is also possible that, given sufficient GABA levels to maintain

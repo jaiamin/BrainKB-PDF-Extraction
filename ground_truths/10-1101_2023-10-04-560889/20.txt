@@ -1,0 +1,52 @@
+References and Notes:
+1. P. Vanderhaeghen, F. Polleux, Developmental mechanisms underlying the evolution of
+human cortical circuits. Nat Rev Neurosci 24, 213-232 (2023).
+
+2. S. Herculano-Houzel, The remarkable, yet not extraordinary, human brain as a scaled-
+up primate brain and its associated cost. Proc Natl Acad Sci U S A 109 Suppl 1,
+
+10661-10668 (2012).
+3. A. M. M. Sousa, K. A. Meyer, G. Santpere, F. O. Gulden, N. Sestan, Evolution of the
+Human Nervous System Function, Structure, and Development. Cell 170, 226-247
+(2017).
+4. C. C. Sherwood, A. Gómez-Robles, Brain Plasticity and Human Evolution. Annual
+Review of Anthropology 46, 399-419 (2017).
+5. W. Enard et al., A humanized version of Foxp2 affects cortico-basal ganglia circuits in
+mice. Cell 137, 961-971 (2009).
+6. C. Charrier et al., Inhibition of SRGAP2 function by its human-specific paralogs
+induces neoteny during spine maturation. Cell 149, 923-935 (2012).
+7. M. Fossati et al., SRGAP2 and Its Human-Specific Paralog Co-Regulate the
+Development of Excitatory and Inhibitory Synapses. Neuron 91, 356-369 (2016).
+8. M. C. King, A. C. Wilson, Evolution at two levels in humans and chimpanzees.
+Science 188, 107-116 (1975).
+9. K. S. Pollard et al., An RNA gene expressed during cortical development evolved
+rapidly in humans. Nature 443, 167-172 (2006).
+10. I. Abugessaisa et al., FANTOM enters 20th year: expansion of transcriptomic atlases
+and functional annotation of non-coding RNAs. Nucleic Acids Res 49, D892-D898
+(2021).
+11. K. S. Kosik, T. Nowakowski, Evolution of New miRNAs and Cerebro-Cortical
+Development. Annu Rev Neurosci 41, 119-137 (2018).
+12. G. Zolotarov et al., MicroRNAs are deeply linked to the emergence of the complex
+octopus brain. Sci Adv 8, eadd9938 (2022).
+13. A. M. M. Sousa et al., Molecular and cellular reorganization of neural circuits in the
+human lineage. Science 358, 1027-1032 (2017).
+14. M. Somel et al., MicroRNA-driven developmental remodeling in the brain
+distinguishes humans from other primates. PLoS Biol 9, e1001214 (2011).
+15. T. J. Nowakowski et al., Regulation of cell-type-specific transcriptomes by microRNA
+networks during human brain development. Nat Neurosci 21, 1784-1792 (2018).
+16. H. Y. Hu et al., MicroRNA expression and regulation in human, chimpanzee, and
+macaque brains. PLoS Genet 7, e1002327 (2011).
+17. H. Y. Hu et al., Evolution of the human-specific microRNA miR-941. Nat Commun 3,
+1145 (2012).
+18. M. Soutschek, G. Schratt, Non-coding RNA in the wiring and remodeling of neural
+circuits. Neuron 111, 2140-2154 (2023).
+19. Y. Zhang et al., Rapid single-step induction of functional neurons from human
+pluripotent stem cells. Neuron 78, 785-798 (2013).
+20. Z. Sun, T. C. Sudhof, A simple Ca(2+)-imaging approach to neural network analyses
+in cultured neurons. J Neurosci Methods 349, 109041 (2021).
+21. E. Berezikov et al., Diversity of microRNAs in human and chimpanzee brain. Nat
+Genet 38, 1375-1377 (2006).
+22. A. Kos et al., MicroRNA-181 promotes synaptogenesis and attenuates axonal
+outgrowth in cortical neurons. Cell Mol Life Sci 73, 3555-3567 (2016).
+23. R. Saba et al., Dopamine-regulated microRNA MiR-181a controls GluA2 surface
+expression in hippocampal neurons. Mol Cell Biol 32, 619-632 (2012).

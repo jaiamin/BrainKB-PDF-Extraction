@@ -1,0 +1,5 @@
+Fig. 5. miR-1229-3p controls mitochondrial homeostasis during human excitatory synapse
+development a) Confocal images displaying neurons stained for MAP2 (grays) and with
+Mitotracker CMXRos (1:7500, ca. 130nM, red)) at day 27. Quantification was performed on
+38 neurons of the pLNA-Ctrl condition and 39 neurons of the pLNA-1229 condition imaged
+from two CVS. Shown are violin plots of all datapoints together with the mean and standard

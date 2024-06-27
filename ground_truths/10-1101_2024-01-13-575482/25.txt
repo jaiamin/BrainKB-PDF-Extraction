@@ -1,0 +1,67 @@
+G. Open mind theorem (Incompatibility of compact priors)
+
+Let us now apply the inequalities (S59) to the regime of large values of |x|.
+Because the variance of likelihood and prior is never zero, sˆ
+′
+(0) is always positive. In the light of this and of the
+tangent inequalities (S59), considered for large |r|, we reach the following conclusion. A prior that leads to a sublinear
+asymptote for the posterior mean is not admissible because it contradicts experiments.
+Recall now that (as seen in Sec S-II G) a compact-support prior leads to sublinear asymptotic behavior for the
+posterior mean. We reach therefore the conclusion ( "open-mind theorem") that a compact prior must be ruled out.
+The open mind theorem is depicted in Fig. 6. If the prior has compact support as in panel D, the comparative
+utility function U behaves as in the dashed red curves of panels A and B.
+H. The zero-deviation posterior is leptokurtic
+
+Assuming that the fourth central moment of the posterior at x = 0 doesn’t vanish, it must be positive. This is
+because if sˆ(0) and sˆ
+
+′′(0) both vanish, we can expand as sˆ(r) ∼ sˆ
+′
+(0)r +
+1
+6
+sˆ
+′′′(0)r
+3 and and sticking this into the
+
+tangent inequalities (S59) yields sign(ˆs
+′′′(0)r
+3
+) = sign(r).
+Applying now Eq. (S10) with n = 3, we can write this result as
+
+K − 3 =
+s − ⟨s⟩
+4
+s − ⟨s⟩
+2
+2 − 3 > 0 (S69)
+or more concisely, EK > 0 if EK is the excess kurtosis, i.e. the kurtosis measured from its Gaussian reference value.
+In conclusion, the posterior distribution for zero outcome is leptokurtic i.e. has positive excess kurtosis.
+
+I. Kurtosis of the prior
+
+As explained in S-III, we are pursuing a path inverse to that of the main text, starting from empirically justified
+requirements on the perceived utility and tracking back what constraints that entails on the prior distribution. In
+Sec. S-V H, we derived some simple constraints on the moments of the posterior distribution. How do they transfer
+into constraints upon the prior?
+Above, when deducing that the excess kurtosis of the posterior had to be positive, we did not mention for what
+value of σ we are requiring that positivity. Just like the value of the anchor, so the internally modeled measurement
+error σ is not communicated to experimenters, and we may only reasonably assume that it fluctuates widely across
+subjects and contexts.
+Therefore, to take seriously the empirical observations, a constraint derived from them for the zero-deviation
+posterior should be taken as a statement about all the zero-deviation posteriors corresponding to all values of σ.
+Now call R⃗ = (R1, R2, . . .) the set of all the cumulants of the prior distribution of ρ(s). Knowing this infinite vector
+is largely equivalent to knowing the distribution itself. If we call F4 the excess kurtosis of the posterior, now regarded
+as a function of both σ and R⃗ , the resulting statement about R⃗ is then
+
+F4(σ, R⃗ ) > 0 ∀σ > 0 (S70)
+We thus have to (1) minimize F4 over σ, (2) require the minimum value to be positive and (3) infer properties of
+R⃗ from that.
+If we do that, we can easily say that the prior itself must be leptokurtic (R4 > 0). The reason is that in the limit of
+broad likelihoods (σ → ∞) the posterior is equal to the prior. If the results of experiments have to be valid for large
+σ as well (i.e. the constraint of the posterior being leptokurtic must survive) then the prior (which does not depend
+on σ) is leptokurtic.
+
+In conclusion, the prior may not be of the spike-and-slab type but experiments do reveal that, just like the spike-
+and-slab distribution, it has a positive excess kurtosis (for a discussion see main text, Sec. VII).

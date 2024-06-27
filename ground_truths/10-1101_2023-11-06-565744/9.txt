@@ -1,0 +1,28 @@
+Figure 3: Microfluidic features. a: The 19 microelectrodes and segmented reference electrode of a single
+module. Electrodes are addressed by transparent insulated paths on a glass substrate. b: A single microelectrode
+is 25×25 μm2. c: Tunnels are defined by the SU-8 layer (3 μm) and the SUEX layer (150 μm). The tunnels are 7
+μm wide. The tunnel length of 200 μm is defined by SUEX. The vertical SUEX walls create visible reflections of
+the tunnels (above and below the added dotted white lines). d: The channels are covered by a mesh (pore size
+50 μm in a 20-μm-thick ADEX layer). Different focal planes resolve the mesh (left) and the tunnels (right).
+e: Observing the device from below allows the tunnels, electrodes and electrical paths to be resolved at high
+resolution. SU-8 structures extended 30 μm from both tunnel ends. f: The central well of a single module.
+Segmented structures surround the channels to avoid stress-induced delamination. Not shown is the well
+(indicated by a dotted line). g: The central region of each module comprises two opposing channels connected by
+61 tunnels containing 19 microelectrodes. Three images at different focal planes are merged to show all features.
+Except for e, all images were taken from above.
+3.3 Device usability
+Our device was designed for compatibility with multipipetting and automated liquid handling systems
+(Figure 4a/c). This feature ensured faster and more precise medium changes and compound
+application in the twelve modules. While this MEA has a 256-electrode layout compatible with
+commercial amplifiers (Figure 4b/c), the modular design could be adapted for other amplifier formats
+such as multiwell systems. In this 12-module design, each module requires three wells of the 36-well
+layout. In previous work, we have reported on the experimental variability in 12- and 18-module
+designs (Molina-Martínez et al., 2022). The number of modules, the number of electrodes per module,
+as well as the total number of electrodes and the connector layout are adaptable. Our 36-well layout
+has a pitch of 4.5 mm (matching 384-well microplates and enabling use of related hardware).
+The transparent glass substrate below the 3D cultures enabled optical microscopy. Furthermore, the
+photoresists, adhesives and polymer wells proved to be biocompatible. These materials were easily
+sterilized and hydrophilized after plasma treatment, which supported the culture of neurons embedded
+in the hydrogel. Lastly, cleaning of the device with a detergent solution removed cells and hydrogel
+and enabled the reuse of devices up to 10-15 times until defects in microfluidic features were
+observed.

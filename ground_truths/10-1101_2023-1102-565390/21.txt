@@ -1,0 +1,42 @@
+photostimulation of TRPV1::ChR2 mice (n=8). K, group data plots highlight the lack of
+response in either control model, confirming peripheral photostimulation are specific to
+TRPV1::ChR2 animals. All scale bars: 100 μm. Abbreviation NR = No response.
+Figure 3. Classifying peripheral photostimulation evoked nocifensive responses. Initial
+assessment of photostimulation responses highlighted a range of different behaviours
+reflective of a nocifensive response including: lifting, tapping and grooming of the target
+hindpaw. A, images are consecutive stills from an example recording, showing the
+
+photostimulation period (blue line) frames including different behavioural responses (lifting-
+orange, grooming – purple). B, in order to determine the relative prevalence of each
+
+behaviour, video recordings were assessed from a subset of animals (n=3) over 3 trials, to
+determine the prevalence of each behaviour at threshold photostimulation intensity. Images
+shows analysis of 3 trails (different animals), with varying degrees of lifting, grooming and
+tapping. C, group data plots show paw lifting always occurred (30/30 trials) and was
+sometimes accompanied by tapping (6/30 trails) or grooming (7/30 trials). These observations
+supported grouping of the three behaviours for subsequent analyses collectively reflective the
+overall nocifensive response.
+Figure 4. Peripheral photostimulation response stability testing. A, timeline summarizes
+peripheral phototstimulation testing schedule. All testing commenced with an acclimatisation
+period and three photostimulation trials were then performed with a 2-day break between
+trials, in some animals (n=8) a 4th trial was repeated, 14 days after the initial testing. B,
+panels show heatbar summaries of peripheral photostimulation responses across multiple
+trials. Nocifensive response intensity is denoted by colour and binned in 100 ms epochs. Each
+bar summarizes an individual mouses threshold photostimulation trail (M1-M10), with the
+group average presented below each trial number (1-4), also presented together for
+comparison (below). C, group data plots compare optical threshold, response latency, and
+response duration. Optical threshold was similar across all trials, whereas response latency
+differed between Trial 1 and Trial 2 (p < 0.05.). No other differences were seen across trials.
+Abbreviation NR = No response.
+Figure 5. Effect of morphine on peripheral photostimulation response characteristics.
+A, timeline summarizes peripheral photostimulation testing schedule. All animals (n=7)
+underwent an initial acclimatization period before undergoing photostimulation trials at
+baseline, following vehicle injection (saline), and following morphine injection (30 mg/kg),
+with a 3-day break between trials. B, Panels show heatbar summaries of peripheral
+photostimulation responses in each mouse (M1-M7) across trials. Nocifensive response
+intensity is denoted by colour and binned in 100 ms epochs. Each heatbar shows an
+individual animals response at threshold photostimulation (determined in the baseline trial),
+with average for all animal below. C, group data plots compare optical threshold, response
+latency, and response duration. Following morphine administration (s.c.) optical threshold
+increased compared to both baseline and vehicle (p < 0.001). By extension, as the initial
+determined optical threshold did not provoke withdrawal responses and so response latency

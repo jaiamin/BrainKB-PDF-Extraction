@@ -1,0 +1,13 @@
+Abstract
+
+Cortical GABA levels are reduced in older age; age-related differences in GABA may be
+associated with age-related cognitive change. The nature of age-related GABA differences in the
+highest-functioning stratum of the oldest-old (85+) population is not yet known. We extend our
+previously-reported Individual Participant Data Meta-Analysis of GABA levels (Porges et al.,
+2021) across the lifespan with four novel datasets sampling the cognitively-intact oldest-old. The
+slope of age-related GABA differences in cognitively-intact oldest-old adults flattens after
+roughly age 80. We interpret these findings as an effect of survivorship: inclusion in the study
+required intact cognition, and too great a reduction of GABA levels may not be compatible with
+neurophysiological function needed for intact cognition. This work contributes to a growing
+body of evidence suggesting that successful cognitive aging may require intact GABAergic
+function, as well as further characterizing successful aging amongst oldest-old adults.

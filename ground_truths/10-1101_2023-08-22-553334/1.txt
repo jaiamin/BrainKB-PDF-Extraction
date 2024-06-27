@@ -1,0 +1,61 @@
+TITLE. “Role of a Pdlim5:PalmD complex in directing dendrite morphology.” Version: 08-30-2023
+AUTHORS.
+Yogesh Srivastava1,
+
+*, Maxsam Donta1,2, Lydia L. Mireles3
+
+, Adriana Paulucci-Holthauzen1
+
+, M. Neal Waxham3,4,
+
+* Pierre D.
+
+McCrea1,2,4,*
+1
+Department of Genetics, University of Texas MD Anderson Cancer Center, Houston TX 77030 2
+Program in Genetics & Epigenetics, University of Texas MD Anderson Cancer Center UT Health GSBS, Houston TX 77030
+3
+Department of Neurobiology & Anatomy, UTHealth, Houston TX 77030 4
+Program in Neuroscience, University of Texas MD Anderson Cancer Center UT Health GSBS, Houston TX 77030
+* Co-corresponding authors:
+Pierre D McCrea PhD, pdmccrea@mdanderson.org
+Yogesh Srivastava PhD, ysrivastava@mdanderson.org
+M Neal Waxham PhD, M.N.Waxham@uth.tmc.edu
+SUMMARY.
+Neuronal connectivity is regulated during normal brain development with the arrangement of spines and synapses being
+dependent on the morphology of dendrites. Further, in multiple neurodevelopmental and aging disorders, disruptions of
+dendrite formation or shaping is associated with atypical neuronal connectivity. We showed previously that Pdlim5
+binds delta-catenin and promotes dendrite branching (Baumert et al., J Cell Biol 2020). We report here that Pdlim5
+interacts with PalmD, a protein previously suggested by others to interact with the cytoskeleton (e.g., via adducin/
+spectrin) and to regulate membrane shaping. Functionally, the knockdown of PalmD or Pdlim5 in rat primary
+hippocampal neurons dramatically reduces branching and conversely, PalmD exogenous expression promotes dendrite
+branching as does Pdlim5. Further, we show that each proteins’ effects are dependent on the presence of the other. In
+summary, using primary rat hippocampal neurons we reveal the contributions of a novel Pdlim5:PalmD protein complex,
+composed of functionally inter-dependent components responsible for shaping neuronal dendrites.
+KEYWORDS.
+Neuron; Dendrite; Shape; Morphology; Cytoskeleton; Catenin.
+INTRODUCTION.
+The shaping of dendrites enables the formation of elaborate dendritic arbors required in constructing neuronal
+networks 1,2. Further, in multiple pathological contexts, the gross morphology of dendrites is altered in ways that
+degrade nervous system functions. Such losses come about since neuronal activity, signaling, and plasticity each require
+organized synaptic connections that are dependent upon the morphology of dendrites.
+Constituting a gap in knowledge, less is known about the mechanisms regulating dendritic branching or lengthening
+relative to the wealth of studies addressing axon trajectories 3,4, or the formation of dendritic spines or pre- or
+postsynaptic densities 5,6. In the context of neuronal dendritic branching, we recently reported that Pdlim5 (as well as
+Magi1) interact with delta-catenin in a phosphorylation-dependent manner and regulate dendritic branching 7
+. The
+mouse knockout of Pdlim5 is embryonic lethal 8 and Pdlim5’s structure and presence is largely conserved across
+vertebrate animals (Supplemental Figure 1A) (e.g., ~89% identity between human and rat). Dysregulation of Pdlim5 is
+proposed to factor into atypical dendritic tree morphology and synaptic connectivity in human neurodevelopmental
+diseases including schizophrenia, depression, and bipolar disorder 8-13 consistent with our in vitro studies identifying a
+regulatory role for Pdlim5 in dendrite morphology 7
+.
+
+Pdlim5 is composed of an N-terminal PDZ-domain (PSD-95, Dlg, and ZO-1), central DUF-domain (“Domain of Unknown
+Function”), and a triad of C-terminal LIM-repeats (LIM domain) (Figure 1B) 14,15. Pdlim5 is present in dendrites and other
+neuronal structures, with its subcellular distribution varying somewhat across developmental stages 7,16. Pdlim5 is
+
+reported to associate with alpha-actinin and PKCepsilon and to be required in phorbol ester induced dendritic growth-
+cone collapse, restricting dendrite outgrowth in that context 15,16. By having an inhibitory effect upon Rac to displace
+
+Arp2/3 from the leading edge, Pdlim5 also limits AMPK-stimulated cell migration in C2C12 cells via restriction of

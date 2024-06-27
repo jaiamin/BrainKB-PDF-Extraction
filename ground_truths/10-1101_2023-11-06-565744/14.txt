@@ -1,0 +1,42 @@
+We demonstrated the formation of mature neural networks within two weeks and modulation of their
+activity by acute application of a neuroactive compound. The high percentage of active electrodes (up
+to 19/19) in each module suggest that more modules with fewer electrodes could be integrated per
+device, which would decrease the cost per data point. Our design without the need for active perfusion
+presents a simple system for neural organ-on-a-chip models.
+With the functionality of the system demonstrated, future work can increase the biological complexity
+for specific applications. As the system includes two separate culture compartments, two different
+neuron types could be cultured. Cocultures with other cell types could increase the complexity of the
+system. One compartment could be used for a non-neuronal culture to study innervation. Similarly,
+endothelial cells could be cultured above the ceiling in the central well as a model of the blood-brain
+barrier.
+While our devices proved to be reusable, future technical developments could include developing
+scalable fabrication methods using other materials to reduce fabrication complexity. While we note
+that our system provides capabilities that are not commercially available, adoption of such devices for
+commercial purposes will depend on achieving fabrication with a quality and cost that are sustainable
+for producers as well as customers.
+5 Author contributions
+PDJ, BMM and PC conceived and designed experiments. BMM, AN and PC performed and analyzed
+biological experiments. PDJ developed fabrication methods, designed and produced devices. PDJ and
+BMM wrote the manuscript. All authors edited the manuscript and approved its final version.
+6 Conflicts of interest
+PDJ, BMM and PC are named as inventors on patent applications EP3494877 and WO2019115320
+('Device for the examination of neurons') filed by NMI Natural and Medical Sciences Institute at the
+University of Tübingen.
+7 Acknowledgments
+We acknowledge financial support from the State Ministry of Baden-Wuerttemberg for Economic
+Affairs, Labour and Tourism, and from the German Ministry of Education and Research (BMBF) under
+Grant Agreement 031L0061 (MEAFLUIT).
+Supplementary Material
+Figure S1: Layer structure of the microfluidic module.
+Figure S2: Lamination process for dry film resist on non-planar topography.
+Figure S3: Gluing of wells to microfluidics.
+Figure S4: Yield of tunnel fabrication.
+Figure S5: False color scanning electron microscopy images of thick epoxy microfluidic structures.
+Figure S6: Delamination of unoptimized epoxy microfluidics from glass.
+Figure S7: Neurite outgrowth through tunnels.
+Supplementary Video 1: Cross-section of the device concept.
+Supplementary Video 2: Neurite outgrowth through tunnels.
+References
+Abgrall, P., Conedera, V., Camon, H., Gue, A.-M., and Nguyen, N.-T. (2007). SU-8 as a structural
+material for labs-on-chips and microelectromechanical systems. Electrophoresis 28, 4539–4551. doi:
+10.1002/elps.200700333.

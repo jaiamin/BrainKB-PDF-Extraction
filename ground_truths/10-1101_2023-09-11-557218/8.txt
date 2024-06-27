@@ -1,0 +1,105 @@
+their habituation. Control mice advanced their
+activity onset (time of day at which they started
+running) over the course of the experiment, taking
+~15 days to phase synchronize to the new dark onset
+(Fig. 3e, f). By contrast, cKO mice showed
+significantly impaired phase synchronization, as
+illustrated by a much-delayed onset of activity across
+days relative to photoperiod switch (Fig. 3e, f), and
+less time overall spent running between ZT5 and
+ZT12 (daily time window affected by the light/dark
+shift; Fig. 3g) as compared to control mice. Overall,
+it took the cKO mice ~25 days to fully synchronize
+their activity to the new dark onset. We next exposed
+a novel cohort of cKO and control mice to the long
+photoperiod. Control mice synchronized and
+restricted their locomotor activity to the new dark
+phase rapidly (light is a potent, aversive stimulus and
+bright environments pose risk for predation; Fig. 3h,
+i). By contrast, cKO mice showed bouts of activity
+during the light phase (Fig. 3i) and significantly
+greater time spent running between ZT12 and ZT19
+(the daily time window affected by this photoperiod
+shift; Fig. 3j) that gradually reached control levels,
+suggestive of delayed adaptation. Further, we found
+significant correlation between the number of
+retrogradely Cre-transduced cells in the MRN, thus
+the number of mrEn1-Pet1→SCN neurons in which the
+Vglut3 gene has been deleted, and the duration
+(number of days) required to habituate to both short
+and long photoperiod (Extended data Fig. 6). These
+data are consistent with the idea that timely and
+robust behavioural adaptation to photoperiod change
+requires Vglut3 expression, allowing for
+neurotransmitter re-organization in mrEn1-Pet1→SCN
+neurons.
+We next tested whether such genetic
+blockade of VGLUT3 deployment could also affect
+sleep/wake patterns in mice exposed to photoperiod
+change. Therefore, we infused a mixture of AAV2-
+CAG-GFP and either AAVretro-Syn-cre or
+AAVretro-CAG-tdTomato into the SCN of
+Vglut3flox/flox mice, implanted them with
+electroencephalography/electromyography
+(EEG/EMG) probes connected to a wireless
+headmount for chronic unrestrained sleep/wake
+monitoring, and exposed them to either short or long
+photoperiod (Fig. 4a). cKO mice showed levels of
+wake, N-REM sleep, and REM sleep in baseline,
+equinox conditions comparable to that exhibited by
+control mice (Extended data Fig. 7a). Upon exposure
+
+to short photoperiod, control mice advanced their
+peak wake time, progressively synchronizing it to the
+new dark onset (Fig. 4b), and increased the time
+spent awake and simultaneously decreased time
+spent asleep between ZT5 and ZT12 (Fig. 4 c,d).
+Strikingly, cKO mice showed a completely blunted
+response to this photoperiod shift. Their peak wake
+time remained synchronized to the previous dark
+onset, and they showed no increase in wakefulness
+nor decrease in sleep between ZT5 and ZT12 (Fig. 4
+c, d; Extended Data Fig. 7 c, d). We next exposed a
+separate cohort of cKO and control mice to long
+photoperiod and monitored their sleep/wake. As with
+locomotor behaviour, control mice quickly confined
+wake time to the lights-off period (ZT19-ZT0; Fig.
+4e), decreased the overall amount of time spent in
+wakefulness, and increased the amount of sleep
+between ZT12 and ZT19 – the time window
+previously dark under equinox conditions (Fig. 4f,
+g). Thus, in this shift to long photoperiod, cKO mice
+did show adaptive responses (avoidance being a
+prevailing response to a light stimulus), however,
+their synchronization was delayed significantly as
+compared to control mice (Fig. 4e-g; Extended Data
+Fig, 7e, f) and cKO mice never reached control levels
+for overall wakefulness and sleep duration between
+ZT12 and ZT19, indicating aberrant sleep/wake
+timing.
+Thus, the result of this projection-specific genetic
+strategy to prevent neurotransmitter reorganization
+in mrEn1-Pet1→SCN neurons was disruption of
+locomotor and sleep/wake adaptation to changes in
+daylength.
+Monosynaptic inputs to mrEn1-Pet1
+neurons
+To begin delineating the input circuitry that engages
+mrEn1-Pet1 neurons to respond to photoperiod
+
+change, we performed intersectional, rabies-
+mediated trans-synaptic retrograde tracing38. We
+
+infused a 1:1 mixture of AAV8-Con-Fon-TVA-
+mCherry and AAV5-Con-Fon-oG in the MRN of
+
+double transgenic En1-cre; Pet1-Flpe mice (aka
+En1cre/+; Pet1-FlpeTg/0), followed six weeks later by
+EnvA-pseudotyped, G-deleted Rabies Virus
+expressing GFP (RV-EnvA-DG-GFP). Brains were
+harvested one-week post-rabies injection, followed
+by immunofluorescence analyses and atlas
+registration for region specific RV+
+(GFP+
+) cell
+counting (Fig. 5a, b). Validation analyses showed

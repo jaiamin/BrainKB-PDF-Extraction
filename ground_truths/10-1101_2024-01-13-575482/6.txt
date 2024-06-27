@@ -1,0 +1,44 @@
+Figure 2. Structure of cognitively biased decision making based on a subjective update of utilities. The update may be thought
+of as the result of reviewing past experience and simulating random outcomes accordingly. The perceived utilities resulting from
+the process drive subjective choices. Sections II-VI of this article follow the flow of the model along the brown arrows in the
+drawing, from assumptions about the internal variables all the way to inferred behavior. In Sec. VII, we show for completeness
+the results of proceeding the opposite way, starting from the observed behavior and working backwards to infer prior believes
+(gray dashed arrow).
+
+C. Multiple adjustment steps
+
+There are multiple ways in which one could extend our model to incorporate multiple adjustments steps. We need
+to specify an update rule and a stopping rule. The update rule describes how the new prior for the next step is
+formed from the previous prior given the observation. The most natural update rule seems to be to perform the exact
+Bayesian inference and to use the posterior as the new prior. However, to perform Bayesian inference with multiple
+steps of adjustments the agent should track values of pn, γn, sn, and to remember the initial value of the anchor
+s0. Additionally, in general the Gaussian prior of H1 is not a conjugate prior if the likelihood takes a different form.
+Thus, the inference may become more complex and may require approximations or sampling.
+
+Another possibility is to perform a simple average over {xi}i=1..T (where T denotes the number of pseudo-
+observations made in order to perform adjustments) and then use this sample mean in the single adjustment step,
+
+utilizing anchoring slab-and-spike priors as described above.
+In the following we explore another hypothesis that humans rely on a simplified recursive inference strategy. First
+note that the process of multi-step anchoring-and-adjustment must at some point be terminated. The following
+stochastic rule could utilize the probabilistic form of the posterior in order to make a decision whether to continue or
+stop the process. A single sample is drawn, taken from the posterior distribution over hypotheses (i.e. H0 or H1). If
+H0 is chosen the adjustment process is terminated and the value sˆ is reported. Otherwise, another adjustment step
+is taken with a new prior that takes the form
+
+ρ1(s) = p1δ(s − s1) + (1 − p1)gγ1
+
+(s − s1). (15)
+This formula introduces an important modification compared to the optimal Bayesian update. Namely, the position
+of the spike under H0 is updated to reflect the new most likely position of s. Such reanchoring is not essential for
+the consistency of Bayesian Anchoring theory but it simplifies the calculations and may help account for the fact that
+the initial anchor is rarely reported, even if it biases the final report. We hypothesize that the reanchoring position
+corresponds to the mean of the posterior slab (s1), but other reanchoring methods can be formulated. We performed
+numerical simulations to check how expected bias and error change as functions of the number of sampling and
+adjustment steps, depending on the reanchoring method (Fig. 4). Our simulation results indicate that reanchoring to
+the posterior slab mean quickly removes the bias. In contrast, reanchoring to the overall posterior mean (sˆ) leads to
+an extremely persistent bias.
+Additionally, it is possible that instead of updating p0 to p1 according to the rules of Bayesian inference, pn is
+modulated by the internally or externally generated signal indicating a sense of urgency. Intuitively, the more urgent
+it is to finish the inference, the higher should be the value of pn. This in turn makes it more likely to stop the
+adjustment process in the following step.

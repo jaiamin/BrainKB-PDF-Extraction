@@ -1,0 +1,42 @@
+To
+Fig. 3. Genetic blockade of VGLUT3 deployment delays behavioural adaptation to changes in photoperiod. a, Schematic of
+the experimental approach and timeline. b, Representative image of the injection site. c, Efficient Cre-mediated knock-out of Vglut3
+in SCN-projecting serotonin neurons. d, Quantification of Vglut3 knockout efficiency in SCN-projecting serotonin neurons. e,
+Representative heatmaps of control and cKO mice daily running activity (expressed as number of wheel revolutions per second)
+during habituation to short photoperiod. Black arrow and dashed black line indicate switch from equinox to short photoperiod. f,
+Activity-onset curve showing the time of day at which mice initiate running activity across days relative to short photoperiod switch
+(two-way ANOVA, interaction genotype x time F (32, 328) = 2.943, p<0.0001, followed by Sidak’s multiple comparison test). g,
+Time spent running between ZT5 and ZT12 (time window affected by light/dark manipulation) across days relative to short
+photoperiod switch (two-way ANOVA, interaction genotype x time F (26, 270) = 1.568, p=0.0425, followed by Sidak’s multiple
+comparison test. h, Representative heatmaps of control and cKO mice daily running activity during habituation to long photoperiod.
+Black arrow and dashed black line indicate switch from equinox to long photoperiod. i, Activity onset curve showing the time of day
+at which mice initiate running activity across days relative to long photoperiod switch (two-way ANOVA, interaction genotype x time
+F (12, 52) = 10.94, p<0.0001, followed by Sidak’s multiple comparison test. j, Time spent running between Z12 and across days
+relative to long photoperiod switch (two-way ANOVA, genotype effect F (1, 130) = 15.85, p = 0.0001, followed by Sidak’s multiple
+comparison test. Short photoperiod: n = 8 (control), 4 (cKO). Long photoperiod: n = 6 (control), 6 (cKO). All data expressed as mean
+± s.e.m. Curve graph: solid line, mean; shaded area, s.e.m.
+
+equinox conditions. To test this hypothesis, we
+genetically disabled deployment of VGLUT3 in
+mrEn1-Pet1→SCN neurons and studied adaptation to
+different photoperiods as reflected in voluntary
+wheel running activity, the daily onset of which
+should rapidly synchronize to the new onset of
+darkness (Fig. 3a, b). Specifically, we infused a
+
+mixture of AAV2-CAG-GFP and either AAVretro-
+Syn-cre (experimental group) or AAVretro-CAG-
+tdTomato (control group) in the SCN of Vglut3flox/flox
+
+mice52 to delete the floxed Vglut3 gene in mrEn1-
+Pet1→SCN neurons. We found that all Cre-transduced
+(immunopositive) mrPet1 neurons (TPH2+
+) lacked
+VGLUT3 immunoreactivity (Fig. 3c, d), suggesting
+efficient deletion of the Vglut3 gene by virally
+encoded Cre protein. By contrast, control animals
+transduced by AAVretro-tdTomato (instead of
+AAVretro-Syn-cre) showed, as expected, VGLUT3+
+immunoreactivity in ~half of the double positive
+TPH2+
+, tdTomato+ mrPet1 neurons (Fig. 3c, d). To

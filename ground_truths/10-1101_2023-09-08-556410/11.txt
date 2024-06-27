@@ -1,0 +1,46 @@
+Table 2. Characteristics of McKnight Brain Aging Registry participants retained in final analysis.
+Characteristic Overall,
+N = 1001
+
+Site 1,
+N = 341
+
+Site 2,
+N = 181
+
+Site 3,
+N = 281
+
+Site 4,
+N = 201
+Age 88.66 (3.35) 88.82 (3.62) 89.72 (3.53) 89.07 (3.38) 86.85 (1.87)
+Years of Education 16.18 (2.96) 15.59 (2.79) 15.89 (2.47) 17.21 (3.14) 16.00 (3.23)
+Sex
+Male 41 (41%) 17 (50%) 8 (44%) 8 (29%) 8 (40%)
+Female 59 (59%) 17 (50%) 10 (56%) 20 (71%) 12 (60%)
+Race
+White 95 (95%) 32 (94%) 18 (100%) 28 (100%) 17 (85%)
+Black 4 (4.0%) 2 (5.9%) 0 (0%) 0 (0%) 2 (10%)
+Asian 1 (1.0%) 0 (0%) 0 (0%) 0 (0%) 1 (5.0%)
+MoCA Score 25.55 (1.94) 25.26 (1.86) 24.83 (1.98) 26.36 (1.97) 25.55 (1.70)
+1
+Mean (SD); n (%)
+
+Imaging
+GABA+-edited MEGA-PRESS data were acquired on Siemens 3T scanners (Skyra or Prisma) at
+each site, using the Siemens MEGA-PRESS WIP. Voxels were 30 x 30 x 30 mm3
+
+. The voxel
+was placed on the frontal midline, superior to the genu of the corpus callosum. A transversal 20
+mm saturation band was placed along the skull, 1-2 mm away from the top of the voxel. Scans
+were edited for GABA + macromolecules, placing ON editing pulses at 1.9 ppm and OFF at 7.46
+ppm; the TE was 68 ms and the TR 2000 ms; 320 averages were acquired (160 ON and 160
+OFF). The total scan took 10:48 minutes. A total of 4096 data points were collected. The spectral
+width was 4000 Hz.
+Data were analyzed in Gannet 3.3.1 (Edden et al., 2014), implemented in MATLAB 2022a. Cr
+was used as the reference signal. No deviations were made from automated procedure. To
+visualize voxel placement, a heatmap depicting average voxel location normalized to and
+superimposed over the MNI152 template brain was generated using Osprey 2.5.0 (Oeltzschner et
+al., 2020) (Figure 4). A representative difference spectrum is shown in Figure 5. Full details of
+the analytic pipeline, including GABA SNR, linewidth, and fit error(%) are reported in
+Supplementary Table 1 per consensus recommendations (Lin et al., 2021).

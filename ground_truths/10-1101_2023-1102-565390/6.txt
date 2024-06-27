@@ -1,0 +1,33 @@
+related peptide (CGRP, 1:200 in 0.1 M PBS, Abcam, ab36001) and neurofilament 200
+(NF200, DRG sections only, 1:5000 in 0.1 M PBS, Sigma-Aldrich, N0142). After the
+primary incubation, sections were washed 3 x 15 min with 0.1 M PBS prior to a 2-hour
+incubation in secondary antibodies FITC (1:50 in 0.1 M PBS, Jackson ImmunoResearch,
+703-095-155), Cy3 (1:50 in antibody diluent, Jackson ImmunoResearch, 715-165-147) and
+AMCA (DRG sections only, 1:50 in antibody diluent, Jackson ImmunoResearch, 715-155-
+151) at room temperature. Sections were washed in 0.1 M PBS 3 x 15 min, mounted on slides
+with buffered glycerol and cover slipped. Slides were subsequently imaged on Olympus
+BX50 microscope (10X and 20X objectives), and analyzed using Image J software (NIH,
+New York, USA).
+
+In vivo photostimulation and behavioural testing
+The testing apparatus consisted of a clear plexiglass cylinder was placed on top of an elevated
+plexiglass floor. A video camera was positioned in front of the testing setup to record all
+behaviours with 2 mirrors positioned behind the testing arena to capture behaviour from all
+angles. Under the elevated plexiglass floor, an LED driver (Thor Labs, New Jersey, USA)
+connected to 470 nm fibre-coupled LED (Thor Labs, New Jersey, USA) provided
+photostimulation through its attachment with a fibre optic patch cable, ceramic ferrule
+connection and optic fibre tip (300 μm) mounted on a fixed height stand. The LED driver was
+controlled by a Master-8 (AMPI, Jerusalem, Israel) pulse stimulator, delivering 1-second
+TTL pulses when triggered (Figure 1A). Set photostimulation intensities were calibrated
+using a digital optical power meter with a photodiode sensor positioned, sensor side down, on
+the elevated plexiglass flooring above the light path and the LED (Thor Labs, New Jersey,
+USA). This calibration procedure was performed on experimental days to ensure LED output
+accuracy.
+
+All experiments were conducted under quiet, low-light conditions at 22 ± 1°C and 50%
+relative humidity. Animals were acclimatised in the testing arena for a minimum of 30 min or
+until responses to the novel environment were diminished (i.e. minimal rearing, pushing or
+scratching plexiglass, and unprovoked grooming). During acclimatization, the experimenter
+periodically adjusted the LED ferrule position under the floor, without triggering
+photostimulation, as would occur during testing. A minimum of three acclimatization
+sessions were performed prior to an experimental protocol commenced with at least 24 hrs

@@ -1,0 +1,53 @@
+18. Lasorella, A., and Iavarone, A. (2006). The protein ENH is a cytoplasmic sequestration factor for Id2 in
+normal and tumor cells from the nervous system. Proc Natl Acad Sci U S A 103, 4976-4981.
+10.1073/pnas.0600168103.
+19. Hultqvist, G., Ocampo Daza, D., Larhammar, D., and Kilimann, M.W. (2012). Evolution of the vertebrate
+paralemmin gene family: ancient origin of gene duplicates suggests distinct functions. PLoS One 7,
+e41850. 10.1371/journal.pone.0041850.
+20. Kalebic, N., Gilardi, C., Stepien, B., Wilsch-Brauninger, M., Long, K.R., Namba, T., Florio, M., Langen, B.,
+Lombardot, B., Shevchenko, A., et al. (2019). Neocortical Expansion Due to Increased Proliferation of
+Basal Progenitors Is Linked to Changes in Their Morphology. Cell Stem Cell 24, 535-550 e539.
+10.1016/j.stem.2019.02.017.
+21. Baines, A.J. (2010). The spectrin-ankyrin-4.1-adducin membrane skeleton: adapting eukaryotic cells to
+the demands of animal life. Protoplasma 244, 99-131. 10.1007/s00709-010-0181-1.
+
+22. Bennett, V., and Lorenzo, D.N. (2016). An Adaptable Spectrin/Ankyrin-Based Mechanism for Long-
+Range Organization of Plasma Membranes in Vertebrate Tissues. Curr Top Membr 77, 143-184.
+
+10.1016/bs.ctm.2015.10.001.
+23. Li, X., Matsuoka, Y., and Bennett, V. (1998). Adducin preferentially recruits spectrin to the fast growing
+ends of actin filaments in a complex requiring the MARCKS-related domain and a newly defined
+oligomerization domain. J Biol Chem 273, 19329-19338. 10.1074/jbc.273.30.19329.
+24. Naydenov, N.G., and Ivanov, A.I. (2011). Spectrin-adducin membrane skeleton: A missing link between
+epithelial junctions and the actin cytoskeletion? Bioarchitecture 1, 186-191. 10.4161/bioa.1.4.17642.
+
+25. Thomas, D.G., and Robinson, D.N. (2017). The fifth sense: Mechanosensory regulation of alpha-actinin-
+4 and its relevance for cancer metastasis. Semin Cell Dev Biol 71, 68-74.
+
+10.1016/j.semcdb.2017.05.024.
+26. Broderick, M.J., and Winder, S.J. (2005). Spectrin, alpha-actinin, and dystrophin. Adv Protein Chem 70,
+203-246. 10.1016/S0065-3233(05)70007-3.
+27. Portera-Cailliau, C., Pan, D.T., and Yuste, R. (2003). Activity-regulated dynamic behavior of early
+dendritic protrusions: evidence for different types of dendritic filopodia. J Neurosci 23, 7129-7142.
+10.1523/JNEUROSCI.23-18-07129.2003.
+28. Rusakov, D.A., and Stewart, M.G. (2021). Synaptic environment and extrasynaptic glutamate signals:
+The quest continues. Neuropharmacology 195, 108688. 10.1016/j.neuropharm.2021.108688.
+29. Popova, N.K., Ilchibaeva, T.V., and Naumenko, V.S. (2017). Neurotrophic Factors (BDNF and GDNF) and
+the Serotonergic System of the Brain. Biochemistry (Mosc) 82, 308-317. 10.1134/S0006297917030099.
+30. Valnegri, P., Puram, S.V., and Bonni, A. (2015). Regulation of dendrite morphogenesis by extrinsic cues.
+Trends Neurosci 38, 439-447. 10.1016/j.tins.2015.05.003.
+31. Dong, X., Shen, K., and Bulow, H.E. (2015). Intrinsic and extrinsic mechanisms of dendritic
+morphogenesis. Annu Rev Physiol 77, 271-300. 10.1146/annurev-physiol-021014-071746.
+32. Puram, S.V., and Bonni, A. (2013). Cell-intrinsic drivers of dendrite morphogenesis. Development 140,
+4657-4671. 10.1242/dev.087676.
+33. Kutzleb, C., Sanders, G., Yamamoto, R., Wang, X., Lichte, B., Petrasch-Parwez, E., and Kilimann, M.W.
+(1998). Paralemmin, a prenyl-palmitoyl-anchored phosphoprotein abundant in neurons and implicated
+in plasma membrane dynamics and cell process formation. J Cell Biol 143, 795-813.
+10.1083/jcb.143.3.795.
+34. Gauthier-Campbell, C., Bredt, D.S., Murphy, T.H., and El-Husseini Ael, D. (2004). Regulation of dendritic
+branching and filopodia formation in hippocampal neurons by specific acylated protein motifs. Mol Biol
+Cell 15, 2205-2217. 10.1091/mbc.e03-07-0493.
+35. Arstikaitis, P., Gauthier-Campbell, C., Carolina Gutierrez Herrera, R., Huang, K., Levinson, J.N., Murphy,
+T.H., Kilimann, M.W., Sala, C., Colicos, M.A., and El-Husseini, A. (2008). Paralemmin-1, a modulator of
+filopodia induction is required for spine maturation. Mol Biol Cell 19, 2026-2038. 10.1091/mbc.E07-08-
+0802.

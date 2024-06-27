@@ -1,0 +1,103 @@
+A brain circuit and neuronal mechanism for decoding and adapting to change in
+daylength
+Maddaloni G1
+
+, Chang YJ1
+
+, Senft RA
+1
+, Dymecki SM1*
+.
+
+1Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston 02115 MA, USA
+Abstract
+Changes in daylight amount (photoperiod) drive pronounced alterations in physiology and behaviour1,2
+
+. Adaptive
+responses to seasonal photoperiods are vital to all organisms – dysregulation is associated with disease, from
+affective disorders3
+
+to metabolic syndromes4
+
+. Circadian rhythm circuitry has been implicated5,6 yet little is known
+about the precise neural and cellular substrates that underlie phase synchronization to photoperiod change. Here
+we present a previously unknown brain circuit and novel system of axon branch-specific and reversible
+neurotransmitter deployment that together prove critical for behavioural and sleep adaptation to photoperiod
+change. We found that the recently defined neuron type called mrEn1-Pet17
+
+located in the mouse brainstem
+Median Raphe Nucleus (MRN) segregates serotonin versus VGLUT3 (here proxy for the neurotransmitter
+glutamate) to different axonal branches innervating specific brain regions involved in circadian rhythm and
+sleep/wake timing8,9
+
+. We found that whether measured during the light or dark phase of the day this branch-
+specific neurotransmitter deployment in mrEn1-Pet1 neurons was indistinguishable; however, it strikingly
+
+reorganizes on photoperiod change. Specifically, axonal boutons but not cell soma show a shift in neurochemical
+phenotype upon change away from equinox light/dark conditions that reverses upon return to equinox. When we
+genetically disabled the deployment of VGLUT3 in mrEn1-Pet1 neurons, we found that sleep/wake periods and
+voluntary activity failed to synchronize to the new photoperiod or was significantly delayed. Combining
+intersectional rabies virus tracing and projection-specific neuronal silencing in vivo, we delineated a Preoptic
+Area-to-mrEn1Pet1 connection responsible for decoding the photoperiodic inputs, driving the neurochemical
+shift and promoting behavioural synchronization. Our results reveal a previously unrecognized brain circuit along
+with a novel form of periodic, branch-specific neurotransmitter deployment that together regulate organismal
+adaptation to photoperiod changes.
+Main
+Sunlight potently influences life across all
+phylogenetic kingdoms. Synchronized to the 24-hour
+light/dark cycle are biological processes fundamental
+to energy efficiency, cellular and organismal
+homeostasis, and ultimately survival9
+
+. Animals have
+evolved exquisite mechanisms – collectively known
+as circadian rhythms orchestrated by the
+hypothalamic suprachiasmatic nucleus (SCN) – that
+enable coordinated anticipation of alternating
+day/night and dictate the temporal order of
+physiology and behaviour including metabolism,
+hormone secretion, physical activity, and
+sleep/wakefulness9,10. Equally vital are adaptive
+responses to changes in the duration of daily light
+exposure (photoperiod)1,11 such as those that occur
+with time of year especially at high latitudes or with
+trans meridian travel, shift work, or screen time.
+Compromised ability to phase shift to new
+photoperiods has deleterious effects on human health
+and can cause circadian and sleep-timing
+abnormalities that are tightly linked to affective2,3
+,
+neurodegenerative12, cardiovascular13, as well as
+metabolic disorders4
+
+, severely impacting quality of
+life. Changes in photoperiod duration and timing can
+induce switching of neurotransmitter usage by
+certain neurons in the SCN6
+
+and their post-synaptic
+targets in the Paraventricular Nucleus of the
+Hypothalamus14
+
+, thus implicating the core circadian
+
+rhythm circuitry5
+
+in phase adaptation to changes in
+light exposure. Little is known, however, about the
+precise causative mechanisms underlying phase
+synchronization at the molecular and circuit level.
+Here we report the involvement of a
+subgroup of Median Raphe (mr) Nucleus (MRN)
+serotonin (5-hydroxytryptamine, 5-HT) neurons and
+associated brain circuits in adaptation to photoperiod
+change. MRN neurons provide the sole and dense 5-
+HTergic input to the SCN15 and potently modulate
+circadian rhythms16–19
+
+. Additionally, photoperiod
+changes have been associated with transcriptional20
+,
+electrophysiological21, and structural modifications22
+in some 5-HTergic neurons, thus suggesting a
+potential yet unexplored role in modulating

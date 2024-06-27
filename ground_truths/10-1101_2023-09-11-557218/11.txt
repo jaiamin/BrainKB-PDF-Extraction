@@ -1,0 +1,114 @@
+heterozygous mice (Fig. 6a; Extended Data Fig. 9).
+This compound intersectional configuration resulted
+in expression of the light chain of tetanus toxin
+(encoded by the RC-PFtox allele and expressed in a
+dual Cre/Flp-dependent fashion) and the reporter
+tdTomato (encoded by the Ai65 allele, also expressed
+in a dual Cre/Flp-dependent fashion) selectively in
+either POA-, LH-, or Hb neurons (dual Cre+
+, Flpo+
+)
+projecting to the MRN, thus achieving stable and
+
+long term silencing of neuronal activity through tox-
+mediated inhibition of vesicular neurotransmission
+
+(Fig. 6a-c; Extended Data Fig. 9a-f). Notably,
+chronic silencing of POA→MRN neurons caused a
+significant increase of VGLUT3 and 5-HT
+colocalization within presynaptic boutons
+innervating the SCN as compared to controls (Fig. 6
+c, d), whereas inactivating LH→MRN and
+Hb→MRN neuronal pathways showed no
+discernible effect on the percentage of VGLUT3 and
+5-HT colocalization in the SCN (Extended Data Fig.
+9a-f). These data suggest that POA, but not LH or
+Hb, neurons might convey to mrEn1-Pet1 neurons
+photoperiod information relevant to VGLUT3
+deployment.
+To directly test the idea that POA neurons
+might propagate photoperiod information to mrEn1-
+Pet1 neurons, we examined whether silencing
+POA→MRN neurons would alter adaptation to
+changes in day length. We therefore monitored
+sleep/wake behaviour in POA→MRN-silenced mice
+during exposure to short photoperiod. We infused
+AAVretro-cre in the MRN and AAV-DIO-Flpo in
+
+the POA of RC-PFTox; RC-FrePe trans-
+heterozygous mice and implanted them with
+
+EEG/EMG probes connected to a wireless
+headmount. Notably, while no sleep/wake difference
+was observed in equinox conditions (Extended Data
+Fig. 10a), POA→MRN-silenced mice showed
+delayed adaptation to short photoperiod as compared
+to control mice (Fig. 6 f). Silenced mice also showed
+reduced time spent awake and increased time spent
+asleep between ZT5 and ZT12 (Fig. 6g, h; Extended
+Data Fig. 10b-c), suggestive of disrupted habituation.
+Taken together, these data suggest that POA neurons
+are uniquely positioned to deliver to the MRN
+information related to light exposure, and that this
+neural circuit plays a critical role in adaptation to
+changes in photoperiod.
+
+Discussion
+The neural capacity to decode change in daylength
+and accordingly adjust activity, behaviour, and
+
+sleep/wake timing is vital to the survival and well-
+being of most species1
+
+. Misalignment can lead to
+
+unproductive, energetically wasteful, and even life-
+threatening animal behaviours such as mistimed
+
+foraging or hunting that is unsuccessful and a
+predation risk, and for humans clinically, can
+increase risk for and worsen outcome of many
+diseases, from affective2,3 to metabolic12
+
+. Our study
+reveals in mice a novel cellular and circuit
+mechanism in the brain for detecting photoperiod
+change and phase-shifting sleep-wake and activity
+correspondingly. We propose that in humans this
+network control point may be engaged in response to
+changes in light exposure that include not only
+seasonal daylength variations, but also trans
+meridian travel, shift work, and screen time.
+
+Central to this phase-detection and behavioural-
+correction network is a previously unappreciated
+
+form of axon 5-HT-VGLUT3 branch-specific
+neurotransmitter deployment, here exhibited by a
+subset of brainstem mrEn1-Pet1 serotonergic
+neurons that collateralize to circadian and sleep
+timing brain centres, the SCN, PVT, and SFi. Few
+but compelling examples have shown that
+specialized neuronal cells can segregate
+neurotransmitters to different endings44,45
+,
+suggesting differential, target-specific
+modulation46,47. Here we provide evidence that
+segregation is malleable and reversible, being shaped
+by environmental cues, and importantly that this
+remodelling is physiologically relevant. When we
+deleted the Vglut3 gene in SCN-projecting neurons,
+disabling genetically this VGLUT3 reorganization in
+mrPet1 neurons, adaptation to the new photoperiod
+was dramatically impaired: Sleep/wake patterns
+either failed to synchronize to the new photoperiod
+or were aberrant, and synchronization of voluntary
+exercise/activity to the new photoperiod was much
+delayed, even under light conditions which in the
+wild would be strongly aversive given predation risk.
+Post-transcriptional mechanisms likely underlie the
+differential deployment of VGLUT3, given that
+Vglut3 transcript levels in mrEn1-Pet1→SCN neurons
+as well as in other mrEn1-Pet1 neurons were
+indistinguishable before and after photoperiod shift.
+Rearranging the localization of segregated

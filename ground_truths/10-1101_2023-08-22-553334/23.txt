@@ -1,0 +1,31 @@
+Figure S3: PalmD, a novel partner of Pdlim5, associates with Pdlim5’s LIM domain
+
+~50kD
+
+~25kD
+
+WCE
+IP-Pdlim5
+IP-IgG
+
+WCE
+IP-PalmD
+IP-IgG
+
+PalmD Pdlim5
+IgG-HC
+IgG-LC
+
+IgG-HC
+IgG-LC
+
+Cortical neurons
+Pdlim5 PalmD WCE IP-Pdlim5 IP-IgG WCE IP-PalmD IP-IgG
+IgG-HC
+IgG-LC
+
+IgG-HC
+IgG-LC
+
+PalmD blot Pdlim5 blot Pdlim5 blot PalmD blot
+Endogenous co-IPs

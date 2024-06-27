@@ -1,0 +1,37 @@
+recently evolved miRNAs, miR-1229-3p is lowly expressed and therefore likely fine-tunes the
+expression of many targets within common cellular pathways (43), a notion that fits well with
+the regulation of mitochondrial homeostasis by miR-1229-3p.
+miR-1229-3p slows down excitatory synapse formation, a phenotype that is consistent with a
+role for miR-1229-3p in human neoteny. Apparently at odds with the synaptotrophic hypothesis,
+sustained miR-1229-3p inhibition leads to reduced dendritic arborization. However, recent data
+from cerebellar Purkinje neurons suggests that cumulative synapse formation inhibits further
+
+dendrite growth at later stages (44). Thus, we speculate that synaptogenesis induced by miR-
+1229-3p inhibition triggers a secondary compensatory mechanism to reduce dendritic
+
+arborization to maintain neuronal excitability within a physiological range. Mechanistically, we
+provide molecular and cell biological evidence for the control of mitochondrial homeostasis
+downstream of miR-1229-3p. In agreement, it has been hypothesized that mitochondria might
+particularly facilitate synapse formation due to their location at presynapses and energy
+provision for processes such as local translation (31).
+The exact molecular mechanism involved in human synaptogenesis downstream of miR-1229-
+3p remains to be determined. Among the putative miR-1229-3p targets involved in
+mitochondrial function, we validated the mitophagy-inducing kinase Pink1. In addition to its
+role in mitophagy, Pink1 mediated initiation of mitochondrial fission has been directly
+
+associated with synapse development (35). However, based on our transcriptomic results, miR-
+1229-3p dependent regulation of mitochondrial homeostasis likely involves an entire network
+
+of genes controlling different aspects of mitochondrial physiology. Recently, it was shown that
+reduced mitochondrial activity is associated with a delayed maturation of human neurons
+compared to those of mice (28). Thus, miR-1229-3p dependent inhibition of mitophagy and
+mitochondrial fission in humans might reflect a lower demand for mitochondrial rejuvenation
+compared to other species. In the future, it will be important to assess whether inhibition of
+mitophagy and/or mitochondrial fission is able to revert increased synaptogenesis caused by
+miR-1229-3p inhibition.
+From a clinical point of view, a SNP within the miR-1229 gene, which is expected to increase
+miR-1229-3p expression, was recently associated with increased risk for Alzheimer’s disease
+(45). Since both mitochondrial fragmentation and mitophagy deficiencies have been implicated
+in Alzheimer’s disease and several other neurodegenerative disorders (38, 46), investigating the
+role of the miR-1229-3p-Pink1 interaction in such disorders might be a promising direction for
+future research.

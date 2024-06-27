@@ -1,0 +1,55 @@
+1 Introduction
+Neurological disorders affect more than 90 million people worldwide (World Health Organization,
+2006) and the incidence is expected to rise due to population aging. Despite enormous investments in
+drug development, attrition rates of neuroactive compounds are greater compared to other drugs
+(Dowden and Munro, 2019). Current in vitro and animal models employed for drug discovery or
+neuroscience research do not adequately simulate the pathophysiological condition of the human
+nervous system and have limited readout (Marx et al., 2016).
+Traditional two-dimensional (2D) cultures are convenient in vitro platforms for carrying out a detailed
+analysis of the neuronal response. In 2D cultures, cells grow adherent on planar substrates. These
+culture models emulate certain aspects of neurophysiology and enable higher throughput and lower
+complexity than in vivo models. However, planar adherent cultures do not represent the complexity of
+the neuronal circuits and the intricate connection between the neurons (Marx, 2018). Monolayers of
+neurons attached to rigid surfaces are limited to contact with surrounding cells and lack the
+extracellular matrix. In an effort to generate more predictive in vitro models that better mimic aspects
+
+of the physiology of the human brain, organ-on-chip technology combining microfluidics and three-
+dimensional (3D) culture techniques has emerged in the last decade (Mastrangeli et al., 2019).
+
+A key distinction in 3D cultures is whether the cells are self-organized by bottom-up mechanisms or
+are engineered with top-down mechanisms. Bottom-up neural systems include brain organoids
+(Lancaster et al., 2013; Wang et al., 2018; McDonald et al., 2023) and neurospheres (Fan et al.,
+2016). Top-down systems are usually dissociated neurons or other cells distributed in a scaffold. In
+either case, the cultures may include various types of cells with varying distribution and may include a
+scaffold or extracellular matrix. In organoids, the types and distribution of cells depends on guiding
+natural mechanisms of differentiation and proliferation. In contrast, top-down control can directly
+include mature cell types at desired densities (Jentsch, 2021). Our work presents a top-down
+approach in which culture conditions and distribution of cells can be defined for specific applications.
+Differences between cells cultured in 2D and 3D include levels of gene expression (Kamei et al., 2016;
+Papadimitriou et al., 2018; Tekin et al., 2018) and electrical activity (Xu et al., 2009). Neurons in 3D
+can develop a more physiological morphology (Lancaster et al., 2013; Todd et al., 2013). An
+extracellular matrix or scaffold can support the formation of distinct regions or barriers as in the brain
+(Wevers et al., 2016). Moreover, microfluidics enables perfusion to imitate the fluid flow, including
+nutrients, gases and secreted substances (Koo et al., 2018; Papadimitriou et al., 2018; Wevers et al.,
+2018).
+The extra spatial dimension of 3D cultures makes measuring the properties and activity of cells more
+challenging. Most work examines morphology and relies on calcium imaging to measure activity,
+without electrophysiology (Hopkins et al., 2015; Mofazzal Jahromi et al., 2019). Unfortunately,
+measuring the activity of deeper layers of neuronal organoids and 3D cultures remains a challenge
+and requires new technological approaches (Keller and Frega, 2019). Recent approaches include
+integration of microelectrodes in 3D arrays using complex assembly methods (Soscia et al., 2020;
+Shin et al., 2021) or designing 2D arrays to be embedded within 3D cultures (Le Floch et al., 2022;
+McDonald et al., 2023).
+In fact, a promising approach is to develop new microelectrode arrays (MEA) with integrated
+microfluidic structures (Neto et al., 2016). Direct fabrication of microfluidics on microelectrode arrays
+allows alignment with optical precision (~1 μm), and can be scalable. A challenge is the vertical height
+of required microfluidic structures, which must be >100 μm for 3D cell culture.
+Similar work has traditionally relied on placing microfluidic devices made of polydimethylsiloxane
+(PDMS) on conventional glass microelectrode arrays, defining interconnected compartments for
+multiple cell populations (Honegger et al., 2013; Odawara et al., 2013; Fan et al., 2016; Kilic et al.,
+2016; Adriani et al., 2017; Park et al., 2018; Wang et al., 2018; Izzi, 2021; Mateus et al., 2021).
+Alignment between the microfluidic device and the MEA often uses flip-chip methods with accuracy of
+only ~10 μm. Moreover, PDMS has well known drawbacks for substance testing due to absorption of
+hydrophobic compounds (Toepke and Beebe, 2006; van Meer et al., 2017). Using 2D adherent cell
+culture, such PDMS microfluidic chips with interconnected compartments have been used to study
+axonal transport (Lu et al., 2012), unidirectional axonal growth (Peyrin et al., 2011; Malishev et al.,

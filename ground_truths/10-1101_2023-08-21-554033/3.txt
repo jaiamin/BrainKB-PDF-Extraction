@@ -1,0 +1,107 @@
+(a)
+Open Ephys Acq. Board
+
+SPI cable
+Intan
+headstages
+
+bottom layer bumper
+
+top layer
+
+PCB
+interface
+pogo pins
+MEA
+
+stopper
+
+extened pogo pins
+
+hinge
+latch
+
+Design
+
+PCB options
+59 128 256 512
+
+data loading
+signal recorder
+
+data
+processing
+filtering
+spike detection
+spike cutouts
+raster visualization
+statistical analysis
+
+advanced
+network
+characterization
+
+channel-wise
+causality & coherence
+burst analysis
+information theory
+shannon entropy
+block entropy
+transfer entropy
+
+fluidic
+inlets
+
+4-well
+MEA
+
+optical stimulation
+optical electrical
+
+headstage (c) workstation
+
+mini-incubator tower
+
+optical stimulation modules
+
+platform inventory data acquisition &
+electrical stimulation
+controllers
+
+incubator
+Open Ephys GUI
+
+correlation
+
+cloud
+storage HPC
+
+stimulation
+
+stimulation
+
+Recording / Stimulation Platform
+(b)
+
+MiV-Open Software
+(e)
+
+short-term recording
+long-term recording
+
+(d)Lab Deployment
+
+(stimulation / ext. grounding)
+
+Figure 1: System overview. (a) CAD illustration of our recording platform, assembled from low-cost materials and commercially available
+parts. The platform is designed to be compatible with a series of PCB options across a variety of different recording capacities. The full list
+of components used to construct the hardware system can be found in the SI. (b) Assembled 128-channel recording platform. (c) Stimulation
+setup. Electrical stimulation can be performed by connecting a pulse generator (e.g. Stimjim) to extended pogo pins through a direct connection.
+Alternatively, for finer control, the Open Ephys terminal can be replaced with an Intan terminal, enabling bidirectional recording/stimulation across
+up to 128 channels. Optical stimulation is achieved by placing optical fibers on either side of the MEA. (d) Lab deployment of the recording system.
+Recordings are performed inside an incubator, while the data acquisition board and various external modules are set outside of the incubation
+environment. (e) Overview of the customized software package for data analysis, including an interface module for loading continuous or binary data
+recorded using the Open Ephys GUI, along with a variety of commonly utilized functions relevant for data processing and network characterization.
+Finally, we compare our design with existing alternatives.
+Recording platform. Central to our system is a platform that hosts MEA-chips and PCB interfaces to form a
+complete signal chain, from neural substrates to data acquisition terminal and downstream processing (Fig. 1a).

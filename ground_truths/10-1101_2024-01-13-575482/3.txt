@@ -1,0 +1,67 @@
+in terms of System 1 vs System 2 dichotomy may be attempted. In particular, [28] invokes "changes in arousal and/or
+emotion induced by the initial perception of the frame information, i.e. to framing effects capable of modulating
+between avoidance behaviors and approach behaviors.
+In this paper, we point out a candidate for a common mechanism behind all of the above findings. The mechanism
+we propose is not novel – it is the anchor-and-adjust heuristic [29] widely documented by a separate lineage of
+experimental literature (reviewed further below). Formalizing that heuristic into what we term Bayesian Anchoring,
+we calculate the outcome of time-constrained information processing in risky decision making and from that premise
+alone we derive the findings of [15].
+The outline of the paper is as follows:
+• We sketch what is arguably the most basic Bayesian framework for time-pressured cognition (Sec. II), with a
+view to pursuing it to its furthest logical conclusions. We feed into that framework (Sec. IV) a cognitive prior
+taken from empirical observations (reviewed in Sec. III), thus setting the structure of Bayesian Anchoring.
+• We reproduce the fourfold pattern of risk attitudes from Bayesian Anchoring (Sec. V), providing a coherent
+explanation to experimental findings on risky decision making under time pressure [15]. We show that multi-step
+iterations gradually diminish the fourfold pattern, which explains the recent, unexplained findings of Kirchler
+et al. (Sec. VI).
+• We then move to discuss what Ba ayesian anchoring theory would look like with priors different from the one we
+selected initially (Sec. VII), and we additionally present a number of theorems concerning the set of Bayesian
+Anchoring priors that would yield predictions compatible with experiments.
+• We finally summarize our contribution, compare Bayesian Anchoring to other modeling efforts in the literature,
+and discuss the new research directions it opens.
+
+II. MODELING FAST DECISIONS
+
+The problem we focus on is simply stated. The subject needs to make an informed guess on some not-immediately-
+known variable S ("decision variable") that quantifies the stochastic gain or loss (utility) associated to a decision
+
+problem. This guess will informed by some set of relevant knowledge K, which may be thought of as the result of
+reviewing past experience and simulating random outcomes accordingly.
+This conceptual setup resembles for example that of Lieder et al. [29], who proceed to develop a model based on
+the familiar theory of Markov Chain Monte Carlo (MCMC). However, here our focus is on choices constrained by
+limits on computation time, which makes a MCMC model inappropriate. Indeed, we cannot assume that adjustments
+
+are implemented through steps of the Metropolis-Hasting algorithm, which would require access to (possibly unnor-
+malized) conditional density P(S|K) and hence access to all relevant knowledge at once. It would take substantial
+
+time and computational effort to access, analyze, and synthesize all relevant knowledge. Instead, we assume that
+in time-constrained decisions, adjustments are driven by an iterative process wherein the belief over S is updated
+by integrating at every step a single piece of information from the set of relevant knowledge. We start by focusing
+on a tightly time-constrained regime, analyzing therefore a single such adjustment step. This may be thought of as
+a single round of simulations of the random outcome, used to update the utility based on the posterior from the
+realizations [30].
+Utility is most often represented in economics as taking values on the real line. We thus assume the random variable
+S to be realized by real values s. In the very first approximation, every piece of information K can be distilled into a
+pair of numbers (x, σ) describing the mean and standard deviation of possible values of s that this piece information
+supports (σ being the measurement error). The corresponding generative model, or likelihood function, can be written
+as
+
+ρ((x, σ)|s) = gσ(x − s) (1)
+
+where gσ(z) = [√
+2πσ]
+−1
+exp(−z
+2/(2σ
+2
+)) is a normal distribution with standard deviation σ. The assumption that
+the noise in the estimate of the value of interest is Gaussian is non-essential to results and is used here for mathematical
+convenience.
+The corresponding posterior probability density of s can be expressed as
+
+ρ(s|(x, σ)) = ρ((x, σ)|s)ρ0(s)
+ρ(x, σ)
+=
+gσ(x − s)ρ0(s)
+R
+dsgσ(x − s)ρ0(s)

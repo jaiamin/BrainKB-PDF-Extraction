@@ -1,0 +1,36 @@
+electrophysiology recording of the culture’s spontaneous activity are simultaneously acquired, and offline analyzed.
+A representative example of post-processed signals is illustrated in Fig. 6b. Calcium activity is characterized through
+changes in fluorescent intensity (∆F/F0, defined in Section 6.3) within a region of interest (ROI), which in turn
+determines the microelectrodes to be considered. Each peak in the fluorescence plot corresponds to a culture-wide
+burst event, during which we can observe a higher-intensity calcium signal across the network, relative to the rest
+state (illustrated in the inset images). Detected electrical signals are processed separately to reveal local field
+potentials (LFPs) and MUA during bursts, demonstrating that recording is not affected by laser-induced artifacts.
+Further, LFPs and MUA are found to precisely align temporally, confirming simultaneous neural responses across
+modalities. In a context where genetic optical markers continue to provide new avenues to probe cellular dynamics
+at high-spatial resolutions, complementary high-temporal resolution electrophysiology is seen as a powerful feature.
+4.4 Portability, robustness and reproducibility
+Finally, we expand our discussion to emphasize our platform’s portability, robustness and reproducibility, key factors
+for broad dissemination.
+Electrophysiology measurements are delicate and sensitive to hardware setup and testing environment, rendering
+the portability of recording solutions rarely reported or discussed (Fig. 2). Here, we demonstrate this capability
+through off-site recordings of organotypic brain slices prepared and cultured in Prof. Beggs lab at Indiana
+University Bloomington (presented in Section 4.2). To this end, a platform in use at the University of Illinois
+at Urbana-Champaign (UIUC) is disassembled and ground transported to Bloomington (∼180 miles, ∼ 3-hours
+drive). As presented in Fig. S5 in the SI, our system, after transportation, could be easily reassembled and deployed
+for experiments within half an hour. This demonstration compounds the above described case studies, further
+underscoring the robustness, versatility and accuracy of our systems across a variety of conditions.
+These favorable features led us to collect nearly 1000 hours of recording experiments in one year, amounting
+to tens of TB of data. This ability has motivated external researchers to adopt our systems as an alternative to
+commercial devices, providing us with the opportunity of testing the independent reproducibility and implementation
+of our platforms. Following our open-source designs and protocols, a graduate student from Prof. Saif lab at UIUC,
+with little experience in electronics and fabrication and without supervision, was able to assemble a working system
+within two weeks (Fig. S7 in SI).
+5 Conclusion
+We have presented a versatile, scalable and multi-modal electrophysiology solution, delivering a customizable signal
+pipeline stretching from in vitro neural substrates to cloud computing. Our approach significantly lowers barriers to
+entry, through the open-sourcing of designs, software and protocols, and via (over) ten-fold cost reductions. The
+utility of our platforms is showcased through a comprehensive set of demonstrations involving a variety of cell types
+and stimulation modalities, two- and three-dimensional systems, concurrent imaging and long-term recording. This
+study provides a launching pad to broaden the electrophysiology domain, both in terms of users and applications,
+and motivates us to further innovate across scale and functionalities, paving the way to new biophysical discovery
+and in vitro technologies.

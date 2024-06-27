@@ -1,0 +1,19 @@
+van Meer, B. J., de Vries, H., Firth, K. S. A., van Weerd, J., Tertoolen, L. G. J., Karperien, H. B. J., et
+al. (2017). Small molecule absorption by PDMS in the context of drug response bioassays.
+Biochemical and Biophysical Research Communications 482, 323–328. doi:
+10.1016/j.bbrc.2016.11.062.
+Wang, Y., Wang, L., Guo, Y., Zhu, Y., and Qin, J. (2018). Engineering stem cell-derived 3D brain
+organoids in a perfusable organ-on-a-chip system. RSC Adv. 8, 1677–1685. doi:
+10.1039/C7RA11714K.
+Wevers, N. R., Kasi, D. G., Gray, T., Wilschut, K. J., Smith, B., van Vught, R., et al. (2018). A perfused
+human blood–brain barrier on-a-chip for high-throughput assessment of barrier function and antibody
+transport. Fluids Barriers CNS 15, 23. doi: 10.1186/s12987-018-0108-3.
+
+Wevers, N. R., van Vught, R., Wilschut, K. J., Nicolas, A., Chiang, C., Lanz, H. L., et al. (2016). High-
+throughput compound evaluation on 3D networks of neurons and glia in a microfluidic platform.
+
+Scientific Reports 6, 38856. doi: 10.1038/srep38856.
+World Health Organization (2006). Neurological disorders : public health challenges. 218.
+Xu, T., Molnar, P., Gregory, C., Das, M., Boland, T., and Hickman, J. J. (2009). Electrophysiological
+characterization of embryonic hippocampal neurons cultured in a 3D collagen hydrogel. Biomaterials
+30, 4377–4383. doi: 10.1016/j.biomaterials.2009.04.047.

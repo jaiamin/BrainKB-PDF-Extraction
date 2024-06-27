@@ -1,0 +1,57 @@
+A
+
+G
+
+J K
+H I
+C
+
+B D
+
+E
+
+F
+
+TRPV1::ChR2 CGRP
+ChR2
+CGRP ChR2
+CGRP ChR2
+NF200
+ChR2
+CGRP
+NF200
+ChR2
+NF200
+
+NR
+
+1.5
+
+0
+Response Intensity (mW)
+
+1 2 3 4
+λ = 470 nm
+
+1 2 3 4
+λ = 470 nm 470 470 532
+
+5 5 1 2 3 4 5
+λ = 532nm
+
+Ai32 Ai32
+TRPV1cre
+
+Ai32
+TRPV1cre
+
+ChR2 expression
+control
+
+Experimental
+paradigm
+
+Photostimulation
+control
+
+Ai32

@@ -1,0 +1,46 @@
+A. Datasets
+In this work, we utilise three datasets: Dataset I is a newly recorded dataset that deals
+with subjects attending to an auditory stimulus versus subjects ignoring that stimulus
+while focusing on silently reading a text or solving arithmetic exercises. Dataset II
+originates from [11] where subjects were either instructed to attend to an auditory stimulus
+or to ignore that stimulus while focusing on a silent movie. Finally, Dataset III is an sAAD
+dataset of [21].
+1) Dataset I: Goal: The goal of this experiment is to investigate the neural differences
+between a setting where the subject is actively listening to a speech stimulus, and a
+distractor condition where the subject ignores the auditory stimulus while focusing on
+silently reading a text or solving arithmetic exercises.
+Subjects: 10 Dutch-speaking subjects (5 male, 5 female), between 21 and 27 years old,
+participated in the experiment. These subjects were unpaid volunteers and signed an
+informed consent, approved by the Social-Societal Ethics Committee at KU Leuven.
+Experiments were conducted according to these regulations.
+Equipment: A 24-channel Smarting mobile EEG recording system was utilised [22].
+The experiment was conducted in a non-radio frequency shielded room and the scalp of
+the subjects was treated with electroconductive gel while fitting the EEG cap. Raw EEG
+data were converted into MATLAB-compatible files using OpenVibe software [23].
+Presentation structure: The speech stimuli consisted of children stories in Dutch [24].
+The experiment consisted of four phases, and a different story was used in each phase. The
+narrators were all male, except in phase two. An overview of the presentation structure
+within each phase can be found in Fig. 2. In the first phase, the subjects were instructed
+to listen to a story (‘Bianca en Nero’) for 20 minutes, referred to as ‘Audio’ in Fig. 2. To
+engage the subjects, they were told upfront that a questionnaire, concerning the content
+of that auditory fragment, had to be filled in at the end of the phase.
+In the second phase, the subjects again had to listen to a story (‘Ver van het kleine
+paradijs’) for 11 minutes, after which a questionnaire had to be filled in about the content
+of the fragment. However, during this second phase, specific tasks were displayed on a
+computer screen at certain times to manipulate the attention to the speech. A first task
+consisted in solving as many arithmetic exercises (e.g., 1012 − 448 = 564) as possible
+within one minute, in order to reduce the attention to the speech. The subjects were
+informed that no questions in the questionnaire would originate from those parts of the
+story during which the arithmetic exercises had to be conducted. As a second task, the
+subjects were informed that they should listen even more attentively for one minute
+since questions were certainly to be asked about this following minute of the fragment,
+requiring increased attention to the speech. The presentation structure of this phase 2 is
+shown in Fig. 2, where ‘Mathematics’ refers to segments where subjects were instructed
+to solve arithmetic exercises and where ‘Question’ refers to segments where subjects
+were informed that a question had to be answered about the next minute in the story.
+The third phase used the same setup as the second phase, but the presentation structure
+was changed as shown in Fig. 2 and a different story stimulus was used (‘Milan’).
+In a final, fourth phase, the subjects were instructed to focus on silently reading a text
+while ignoring the auditory stimulus (‘Eline’), a condition referred to as ‘Text’ in Fig. 2.
+This text was provided as a printed document, and consisted of a Dutch version of the
+short story ‘Vergif’ written by Roald Dahl [25]. As before, subjects were informed in

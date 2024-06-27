@@ -1,0 +1,12 @@
+deactivation or a lack of mitochondria leads to elevated calcium levels in the cytoplasm and at
+synapses upon stimulation (40, 41). We therefore performed Ca-imaging at day 37 of the
+neuronal differentiation and indeed observed an increase of the calcium signal amplitude in
+miR-1229-3p depleted neurons in comparison to the control (Fig. 5j) while the peak duration
+was not changed (Suppl. fig. S23). These results corroborate the electrophysiological recordings
+of spontaneous bursts in igNeurons treated with pLNA-1229 (cf. Fig. 3j and Suppl. fig. S16d).
+Strikingly, activation of mitochondria by the addition of GSK-2837808A and AlbuMAX (28)
+rescued the elevated calcium signal amplitude (Fig. 5j), demonstrating that impaired calcium
+buffering in miR-1229-3p depleted human neurons is a consequence of disturbed mitochondrial
+function. In conclusion, we show that interfering with miR-1229-3p during synaptogenesis
+enhances mitophagy and mitochondrial fission, which ultimately leads to defects in calcium
+buffering and metabolic function.

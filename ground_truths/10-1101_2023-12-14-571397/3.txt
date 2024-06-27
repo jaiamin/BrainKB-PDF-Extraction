@@ -1,0 +1,45 @@
+arithmetic [16], and subjects in rest from subjects fixated on flashing patterns [17]. In
+[13], it was found that training neural decoders on high SE segments resulted in an
+improved decoding performance when evaluating on the full validation set. However, no
+performance difference was found between evaluating the decoders on high versus low SE
+validation segments. Corresponding to these results, higher SE levels were hypothesised
+to correspond to higher auditory attention levels.
+In this paper, we aim to detect whether or not a subject actively listens to a single
+speaker and compare across different distractor conditions. To this end, we introduce a
+new EEG dataset with 10 subjects, wherein subjects are asked to either actively listen to a
+speech stimulus or to ignore it while silently reading a text or solving arithmetic exercises.
+Next to this dataset, we reuse a dataset from [11] in which the distractor condition consists
+of watching a silent movie [11]. We then investigate whether both NET and SE can
+distinguish between the active listening condition and any of these distractor conditions.
+Finally, we combine this with an sAAD task with two competing speakers, in which the
+attended and unattended speaker needs to be discriminated. Segments labelled as passive
+listening by the NET and SE features are removed at validation time, attempting to take
+out segments in which the subject is not paying attention to any of the speakers, hence
+for which no truthful sAAD decision can be made.
+In what follows, the modulation of the active listening towards a single auditory
+stimulus, i.e., detecting when a subject is in a state of (in)active listening, will be
+referred to as absolute auditory attention detection (aAAD). The selective attention in
+a multispeaker scenario, i.e., decoding to whom the subject is listening, will be referred
+to as selective auditory attention decoding (sAAD), conform the literature [5]. Fig. 1
+illustrates the difference between both scenarios, and shows how to combine them within
+the same framework.
+Our research is complementary to, yet distinct from, [11] and [13]. First, we focus
+on natural speech within a broader scope of conditions, as opposed to [13], where no
+distractor conditions were present, and to [11], where only a silent movie distractor
+condition was used and where only artificial, standardised sentences were used as speech
+stimuli at validation time, requiring little semantic processing in the brain [11]. Second,
+we compare both the NET and SE features to discriminate between the active listening
+condition and distractor conditions, whereas the previous studies mostly focused on either
+one of them and consequently do not have such a direct comparison. Finally, we apply
+aAAD to the sAAD task by only evaluating the sAAD performance on segments where
+the subject is signalled to listen actively.
+We will demonstrate that higher SE does not necessarily correspond to a higher auditory
+attention (as hypothesised in [13]), i.e., SE shows different trends depending on the choice
+of the alternative (passive listening) condition. We will also demonstrate that the NET
+metric shows consistent behaviour, i.e., it is always higher in the active listening condition
+compared to the passive listening condition, and is therefore the better choice for aAAD.
+This paper is structured as follows. First, we describe the algorithmic methodology
+to extract the NET and SE features for aAAD, and explain how to use these to detect
+active versus passive listening conditions. Thereafter, we briefly review the sAAD task
+and methodology. The datasets, data processing, and experimental setup are subsequently
+described. Finally, we discuss the corresponding results and conclusions.

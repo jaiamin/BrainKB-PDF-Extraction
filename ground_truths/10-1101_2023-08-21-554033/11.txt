@@ -1,0 +1,181 @@
+Fluidic Interface
+needles
+
+guide post 30 μm 5 μm
+
+1
+120
+
+time (s)
+
+channel
+100
+80
+60
+40
+20
+0 5 10 15 20 25 30
+
+1
+120
+channel
+100
+80
+60
+40
+20
+
+time (s)
+
+0 0.25 0.5 0.75 1 1.25 1.5 1.75
+Spontaneous
+
+Electrical Stimulation
+
+firing rate (Hz) firing rate (Hz)
+
+μV SUA
+ch. 3 ch. 10 ch. 81 ch. 56
+25
+-25
+0
+50
+-50
+0
+
+25
+-25
+0
+time (s) 0 1
+25
+-25
+0
+
+MUA SUA
+
+time (s) 0 0.05 0.1
+100
+-100
+0
+25
+-25
+0
+
+100
+-100
+0
+50
+-50
+0
+μV MUA
+
+spike cutouts
+1 ms
+
+50 μV
+ch. 10
+
+1
+2
+3
+4
+5
+6
+7
+
+1
+16
+Spontaneous
+
+1 8
+1
+16
+Electrical stimulation
+
+(a)
+
+mesh
+
+Exp. setup
+brain slices
+
+cortex
+
+(b)
+
+(c) (d)
+Organotypic Brain Slice 3D Engineered Tissue Mimics
+Neural Spheriod Neuron-ECM Mixture
+
+5
+10
+15
+20
+25
+30
+
+0
+
+engineered
+neural
+spheriod
+
+culture media
+1 3
+
+2 4
+
+1 square
+
+2 rectangle
+
+3 circle
+
+4 triangle (e)
+
+(g)
+
+free-floating
+
+on MEA 400μm
+1mm
+
+0 10 20
+60
+40
+20
+10
+0
+30
+50
+channel
+
+time (s)
+80
+40
+20
+1
+60
+100
+
+channel
+0 40
+time (s) (f) 80 120
+
+(h)
+120
+
+Figure 5: Higher dimensional neural systems. (a) Platform integration with an add-on fluidic interface module for brain slice recordings. The
+add-on module is made of bio-compatible stereolithography material using a Formlabs 3D printer. Before the experiment, the printed parts are
+autoclaved and sanitized to ensure nontoxicity to the brain tissue. Hypodermic needles used for fluid flow are grounded to the recording system
+to minimize noise levels. (b) Microscopic images of organotypic brain slices placed on curved MEAs with either 30 or 5μm electrode diameters.
+Electrodes are arranged to match the curvature of the cortex region, which is the shaded area around the center of the slice. (c) Spike raster
+of spontaneous tissue activity, measured around 10mins after transferring onto the MEA. A raster plot corresponding to electrically stimulated
+activity, measured around 15mins after transferring, is also reported. Each red dashed line indicates a single biphasic pulse (applied at the bottom
+stimulation site). Snapshots of filtered neuronal signals during spontaneous recording showcasing single-unit and multi-unit activities. Cutouts are
+plotted to demonstrate the detection of characteristic spike shapes. (d) Firing heatmaps of spontaneous and stimulated activities. (e) 3D engineered
+neural tissue mimics (NTMs) made of cell-ECM mixture. Custom multi-well MEA hosts PDMS molds of 4 different shapes, demonstrated in various
+controlled NTMs geometries. GFP signals illustrate motor neurons distribution within each tissue. (f) Spontaneous activity recorded on day 7,
+from an NTM sample seeded on a 128-electrode, rectangular MEA. (g) Engineered neural spheroids. Microscopic images are taken to visualize
+free-floating spheroids and after transferring onto a commercial MEA (used here to confirm cross compatibility with our platform). (h) Spontaneous
+activity recorded from the same sample.

@@ -1,0 +1,6 @@
+cognitively-intact, an additional 24 participants scoring 22 or below on the MoCA were excluded
+from analysis; a cutoff score of 23 has been recommended to minimize the false positive rate for
+aMCI (Carson, Leach, & Murphy, 2018). An additional participant was excluded due to a
+GABA+/Cr value falling 4.78 standard deviations from the site mean. A GABA+/Cr fit error
+criterion of 15% was applied; however, this did not result in the exclusion of additional
+participants. Demographic data for retained participants (N = 100) are presented in Table 2.

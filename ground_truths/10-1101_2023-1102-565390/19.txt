@@ -1,0 +1,21 @@
+[36] Spencer NJ, Hu H. Enteric nervous system: sensory transduction, neural circuits and
+gastrointestinal motility. Nature reviews Gastroenterology & hepatology
+2020;17(6):338-351.
+[37] Stemkowski P, García-Caballero A, Gadotti VDM, M'Dahoma S, Huang S, Black SAG,
+Chen L, Souza IA, Zhang Z, Zamponi GW. TRPV1 nociceptor activity initiates
+USP5/T-type channel-mediated plasticity. Cell reports 2016;17(11):2901-2912.
+[38] Tan P, He L, Huang Y, Zhou Y. Optophysiology: Illuminating cell physiology with
+optogenetics. Physiological Reviews 2022;102(3):1263-1325.
+[39] Tashima R, Koga K, Sekine M, Kanehisa K, Kohro Y, Tominaga K, Matsushita K,
+Tozaki-Saitoh H, Fukazawa Y, Inoue K. Optogenetic activation of non-nociceptive
+Aβ fibers induces neuropathic pain-like sensory and emotional behaviors after nerve
+injury in rats. eneuro 2018;5(1).
+[40] Wang H, Zylka MJ. Mrgprd-expressing polymodal nociceptive neurons innervate most
+known classes of substantia gelatinosa neurons. J Neurosci 2009;29(42):13202-13209.
+[41] Willis WD. The role of TRPV1 receptors in pain evoked by noxious thermal and
+chemical stimuli. Experimental Brain Research 2009;196(1):5-11.
+[42] Zhang Z, Roberson DP, Kotoda M, Boivin B, Bohnslav JP, González-Cano R,
+Yarmolinsky DA, Turnes BL, Wimalasena NK, Neufeld SQ, Barrett LB, Quintão
+NLM, Fattori V, Taub DG, Wiltschko AB, Andrews NA, Harvey CD, Datta SR,
+Woolf CJ. Automated preclinical detection of mechanical pain hypersensitivity and
+analgesia. Pain 2022;163(12):2326-2336.

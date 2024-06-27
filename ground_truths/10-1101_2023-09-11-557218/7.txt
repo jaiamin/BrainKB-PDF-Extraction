@@ -1,0 +1,72 @@
+explain the latter, it is important to note that this
+employed approach using current tools to maximize
+cell-selectivity for deletion of Vglut3 nonetheless
+does so in all SCN-projecting neurons, thus not only
+mrEn1-Pet1→SCN neurons but also a serotonergic,
+non-glutamatergic (Vglut3-
+
+) subset of the MRN
+
+neuron group called r2Hoxa2-Pet17,37
+
+. Across these
+two MRN neuron groups that project to the SCN
+collectively (mrEn1-Pet1→SCN and
+r2Hoxa2Pet1→SCN neurons), only ~50% of the soma
+express Vglut3 transcript and VGLUT3 protein, i.e.
+
+Fig. 4. Genetic blockade of VGLUT3 deployment disrupts
+sleep/wake timing upon exposure to photoperiod change. a,
+Schematic of the experimental approach and timeline. b,
+Representative heatmaps depicting control (upper row) and
+cKO (lower row) daily wakefulness, NREM and REM sleep
+(expressed as % per hour) across days during habituation to
+short photoperiod (schedule schematized in upper left panel).
+c, Time spent awake between ZT5 and ZT12 (Mixed-effect
+model, interaction genotype x time, F (20, 114) = 9.757,
+p<0.0001, followed by Sidak’s multiple comparison test). d,
+Time spent asleep (NREM+REM) between ZT5 and ZT12
+(Mixed-effect model, interaction genotype x time, F (20, 54) =
+11.19, p<0.0001, followed by Sidak’s multiple comparison
+test). e, Representative heatmaps depicting control (upper row)
+and cKO (lower row) daily wakefulness, NREM and REM
+sleep across days during habituation to long photoperiod
+(schedule schematized in upper left panel). f, Time spent
+awake between ZT12 and ZT19 (two-way ANOVA, genotype
+effect, F (1, 139) = 56.78, p<0.0001, followed by Sidak’s
+multiple comparison test). g, Time spent asleep between ZT12
+and ZT19 (two-way ANOVA, genotype effect, F (1, 145) =
+29.22, p<0.0001, followed by Sidak’s multiple comparison
+test). Short photoperiod: n = 4 (control), 4 (cKO). Long
+photoperiod: n = 6 (control), 6 (cKO). Within the heatmaps,
+black arrow and horizontal dashed white line indicate
+photoperiod switch. Vertical dashed white line indicates time
+of day of previous dark onset. Vertical white solid lines delimit
+dark phase. All data expressed as mean ± s.e.m. Curve graph:
+solid line, mean; shaded area, s.e.m.
+
+the mrEn1-Pet1→SCN neuron subtype; r2Hoxa2-
+Pet1→SCN neurons do not37 (corresponding to the
+VGLUT3-negative subset in AAVretro-tdTomato
+injected animals; Fig. 3d). We surmise that no other
+VGLUT3+
+
+neuron population projects to the SCN
+because the VGLUT3+ boutons in the SCN always
+colocalize with 5-HT (across photoperiod
+conditions) and thus are from Pet1 neurons.
+Collectively, these data suggest that the employed
+genetic approach results in functional loss of
+VGLUT3 selectively in mrEn1-Pet1→SCN neurons.
+Next, we checked whether Vglut3 deletion in
+SCN-projecting Pet1 neurons would cause circadian
+disturbances in mice continuously exposed to
+equinox conditions. AAVretro-Cre-injected
+Vglut3flox/flox (conditional knockout, cKO) mice
+showed no gross circadian abnormalities and were
+
+indistinguishable from control AAVretro-tdTomato-
+injected Vglut3flox/flox mice (Extended data Fig. 5a-d).
+
+Next, we exposed a separate cohort of cKO and
+control mice to short photoperiod and monitored

@@ -1,0 +1,139 @@
+we can write
+
+sˆ(x) = x + σ
+2
+∂x log Z
+ds ρ(s)gσ(x − s) = x + σ
+2
+∂x log 
+exp 
+σ
+2∂
+2
+x
+2
+
+ρ(x)
+
+
+(S5)
+where the second term represents the mean-value shift from measurement due to the prior’s traction, expressed
+compactly via the differential formulation of a Weierstrass transform [40].
+As seen from (S5), antisymmetry of sˆ(x) implies antisymmetry of the second term on the RHS, hence symmetry
+of the function subjected to ∂x. Log being bijective on R
+
++, that entails in turn symmetry of the argument of the
+logarithm, that is, of the Weierstrass transform of the prior. But the Weierstrass transforms commute with the parity
+operator, from which we infer symmetry of the prior itself.
+
+B. Gaussian identities
+
+For some of the following manipulations it will be useful to recall, as a preliminary, that the product of two Gaussian
+densities can be written as
+Gμ1,σ1
+(s)Gμ2,σ2
+(s) = G0,
+√
+σ
+2
+1+σ
+2
+2
+(μ1 − μ2) Gμ12,σ12 (s) (S6)
+
+where
+
+μ12 =
+μ1σ
+2
+2 + μ2σ
+2
+1
+σ
+2
+1 + σ
+2
+2
+σ
+2
+12 =
+σ
+2
+1σ
+2
+2
+σ
+2
+1 + σ
+2
+2
+
+(S7)
+
+So if the prior is Gaussian with zero-mean and variance γ
+2
+, applying (S6) with σ1 = σ and σ2 = γ we see that the
+
+resulting normalization prefactor is gΣ(0), where we are establishing the notation Σ
+2 = γ
+2 + σ
+2
+, and the normalized
+
+posterior distribution is φ(s|x) = Gsˆ(x),Γ(s) with the posterior variance
+
+Γ
+2 =
+σ
+2γ
+2
+σ
+2 + γ
+2
+
+(S8)
+
+(note that σγ = ΣΓ) and the posterior mean
+
+sˆ(x) ≡ ⟨s|x⟩ = ⟨s⟩x =
+γ
+2x
+σ
+2 + γ
+2
+
+(S9)
+which is linear in x. In particular, it will be useful to remember that the posterior mean is O(x) for large x whereas
+the variance is O(1).
+
+C. Connection between perceived utility and posterior cumulants
+
+We are going to prove the statement that
+∂
+n
+x
+sˆ(x) = σ
+−2n
+C
+(n+1)
+x
+
+(S10)
+
+where we defined the cumulants of the posterior distribution as
+
+C
+(n)
+x = n!
+
+∂
+n
+∂tn
+log⟨e
+ts⟩s|x
+
+t=0
+
+(S11)
+We will prove relationship (S10) by induction. For n = 0, (S10) reduces to sˆ(x) = ⟨s⟩s|x and therefore is true.
+Assume that Eq. (S10) is verified for n − 1. We write then its LHS for n as

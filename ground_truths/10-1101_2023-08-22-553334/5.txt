@@ -1,0 +1,33 @@
+known to contribute to the production or maintenance of cellular processes. Thus, while conjectural at this stage, a
+number of possible downstream mechanisms of action could be proposed based upon established associations of
+PalmD’s direct or indirect protein partners.
+Our prior work 7 and that of others 41 outlines what could be a key upstream pathway that impinges on the
+Pdlim5:PalmD complex revealed here, with consequent effects upon gross dendritic morphology. Specifically, Pdlim5’s
+(and thereby PalmD’s) association with delta-catenin is determined by a “phospho-switch” at the very C-terminus of
+delta-catenin. As reflected in this report’s Graphical Abstract, the phosphorylation of delta-catenin is responsive to
+upstream glutamate signaling via the neuronal mGluR5 receptor and consequent activation of Cdk5 kinase 7
+. Even as
+future work will be needed to precisely identify the cytoskeletal players downstream of the delta-catenin:Pdlim5:PalmD
+complex, we speculate as noted the direct involvement of cortactin, alpha-actinin4, and RhoA inhibition, as well as the
+spectrin network and membrane-curvature agents. In summary, we unveil here a novel Pdlim5:PalmD complex that
+associates with delta-catenin, which through functional interdependencies, promotes dendritic branching-morphology
+required in development and is aberrant (see Introduction) in multiple pathological contexts.
+
+ACKNOWLEDGEMENTS.
+We thank past lab member Ryan Baumert PhD for being instrumental in initiating our group’s work upon dendrite
+morphology 7
+
+. For helpful discussion we thank the following primary investigators and the members of their labs:
+Malgosia Kloc PhD, Rachel Miller PhD, and Jaeil Park PhD. Use of the A1-Nikon (confocal images) was made possible via
+the UT MDACC Department of Genetics NIH Instrumentation Grant 1S10OD024976-01 (AP). Assistance with DNA
+sequencing was provided from the National Cancer Institute Core Grant CA-16672 to UT MDACC. This work was
+supported by NIH 1RO1MH115717 (PDM & MNW). MNW acknowledges an endowment from the William Wheless III
+Professorship, and PDM acknowledges an Ashbel Smith Professorship.
+The authors declare no competing financial interests.
+AUTHOR CONTRIBUTIONS.
+YS, PDM and MNW planned the project. YS analyzed the data in communication with PM and MNW. YS conducted the
+bulk of the experiments, with LLM and MNW preparing the rat primary hippocampal and cortical cultures. MD
+undertook the proximity ligation assays of Pdlim5 with PalmD, and ascertained their endogenous localizations via
+immunofluorescence, with assistance from LLM and MNW. APH assisted with advising YS and the laboratory on imaging.
+The manuscript was written by YS and PDM with consistent input from MNW. All authors read and approved
+submission of the final version of the manuscript.

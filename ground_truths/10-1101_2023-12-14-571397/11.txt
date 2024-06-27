@@ -1,0 +1,50 @@
+V. RESULTS
+A. Absolute auditory attention detection
+Fig. 3 shows the individual data points and the per-subject averages, across windows
+and folds, for the cross-validation on Dataset I and Dataset II for the 10 s and 30 s
+windows. The two-sided Wilcoxon signed rank test on the per-subject averages indicates
+a significant difference between the active listening and distractor conditions for both
+the NET and SE features (max(p) = 0.047). Herein, the NET correlations attain higher
+values in the active listening than in the distractor conditions, whereas the SE attains
+lower values in the active listening than in the distractor conditions. For the NET, these
+results are consistent with [11], where higher NET correlations were found for subjects
+actively listening than for subjects passively listening while watching a silent movie.
+Nevertheless, while [11] used artificial, standardised sentences, we used natural speech
+and introduced two new distractor tasks. For the SE, the reverse trend is observed to [13],
+where higher SE values were found to correlate with active listening than with passive
+listening without any distractor.
+These feature values correspond to classification accuracies using the LDA classifier as
+shown in Fig. 4. Both the NET and the SE features outperform chance level, computed
+as the upper bound of a 95% one-sided confidence interval of a binomial distribution
+with success rate 0.5. Both features are subsequently able to discriminate between the
+active and passive listening condition, wherein the NET visually seems to suffer more
+from shorter window lengths than the SE.
+B. Combination of aAAD and sAAD
+Fig. 5 shows the sAAD accuracy evaluated on the x%, x = 0, . . . , 100, highest
+
+active listening segments signalled as the highest NET correlation and lowest SE seg-
+ments, in correspondence with the results on Dataset I and Dataset II. As hypothesised,
+
+when evaluating the sAAD performance on the highest NET correlation segments, the
+sAAD accuracy increases as the proportion of the validation set decreases, corresponding
+to keeping the x% highest attention windows. This trend is, furthermore, significant
+(max(p) = 7.00 · 10−7
+
+). However, evaluating sAAD performance on the lowest SE seg-
+ments, contrary to the results on Dataset I and II, shows a significant negative trend
+
+when decreasing the proportion of the validation set used (max(p) = 0.0023). This trend
+is different from the SE results on Dataset I and Dataset II, but consistent with the results
+of [13].
+
+VI. DISCUSSION
+
+As shown in Fig. 3 and Fig. 4, both the NET and SE features yield significant
+differences between the active listening and distractor conditions. Nevertheless, while
+the NET correlations are consistently higher in the active listening condition than in the
+distractor conditions in line with [11], this relation is inconsistent for the SE. Indeed,
+contrary to the findings in [13], where a higher SE is found for the active listening
+condition than for a passive (not performing any task) condition, the results on Dataset
+I and Dataset II show a higher SE on the movie watching, arithmetic exercise solving
+and text reading distractor conditions (with passive listening) than on the active listening
+condition without such distractor task. In agreement with these results the sAAD accuracy

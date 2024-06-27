@@ -1,0 +1,34 @@
+RESULTS
+Selective ChR2 expression and peripheral photostimulation responses
+Several studies have validated the outcome of crossing of TRPV1cre and cre-dependent ChR2
+expressing transgenic mouse lines, however, the fidelity of ChR2-expression in animals used
+for these experiments and specificity of photostimulation responses was first assessed.
+Immunolabeling analysis was undertaken in DRG and spinal cord tissue from a group of
+animals (n = 4). In DRG sections, ChR2/GFP (green) expression showed strong overlap with
+
+CGRP+ profiles (red) consistent with high expression in peptidergic nociceptors (Figure 2A-
+D). In contrast, there was minimal overlap in ChR2/GFP (green) expression with NF200+
+
+profiles (blue), supporting negligible ChR2/GFP expression in large diameter myelinated
+afferents (Figure 2A-D). Group data comparisons confirmed that 51.33% ± 12.60% of
+ChR2+ cells co-expressed CGRP, whereas co-expression of ChR2 and NF200 was rare,
+accounting for only 3.43% ± 0.47% of ChR2+ cells (Figure 2E). Conversely, ChR2
+expression was present in 65.22% ± 10.26% of the CGRP+ population but only 11.66% ±
+1.00% of NF200+ profiles (Figure 2E). Comparisons of DRG cell diameter also showed that
+ChR2+ and CRGP+ populations were small diameter (TRPV1::ChR2: 19.49 ± 1.10 μm;
+CGRP: 21.33 ± 0.55 μm), unlike the larger diameter NF200+ DRG population (30.35 ± 1.15
+μm) (Figure 2F). In the spinal cord, ChR2/GFP expression was restricted to the superficial
+dorsal horn, overlapping with CGRP labelling and consistent with the distribution of
+TRPV1+ terminals (Figure 2G-I) [5; 11; 37]. Together, these observations in DRG and spinal
+cord are consistent with selective expression of ChR2 in nociceptive, and not low threshold
+mechanosensitive afferents [13; 37].
+
+To confirm the selective ability of in vivo peripheral photostimulation in TRPV1::ChR2
+animals (n = 8) to evoked nocifensive responses, two important control cohorts were also
+assessed (Figure 2J). One control included a subset of animals (n = 4) from the uncrossed
+Ai32 parent line where a loxP-flanked STOP cassette prevents ChR2 expression. The second
+control used crossed TRPV1::ChR2 mice, allowing for ChR2-expression, but a peripheral
+photostimulation wavelength (532 nm) outside the peak excitation wavelength for ChR2 (470
+nm). Consistent with the previous literature, peripheral photostimulation of TRPV1::ChR2
+mice at 470 nm of varying intensities produced distinct behavioural responses indicative of
+nociception with a mean optical threshold for responses of ~ 1mW. In contrast, Ai32 mice

@@ -1,0 +1,21 @@
+Fig. 4. Classification accuracies of the absolute auditory attention detection (aAAD) task on Dataset I and Dataset
+II using the neural envelope tracking (NET) correlations and the spectral entropy (SE). The mean accuracy across
+the subjects is marked in bold and the standard deviation is shown as shading. On both datasets, the methods yield
+accuracies above chance level.
+
+Fig. 5. Selective auditory attention decoding (sAAD) accuracies on the x%, x = 0, . . . , 100, highest active listening
+segments, as signalled by the highest neural envelope tracking (NET) correlation and lowest spectral entropy (SE)
+segments conform the findings on Dataset I and Dataset II. By selecting the highest NET correlation segments and
+only evaluating sAAD performance on these segments, the sAAD accuracy increases with a decreasing proportion of
+the validation set used, whereas the reverse is observed when selecting low SE segments. This trend is present for all
+the 10 s, 30 s and 60 s window lengths.
+Nevertheless, the SE does prove useful in discriminating between two distinct, predefined
+tasks (e.g., active listening versus watching a movie) whenever both tasks require a
+different amount of cognitive resources. However, the relative change of the SE between
+two conditions will depend on the nature of the task(s) in both conditions, and is not
+necessarily (directly) related to the state of active versus passive listening. This hypothesis
+is, furthermore, consistent with the predictive power of the SE in dedicated tasks, such
+as for anaesthetic depth [14], [15], respiration movements [15], sleep stages [15], and
+imagined finger movement [15], and consistent with the discriminative power in dedicated
+tasks, such as between subjects in rest and subjects performing mental arithmetic [16],
+and between subjects in rest and subjects fixated on flashing patterns [17]. The NET

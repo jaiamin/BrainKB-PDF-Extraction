@@ -1,0 +1,35 @@
+Fig. 1. Overview of absolute auditory attention detection (aAAD), selective auditory attention decoding (sAAD) and
+their combination. (a) In aAAD, the subject is attending a single auditory stimulus, either in a state of attention or
+inattention to the speech (i.e., active or passive listening). At training time, data from these two conditions are leveraged
+to train the features and classifiers. At validation time, these are used to assess whether the subject is actively listening
+or not. (b) Contrarily, in sAAD, multiple auditory stimuli are simultaneously present at each given moment. At training
+time, the data are again leveraged to train the features and classifiers. At validation time, however, the sAAD features
+and classifiers are used to discriminate to which stimulus the subject is attending. (c) Both setups can be combined,
+where the sAAD performance is evaluated only on segments where active listening is signalled, removing segments
+of auditory inattention.
+
+II. ABSOLUTE AUDITORY ATTENTION DETECTION
+
+To detect whether a subject is in a state of active listening, i.e., perform aAAD, we
+will extract two features from the EEG:
+1) Neural envelope tracking (NET): In the presence of a speech stimulus, the neural
+response tracks certain characteristics of that speech stimulus, such as its envelope,
+i.e., the slow variations over time [1], [6]–[8], [13]. This envelope tracking is
+hypothesised to be more strongly present when the subject is more attentive to
+the speech [1], [11].
+2) Spectral entropy (SE): Different tasks or conditions result in different neural
+activity across the brain [4], [13], [14], [16]–[18]. These differences in neural
+activity can, e.g., be quantified using the SE of the EEG recorded at a particular
+scalp location. The SE is hypothesised to quantify the predictability or regularity
+in the EEG activity, as will be detailed infra [13]–[17]. In [13], it was hypothesised
+that the SE is higher in active listening compared to passive listening conditions.
+The NET feature is discussed first, and the SE feature thereafter.
+A. Neural envelope tracking
+
+To evaluate the degree of envelope tracking, a decoder consisting of a linear spatio-
+temporal filter is applied to the EEG signals to reconstruct the envelope of the speech
+
+stimulus. This is commonly achieved by minimising the squared error between the
+original and reconstructed speech envelope [1], [2], [11]. The degree of envelope tracking
+can subsequently be assessed by computing the correlation coefficient ρ(.) between the
+reconstructed and ground truth envelope.

@@ -1,0 +1,49 @@
+REFERENCES.
+1. Lefebvre, J.L. (2021). Molecular mechanisms that mediate dendrite morphogenesis. Curr Top Dev Biol
+142, 233-282. 10.1016/bs.ctdb.2020.12.008.
+2. Lanoue, V., and Cooper, H.M. (2019). Branching mechanisms shaping dendrite architecture. Dev Biol
+451, 16-24. 10.1016/j.ydbio.2018.12.005.
+3. Zang, Y., Chaudhari, K., and Bashaw, G.J. (2021). New insights into the molecular mechanisms of axon
+guidance receptor regulation and signaling. Curr Top Dev Biol 142, 147-196.
+10.1016/bs.ctdb.2020.11.008.
+4. Bodakuntla, S., Nedozralova, H., Basnet, N., and Mizuno, N. (2021). Cytoskeleton and Membrane
+Organization at Axon Branches. Front Cell Dev Biol 9, 707486. 10.3389/fcell.2021.707486.
+5. Ma, S., and Zuo, Y. (2022). Synaptic modifications in learning and memory - A dendritic spine story.
+Semin Cell Dev Biol 125, 84-90. 10.1016/j.semcdb.2021.05.015.
+6. Runge, K., Cardoso, C., and de Chevigny, A. (2020). Dendritic Spine Plasticity: Function and
+Mechanisms. Front Synaptic Neurosci 12, 36. 10.3389/fnsyn.2020.00036.
+7. Baumert, R., Ji, H., Paulucci-Holthauzen, A., Wolfe, A., Sagum, C., Hodgson, L., Arikkath, J., Chen, X.,
+
+Bedford, M.T., Waxham, M.N., and McCrea, P.D. (2020). Novel phospho-switch function of delta-
+catenin in dendrite development. J Cell Biol 219. 10.1083/jcb.201909166.
+
+8. Horiuchi, Y., Ishikawa, M., Kaito, N., Iijima, Y., Tanabe, Y., Ishiguro, H., and Arinami, T. (2013).
+Experimental evidence for the involvement of PDLIM5 in mood disorders in hetero knockout mice.
+PLoS One 8, e59320. 10.1371/journal.pone.0059320.
+9. Kato, T., Iwayama, Y., Kakiuchi, C., Iwamoto, K., Yamada, K., Minabe, Y., Nakamura, K., Mori, N., Fujii,
+K., Nanko, S., and Yoshikawa, T. (2005). Gene expression and association analyses of LIM (PDLIM5) in
+bipolar disorder and schizophrenia. Mol Psychiatry 10, 1045-1055. 10.1038/sj.mp.4001719.
+10. Horiuchi, Y., Arai, M., Niizato, K., Iritani, S., Noguchi, E., Ohtsuki, T., Koga, M., Kato, T., Itokawa, M., and
+Arinami, T. (2006). A polymorphism in the PDLIM5 gene associated with gene expression and
+schizophrenia. Biol Psychiatry 59, 434-439. 10.1016/j.biopsych.2005.07.041.
+11. Li, C., Tao, R., Qin, W., Zheng, Y., He, G., Shi, Y., Li, X., Guo, Z., Chen, H., Feng, G., and He, L. (2008).
+Positive association between PDLIM5 and schizophrenia in the Chinese Han population. Int J
+Neuropsychopharmacol 11, 27-34. 10.1017/S1461145707007687.
+12. Liu, Z., Liu, W., Xiao, Z., Wang, G., Yin, S., Zhu, F., Wang, H., Cheng, J., Wang, X., He, X., and Li, W.
+(2008). A major single nucleotide polymorphism of the PDLIM5 gene associated with recurrent major
+depressive disorder. J Psychiatry Neurosci 33, 43-46.
+13. Zain, M.A., Roffeei, S.N., Zainal, N.Z., Kanagasundram, S., and Mohamed, Z. (2013). Nonsynonymous
+polymorphisms of the PDLIM5 gene association with the occurrence of both bipolar disorder and
+schizophrenia. Psychiatr Genet 23, 258-261. 10.1097/YPG.0000000000000015.
+14. Herrick, S., Evers, D.M., Lee, J.Y., Udagawa, N., and Pak, D.T. (2010). Postsynaptic PDLIM5/Enigma
+Homolog binds SPAR and causes dendritic spine shrinkage. Mol Cell Neurosci 43, 188-200.
+10.1016/j.mcn.2009.10.009.
+15. Nakagawa, N., Hoshijima, M., Oyasu, M., Saito, N., Tanizawa, K., and Kuroda, S. (2000). ENH, containing
+PDZ and LIM domains, heart/skeletal muscle-specific protein, associates with cytoskeletal proteins
+through the PDZ domain. Biochem Biophys Res Commun 272, 505-512. 10.1006/bbrc.2000.2787.
+16. Ren, B., Li, X., Zhang, J., Fan, J., Duan, J., and Chen, Y. (2015). PDLIM5 mediates PKCepsilon
+translocation in PMA-induced growth cone collapse. Cell Signal 27, 424-435.
+10.1016/j.cellsig.2014.12.005.
+17. Yan, Y., Tsukamoto, O., Nakano, A., Kato, H., Kioka, H., Ito, N., Higo, S., Yamazaki, S., Shintani, Y.,
+Matsuoka, K., et al. (2015). Augmented AMPK activity inhibits cell migration by phosphorylating the
+novel substrate Pdlim5. Nat Commun 6, 6137. 10.1038/ncomms7137.

@@ -1,0 +1,34 @@
+Fig. 1. mrEn1-Pet1 soma harbour serotonin and VGLUT3 yet only serotonin is detected in the synaptic boutons
+innervating the SCN. a, Sagittal schematic representing the serotonergic raphe nuclei and location of the MRN. b,
+Intersectional genetic strategy and Cre- and Flp-dependent expression of EGFP (from RC-FrePe allele) and SypGFP (from
+RC-FPSit allele). * = mCherry cDNA in RC-FrePe. # = tdTomato cDNA in RC-FPSit. c, mrEn1-Pet1 neurons in the rostral
+MRN of En1-cre;Pet1-Flp;RC-FrePe mice. d, Dual IF-ISH showing Vglut3 transcripts in mrEn1-Pet1 neurons (SypGFP+
+in
+En1-cre;Pet1-Flp;RC-FPSit mice). e, Vglut3 transcripts per cell. Colors=different mice. Dotted line=mean. f, Triple IF showing
+costaining of 5-HT and VGLUT3 in GFP+ mrEn1-Pet1 neurons (in En1-cre;Pet1-Flp;RC-FrePe mice). g, Schematic showing
+projections from mrEn1-Pet1 neurons to the SCN. h, mrEn1-Pet1 neuron presynaptic boutons (SypGFP-labelled) innervating
+the SCN. Opt = optic nerve. i, Superresolution micrographs showing colocalization of SypGFP and 5-HT, but not with
+VGLUT3, in the SCN. j, Quantification of SypGFP+ boutons positive for 5-HT and/orVGLUT3 in the SCN assayed at two
+opposite time points of the circadian cycle. ZT = Zeitgeber. k, Retrograde tracing from the SCN. l, Representative image of the
+injection site. m, Representative image of retrogradely labelled cells in the MRN. n, SCN-projecting mrEn1-Pet1 soma show
+detectable VGLUT3. o, Quantification of the neurochemical phenotype of SCN-projecting mrEn1-Pet1 neurons. p, Heatmap
+showing the anatomical position of SCN-projecting mrEn1-Pet1 soma. All data expressed as mean ± s.e.m.
+Because serotonergic axons typically
+collateralize to multiple brain regions33–35, we
+explored the innervation profile specifically of the
+mrEn1-Pet1→SCN neuron subgroup. We infused a
+
+mixture of AAV-CAG-tdTomato and AAVretro-
+CAG-tdTomato in the SCN of En1-cre; Pet1-Flpe;
+
+RC-FPSit mice (Extended Data Fig. 3a-b). We found
+collaterals of mrEn1-Pet1→SCN neurons (double
+
+labeled with intersectional Syp-GFP and viral
+tdTomato) in the Paraventricular Nucleus of the
+Thalamus (PVT) and in the Septofimbrial Nucleus
+(Sfi) (Extended Data Fig. 3c). Notably, VGLUT3
+was detectable in the collaterals to the Sfi but not
+PVT (Extended Data Fig. 3c). Next, we infused
+AAVretro-CAG-tdTomato in the PVT and
+separately Sfi of triple transgenic En1-cre; Pet1-

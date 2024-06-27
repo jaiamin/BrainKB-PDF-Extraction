@@ -1,0 +1,61 @@
+with Alexa Fluor 488, Alexa Fluor 568, Alexa Fluor 647 (
+Invitrogen, Molecular probes) or Cy5 (Jackson Immunoresearch, #AB_2340462).
+
+Combined immunofluorescence single molecule in situ hybridization (RNAscope) was performed using a two-
+step protocol. RNAscope was performed according to manufacturer instructions (RNAscope, Advanced Cell
+
+Diagnostics) using 20 μm sections mounted onto SuperFrost Plus Slides (ThermoFisher) hybridized with a Vglut3
+probe. Afterwards, sections were immunostained for GFP, or for GFP and RFP, using standard protocols as
+described above. For combined immunofluorescence RNAscope on mrEn1-Pet1→SCN neurons, sections were
+screened beforehand for the presence of retrogradely labelled tdTomato+
+
+, SypGFP+ neurons in the MRN as
+assessed by direct fluorescence using a widefield microscope. Only sections that showed positive cells were
+mounted onto slides and processed.
+Wide-field, confocal, and superresolution imaging and 3D analysis
+Wide-field microscopy was used to acquire tiled whole-section images (mrEn1-Pet1 neuron anatomical location,
+AAV injection sites, Rabies Virus cell counting) using a Nikon Ti inverted microscope equipped with a Lumencor
+SOLA LED light engine illumination, Hamamatsu ORCA-Flash4.0 V3 digital CMOS camera, and a Plan Apo
+Lambda 10x/0.45 Air Dic N1 objective. Confocal microscopy was used to perform imaging of soma
+neurochemical phenotype, dual immunofluorescence-in situ hybridization, as well as validation of rabies tracing
+experiments using a Zeiss Axio Observer Z1 equipped with LSM780, Quasar PMT and Gasp 32 channels spectral
+detectors with a Plan Apo 63X/1.4 Oil DIC III objective. Voxel size was set to 0.13x0.13x0.31μm, resolution to
+1024x1024. Superresolution imaging was used to assess the neurochemical phenotype of mrEn1-Pet1 boutons
+using either a Zeiss Axio Observer Z1 equipped with LSM980 scan head and Airyscan2 detector and Plan Apo
+63x/1.4 Oil DIC III objective, or a Zeiss Axio Observer Z1 equipped with LSM880 Scan Hear with Airyscan
+detector and Plan Apo 63x/1.4 Oil DIC III objective using Superresolution imaging mode. Voxel size was set to
+0.04x0.04x0.22 μm; resolution to 3148x3148; number of z planes to 23.
+3D colocalization of SypGFP boutons with 5-HT and VGLUT3, with VGLUT3 and tdTomato, and between 5-
+HT and VGLUT3, was performed semiautomatically on Airyscan images using Imaris (Bitplane, v9) as
+previously described37. Briefly, each channel was segmented using the Spot function and artifacts were manually
+removed. Distance based colocalization was performed using the MATLAB plug-in “Colocalize Spots” with a
+threshold of 0.5 μm (distance between objects centroids).
+Anatomical registration and quantification of Rabies virus GFP+
+
+cells were performed by overlaying widefield
+microscopy images with the corresponding Paxinos Atlas table using Photoshop 2021. Cells were then assigned
+to specific brain regions and manually counted.
+3D segmentation and quantification of input boutons onto mrEn1-Pet1→SCN neurons was performed
+semiautomatically on confocal images using Imaris. GFP+ mrEn1-Pet1 neuron cell bodies and Fluorogold
+immunostainings were segmented using the Surface function, while tdTomato+
+
+boutons were segmented using
+the Spot function. The MATLAB plug-in “Spot and Surface Distances” was used to segment and calculate the
+number of tdTomato+
+
+boutons that were closely associated with GFP+
+
+, Fluorogold+
+
+cell bodies with a distance -
+
+o-soma threshold of 0.5 μm.
+Stereotaxic injections
+All surgeries were performed under sterile conditions. Mice were anesthetized with isoflurane (4% induction,
+1.5% maintenance) and placed in a stereotaxic apparatus (Kopf) equipped with a heating pad. After removing fur
+and cleaning the scalp with ethanol and betadine, an incision was made using a sterile scalpel. The skull was
+levelled anteroposteriorly between Bregma and Lambda and mediolaterally between two points equidistant 1.5
+mm from Bregma, such that all four points were at 0.0 ± 0.1 mm z depth. After making a point-size craniotomy
+with a dental drill, viruses were delivered using a thin glass pipette (50 μm at the tip) connected to a Nanoject III
+(Drummond) at 60nL/min (100-200 nL). For SCN injections specifically, 3 steps (2 steps for Fluorogold
+[Fluorochrome] injections) of 5 nL each (1 min apart) were performed at 46 nL/sec speed. When the injection

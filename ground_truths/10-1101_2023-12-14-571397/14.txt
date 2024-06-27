@@ -1,0 +1,50 @@
+correlations, on the contrary, do not suffer from this phenomenon of relative change
+between conditions since this technique is directly tied to the task of discriminating active
+versus passive listening by explicitly trying to reconstruct features of the presented speech
+stimulus, which is expected to become less accurate when the subject is not actively
+attending the speech. As a result, although the NET correlation accuracies seem lower
+than the SE classification in Fig. 4, the NET correlations seem better tailored to the
+aAAD and sAAD tasks.
+In Fig. 4, the results on Dataset I attain higher accuracies than in Dataset II, possibly
+due to differences in distractor conditions, or data quality. Furthermore, although the
+experiment of Dataset I was conducted in a non-radio frequency shielded room, both
+features significantly discriminate between the active and passive listening conditions.
+This indicates that this technology is viable in everyday environments, outside controlled
+radio frequency shielded laboratories.
+
+VII. CONCLUSION
+
+In this paper, we have estimated the modulation of active listening to speech, a task
+referred to as absolute auditory attention detection (aAAD). Both neural envelope tracking
+(NET) and spectral entropy (SE) features were used to perform this aAAD task. To this
+end, we have introduced a new dataset containing an active listening condition, as well
+as distractor conditions during which the subject silently reads a text or solves arithmetic
+exercises. Next to this new dataset, we have also used an existing dataset where the
+distractor condition consisted of watching a silent movie. In both datasets and all distractor
+conditions, we have found that the NET and SE features are both able to discriminate
+between active listening versus distractor (i.e., passive listening) conditions. Whereas
+the NET increases from the active listening condition to the distractor conditions, the
+alpha and beta band SE in the frontal, parietal-occipital, and occipital channels decreases
+from the active listening condition to the distractor conditions. Only evaluating sAAD
+performance on segments of high NET shows an increased selective auditory attention
+decoding (sAAD) accuracy, whereas evaluating on segments of low SE shows the reverse
+trend. Thus, likely, the SE rather relates to the cognitive load required for each task than
+the actual absolute auditory attention, whereas the NET correlations directly relate to
+(in)attention to the stimulus and are consistent across several datasets and tasks. The
+NET, thus, seems the better option to estimate absolute auditory attention, and appears
+to be more suited to use in conjunction with an sAAD task in neuro-steered hearing
+devices.
+
+APPENDIX
+
+Segments are annotated as eye artefacts if the total power in the frontal channels (Fp1,
+AF7, AF3, Fpz, Fp2, AF8, AF4 and Afz for the 64-channel EEG cap, and Fp1, Fp2 and
+Fpz for the 24-channel EEG cap.) is higher than 5 times the baseline power in those
+channels, according to the procedure of [11].
+
+Regarding the muscle artefact detection, the EEG signal is first filtered using a zero-
+phase Chesbyshev type 2 filter bandpass filter with cutoff frequencies between 20 Hz and
+
+60 Hz. Segments are thereafter annotated as muscle artefacts if the total power of this
+filtered EEG signal in the channels at the side of the head (AF7, F7, F5, FT7, FC5, T7,
+C5, TP7, CP5, P7, P5, P9, PO7, AF8, F6, F8, FC6, FT8, C6, T8, CP6, TP8, P6, P8,

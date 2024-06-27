@@ -1,0 +1,52 @@
+Our results showed that a deep learning model called TERA can indeed predict the 242
+region of an electrode based on the spectrogram computed from a 20 seconds of single 243
+channel ECoG signals. While this indicates that the temporal patterns of ECoG signals 244
+contain the characteristics pertinent to the target region, it was not clear what patterns 245
+actually enabled the prediction. It was perplexing that while simple frequency profiles 246
+were not sufficient for successful prediction, shuffling the spectrograms in the temporal 247
+domain did not substantially impair the prediction accuracy. The results of our saliency 248
+mapping did not provide unequivocal insights as to the underlying contributing features. 249
+A plausible interpretation for these results is that our model identified transient 250
+events specific to each region. For instance, upon examining the saliency maps for 251
+individual time segments, we sporadically noticed fleeting highly salient moments across 252
+all frequencies coinciding with high gamma activation. These transient events coupled 253
+with other subtle attributes may have played a role in making predictions. However, we 254
+were not able to pinpoint definitive patterns that consistently served as hallmark 255
+features for regional classification. This remains a significant constraint of our present 256
+study and a more in-depth exploration is required to comprehensively grasp these 257
+underlying characteristics. 258
+In addition to showing the possibility of predicting the region of the electrode, we 259
+explored the similarities and differences in the ECoG signatures across brain regions. To 260
+this end, we used the trained neural network models as a way to create feature vectors 261
+for each region and constructed a similarity matrix across the seven brain regions. The 262
+results shown in Figure.4 show that brain regions are split into two clusters: the HVC 263
+and TC formed one cluster while others made another. This suggests that ECoG signals 264
+in the temporal cortex are distinct from the rest of the cortex. Those regions in the 265
+temporal cortex belonged to the so-called ventral visual pathway associated with 266
+high-level vision [29–31]. Additionally, we observed subtler subclusters, denoting 267
+similarities between the early visual cortex and parietal cortex, as well as between 268
+somatomotor and premotor areas. These cortical configurations hint at a division of 269
+dynamics into the ventral pathway, dorsal pathway, and motor-related clusters. 270
+Such demarcations might reflect diverse characteristics of the inherent neuron 271
+populations. For example, the contrasts between the ventral and dorsal pathway 272
+clusters might originate from variations in their connectivity and functions. The ventral 273
+and dorsal pathways are known for their distinct architectures, topographies, and 274
+connections [32]. Neurons in the frontal lobe are markedly more spinous than their 275
+counterparts in other lobes. [33]. Differences manifest in the spine count of the basal 276
+dendritic trees of pyramidal cells across V1, V2, and PFC, as well as in their dendritic 277
+tree sizes [34]. Moreover, distinctions in spine size, cell count, and size between the 278
+dorsal and ventral stream areas have been documented [35, 36]. According to 279
+quantitative cytoarchitectonics, it is observed that dorsal and ventral pathways are 280
+separated in the clusters [37]. Any of these variations may contribute to the unique 281
+temporal dynamics in ECoG signals that allowed for the classification of the region of 282
+origin. 283
+In summary, our study aimed to determine whether distinct cortical areas exhibit 284
+unique electrophysiological markers. Utilizing ECoG signals and the capabilities of the 285
+TERA deep learning model, we successfully classified electrodes into one of seven 286
+regions. This classification underscores the potential variations within the cortex. 287
+However, the specific patterns responsible for this accurate classification remain less 288
+clear, especially given the unexpected results from our frequency profile and time 289
+domain experiments. We speculated that transient events and other subtle features that 290
+might play crucial roles in predicting the region from ECoG signals. In examining 291
+similarities and differences in latent features across regions, we found evidence 292
+suggesting that ECoG dynamics could be segmented into distinct clusters. These 293

@@ -1,0 +1,26 @@
+Consistent with the rapidly evolving use of optogenetics in pain research, our experiments
+also stand to benefit from a variety of developments. For example, a number of studies have
+used high-speed videography to improve the accuracy of response latencies recorded in
+comparable photostimulation paradigms [1; 2; 6; 8]. Implementation high-speed videography
+with optical threshold testing would likely provide additional insights on analgesic responses,
+although the simpler, more cost and time effective approach taken here was adequate to
+resolve a substantial morphine effect. Specific to the context of analgesic testing and
+discovery, the most effective compounds should produce large changes in sensitivity that
+would correspond to potent analgesia. Interestingly, recent description of an automated
+approach to photostimulation delivery and real-time analysis of behavioural responses offers
+an alternative approach to high-speed videography and would be amenable to implementation
+of optical thresholding [14]. This innovation also offers the opportunity for testing at greater
+scale, moving the optical thresholding approach toward a higher throughput screen.
+
+One limitation of all nociceptive assessments based on reflex behaviour is their potential lack
+of relevance to the higher order experience and perception of pain. This issue has been
+elegantly addressed, combining optogenetics and a sensory detection task that allows animals
+to self-report detection of peripheral photostimulation in a lick-response paradigm [5]. Whilst
+more elaborate in the need for pre-training, this nociception self-report assay could also be
+combined with an optical thresholding procedure to track changes in nociceptive perception
+and analgesic screening. Likewise, Zhang et al. [42] have described an automated paw force,
+body and face grooming detection system, based on frustrated internal reflectance, for a
+simplified assessment of complex pain behaviours. Combined with the up/down optical
+thresholding paradigm described here, these innovations could constitute a multimodal
+readout of peripheral photostimulation to objectively screen analgesic efficacy and further
+enhance preclinical drug discovery.

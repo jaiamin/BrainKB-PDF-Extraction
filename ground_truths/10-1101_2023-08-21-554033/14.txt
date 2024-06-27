@@ -1,0 +1,57 @@
+6 Material and Methods
+6.1 MEA fabrication and Pt deposition
+We fabricate our MEAs on a set of borosilicate glass wafers (Borofloat 33) ranging from 3 to 6 inches in diameter.
+The process starts with spin-coating of AZ5214E photoresist (PR) using a Headway PWM32 spin coater at a steady
+speed of 3000 rpm. Photolithography is then performed using the Heidelberg MLA 150 Maskless Aligner through
+a 375nm laser source with a dose of 210mJ/cm2
+
+. Developing is subsequently performed for 30s using 1:4 diluted
+AZ400K developer, followed by a 50s post bake at 120◦C. Next, the AJA sputter coater series are leveraged for
+constitutive material deposition. Ti and Pt are both deposited at 3mT pressure, with respective power of 200W
+and 50W, while ITO is deposited at 5mT pressure, 80W power, and under the airflow of argon and 3% oxygen.
+Samples are then submerged in acetone for lift-off. We then employ Oxford PECVD to apply a 500nm passivation
+layer of Si3N4, which is produced with the supply of 20sccm of SiH4 and NH3 respectively, under 650mT pressure
+and 20W power. The second photolithography process is carried out using the same aforementioned parameter
+settings. The exposed passivation material is removed using Oxford Freon RIE with 30sccm CF4 as the etching gas.
+Finally, the sample is cleaned with acetone and diced using a wafer cutter. An illustration of our full fabrication
+process can be found in SI.
+To electroplate the Pt black, we first prepare and mix 100mL of chloroplatinic acid that contains 1g of Hydrogen
+Hexachloroplatinic Hydrate, 0.01g of Lead(II) Acetate Trihydrate and 0.25mL of Hydrochloric Acid (Sigma-Aldrich)
+[49]. We add 1mL of mixed solution to each MEA and then electroplate utilizing a Keithley 6221 current source to
+supply a DC current of density 4 nA/μm2
+
+, with the ground electrode being anode and all other electrodes being
+
+cathode.
+6.2 Neuronal culture preparation
+The functionality and versatility of our system and MEA are demonstrated through the recordings from a range of
+in-vitro neuronal cultures. This subsection presents the materials and protocols used to prepare each type of culture.
+Embryonic stem cell-derived motor neurons: For the preparation of ESC-MNs, we culture optogenetic mouse ESC
+cell line ChR2H134R-HBG3 Hb9-GFP following an established protocol [59]. Briefly, mESCs are first cultured on a
+feeder layer of CF-1 mouse embryonic fibroblasts (Gibco), then the mESCs are suspended in an induction medium
+(advanced DMEM/F-12 and Neurobasal media with 10% KnockOut serum replacement, 1% L-glutamine and 1%
+penicillin-streptomycin) in a low-adhesion cell culture dish for two days to allow for the spontaneous formation of
+embryoid bodies (EBs). The EBs are then suspended in a differentiation medium (induction medium supplemented
+with 2% B-27, 1% N-2, 1% insulin transferrin selenium, 1μM retinoic acid and 1μM smoothened agonist) for up to 5
+days. GFP expression is monitored daily to confirm the differentiation into motor neurons. After differentiation, the
+EBs are dissociated using Accutase and the resulting single-cell suspension is seeded on the MEAs at a density of
+5000/mm2
+
+, following the seeding protocol detailed below. The neurons are kept in maintenance media (Neurobasal
+plus media with 2% B-27 plus, 1% L-glutamine, 1% penicillin-streptomycin). In the first 4 days after seeding,
+maintenance medium is supplemented with growth factors (BDNF, GDNF, CNTF, NT-3, Forskolin, IBMX) to
+promote neurite outgrowth and cell viability [60].
+Primary neurons: Primary hippocampal neurons are dissected from time-pregnant rats at E18-E19, and put in
+MilliQ water (pH 7.4, 4◦C) supplemented with 1.16% Na2SO4, 0.52% K2SO4, 0.24% HEPES, 0.18% D-glucose and
+0.1% MgCl2·6H2O. Hippocampal neurons are further dissociated and kept in MEM Eagle’s with Earles’s BSS w/o
+L-glutamine supplemented with glucose, 100mM sodium pyruvate, 200mM L-glutamine, and 100U/mL penicillin
+and streptomycin. Seeding and subsequent culture maintenance are similarly performed as for ESC-MNs.
+Seeding on MEAs: To prepare the MEAs for culturing dissociated cultures (both ESC-MNs and PNs), MEAs
+are first surface-treated using oxygen plasma, followed by an overnight coating of 0.1mg/mL Poly-D-Lysin (PDL)
+(Gibco) at room temperature. After the PDL solution is removed, the MEAs are washed with phosphate buffered
+saline (PBS) and allowed to air dry completely. MEAs are then incubated with 20μg/mL laminin solution (Sigma
+Aldrich) at room temperature overnight, and the coating solution is removed right before cell seeding without
+air-drying.
+Organotypic brain slices: Following an established protocol[61], brains from postnatal day 5 rats are sliced into
+400μm slices containing somatosensory cortex. Slices are then incubated in a humidified atmosphere with 5%
+CO2 at 37◦C in the culture medium, which consists of 2:4 Minimum Essential Medium, 1:4 Hank’s Balanced Salt

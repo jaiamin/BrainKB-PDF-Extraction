@@ -1,0 +1,46 @@
+a wide interest in decoding this selective auditory attention based on neural activity,
+which is often referred to as (selective) auditory attention decoding ((s)AAD) [1]–[4].
+One possible use case for such an sAAD algorithm is to control the speech enhancement
+algorithm of a hearing device, such that it is able to decide which speaker should be
+enhanced and which speakers should be suppressed [5].
+Selective auditory attention can be decoded from, e.g., electroencephalography (EEG)
+recordings, either based on the principle of neural envelope tracking (NET) [3], [4],
+or based on differences in the features extracted from general neural activity [1], [6]–
+[8]. The former exploits correlations between the EEG and the amplitude envelope of
+the attended speech stimulus [6], where higher correlation coefficients are observed for
+the attended speaker than for the unattended one(s) [1]. Alternatively, the latter aims to
+decode speaker-dependent features from the EEG alone (without using the stimulus), for
+example features that relate to the spatial location of the attended speaker [3], [4].
+In a neuro-steered hearing device, these sAAD decoders consequently assume the
+subject is actively listening to any one of the competing speakers. However, such decoders
+should not make decisions whenever the subject is not actively listening to any of the
+speech stimuli to avoid arbitrary speaker selections. Such functionality would require an
+algorithm that can discriminate between active and passive listening conditions from EEG
+data, which is the main focus of this paper. Discriminating between active and passive
+listening would also be useful in time-adaptive decoders in order to only update the
+decoder coefficients when the subject is actively listening [9], [10]. Furthermore, besides
+the application of neuro-steered hearing devices, this functionality could be useful as
+an objective, general tool to measure the state of active listening during auditory EEG
+experiments.
+While decoding selective attention to competing speakers has been widely studied,
+the literature about decoding active versus passive listening is less extensive. In [11],
+the envelope tracking of subjects actively attending an auditory stimulus was shown to
+be significantly higher than that of subjects watching a silent movie, while ignoring
+the auditory stimulus. To quantify the level of (active) listening across both conditions,
+linear decoders reconstructed the speech envelope from the EEG [11], and the resulting
+correlation between the reconstructed envelope and the ground truth envelope was shown
+to be significantly higher when actively focusing on the auditory stimulus. In [12], a
+similar scenario was investigated using the peak cross-correlation between the EEG and
+the speech envelope as a measure for envelope tracking. However, no difference across
+the active versus passive listening conditions was found in this study.
+In [13], the spectral entropy (SE) of the normalised EEG power spectral densities
+(PSDs) was used to quantify the level of sustained attention to an auditory stimulus.
+In this study, subjects were instructed to attend to an auditory stimulus, without any
+distractor conditions. The SE was then used to discriminate between high and low active
+listening segments, which are assumed to arise naturally as the subject’s focus might
+vary during the task. This SE characterises the uncertainty in distribution and, as a
+consequence, higher SE levels map to less regularity and predictability. Previously, it
+has been shown experimentally that the SE was able to correctly predict anaesthetic
+depth [14], [15], respiration movements [15], sleep stages [15], and imagined finger
+movement [15], possibly due to changes in EEG regularity and predictability [14], [15].
+Similarly, the SE allowed to discriminate subjects in rest from subjects performing mental

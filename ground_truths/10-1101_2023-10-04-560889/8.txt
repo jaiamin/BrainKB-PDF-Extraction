@@ -1,0 +1,4 @@
+Fig. 2. The ncRNAome during human excitatory synapse development
+a) Heatmap of significantly changing miRNAs over the time course of excitatory synapse
+development (FDR < 0.05, logFC normalized to day 9). b) Heatmap showing the scaled logcpm
+values of conserved miRNAs between mouse and human that differ in their expression

@@ -1,0 +1,36 @@
+Figure 1. Schematic depiction of the fourfold pattern of risk attitudes. Dashed lines outline risky choices with equal expected
+values; along such a line, the green ellipse highlights the preferred region and the red ellipse the disfavored region, for gains and
+losses separately. Although a cake and a bomb will be used to picturize positive and negative outcome, the common choice in
+experiments is for loss and gain to be monetary, easing the comparison of expected values among options. In gain experiments,
+subjects favor very unlikely but very large gain (risk seeking) or sure outcome; in loss experiments, subjects favor likely but
+small losses (risk aversion).
+Recently, "fast" risk-taking decisions have become the object of a dedicated set of experimental tests by Kirchler et
+al. [15], who brought the random time approach to the analysis of risk behavior. The major findings reported are that
+(1) time pressure increases risk aversion for gains and risk taking for losses compared to time delay; (2) fluctuations
+in the outcome are suppressed by granting subjects a longer time to decide.
+One framework that should be mentioned here as being applied to multiple problems in psychology is the broad
+dichotomy between two alternative thinking processes: "System 1" (fast, intuitive, and emotional) and "System 2"
+(slower, deliberative, more logical) [1]. The System 1 vs System 2 duality offers a convenient language to broadly
+discuss a variety of different experiments. For instance, one may say that the role of time pressure [15], increased
+cognitive load [16], or acute stress [17] during decision making is to increase the role of System 1, as System 2 would
+be computationally and energetically more expensive.
+One would assume that fast decisions rely on a different psychological attitude than slower decisions, and are
+computed therefore on the basis of a different set of underlying risk perceptions. However, even in the absence of
+a dual process faster decisions would be affected by computational limitations and by the reduced ability to cope
+with cognitive load, leading to distinct outcomes. It is unclear at present how much, among the features of fast
+decision making, follows simply from information-processing constraints. The fact that performance on the Cognitive
+Reflection Test (CRT) and variable decision time correlate identically with the observed extent of cognitive bias is
+intriguing but does not allow to draw definite conclusions [15, 18].
+The finding that time pressure increases risk aversion for gains and risk taking for losses can be phrased as stating
+that time constraints increase the fourfold pattern predicted by Prospect Theory, but the reasons for this trend remain
+open to multiple interpretations. Kirchler et al. interpret the finding as confirming that System 1 gives rise to the
+fourfold pattern, but the specific features of System 1 that would do so are currently unknown.
+Asides from experiments on time pressure, another direction of recent experimental inquiry concerns the effect
+of variations in the processing order of the options. Various features of visual processing have long been known to
+affect choice behavior [19–22] but one crucial factor appears to be the sequence in which information is presented;
+this has been shown to have an impact in real-life setting such as personality judgment [23, 24], clinical decision
+making [25, 26], and judicial decision making [27]).
+Most recently, [28] replicated the classical decision-making experiment we have described and additionally assessed
+the processing order of the options. They did so in two different ways: through eye-tracking, and by presenting the
+options sequentially. Both approaches led to the finding that the magnitude of loss/gain asymmetry effects is larger
+when the risk-free option is processed first. A mechanistic explanation for this asymmetry is lacking, but a description

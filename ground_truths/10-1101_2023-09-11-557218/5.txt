@@ -1,0 +1,23 @@
+Fig. 2. mrEn1-Pet1 neurotransmitter deployment reorganizes reversibly in a branch-specific manner in response to changes in
+photoperiod. a, Schematic of the experiment. SCN-innervating boutons from mrEn1-Pet1 neurons were analysed following 2 weeks of
+long/short photoperiod. b, Representative images showing VGLUT3 localization in mrEn1-Pet1 boutons in the SCN following
+photoperiod changes. c, Number of SypGFP+ boutons per field of view (FOV). d, Quantification of SypGFP-5-HT-VGLUT3 overlap in
+the SCN of En1-cre;Pet1-Flpe;RC-FPSit mice following shift to long versus short photoperiod (one-way ANOVA, F (2, 19) = 66.58, p
+< 0.0001. Equinox vs. Long ph. Tukey’s multiple comparison adjusted p = 0.0002; Equinox vs. Short ph. adjusted p < 0.0001; Long ph.
+vs. Short ph. adjusted p < 0.0001). e, Timeline to study reversibility. f, Number of SypGFP+ boutons per FOV. g, Quantification of
+SypGFP-5-HT-VGLUT3 overlap in the SCN of En1-cre;Pet1-Flpe;RC-FPSit mice in equinox and short ph.>equinox mice (two-tailed
+t test, t=1.644, df=6, p=0.15) h, Schematic of the experiment. Collaterals of mrEn1-Pet1→SCN neurons were analysed following 2 weeks
+of long/short photoperiod. i, Representative images showing VGLUT3 localization in mrEn1-Pet1 neuron collaterals innervating the
+PVT and SFi across photoperiod conditions. j, Quantification of SypGFP-5-HT-VGLUT3 overlap within PVT and SFi boutons in
+equinox, long and short photoperiod exposed mice (PVT: one-way ANOVA, F (2, 12) 6.720, p=0.011. Equinox vs. Long ph. Tukey’s
+
+multiple comparison adjusted p=0.0416; Equinox vs. Short ph. adjusted p<0.0001; Long ph. vs. Short ph. adjusted p=0.0004. SFi: one-
+way ANOVA, F (2,10) 0.5385, p=0.5997). k, Schematic of the experiment to study gene expression in mrEn1-Pet1→SCN neurons. l,
+
+Representative image of the injection site. m, Representative images showing individual Vglut3 mRNA as puncta in mrEn1-Pet1→SCN
+
+soma. n, Quantification of Vglut3 transcripts per cell in mrEn1-Pet1→SCN and mrEn1-Pet1 neurons in equinox- vs. short photoperiod-
+exposed mice. (mrEn1-Pet1→SCN: two-tailed t test, t=0.8960, df=10, p=0.3910; mrEn1-Pet1: two-tailed t test, t=0.1472, df=10,
+
+p=0.8859). o, Heatmap showing the anatomical position of SCN-projecting mrEn1-Pet1 neurons in equinox (E) vs. short photoperiod
+(S). All data expressed as mean ± s.e.m.

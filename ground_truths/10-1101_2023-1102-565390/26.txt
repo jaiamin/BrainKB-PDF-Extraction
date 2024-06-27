@@ -1,0 +1,12 @@
+A
+
+B
+
+C 100
+
+50
+
+0
+Liftling
+Grooming
+Tapping

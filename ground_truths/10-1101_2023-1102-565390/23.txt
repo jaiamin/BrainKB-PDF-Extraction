@@ -1,0 +1,25 @@
+Table 1. BORIS coded behaviours list and exclusion matrix for coded behaviours.
+Behaviour/Action 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Light Off (1) X X X
+Light On (2) X
+Latency (3)
+Active (4) X
+Inactive (5) X
+Lift Left (6) X X X X X X X X X X
+Lift Right (7) X X X X X X X X X X
+Foot Down (8) X X X X X X X X X X
+Groom Left Leg(9) X X X X X X X X X X
+Groom Back (10) X X X X X X X X X X
+Groom Right Leg
+(11) X X X X X X X X X X
+Groom Left Foot
+(12) X X X X X X X X X X
+Groom Right Foot
+(13) X X X X X X X X X X
+Groom Tail (14) X X X X X X X X X X
+General Grooming
+(15) X X X X X X X X X X
+Groom End (16) X X X X X X X X X X
+Light Off Foot
+(17) X X
+Light On Foot (18) X X

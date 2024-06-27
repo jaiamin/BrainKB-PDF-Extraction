@@ -1,0 +1,52 @@
+Each device includes 12 separate modules for independent experiments. A single module has a 3-well
+footprint of 4.5×13.5 mm2. Two channels (width 400 μm and height 150 μm) with inlets in the outer two
+wells meet in the central well (Figure 3f/g). Each channel defines a compartment for 3D cell culture.
+Cells were seeded by pipetting a liquid hydrogel mixture into each inlet, filling each respective
+compartment and stopping at the mesh (Figure 1b). The two compartments are interconnected by 61
+perpendicular tunnels (width 7 μm, height 3 μm, length 200 μm, pitch 40 μm). The ceiling of each
+compartment is perforated with 50 μm pores (Figure 3d) which constrains flow while facilitating
+substance exchange (no active perfusion was necessary). This design allows separate seeding of
+cells suspended in hydrogel in each compartment. The mesh ceiling acts as a capillary stop during
+seeding, allowing a consistent volume of hydrogel with suspended cells to be seeded without
+overflowing the compartment. Their culture is restricted so that cell bodies remain within each
+compartment, while the outgrowth of neurites through tunnels to form inter-compartment synaptic
+connections is possible.
+Each module includes 19 microelectrodes located individually within 19 of the 61 tunnels. Each
+microelectrode has a square gold surface of 25×25 μm2 (Figure 3b), although only a 7×25 μm2 region
+is exposed within the tunnel (Figure 3c). These microelectrodes record action potentials travelling
+through entrapped neurites (Figure 1d-f). The restriction of a tunnel amplifies the extracellular
+potential generated around neurites to measurable levels (Molina-Martínez et al., 2022). We note that
+action potentials were easily detected despite using gold electrodes, which are typically inferior due to
+their high impedance (Gerwig et al., 2012), and additional noise added by the tunnels’ resistance
+(Mierzejewski et al., 2020). Gold was chosen due to its electrochemical stability and resistance to
+contamination. Electrode materials with lower impedance would be TiN or PEDOT:PSS (Mierzejewski
+et al., 2020), but these would complicate the fabrication. The central well contains a reference
+electrode (segmented in the well’s corners). The outer wells include electrodes for impedance
+measurements, which have not been used in the current work.
+Ancillary features
+Large structural areas of thick epoxy resist were segmented to reduce stress and prevent
+delamination at the polymer/glass interface. Specifically in the 150-μm-thick SUEX layer, features had
+a maximum lateral size of 200 μm and were separated by 50 μm gaps, creating a pattern of walls and
+pillars aligned to a 250 μm square grid (Figure 2). The gap width limited sagging of ADEX during
+lamination and baking steps, while being easily resolved during the UV exposure (aspect ratio
+height/width of 3). Without these stress-release features, large areas of thick resist were successfully
+structured but delaminated from glass upon cooling from the final hard bake (Figure S6).
+While solving the stress problem, this solution created an air-filled cavity within the device. Any defects
+in the SUEX walls or ADEX ceiling allowed infiltration of the developer cyclohexanone into the cavity.
+Trapped cyclohexanone swelled and deformed the epoxy structures. To mitigate this problem, walls in
+the SUEX layer compartmentalized the cavity for each module of the device, so that infiltrated solvents
+would only affect single modules. An improved design would keep the stress-release cavity open, so
+that solvents could be easily rinsed. The open stress-release cavities could be filled at a final stage,
+for example by a potting silicone.
+3.2 Microfabrication
+Glass substrates with gold electrodes, ITO electrical paths, and a silicon nitride insulator were
+produced by NMI TT GmbH. Each substrate contained twelve modules (Figure 1a), each of which had
+a row of 19 microelectrodes and a segmented reference electrode with a total area of 1.3 mm2 (Figure
+3a).
+Microfluidics were produced on the glass substrates by photolithographic structuring of epoxy
+photoresists (Figure 1c). Successful fabrication required optimization of pretreatment, UV dose,
+baking and developing. Resolution depended on appropriate UV doses. Over-exposure increased
+structure sizes, which was critical if tunnels became blocked. Adhesion at the silicon nitride/SU-8
+interface was excellent with pretreatment by oxygen plasma and baking, which can be understood by
+cross-linking between a (3-glycidyloxypropyl)trimethoxysilane in SU-8 with silanol groups on the silicon
+nitride surface. In contrast, adhesion between photoresist layers is explained by epoxide reactions;

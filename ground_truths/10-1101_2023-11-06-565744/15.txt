@@ -1,0 +1,46 @@
+Adriani, G., Ma, D., Pavesi, A., Kamm, R. D., and Goh, E. L. K. (2017). A 3D neurovascular
+microfluidic model consisting of neurons, astrocytes and cerebral endothelial cells as a blood–brain
+barrier. Lab Chip 17, 448–459. doi: 10.1039/C6LC00638H.
+Baëtens, T., Begard, S., Pallecchi, E., Thomy, V., Arscott, S., and Halliez, S. (2020). The effect of
+thermal treatment on the neuronal cell biocompatibility of SU-8. Materials Today Communications 24,
+101073. doi: 10.1016/j.mtcomm.2020.101073.
+Biffi, E., Regalia, G., Menegon, A., Ferrigno, G., and Pedrocchi, A. (2013). The Influence of Neuronal
+Density and Maturation on Network Activity of Hippocampal Cell Cultures: A Methodological Study.
+PLoS ONE 8, e83899. doi: 10.1371/journal.pone.0083899.
+Bradley, J. A., and Strock, C. J. (2019). Screening for Neurotoxicity with Microelectrode Array. Current
+Protocols in Toxicology 79, e67. doi: 10.1002/cptx.67.
+Dowden, H., and Munro, J. (2019). Trends in clinical success rates and therapeutic focus. Nat Rev
+Drug Discov 18, 495–496. doi: 10.1038/d41573-019-00074-z.
+
+Dujardin, S., Lécolle, K., Caillierez, R., Bégard, S., Zommer, N., Lachaud, C., et al. (2014). Neuron-to-
+neuron wild-type Tau protein transfer through a trans-synaptic mechanism: relevance to sporadic
+
+tauopathies. acta neuropathol commun 2, 14. doi: 10.1186/2051-5960-2-14.
+Fan, Y., Nguyen, D. T., Akay, Y., Xu, F., and Akay, M. (2016). Engineering a Brain Cancer Chip for
+High-throughput Drug Screening. Sci Rep 6, 25062. doi: 10.1038/srep25062.
+Gerwig, R., Fuchsberger, K., Schroeppel, B., Link, G. S., Heusel, G., Kraushaar, U., et al. (2012).
+PEDOT-CNT composite microelectrodes for recording and electrostimulation applications: fabrication,
+morphology, and electrical properties. Frontiers in Neuroengineering 5, 8. doi:
+10.3389/fneng.2012.00008.
+Holloway, P. M., Hallinan, G. I., Hegde, M., Lane, S. I. R., Deinhardt, K., and West, J. (2019).
+Asymmetric confinement for defining outgrowth directionality. Lab Chip 19, 1484–1489. doi:
+10.1039/C9LC00078J.
+Honegger, T., Scott, M. A., Yanik, M. F., and Voldman, J. (2013). Electrokinetic confinement of axonal
+growth for dynamically configurable neural networks. Lab Chip 13, 589. doi: 10.1039/c2lc41000a.
+Hopkins, A. M., DeSimone, E., Chwalek, K., and Kaplan, D. L. (2015). 3D in vitro modeling of the
+central nervous system. Progress in Neurobiology 125, 1–25. doi: 10.1016/j.pneurobio.2014.11.003.
+Irons, H. R., Cullen, D. K., Shapiro, N. P., Lambert, N. A., Lee, R. H., and LaPlaca, M. C. (2008).
+Three-dimensional neural constructs: a novel platform for neurophysiological investigation. J. Neural
+Eng. 5, 333–341. doi: 10.1088/1741-2560/5/3/006.
+Izzi, F. (2021). Co-culturing sensory neurons and glial cells on microelectrode arrays platforms for
+functional studies on pain. doi: 10.15496/PUBLIKATION-61869.
+Jentsch, L.-V. (2021). Novel neuro-microphysiological system (nMPS) for multiple characterisations of
+3D neuronal networks co-cultured with astrocytes and microglia. doi: 10.15496/PUBLIKATION-64976.
+Jones, P. D. (2017). Nanofluidic technology for chemical neurostimulation. Available at:
+http://dx.doi.org/10.15496/publikation-20363.
+Kamei, K., Koyama, Y., Tokunaga, Y., Mashimo, Y., Yoshioka, M., Fockenberg, C., et al. (2016).
+Characterization of Phenotypic and Transcriptional Differences in Human Pluripotent Stem Cells under
+2D and 3D Culture Conditions. Adv. Healthcare Mater. 5, 2951–2958. doi: 10.1002/adhm.201600893.
+Keller, J. M., and Frega, M. (2019). “Past, Present, and Future of Neuronal Models In Vitro,” in In Vitro
+Neuronal Networks, eds. M. Chiappalone, V. Pasquale, and M. Frega (Cham: Springer International
+Publishing), 3–17. doi: 10.1007/978-3-030-11135-9_1.

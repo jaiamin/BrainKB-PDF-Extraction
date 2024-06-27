@@ -1,0 +1,24 @@
+which however did not reach statistical significance. Surprisingly, quantification of
+dendritogenesis showed a decrease of dendritic complexity upon depletion of miR-1229-3p
+specifically at the later time point (Fig. 3f; Suppl. fig. S15a-c). Together, these results suggest
+that miR-1229-3p initially functions as a repressor of excitatory synapse formation but is
+required for dendritic branching during later stages of human neuron development.
+To characterize the functional properties of igNeurons depleted from miR-1229-3p, we
+performed patch-clamp recordings of spontaneous excitatory postsynaptic currents (sEPSC)
+during the plateau phase when synapses had sufficiently matured (day 40-42) (Fig. 3g-h). At
+this time point, igNeurons displayed spontaneous activity – a proxy for functional synapses and
+cell-cell communication – at a similar frequency as human Ngn2-neurons cultured together with
+astrocytes for 30-35 days (26), further confirming the suitability of our protocol to investigate
+human excitatory synapse development. Interestingly, sEPSC quantification revealed a
+significantly higher charge transfer in miR-1229-3p depleted neurons in comparison to the
+control condition (Fig. 3i). Neurons treated with the pLNA-1229 showed in addition a trend
+towards a higher sEPSC amplitude (p = 0.051), while the sEPSC frequency as well as rise and
+decay time were not changed (Fig. 3i, Suppl. fig. S16a-c). Besides sEPSC-events, we also
+detected occasional large-amplitude bursts (Fig. 3h, inset). Focusing on these bursts, we again
+observed a significant increase in the total charge transfer upon depletion of miR-1229-3p, as
+well as a trend towards an increased burst peak amplitude (p = 0.05) (Fig. 3j). The burst duration
+
+remained unchanged (Suppl. fig. S16d). Together, these results demonstrate that the human-
+specific miR-1229-3p controls the developmental timing of excitatory synaptogenesis and
+
+impacts excitatory synaptic function.

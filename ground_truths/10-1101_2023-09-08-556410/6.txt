@@ -1,0 +1,16 @@
+Figure 2. Log-scaled posterior estimates of the feature scaling factor Fs for each dataset assessed
+with the spline model.
+
+DISCUSSION
+Although GABA declines with age and may be implicated in sustaining normal cognitive
+performance, few studies have examined age-related GABA differences in oldest-old adults
+(85+). Our individual participant data meta-analysis revealed that the slope of age-related
+differences in cortical GABA appears to flatten in cognitively-intact oldest-old adults; supporting
+this finding, the velocity of change in GABA decreases after age 80, apparently reflecting the
+introduction into the model of a large number of cognitively-intact oldest-old individuals in this
+age group, and only begins to increase again by 90. In the context of a positive GABA-cognition
+association, this descriptive finding is consistent with the possibility of a GABA “floor” below
+which cognitive function is unlikely to remain intact in oldest-old age.
+The reported effect may be driven in part by survivorship and sample selection. All participants
+met an inclusion threshold of 22 or higher on the MoCA, reflecting grossly-intact cognitive
+performance. Successfully-aging oldest-old adults are a subset of a highly-selected, atypical

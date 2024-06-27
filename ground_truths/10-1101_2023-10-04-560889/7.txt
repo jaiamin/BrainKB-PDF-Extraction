@@ -1,0 +1,37 @@
+of miRNAs can be safely classified as human-specific (25 miRNAs with no more than 60%
+sequence conservation in any of the tested species) (Suppl. Table 1-5) in agreement with
+previous publications (17, 21). Additionally, we discovered 52 miRNAs with human-specific
+seed changes which are expected to have unique target genes in humans. Among this
+conservative estimate of a total of 77 “human-specific” miRNAs, only four (the newly evolved
+miR-4745-5p and miR-941, as well as the seed mutants miR-1229-3p and miR-3141) were
+expressed in our dataset (Fig. 2c-d). While miR-941 is consistently expressed at high levels,
+miR-4745-5p and miR-3141 change mostly from stem cell to neuron conversion and stay rather
+constant during neuronal maturation. miR-1229-3p represents the only human-specific miRNA
+with a dynamic expression pattern during the neuronal days of differentiation, suggesting a role
+in human synaptogenesis. This finding was further corroborated when we performed gene-wise
+linear regression of miRNA expression profiles with the neurodevelopmental trajectory inferred
+by synapse density quantification (cf. Fig. 1c) from the same neuronal differentiations (Fig. 2e).
+In contrast to the other three human-specific miRNAs, miR-1229-3p expression closely follows
+synapse density development, as do known regulators of synaptogenesis such as miR-181c-5p
+(22, 23).
+Based on a structural conservation analysis of all human miRNA precursors with mismatches
+in orthologs found in primates (excluding marmoset), miR-1229-3p shows the lowest structural
+conservation index, despite a high sequence similarity (Fig. 2f, Suppl. fig. S12a). This lack of
+structural conservation is further illustrated when plotting the predicted secondary structures of
+human and chimp pre-miR-1229 (Fig. 2g). Since the predicted chimp pre-miR-1229 is lacking
+a 2-nucleotide overhang at the 3’end of the precursor required for efficient Dicer-mediated
+processing (24), no production of mature miR-1229-3p is expected in chimpanzee. In addition,
+alignment of hsa-pre-miR-1229 with blasted sequences of higher apes shows the presence of
+four human-specific point mutations, one of which is located in the seed region (Fig. 2h). In
+agreement with the non-functionality of a putative chimp-miR-1229, expression of the chimp
+miR-1229 mirtron, in contrast to its human counterpart, was unable to downregulate a perfect
+miR-1229-3p binding site reporter in a luciferase assay (Fig. 2i, Suppl Fig. 12b). Finally, to
+assess the conservation of predicted miR-1229-3p targets, we used scanMiR to inspect 3’UTR
+sequences that we extracted from the chimp genome by lifting over human coordinates from
+expressed 3’UTRs for potential miR-1229-3p binding sites (see methods). We noticed that
+almost all binding sites are very well conserved between human and chimpanzee, even
+regarding their predicted strength (Suppl. fig. S12c). This pattern holds similarly true for all
+expressed miRNAs (Suppl. fig. S12d), suggesting that evolutionary adaptation of miRNA
+regulation primarily occurred on the miRNA rather than on the target side. Taken together, four
+point-mutations within the miR-1229 gene enabled efficient Dicer-mediated processing and the
+recognition of evolutionary conserved target genes in human neurons.

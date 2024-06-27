@@ -1,0 +1,49 @@
+is a significant loss of branching function. The error bars represent the standard error of the mean (SEM). n≥15 neurons
+each from three biological replicates. The significance was assessed using a two-way ANOVA with Bonferroni post-hoc
+analysis.
+
+METHODS.
+Neuronal cultures and transfection
+Primary hippocampal and cortical neurons were obtained from rat embryos at the 18th day of gestation (E18), following
+methodology previously described in 42,43. Subsequent to isolation, the hippocampal neurons were plated in 24-well
+tissue-culture plates at a density of 2 × 105 cells per well. To facilitate adhesion, glass coverslips within the wells were
+pre-coated with 100 μg/ml poly-D-lysine (Sigma-Aldrich). Cortical neurons were plated at 20 x 106 cells per 10 cm Petri
+dish pre-coated with 100 ug/ml poly-D-lysine. The cultured hippocampal neurons were maintained in Neurobasal
+Medium (Life Technologies), supplemented with B-27, GlutaMAX, and penicillin-streptomycin (each from Life
+Technologies). At 3 days in vitro (DIV), the neurons underwent Lipofectamine 2000 based transfection using the
+manufacturer’s protocol (Life Technologies) but employing 1 μg plasmid DNA.
+HEK293 cell culture and transfection
+HEK293 cells from ATCC (ATCC# CRL-1573) cells were cultured in DMEM cell culture media (Sigma-Aldrich)
+supplemented with 10% FBS (Sigma-Aldrich) and 1x penicillin-streptomycin (Life Technologies). Media change was
+performed every other day until the cells reached 80% confluency, after which they were transferred to new culture
+dishes. Transfection of the HEK293 cells with exogenous DNA (1 μg) was accomplished using Lipofectamine 2000 as per
+the manufacturer's instructions. Transfection took place when the cells reached 50-60% confluency in six-well culture
+plates. Co-IPs were conducted as below mentioned.
+cDNA constructs
+All cDNA constructs were cloned into the backbone of the pCS2 mammalian expression vector. Engineering was
+undertaken by Epoch Life Science and/ or the McCrea laboratory. All constructs were confirmed with DNA sequencing.
+The full length PalmD-pCMV6-AC-GFP was purchased from Origene (RG203079), and PalmD-GFP was moved into the
+pCS2 vector. Pdlim5 was engineered previously in our laboratory 7
+
+. DNA maxi-preps were outsourced to Epoch Life
+Sciences. See STAR Methods Key Resources Table for a complete list of constructs and their corresponding epitope tags/
+fusions.
+siRNAs
+To synthesize and validate siRNAs that target Pdlim5 or PalmD, we first identified corresponding 19-nucleotide target
+sequences using the siRNA Wizard v3.1 tool from InvivoGen. Two siRNAs were selected for each target to enable the
+generation of siRNAs. The siRNA sequences for Pdlim5 were 5ʹ-GCACUGUAUUGUGAGCUAUtt-3ʹ and 5’-
+CAACUGUGCUCACUGCAAAtt-3’, while for PalmD they were 5’-GCAUCAGGCAGAACGAAUAtt-3’ and 5’-
+CGAGGAUAUCUAUGCUAAUtt-3’.
+siRNAs for Pdlim5 and PalmD were purchased from Life Technologies. Individual siRNAs were transfected into
+hippocampal neurons using the manufacturer’s Lipofectamine 2000 protocol. Neurons were allowed to grow for 24-48
+hours before conducting immunofluorescence assays. Knockdown efficiency of each siRNA was assessed using
+immunoctyochemistry with anti-Pdlim5 or anti-PalmD primary antibodies, and IMARIS software was used to quantify the
+intensity of immunostained images. Sholl analysis was used to assess the impact upon neuronal morphology (see
+below).
+Antibodies
+Antibodies that recognize specific epitope tags as well as endogenous proteins were obtained commercially. Rabbit
+polyclonal anti-Myc epitope-tag (MT) antibodies (Cell Signaling Technology/ CST #2272S), mouse monoclonal anti-Myc
+epitope-tag (MT) antibodies (CST #9B11), anti-GFP antibodies (CST #2956 from rabbit and CST #4B10 from mouse), and a
+mouse monoclonal anti-FLAG epitope-tag antibody (Sigma #F7425). For the detection of endogenous Pdlim5, two mouse
+monoclonal antibodies were utilized: one for the purpose of IP/ immuno-blotting (Thermo Fisher Scientific catalog #
+MA5-25915) (Figure 3A and S3A), with a second mouse monoclonal (Sigma-Aldrich catalog # WH0010611M1) used to

@@ -1,0 +1,43 @@
+Solution, 1:4 Horse Serum, 4mM glutamine and 1:100 penicillin/streptomycin. Half of the medium is replaced every
+3 days. Two weeks after slice preparation, slices are removed from the incubator and placed on the curved MEA for
+recording. During recording, oxygenated culture medium is pumped into and out of the MEA well via a peristaltic
+pump (see SI). An inline heater is placed immediately before the well to warm the medium to 37◦C. Both prior to
+and after each experiment, distilled water and isopropyl alcohol are run through the entire fluid line to clean them
+of any biological debris.
+6.3 Calcium imaging
+Loading calcium indicator : Calcium imaging is performed by first loading the neuronal culture with a cell permeable
+fluorescent calcium indicator, Oregon Green 488 BAPTA-1 (AAT Bioquest). To do this, the calcium indicator is
+diluted in the neural maintenance medium at a final concentration of 4μM, and then supplied to the culture to
+replace the old medium. Subsequently, the culture is incubated for 40mins in a humidified environment with 5%
+CO2 at 37◦C. Right before the measurement, the culture is washed twice with PBS and supplied with fresh medium.
+Fluorescence intensity measurement: Spontaneous calcium activity is acquired by employing a fluorescent microscope
+(Nikon Eclipse Ti) and a fluorescein isothiocyanate (FITC) filter with excitation/emission wavelength of 490/525nm.
+Recording is conducted under a 488nm laser illumination and at an original frame rate of 100fps. We then
+down-sample the recorded video to measure the fluorescence intensity using the open-source software ImageJ. The
+variation of the fluorescence intensity is defined through the normalized form as ∆F/F0=(F-F0)/F0, where F and
+F0 are the instantaneous and initial fluorescence intensity, respectively.
+Supporting Information. Supporting Information is available from the authors.
+Acknowledgements. This study is jointly funded by National Science Foundation (NSF) EFRI C3 SoRo #1830881
+(M.G.) and NSF Expedition ‘Mind in Vitro’ award #IIS–2123781 (M.G., J.B., H.K., T.S.). We also thank the
+Frontera computing project at the Texas Advanced Computing Center. Frontera is made possible by National
+Science Foundation award OAC-1818253.
+
+References
+[1] R. R. Llinás, Science 1988, 242, 4886 1654.
+[2] E. Salinas, T. J. Sejnowski, Nature reviews neuroscience 2001, 2, 8 539.
+[3] K. C. Kanning, A. Kaplan, C. E. Henderson, Annual review of neuroscience 2010, 33 409.
+[4] A. L. Hodgkin, A. F. Huxley, Nature 1939, 144, 3651 710.
+[5] D. A. McCormick, B. W. Connors, J. W. Lighthall, D. A. Prince, Journal of neurophysiology 1985, 54, 4 782.
+[6] E. R. Kandel, W. Spencer, F. Brinley Jr, Journal of neurophysiology 1961, 24, 3 225.
+[7] M. Scanziani, M. Häusser, Nature 2009, 461, 7266 930.
+[8] B. Connors, M. Gutnick, D. Prince, Journal of neurophysiology 1982, 48, 6 1302.
+[9] J. M. Beggs, D. Plenz, Journal of neuroscience 2003, 23, 35 11167.
+[10] J. Müller, M. Ballini, P. Livi, Y. Chen, M. Radivojevic, A. Shadmani, V. Viswam, I. L. Jones, M. Fiscella,
+R. Diggelmann, et al., Lab on a Chip 2015, 15, 13 2767.
+[11] C. Forro, D. Caron, G. N. Angotzi, V. Gallo, L. Berdondini, F. Santoro, G. Palazzolo, G. Panuccio,
+Micromachines 2021, 12, 2 124.
+[12] H. Shin, S. Jeong, J.-H. Lee, W. Sun, N. Choi, I.-J. Cho, Nature communications 2021, 12, 1 492.
+[13] C.-F. V. Latchoumane, L. Jackson, M. S. E. Sendi, K. F. Tehrani, L. J. Mortensen, S. L. Stice, M. Ghovanloo,
+L. Karumbaiah, Scientific reports 2018, 8, 1 1.
+[14] G. J. Pagan-Diaz, K. P. Ramos-Cruz, R. Sam, M. E. Kandel, O. Aydin, M. T. A. Saif, G. Popescu, R. Bashir,
+Proceedings of the National Academy of Sciences 2019, 116, 51 25932.

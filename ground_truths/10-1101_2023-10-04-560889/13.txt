@@ -1,0 +1,33 @@
+electron transport chain. Strikingly, plotting all protein-coding genes transcribed from mtDNA
+showed a specific downregulation of almost all of them in the pLNA-1229 condition (Fig. 4c),
+while various genes related to mitochondrial metabolism are upregulated upon miR-1229-3p
+knockdown (Suppl. fig. S19a). Since neither the expression of nuclear-encoded mitochondrial
+complex I genes (Suppl. fig. S19b) nor predicted nuclear targets of the mitochondrial
+transcription factor TFAM were altered (Suppl. fig. S19c), miR-1229-3p inhibition appears to
+specifically affect mitochondrial gene expression. This effect is not due to increased mutation
+frequency in the mitochondrial genome, since the number of SNPs in mitochondrial transcripts
+is not altered by miR-1229-3p inhibition (Suppl. fig. S19d-e).
+Human brains require more energy than those of closely related primates (27), and the speed of
+neuronal development is chiefly determined by the mitochondrial metabolic rate (28). In
+agreement, we see that the expression levels of mtDNA encoded genes as well as the abundance
+of mitochondrial ribosomal proteins are highly dynamic throughout neuronal development
+(Suppl. fig. S20a-b). We therefore decided to study a potential regulation of mitochondrial
+function by miR-1229-3p in further detail. To identify direct effectors of miR-1229-3p, which
+might function upstream of the global changes in the mitochondrial transcriptome, we focused
+on upregulated genes within the pLNA-1229 dataset (Suppl. fig. S17d). In the GO-term
+analysis, top enriched biological processes with upregulated genes included “autophagy of
+mitochondrion” and “membrane fusion” (Fig. 4b). A more refined GO-term analysis
+specifically on the candidate upregulated genes in the pLNA-1229 dataset (p-value < 0.05),
+further showed a specific enrichment for terms related to autophagy (Fig. 4d). Four of the
+autophagy-related upregulated genes contain high-affinity (7mer-a1 or stronger) miR-1229-3p
+binding sites (Fig. 4e). Among those, PTEN-induced kinase 1 (Pink1) was the most
+significantly upregulated miR-1229-3p target gene in the pLNA-1229 dataset, containing an
+8mer binding site near the polyA signal of its 3`UTR. Pink1 is involved in mitochondrial quality
+control by guiding Parkin to depolarized mitochondria, thereby triggering a special form of
+autophagy known as mitophagy (29). Using luciferase assays with a wild-type and miR-1229-
+3p binding site mutant Pink1 3`UTR reporter gene constructs, we were able to validate Pink1
+as a direct target of miR-1229-3p in a human cell line and rat primary neurons (Fig. 4f, Suppl.
+fig. S20c). In conclusion, our results indicate that miR-1229-3p depletion profoundly impacts
+
+mitochondrial gene expression and identify the mitophagy regulator Pink1 as a direct miR-
+1229-3p target gene.

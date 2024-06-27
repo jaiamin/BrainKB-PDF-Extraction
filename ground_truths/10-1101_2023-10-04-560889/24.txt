@@ -1,0 +1,36 @@
+Acknowledgments: We thank the laboratory of Emile van den Akker for sending us the stem
+cell lines used in this study. The ribosomal depletion sequencing and proteomics was carried
+out by the Functional Genomics Center Zurich (FGCZ). Viral vectors were produced by the
+viral vector facility at the UZH and we particularly thank Jean-Charles Paterna for his advice.
+Jana Bühler helped establishing the pLNA protocol. Koen Wentinck helped with mitochondrial
+super resolution imaging in human neurons. We thank Ruilin Tian for sending his Cell Profiler
+
+pipeline for dendrite segmentation. FUW-M2rtTA was a gift from Rudolf Jaenisch, pTet-O-
+Ngn2-puro from Marius Wernig. We are grateful to Emmanuel Sonder for continuous help with
+
+the statistics, Cristina Furler for help with cell culture work as well as Silvia Bicker and Roberto
+Fiore for insightful discussions along the project and proofreading of the manuscript.
+Funding: This project was in part funded by a grant from ERA-NET NEURON JTC 2019
+(Altered Translation in Autism, “Altruism”; funded by SNF 32NE30_189486) to GS.
+Author contributions: MS performed human neuron differentiations, immunohistochemistry,
+RNA sequencing sample preparation and analysis, protein extraction, synaptogenesis and
+dendritogenesis analysis, calcium imaging, helped with mitochondrial super resolution
+imaging, performed mitochondrial morphology and metabolic analyses, statistical analyses and
+wrote the manuscript. ALB helped with Mitotracker differentiations, staining and analysis as
+well as mitochondrial super resolution imaging and analysis. SG performed luciferase reporter
+gene assays. TW performed human neuron differentiations, helped with calcium imaging as
+well as synaptogenesis and dendritogenesis analysis. DC wrote the script for calcium imaging
+analysis. FG performed the human microRNA conservation analysis and mRNA-protein
+correlation analyses in the time course experiment. TG performed circRNA analysis and helped
+with statistical assessment of time course data. LZ performed label-free proteomics experiments
+and data analysis. JB supervised the proteomics part of the study. PLG supervised
+transcriptomic data analysis and advised on the project. JW performed and supervised the
+electrophysiological recordings. TK performed and supervised the mitochondrial super
+resolution imaging and advised on the mitochondrial part. GS conceptualized and supervised
+the project, wrote the manuscript, and coordinated collaborative experiments.
+Competing interest: The authors declare no competing interests.
+
+Supplementary Materials:
+Materials and Methods
+Figs. S1 to S23
+Tables S1 to S5

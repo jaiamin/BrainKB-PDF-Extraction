@@ -1,0 +1,26 @@
+brighter colors or higher intensities. These salient regions correspond to the areas 141
+that strongly influence the model’s prediction. 142
+5. Extraction of latent feature 143
+After training the model, the output of the one before the last layer of the model 144
+was extracted for each input. The layer is circled in the Figure1.B. This output 145
+essentially serves as a feature vector within the resultant latent space. Based on 146
+this feature vector, we gauged the similarity amongst regions. That is, small 147
+distances between feature vectors indicated higher similarities (Figure1.C). The 148
+feature vectors were added together for each region, and those added vectors were 149
+used as the concatenated vectors in that region. We calculated and compared the 150
+distances of concatenated vectors for each of the seven regions, under the 151
+assumption that the distance between concatenated vectors across regions reflects 152
+inter-region similarity. 153
+SVM 154
+To evaluate whether the transformer-based model had any advantage over other simpler 155
+methods, we obtained a simple baseline performance using Support Vector Machine 156
+(SVM). We used the same spectrograms as input for training a linear SVM. The data 157
+preprocessing technique used for the TERA model was applied to preprocess the 158
+spectrogram in the same way. This involved performing the common average referencing 159
+(CAR) and cepstral mean and variance normalization (CMVM) subtraction as 160
+preprocessing steps. For each individual, an SVM was trained using the labeled 161
+electrode regions as the target labels, with the preprocessed data serving as input. After 162
+the preprocessing, the spectrograms were transformed into one-dimensional vectors of 163
+(feature length)×(time length). The training data consisted of 80% of the overall data, 164
+while the remaining 20% was used as the test data. The data were standardized before 165
+training the model. 166

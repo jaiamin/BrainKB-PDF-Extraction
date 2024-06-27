@@ -1,0 +1,17 @@
+study pain signalling evoked in the periphery, as well as activation at the level of the spinal
+cord [13; 19; 20; 35; 40]. While a range of strategies have been used to express
+channelrhodopsin-2 (ChR2) in nociceptive afferents and other cell populations, several
+studies have used the transient receptor potential cation channel subfamily V member 1
+(TRPV1) to establish optogenetic control of nociceptors [5; 9; 12; 13; 21; 25; 26; 37].
+Importantly, the TRPV1 ion channel mediates heat and chemically induced nociception,
+through expression in mechanically insensitive unmyelinated c-fibres [24; 30; 41]. Thus,
+photostimulation of this population in TRPV1::ChR2 mice, by applying 470 nm light to the
+central or peripheral nervous systems, can produce nociceptive signaling [5; 9; 12; 13; 21; 25;
+26; 37]. Several studies have shown that under in vivo conditions peripheral optogenetic
+activation of nociceptors provokes nocifensive responses that can then be recorded and
+analysed [9; 30; 2; 13]. In building on this approach, work presented here describes an optical
+thresholding protocol, delivering set intensities of increasing photostimulation until a
+nocifensive hindpaw withdrawal response is elicited. This provides a form of nociceptive
+threshold that can then be monitored without tissue contact or injury and can assess changes
+in purely nociceptive signaling during the induction of pathological pain or as an analgesic
+efficacy screening model for novel compounds.

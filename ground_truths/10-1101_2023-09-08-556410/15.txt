@@ -1,0 +1,39 @@
+REFERENCES
+Berlau, D.J., Corrada, M.M., Head, E., & Kawas, C.H. (2009). APOE ε2 is associated with intact
+cognition but increased Alzheimer pathology in the oldest old. Neurology, 72(9), 824-
+834.
+Cassady, K., Gagnon, H., Lalwani, P., Simmonite, M., Foerster, B., Park, D., Peltier, S.J., Petrou,
+M., Taylor, S.F., Weissman, D.H., Seidler, R.D., & Polk, T.A. (2019). Sensorimotor
+network segregation declines with age and is lined to GABA and to sensorimotor
+performance. NeuroImage, 186, 234-244.
+Carson, N., Leach, L., & Murphy, K.J. (2018). A re-examination of Montreal Cognitive
+Assessment (MoCA) cutoff scores. International Journal of Geriatric Psychiatry, 33(2),
+379-388.
+Chamberlain, J.D., Gagnon, H., Lalwani, P., Cassady, K.E., Simmonite, M., Seidler, R.D.,
+Taylor, S.F., Weissman, D.H., Park, D.C., & Polk, T.A. (2021). GABA levels in ventral
+visual cortex decline with age and are associated with neural distinctiveness.
+Neurobiology of Aging, 102, 170-177.
+Cuypers, K., Verstraelen, S., Maes, C., Hermans, L., Hehl, M., Heise, K.-F., Chalavi, S.,
+Mikkelsen, M., Edden, R., Levin, O., Sunaert, S., Meesen, R., Mantini, D., & Swinnen,
+S.P. (2020). Duncan, N.W., Wiebking, C., & Northoff, G. (2014). Associations of
+regional GABA and glutamate with intrinsic and extrinsic neural activity in humans—a
+review of multimodal imaging studies. Neuroscience and Biobehavioral Reviews, 47, 36-
+52.
+
+Edden, R., Puts, N.A.J., Harris, A.D., Barker, P.B., & Evans, C.J. (2014). Gannet: A Batch-
+Processing Tool for the Quantitative Analysis of Gamma-Aminobutyric Acid-Edited MR
+
+Spectroscopy Spectra. J Magn Reson Imaging, 40(6), 1445-1452.
+Gao, F., Edden, R.A., Li, M., Puts, N.A., Wang, G., Liu, C., Zhao, B., Wang, H., Bai, X., Zhao,
+C., Wang, X., & Barker, P.B. (2013). Edited magnetic resonance spectroscopy detects an
+age-related decline in brain GABA levels. NeuroImage, 78, 75-82.
+Gardner, R.C., Valcour, V., & Yaffe, K. (2013). Dementia in the oldest old: a multi-factorial and
+growing public health issue. Alzheimer’s Research & Therapy, 5, 27.
+Hertzog, C., Kramer, A.F., Wilson, R.S., & Lindenberger, U. (2008). Enrichment Effects on
+Adult Cognitive Development: Can the Functional Capacity of Older Adults Be
+Preserved and Enhanced? Psychological Science in the Public Interest, 9(1), 1-65.
+https://doi.org/10.1111/j.1539-6053.2009.01034.x
+Jiménez-Balado, J., Herrera, Y.A., Igwe, K., Klem, L., Buyukturkoglu, K., Irimia, A., Liu, C.,
+Guo, J., Brickman, A.M., & Eich, T.S. (2021). Reduced Hippocampal GABA+ Is
+Associated With Poorer Episodic Memory in Healthy Older Women: A Pilot Study.
+Front Behav Neurosci., 15, 695416.

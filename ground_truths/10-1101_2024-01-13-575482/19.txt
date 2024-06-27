@@ -1,0 +1,107 @@
+where ρ(s) being positive in a right neighborhood of s = s1 results in w(M, ∞|x) > 0 .
+Given that formula (S22) is an average over the interval [a, b] with the distribution
+ψ(s; a, b) = ρ(s)gσ(s − x)θ(s − a)θ(b − s)
+
+R b
+a
+ds ρ(s)gσ(s − x)
+
+(S24)
+
+it follows that
+
+⟨s⟩
+[s1,∞]
+s|x ≥ ⟨s⟩
+[−∞,s1]
+s|x
+
+(S25)
+
+Let us now find bounds for the weights w’s. We note that
+
+w(−∞, s1|x) ≤
+ Z M
+−∞
+ρ(s)ds
+sups∈(−∞,s1)
+
+gσ(s − x) = gσ(s1 − x)
+Z M
+−∞
+ρ(s)ds (S26)
+where the last equality holds for sufficiently large x (x ≥ s1). We also note that there is a right neighborhood of s2
+with size δ where ρ(s) > 0, hence
+
+w(s1, ∞|x) ≥
+R ∞
+s2
+ds ρ(s)gσ(s − x)
+R ∞
+−∞ ds ρ(s)gσ(s − x)
+≥
+gσ(s2 − x)
+R ∞
+s2
+ds ρ(s)
+
+R ∞
+−∞ ds ρ(s)gσ(s − x)
+
+(S27)
+
+where the second inequality holds for sufficiently large x (x ≥ s2).
+From Eqs. (S26) and (S27), it follows that
+
+limx→∞
+w(−∞, s1|x)
+w(s1, ∞|x)
+≤
+R s1
+−∞ ρ(s)ds
+R ∞
+s2
+ρ(s)ds
+limx→∞
+gσ(s1 − x)
+gσ(s2 − x)
+= 0 (S28)
+On the other hand, for any x we have w(−∞, s1|x) + w(s1, ∞|x) = 1, which together with Eq. (S28) yields
+
+limx→∞
+w(−∞, s1|x) = 0 limx→∞
+
+w(s1, ∞|x) = 1 (S29)
+
+Applying (S28) and Eq. (S25) into Eq. (S21), we obtain
+
+limx→∞
+sˆ(x) = limx→∞
+⟨s⟩
+[s1,∞]
+s|x w(s1, ∞|x) = limx→∞
+⟨s⟩
+[s1,∞]
+s|x
+
+(S30)
+
+On the other hand, from Eq. (S22) we have ⟨s⟩
+[s1,∞]
+s|x ≥ s1 > L, so we reach the contradictory conclusion that
+
+limx→∞ sˆ(x) > L, which shows that a finite limit L cannot exist.
+
+S-III. DEFINITION OF THE PERCEIVED UTILITY FUNCTION
+
+The experimental setting used to verify the Reflection Effect [5] is described by Table I of the main text. The
+function that determines the perceived utility given a certain outcome is sˆ(x) = ⟨s⟩x. This function must be averaged
+over all outcomes to yield the actual value of the perceived utility U associated to any choice.
+Therefore, the perceived utility becomes
+
+U(p, r) = UA(p, r) − UB(p, r) = psˆ(r/p − r) + (1 − p)ˆs(−r) (S31)
+
+and is written most concisely in terms of the odds q =
+1−p
+p
+(ranging between 0 and ∞),

@@ -1,0 +1,11 @@
+FUNDING
+The work was primarily supported by the McKnight Brain Research Foundation and the
+University of Florida Center for Cognitive Aging and Memory. Additional funding was received
+from NIH 5R015R01EB023963-06 and NIH 5R01AG054077-02. Mark Britton was funded
+through the NIH/NIAAA T32AA25877 and the University of Florida Center for Cognitive
+Aging and Memory.
+DATA AVAILABILITY STATEMENT
+All code and previously-published data, including data previously reported in Porges et al.
+(2021), are publicly accessible from the Open Science Framework here: https://osf.io/ej6tv/.
+McKnight Brain Aging Registry data are available from the McKnight Brain Research
+Foundation upon reasonable request.

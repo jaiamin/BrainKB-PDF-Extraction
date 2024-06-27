@@ -1,0 +1,100 @@
+29. Liu, Z. et al. Dorsal Raphe Neurons Signal
+Reward through 5-HT and Glutamate. Neuron
+81, 1360–1374 (2014).
+30. Malek, Z. S., Sage, D., Pévet, P. & Raison, S.
+Daily Rhythm of Tryptophan Hydroxylase-2
+Messenger Ribonucleic Acid within Raphe
+Neurons Is Induced by Corticoid Daily Surge
+and Modulated by Enhanced Locomotor
+Activity. Endocrinology 148, 5165–5172
+(2007).
+31. Sánchez, S. et al. Circadian variations of
+serotonin in plasma and different brain regions
+of rats. Mol. Cell. Biochem. 317, 105–111
+(2008).
+32. Tervo, D. G. R. et al. A Designer AAV Variant
+Permits Efficient Retrograde Access to
+Projection Neurons. Neuron 92, 372–382
+(2016).
+33. Ren, J. et al. Anatomically Defined and
+Functionally Distinct Dorsal Raphe Serotonin
+Sub-systems. Cell 175, 472-487.e20 (2018).
+34. Gagnon, D. & Parent, M. Distribution of
+VGLUT3 in Highly Collateralized Axons from
+the Rat Dorsal Raphe Nucleus as Revealed by
+Single-Neuron Reconstructions. PLoS ONE 9,
+e87709 (2014).
+35. Ren, J. et al. Single-cell transcriptomes and
+whole-brain projections of serotonin neurons in
+the mouse dorsal and median raphe nuclei. eLife
+8, e49424 (2019).
+36. Young, J. W. et al. Mice with reduced DAT
+levels recreate seasonal-induced switching
+between states in bipolar disorder.
+Neuropsychopharmacology 43, 1721–1731
+(2018).
+37. Senft, R. A., Freret, M. E., Sturrock, N. &
+Dymecki, S. M. Neurochemically and
+Hodologically Distinct Ascending VGLUT3
+versus Serotonin Subsystems Comprise the r2-
+Pet1 Median Raphe. J. Neurosci. 41, 2581–
+2600 (2021).
+38. Hafner, G. et al. Mapping Brain-Wide Afferent
+Inputs of Parvalbumin-Expressing GABAergic
+Neurons in Barrel Cortex Reveals Local and
+Long-Range Circuit Motifs. Cell Rep. 28, 3450-
+3461.e8 (2019).
+39. Zhang, Z., Beier, C., Weil, T. & Hattar, S. The
+retinal ipRGC-preoptic circuit mediates the
+acute effect of light on sleep. Nat. Commun. 12,
+5115 (2021).
+
+40. Scammell, T. E., Arrigoni, E. & Lipton, J. O.
+Neural Circuitry of Wakefulness and Sleep.
+Neuron 93, 747–765 (2017).
+41. Hu, H., Cui, Y. & Yang, Y. Circuits and
+functions of the lateral habenula in health and in
+disease. Nat. Rev. Neurosci. 21, 277–295
+(2020).
+42. Beier, C., Zhang, Z., Yurgel, M. & Hattar, S.
+Projections of IPRGCS and conventional RGCS
+to retinorecipient brain nuclei. J. Comp. Neurol.
+529, 1863–1875 (2021).
+43. Merchán-Pérez, A., Rodriguez, J.-R., Ribak, C.
+E. & DeFelipe, J. Proximity of excitatory and
+inhibitory axon terminals adjacent to pyramidal
+cell bodies provides a putative basis for
+nonsynaptic interactions. Proc. Natl. Acad. Sci.
+106, 9878–9883 (2009).
+44. Voisin, A. N. et al. Axonal Segregation and
+Role of the Vesicular Glutamate Transporter
+VGLUT3 in Serotonin Neurons. Front.
+Neuroanat. 10, (2016).
+45. Fortin, G. M. et al. Segregation of dopamine
+and glutamate release sites in dopamine neuron
+axons: regulation by striatal target cells. FASEB
+J. 33, 400–417 (2019).
+46. Sámano, C., Cifuentes, F. & Morales, M. A.
+Neurotransmitter segregation: Functional and
+plastic implications. Prog. Neurobiol. 97, 277–
+287 (2012).
+47. Vega, A. et al. Neurotrophin-dependent
+plasticity of neurotransmitter segregation in the
+rat superior cervical ganglion in vivo:
+Neurotrophin and Plasticity Segregation. Dev.
+Neurobiol. 76, 832–846 (2016).
+48. Yasumoto, Y., Nakao, R. & Oishi, K. Free
+Access to a Running-Wheel Advances the
+Phase of Behavioral and Physiological
+Circadian Rhythms and Peripheral Molecular
+Clocks in Mice. PLOS ONE 10, e0116476
+(2015).
+49. Pollak Dorocic, I. et al. A Whole-Brain Atlas of
+Inputs to Serotonergic Neurons of the Dorsal
+and Median Raphe Nuclei. Neuron 83, 663–678
+(2014).
+50. Ogawa, S. K., Cohen, J. Y., Hwang, D., Uchida,
+N. & Watabe-Uchida, M. Organization of
+Monosynaptic Inputs to the Serotonin and
+Dopamine Neuromodulatory Systems. Cell Rep.
+8, 1105–1118 (2014).

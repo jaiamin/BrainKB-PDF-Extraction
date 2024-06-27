@@ -1,0 +1,82 @@
+indifferently among options with any risk level. Thus, the "linearity in probability" that prospect theory problematizes
+proves to be here something more familiar – normality of prior distributions.
+In fact, a normal distribution is the only choice of a prior that would annihilate the perceived utility – as we proceed
+to prove.
+Imposing Eq. (S55) for all (q, r) enforces ⟨s⟩ax = a⟨s⟩x for all a ≤ 0. This in turn entails the same equality ∀a > 0
+as well (just apply it twice with a1 = a2 = −
+√
+a). For a one-dimensional argument x, this scaling law implies linearity.
+If the posterior mean has no x-derivatives beyond the first, Eq. (S10) implies that the posterior distribution has no
+cumulants beyond the second one, i.e. it is normal.
+Gaussianity of the prior follows immediately through (2).
+
+C. First tangent inequality
+
+The derivative of the perceived utility is
+
+∂pU = ˆs(r/p − r) − sˆ(−r) − rsˆ
+′
+(r/p − r)/p (S56)
+
+where sˆ(x) = ⟨s⟩x; or in terms of the odds
+∂qU =
+rsˆ
+′
+(qr) + ˆs(−r)
+1 + q
++
+−qsˆ(−r) − sˆ(qr)
+(1 + q)
+2
+
+(S57)
+Because U must have the opposite sign to r in a left neighborhood of p = 1 (or right neighborhood of q = 0), where
+it touches zero, it follows that the derivative at that point is of particular importance. From (S57), we see that
+
+[∂qU]q=0 = rsˆ
+′
+(0) + ˆs(−r) (S58)
+Now, to comply with the reflection effect this must be negative for gains and positive for losses which finally leads
+to
+
+sˆ(r) > sˆ
+′
+(0)r if r > 0 (S59)
+sˆ(r) < sˆ
+′
+(0)r if r < 0 (S60)
+I will refer to these inequalities as "tangent inequalities" because they state that the curve must lie above its
+zero-deviation tangent.
+The tangent inequalities are related to the concave-convex shape described in [7]. Since in that theory sˆ(0) = 0, a
+second derivative sˆ
+
+′′(x) that has everywhere the same sign as x is a sufficient condition for the forbidden regions to
+stay untouched. However, it is in general not a necessary condition. The graph of sˆ(x) can fluctuate without harm,
+changing the sign of all its derivatives, as long as it never enters a forbidden wedge of the Cartesian plane – located
+beneath the curve in the upper right quadrant, and above the curve in the lower left quadrant.
+One consequence of this has to do with the behavior at infinity. Namely, if the asymptotic behavior of sˆ(x) is linear
+sˆ(x) = βx + o(x), we must have necessarily β ≥ sˆ
+′
+(0) and, if β = ˆs
+′
+(0), a strictly positive subleading contribution in
+
+the remainder.
+
+D. Second tangent inequality
+
+The above inequalities are a lower bound on sˆ(r)/r. Similarly, we also have an upper bound on sˆ(r)/r. We will
+write down the derivation briefly. For large q, we can write
+U ∼ sˆ(−r) + 1
+q
+sˆ(qr) (S61)
+With a symmetric prior, sˆ(x) is antisymmetric, and U > 0 can be written as sˆ(qr) > −qsˆ(−r) = qsˆ(r) which in
+turn can be rearranged (setting r
+
+′ = qr) into
+sˆ(r
+′
+) > sˆ(r) + sˆ(r)
+r
+(r
+′ − r) (S62)

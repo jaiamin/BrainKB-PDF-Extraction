@@ -1,0 +1,24 @@
+inactive), as well as during and post photostimulation (hindpaw lifting, tapping, grooming).
+Video recordings also determine the latency between photostimulation onset and the first
+behavioural response. Once coded, behaviour data (e.g., hindpaw lifting, tapping, or
+grooming) was exported in 1-second bins. Our analysis also grouped behaviours (e.g.,
+nocifensive = lifting/tapping/grooming) and normalized these to account for photostimulation
+exposure when hindpaw withdrawal reduced the photostimulation period. This normalization
+multiplied the response duration by the fraction of the photostimulation period (1-second)
+that achieved hindpaw exposure.
+
+Drugs and drug administration
+Morphine (5 mg/mL; Pfizer, New york, USA) was prepared in isotonic saline was prepared
+immediately prior to administration. Morphine and vehicle (isotonic saline) were
+administered s.c. into the scruff of the neck at a volume of 5 mL/kg, and morphine at a
+dosage of 10 mg/kg.
+
+Statistics
+Data were analyzed using the SPSS Statistical package (V28, IBM, New York, USA). Data
+were first examined to determine whether it satisfied the assumptions underlying analysis of
+
+variance. Repeated measures ANOVAs paired with post-hoc Tukey’s HSD or the non-
+parametric equivalent Friedman test paired with post-hoc Wilcoxon signed-rank tests were
+
+used to compare parametric and non-parametric data, respectively. All data are presented as
+mean ± standard error of the mean (SEM) and statistical significance was set at p < 0.05.

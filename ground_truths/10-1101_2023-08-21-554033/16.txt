@@ -1,0 +1,41 @@
+[15] K. Nahrstedt, N. Shanbhag, V. Adve, N. Amato, R. R. Choudhury, C. Gunter, N. S. Kim, O. Milenkovic,
+S. Mitra, L. Varshney, et al., arXiv preprint arXiv:2210.08974 2022.
+[16] L. Pan, S. Alagapan, E. Franca, G. J. Brewer, B. C. Wheeler, Journal of neural engineering 2011, 8, 4 046031.
+[17] A. Gladkov, Y. Pigareva, D. Kutyina, V. Kolpakov, A. Bukatin, I. Mukhina, V. Kazantsev, A. Pimashkin,
+Scientific reports 2017, 7, 1 1.
+[18] S. Joo, J. Lim, Y. Nam, BioChip Journal 2018, 12, 3 193.
+[19] L. Smirnova, B. S. Caffo, D. H. Gracias, Q. Huang, I. E. Morales Pantoja, B. Tang, D. J. Zack, C. A. Berlinicke,
+J. L. Boyd, T. D. Harris, et al., Frontiers in Science 2023, 0.
+[20] A. Stett, U. Egert, E. Guenther, F. Hofmann, T. Meyer, W. Nisch, H. Haemmerle, Analytical and bioanalytical
+chemistry 2003, 377, 3 486.
+[21] E. R. McConnell, M. A. McClain, J. Ross, W. R. LeFew, T. J. Shafer, Neurotoxicology 2012, 33, 5 1048.
+[22] M. Eichler, H.-G. Jahnke, D. Krinke, A. Müller, S. Schmidt, R. Azendorf, A. A. Robitzki, Biosensors and
+Bioelectronics 2015, 67 582.
+[23] https://www.multichannelsystems.com .
+[24] https://www.axionbiosystems.com .
+[25] A. P. Buccino, M. E. Lepperød, S.-A. Dragly, P. Häfliger, M. Fyhn, T. Hafting, Journal of Neural Engineering
+2018, 15, 5 055002.
+[26] G. M. O’Leary, I. Khramtsov, R. Ramesh, A. Perez-Ignacio, P. Shah, H. M. Chameh, A. Gierlach, R. Genov,
+T. Valiante, bioRxiv 2022.
+[27] D. Kim, H. Kang, Y. Nam, Lab on a Chip 2020, 20, 18 3410.
+[28] S. Middya, V. F. Curto, A. Fernández-Villegas, M. Robbins, J. Gurke, E. J. Moonen, G. S. Kaminski Schierle,
+G. G. Malliaras, Advanced Science 2021, 8, 13 2004434.
+[29] I. A. Weaver, A. W. Li, B. C. Shields, M. R. Tadross, Journal of Neural Engineering 2022, 19, 2 024001.
+[30] C. Black, J. Voigts, U. Agrawal, M. Ladow, J. Santoyo, C. Moore, S. Jones, Journal of neural engineering
+2017, 14, 3 035002.
+[31] https://intantech.com .
+[32] D. Kuzum, H. Takano, E. Shim, J. C. Reed, H. Juul, A. G. Richardson, J. De Vries, H. Bink, M. A. Dichter,
+T. H. Lucas, et al., Nature communications 2014, 5, 1 1.
+[33] A. Scott, K. Weir, C. Easton, W. Huynh, W. J. Moody, A. Folch, Lab on a Chip 2013, 13, 4 527.
+[34] E. Muller, A. P. Davison, T. Brizzi, D. Bruederle, J. Eppler, J. Kremkow, D. Pecevski, L. Perrinet, M. Schmuker,
+P. Yger, In Frontiers in neuroscience conference abstract: Neuroinformatics, volume 2009. 2009 .
+[35] F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer,
+R. Weiss, V. Dubourg, et al., Journal of machine Learning research 2011, 12 2825.
+[36] N. Cermak, M. A. Wilson, J. Schiller, J. P. Newman, bioRxiv 2019, 757716.
+[37] A. Bansal, S. Shikha, Y. Zhang, Nature Biomedical Engineering 2023, 7, 4 349.
+[38] A. Collette, Python and HDF5: unlocking scientific data, " O’Reilly Media, Inc.", 2013.
+[39] G. Arakelyan, G. Soghomonyan, The Aim team, Aim, 2020, URL https://github.com/aimhubio/aim.
+[40] D. G. Moore, G. Valentini, S. I. Walker, M. Levin, In 2017 IEEE Symposium Series on Computational
+Intelligence (SSCI). IEEE, 2017 1–8.
+[41] P. Wollstadt, J. Lizier, R. Vicente, C. Finn, M. Martinez-Zarzuela, P. Mediano, L. Novelli, M. Wibral, Journal
+of Open Source Software 2019, 4, 34 1081.

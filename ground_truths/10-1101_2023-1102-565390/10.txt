@@ -1,0 +1,35 @@
+did not exhibit any behavioural responses to peripheral photostimulation at 470 nm, even at
+the highest intensity tested (3.0 mW, Figure 2K). Likewise, TRPV1::ChR2 mice did not
+respond to peripheral photostimulation at 532 nm (Figure 2K). Together, these results
+confirm that selective activation of nociceptive afferents by peripheral photostimulation in
+
+TRPV1::ChR2 mice produced behavioural responses and excludes the potential for non-
+specific photostimulation responses caused by hindpaw illumination or visual cues, unrelated
+
+to ChR2 activation.
+
+Grouping nocifensive response domains
+In characterizing peripheral photostimulation responses, three main nocifensive behaviours
+were commonly observed. These were tapping, lifting or grooming of the stimulated
+hindpaw. Tapping and lifting appeared milder forms of nocifensive response, while
+grooming, often maintained for an extended significant duration, was interpreted as a more
+substantial response to photostimulation. To determine the most relevant approach to quantify
+response data we first analysed a subset of animals (n=3) over 3 trials, assessing 10
+individual tests for each animal and investigating individual response components (tapping,
+lifting and grooming). Lifting always occurred in response to photostimulation (30/30 tests)
+and was sometimes accompanied by tapping (6/30 tests) or grooming (4/30 tests, Figure 3).
+The contribution of tapping and grooming behaviours to the overall response often increased
+total response duration but never occurred in isolation from lifting, nor did they appear to
+reflect a significantly different response phenotype (Figure 3). Given that the consistent
+nature of paw lifting and variability of tapping and grooming, these beahviours were
+consequently grouped for subsequent nocifensive behaviour comparisons.
+
+Peripheral photostimulation repeatability and reliability
+An important aspect of any viable assay assessing pathological pain or the efficacy of
+analgesic compounds is reproducibility over an anticipated testing period. Repeatability in the
+current peripheral photostimulation model was assessed in a group of TRPV1::ChR2 mice (n
+=10) tested across three trials, separated by 3-days. Comparisons assessed the optical
+threshold for paw withdrawal (lifting) during photostimulation, as well as withdrawal latency,
+and response duration. Group data comparisons confirmed that the optical threshold for
+withdrawal was stable across trials (p > 0.05), suggesting the utility of this measure to track
+changes in nociception (Figure 4). In contrast, withdrawal latency was more variable with the

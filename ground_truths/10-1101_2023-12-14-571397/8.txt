@@ -1,0 +1,36 @@
+advance to fill in a questionnaire at the end of the fragment. In this phase, however, the
+questionnaire related solely to the content of the text, resulting in a no-attention condition
+to the speech. Between each of the four phases, a short pause was inserted to give the
+subjects time to fill in the corresponding questionnaires. The stories were played through
+the stereo speakers of a laptop. At the start of the experiment, the subjects could determine
+the volume themselves, such that they were comfortable during the experiments. To keep
+the subjects motivated throughout the experiment, the subjects were informed that a gift
+card was to be handed out to the three best-scoring participants on the combined results
+of the questionnaires and arithmetic exercises. No preprocessing of the auditory stimuli
+took place before presenting them to the subjects.
+
+Fig. 2. The presentation structure of Dataset I. During phase 1, the subjects were instructed to attend an auditory
+stimulus and answer questions about the content afterwards (‘Audio’). During phase 2 and phase 3, this structure was
+interleaved with specific tasks to be completed in order to modulate the subjects’ state of auditory attention. During
+the ‘Mathematics’ task, subjects needed to solve arithmetic exercises, reducing the auditory attention. During the
+‘Question’ task, subjects needed to increase their auditory attention as a question certainly was to be asked about that
+part of the fragment. During phase 4, the subjects were instructed to silently read a text while ignoring the auditory
+stimulus.
+2) Dataset II: Dataset II is a subset of the dataset used in [11]. This subset consists of 7
+normal-hearing subjects, who all participated in two experiments. In the first experiment,
+subjects were instructed to attend a Dutch continuous auditory stimulus (story ‘Milan’).
+In the second experiment, the subjects were instructed to attend a silent, subtitled cartoon
+movie while ignoring an auditory stimulus. For each subject, about 15 minutes of data
+are available for both conditions. The EEG data consist of 64 channels. The interested
+reader can find a more detailed description of this dataset in [11].
+
+3) Dataset III: Dataset III corresponds to the sAAD dataset of [21]. Herein, 16 normal-
+hearing subjects were exposed to a competing speaker scenario with two speakers, and
+
+were instructed to attend to one of the speakers while ignoring the other one. As auditory
+stimuli, four Dutch children’s stories were used. In total, approximately 72 minutes of
+recorded data per subject are available, using a 64-channel EEG cap. A more detailed
+description of this dataset can be found in [2].
+In the present study, we do not further consider the segments corresponding to the
+‘Question’ condition of Dataset I (green segments in Fig. 2), to ensure a consistent
+active listening condition between Dataset I and Dataset II. Furthermore, the data of the

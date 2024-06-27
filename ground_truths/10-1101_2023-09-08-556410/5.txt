@@ -1,0 +1,16 @@
+To characterize nonlinear GABA trajectory in oldest-old age, we fit a nonlinear penalized basis
+spline model incorporating data previously reported in Porges et al. (2021); the mean spline and
+credible interval are shown in Figure 1. The first derivative of the basis spline model was also
+generated, reflecting the change in velocity of GABA+ decline in oldest-old age; the first
+derivative after age 60 is inset in Figure 1.
+
+Figure 1. Penalized basis spline model of cortical GABA concentrations across the lifespan. The
+inset figure depicts a portion of the first derivative of the basis spline model, reflecting the
+change in steepness of the GABA slope with increasing age.
+We additionally examined posterior estimates of the relative scaling factor Fs; Fs represents the
+dataset-specific scaling factor required to bring methodologically heterogeneous data into
+common units (see Methods). Estimated Fs for each dataset, log-scaled to emphasize ratios and
+centered to mean Fs, is plotted in Figure 2. Estimates of Fs for the four Cr-referenced novel
+datasets, like estimates from the three other Cr-referenced datasets (Mikkelsen, Gao, and
+Simmonite), were smaller than estimates for water-referenced datasets, suggesting consistency
+between datasets using similar methodologies.

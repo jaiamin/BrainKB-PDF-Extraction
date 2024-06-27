@@ -1,0 +1,51 @@
+Statistical comparisons between time points were acquired by applying post-hoc analysis with
+
+emmeans. Shown are only statistical comparisons between neighboring time points. (** = p-
+value < 0.01, *** = p-value < 0.001) d-e) Quantification of the normalized Ca-imaging
+
+amplitude (df/F) and frequency (log) over the time course of neuronal differentiation. Measured
+were two different cell lines. On average, calcium spike activity of igNeurons is higher
+compared to previous protocols using Ngn2-induced neurons in the presence of mouse
+astrocytes (20). f) Heatmap indicating scaled expression values of mRNAs and corresponding
+proteins. Each line depicts one gene, each column one replicate. Plotted are the top 1000
+significantly changing genes (FDR < 0.01) and the corresponding proteins during the neuronal
+time points. In total, 11’799 genes (FDR < 0.01 & logFC > 2) and 2’839 proteins (FDR < 0.01)
+changed significantly over the full time course according to the ribosomal depletion sequencing
+and label-free proteomics. The igNeurons time course data can be further accessed at
+https://ethz-ins.org/igNeuronsTimeCourse. g) Smoothed means of scaled RNA expression
+levels of synapse-associated genes (Cluster 9, see Suppl. fig. S6f-g), the corresponding protein
+expression levels and log-scaled smoothed means of the synaptic co-cluster analysis.
+
+The ncRNAome during human excitatory synaptogenesis
+Of note, mRNA and protein expression trajectories are uncorrelated for a group of genes (Suppl.
+fig. S7d-e), suggesting the involvement of post-transcriptional regulatory molecules, such as
+ncRNAs, in human excitatory synaptogenesis. In agreement with this, we observed extensive
+developmental gene expression changes of regulatory long non-coding RNAs, such as lncRNAs
+and circRNAs (Suppl. fig. S8-9), in our Ribo-minus RNA-seq dataset. However, for this initial
+study, we decided to focus on miRNAs due to their well-established role in synapse
+development in other vertebrates. Therefore, we performed small RNA sequencing on the same
+differentiations that were processed for previous analyses (cf. Fig. 1, Suppl. fig. 10a). We
+identified 339 significantly changing miRNAs over the entire time course, of which 181 were
+significantly changing when considering only neuronal days (day 9 – day 40, FDR < 0.05) (Fig.
+2a). In addition, we also quantified snoRNAs (with 81 significantly changing, FDR < 0.05) and
+piRNAs (122 significantly changing, FDR < 0.05) (Suppl. fig. S10c). Clustering the miRNA
+expression dataset according to similar expression trajectories rendered a total of 6 independent
+clusters (Suppl. fig. S11a). Many miRNAs which are known to be involved in neuronal
+morphogenesis based on rodent studies (e.g., miR-181, miR-124, miR-134) are found in cluster
+2 (“begin up”; Suppl. fig. S11b), which features miRNAs that are rapidly induced after the stem
+cell-neuron transition (day 9 onwards). In contrast, miRNAs known to be involved in synaptic
+plasticity (e.g., miR-129) (18) are present in cluster 4 (“late up”; Suppl. fig. S11c) which is
+characterized by a later induction (day 27 onwards).
+We next attempted to characterize human-specific features of miRNA regulation in more detail.
+Towards this aim, we first correlated our miRNA expression data to a smallRNA sequencing
+dataset obtained from induced mouse neurons (see methods). Thereby, we found that out of the
+233 miRNAs commonly detected in both datasets, 181 change significantly during human
+neuronal differentiation (FDR < 0.05, all time points). Expression patterns of these 181
+miRNAs were mostly correlated between human and mouse (Suppl. fig. S11d-e), except for 15
+
+miRNAs which showed strongly anti-correlated expression dynamics, as exemplified by miR-
+708 (Fig. 2b, Suppl. fig. S11f). We further searched for miRNAs whose sequences are not
+
+conserved in other species, including non-human primates. Employing the conservative
+approach of searching for orthologs in other species by reciprocal blasting of all listed human
+miRNA precursors of miRbase version 22 (see methods), we found that only a small fraction

@@ -1,0 +1,42 @@
+A Deep Learning Approach to Detecting Temporal
+Characteristics of Cortical Regions
+Ryosuke Negi1,*, Akito Yoshida2,*, Masaru Kuwabara2,*, Ryota Kanai2,*
+,
+
+1 Department of Engineering, Tsukuba unversity, Tsukuba, Ibaraki,Japan
+2 Araya, Inc., Chiyoda, Tokyo, Japan
+* negi15175@icloud.com, * yoshida akito@araya.org,
+* m.kuwabara@araya.org, * kanair@araya.org
+Abstract
+One view of the neocortical architecture is that every region functions based on a
+universal computational principle. Contrary to this, we postulated that each cortical
+region has its own specific algorithm and functional properties. This idea led us to
+hypothesize that unique temporal patterns should be associated with each region, with
+the functional commonalities and variances among regions reflecting in the temporal
+structure of their neural signals. To investigate these hypotheses, we employed deep
+learning to predict electrodes locations in the macaque brain using single-channel ECoG
+signals. To do this, we first divided the brain into seven regions based on anatomical
+landmarks, and trained a deep learning model to predict the electrode location from the
+ECoG signals. Remarkably, the model achieved an average accuracy of 33.6%,
+significantly above the chance level of 14.3%. All seven regions exhibited above-chance
+prediction accuracy. The model’s feature vectors identified two main clusters: one
+including higher visual areas and temporal cortex, and another encompassing the
+remaining other regions.These results bolster the argument for unique regional
+dynamics within the cortex, highlighting the diverse functional specializations present
+across cortical areas.
+Introduction 1
+While the mammalian neocortex has been thought to be composed of repetition of a 2
+canonical microcircuit [1], the diversity of the cytoarchitecture across cortical regions 3
+suggest functional specialization. For instance,the absolute receptor concentration 4
+throughout the cortical depth is different across the cortex [2],neuron density and the 5
+ratio of neurons to nonneuroncells (mainly glia) varied greatly across cortical areas and 6
+regions [3], the frontal lobe contains large stellate cells in layer 4 [4], while the parietal 7
+lobe’s layer 5 is characterized by large pyramidal cells [5]. Synaptic excitation and 8
+inhibition display systematic macroscopic gradients across the entire cortex [6]. Since 9
+electrophysiological activities result from the synchronous activity of neurons in the 10
+brain [7–10], we hypothesize that cytoarchitectural diversity is also manifested in 11
+electrophysiological properties of neuronal signals, such as electrocorticalgraphy (ECoG). 12
+In previous research, it has been reported that different brain regions exhibit distinct 13
+electrophysiological characteristics. For Example, the spiking regularity of neurons 14
+increases as information flows from the input to the output regions of the brain [11]. 15
+Furthermore, studies utilizing ECoG and single-neuron recordings have revealed that 16

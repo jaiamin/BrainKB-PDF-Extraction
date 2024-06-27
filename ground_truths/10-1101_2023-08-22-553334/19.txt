@@ -1,0 +1,41 @@
+C. PalmD co-immunoprecipitation with Pdlim5’s isolated LIM domain. PalmD was co-expressed with
+each individually isolated domains of Pdlim5 (LIM or PDZ). The results revealed that PalmD associates
+specifically with the LIM domain of Pdlim5. Relative to negative controls, no association was observed
+with the other isolated domains, such as PDZ (or with the central DUF domain; not shown). n≥3
+biological replicates in each condition. See also below Panel D.
+D. In addition to using co-IP (see panel C above), we applied an orthogonal method we term GLS (see
+the text and Methods), to explore the association of different domains of Pdlim5 with PalmD. The assay
+revealed the colocalizations of PalmD with Pdlim5 at the Golgi only when the LIM domain of Pdlim5 was
+present. This finding again suggests that PalmD has an association with the LIM domain of Pdlim5. n≥3
+biological replicates.
+Supplemental Figure 4. Function and functional dependency of Pdlim5: PalmD complex
+A. Imaris-generated 3D rendering image of rat primary hippocampal neurons shows the exogenous
+expression of negative control GFP, Pdlim5, or PalmD. Increased branching is observed in neurons
+expressing Pdlim5 or PalmD compared to the GFP control. Panel B provides quantitation of the average
+number of tips per cell. n≥3 biological replicates.
+B. Imaris 9.9.0 and Image J software was utilized to quantify the average number of tips per cell. A box
+and violin plot illustrates significantly increased branching upon Pdlim5 or PalmD exogenous expression.
+Each dot represents a single neuron (n=10), and the levels of statistical significance, determined using
+one-way ANOVA, are indicated as P ≤ 0.0001 (****). n≥10 neurons.
+C. A bar graph compares negative-control GFP, exogenous PalmD expression, and knockdown of PalmD
+(siRNA-714; siRNA-716) based on Imaris 9.9 tool analysis (see Methods). The analysis reveals that PalmD
+acts as a modulator for branching function. The loss of PalmD is associated with a decrease in branching
+morphology, while exogenous expression of PalmD enhances branching. Each dot represents a single
+neuron (n=10), and the levels of statistical significance, determined using one-way ANOVA, are indicated
+as P ≤ 0.0001 (****), n≥10 neurons each from three biological replicates.
+D. Correlated total cell fluorescence was quantified using Image J software, indicating that knockdown
+of PalmD significantly reduces fluorescence intensity compared to the negative-control GFP or to
+positive-control PalmD-overexpressing neurons. n≥10 neurons in each of three biological replicates.
+Each dot represents a single neuron, and The violin plot quartiles represent data ranges and middle dark
+line represent median, and the statistical significance, determined using one-way ANOVA, is indicated as
+P ≤ 0.0001 (****).
+E. Sholl analysis was performed to analyze dendrite morphology in neurons under different conditions:
+GFP control, exogenous PalmD expression, and exogenous PalmD expression in the presence of
+knockdown of Pdlim5 (siRNA-992). Neurons overexpressing PalmD exhibit a significant increase in
+dendritic complexity compared to GFP-expressing cells. However, when Pdlim5 siRNA-992 is introduced
+alongside PalmD exogenous expression, there is a significant loss of branching function. n≥15 neurons in
+each of three biological replicates. The significance was assessed using a two-way ANOVA with
+Bonferroni post-hoc analysis. The levels of significance varied from P ≤ 0.0001 to P ≤ 0.05, depending on
+the radial distance from the soma.,
+F. Representative binary images (see Methods) indicate the interdependency of Pdlim5's and PalmD's
+branching functions. In the absence of Pdlim5, PalmD no longer enhances branching morphology.

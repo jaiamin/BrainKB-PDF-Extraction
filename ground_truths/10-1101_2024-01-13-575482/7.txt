@@ -1,0 +1,68 @@
+V. EMERGENCE OF THE FOURFOLD PATTERN OF RISK ATTITUDES
+
+We now apply the framework we developed to the experimental setting routinely used to verify fourfold pattern
+of risk attitudes [1, 2, 5], where risky choices are associated to a binary outcome as shown in Table I. The utility
+acquired though a risky choice stochastically turns out to be zero or to have a positive/negative value. We will call p
+the probability of the latter outcome.
+
+Gain/loss value x Probability ⟨x⟩outcomes
+
+Option A (risky) −→
+
+Outcome 1 r/p p
+r Outcome 2 0 1 − p
+Option B (risk-free) r 1 r
+
+Table I. Structure of a choice options in traditional experiments on economic decision [5]. Subjects are given two options to
+choose from, a risky and a risk-free one. The last columns shows the mean gain/loss, i.e. the average of the gain/loss value
+over objective outcomes, which is the same for both options.
+As shown in Table I subjects who choose the risk-free outcome receive or lose a value x = r with probability 1;
+subjects who choose the risky outcome receive or lose value x = r/p with probability p and x = 0 with probability
+1 − p.
+To yield the perceived utility associated to a choice option, the point estimate sˆ must be averaged over all outcomes
+of that option. The perceived utility of a given option is therefore
+
+U
+(option) = ⟨sˆ(x − s0, s0)⟩outcomes (16)
+Although the anchor is usually not reported, it is natural then to expect that the gain/loss value stated as the sure
+outcome of the riskless choice would be the anchor s0 = r. Replacing this into Eq. 16 for the two options A and B
+in Table I,
+U
+(A)
+(p, r) = ⟨sˆ(x − s0, s0)⟩A = ⟨sˆ(x − ⟨x⟩,⟨x⟩)⟩A = p sˆ(r/p − r, r) + (1 − p)ˆs(−r, r) (17)
+U
+(B)
+(r) = ⟨sˆ(x − s0, s0)⟩B = ⟨sˆ(x − ⟨x⟩,⟨x⟩)⟩B = ˆs(0, r) = r (18)
+
+where we note that U
+(B)
+(r) = U
+(A)
+(1, r) because setting the gain/loss probability to unity removes all risk from
+
+the risky option.
+A decision is made by comparing the perceived utility of Eqs. 17 over all options available (Fig. 2), that is, the
+experimentally observed decision depends on the sign of U = U
+(A) − U
+(B)
+, which is just U
+
+A measured with its p = 1
+
+value for a a baseline.
+Hence, the fourfold pattern of risk attitudes corresponds to the finding that the relative perceived utility U flips
+sign as a function of the gain/loss probability p, becoming positive only for sufficiently large p if r is negative, and
+becoming negative only for sufficiently large p if r is positive. Subjects will reject the risk-free option in favor of an
+uncertain gain only if that gain is sufficiently large, and will reject it in favor of a purely potential loss (which may
+ultimately not take place) only if that loss is sufficiently small (see Sec. S-III for details).
+Simply plugging (5) into (2) and the result into (17) immediately yields the comparative perceived utility plotted
+in Fig. 3, left-hand panel (see Sec. S-IV A for details). The utility indeed flips sign as expected from experiments,
+yielding risky choices in the gain domain only for high gains, and risky choices in the loss domain only for small losses.
+Thus, Bayesian Anchoring theory qualitatively reproduces the fourfold pattern of risk attitudes with an arguably
+simpler set of assumptions compared to Prospect Theory.
+The main assumption has been the choice of the risk-free reward as an anchor, which is motivated by the certainty
+of the reward within the risk-free option. In other words, the reward associated to a risk-free option is assumed to be
+more "salient". Within that assumption, the experimental results of [28] are also arguably explained as a corollary.
+Indeed, suppose that the risky option is presented first. Only after the risk-free option is also given, its saliency is
+recognized and the anchor set (or reset). This takes time and makes the process more liable to randomization. By
+contrast, if the first option is the risk-free one, the anchor is set before the second option is given, and the decision

@@ -1,0 +1,31 @@
+Data availability
+All data is available upon request.
+Acknowledgments
+The authors are grateful to members of the Dymecki
+laboratory for discussions related to this work and
+manuscript, to the Micron Microscopy Core at
+Harvard Medical School and the Harvard Center for
+Biological Imaging (HBI) at Harvard Faculty of Arts
+and Science for infrastructure and support, as well to
+the Weitz laboratory at Harvard Medical School for
+sharing with us their circadian cabinets for pilot work
+foundational to this study. The work of the authors is
+supported by US National Institutes of Health grant
+(R21MH127341) to G.M. and S.M.D., the Baszucki
+Brain Research Fund with the Milken Institute
+
+Center for Strategic Philanthropy (grant to G.M. and
+S.M.D.), and the Harvard Brain Science Initiative
+(HBI) Bipolar Disorder Seed Grant Program
+supported by the Dauten Family Foundation and
+Petri Deryng (grant to G.M., R.A.S., and S.M.D.).
+Author contributions
+G.M. and S.M.D. conceived the study and designed
+experiments. G.M. performed experiments. G.M.
+and Y.C. performed dual immunofluorescence in situ
+hybridization experiments. R.A.S. helped establish
+the wheel-running assay in the lab and wrote custom
+script for visualizing and analysing the activity data.
+G.M. and S.M.D. wrote the manuscript.
+Competing interests
+The authors declare no conflict of interests.

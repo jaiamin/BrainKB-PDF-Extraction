@@ -1,0 +1,11 @@
+Statistical analysis
+Statistical tests (two-sided) were performed using GraphPad Prism 9. No statistical methods were used to
+predetermine sample size. Mean ± s.e.m. was used to report statistics. Significance was defined as p < 0.05.
+Details of the tests used, group numerosity and multiple hypotheses corrections can be found in the corresponding
+figure legends and in Multiple Comparisons Tables.
+Methods References
+51. Kimmel, R. A. et al. Two lineage boundaries coordinate vertebrate apical ectodermal ridge formation.
+Genes Dev. 14, 1377–1389 (2000).
+52. Divito, C. B. et al. Loss of VGLUT3 Produces Circadian-Dependent Hyperdopaminergia and Ameliorates
+Motor Dysfunction and L-Dopa-Mediated Dyskinesias in a Model of Parkinson’s Disease. J. Neurosci. 35,
+14983–14999 (2015).

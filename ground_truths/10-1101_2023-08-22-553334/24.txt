@@ -1,0 +1,12 @@
+Figure S4: Function and functional dependency of Pdlim5:PalmD complex
+
+PalmD OE
++ Pdlim5-
+siRNA992
+
+PalmD OE 20 μm
+A B
+
+C D E
+
+F

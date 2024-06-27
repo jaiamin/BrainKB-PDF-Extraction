@@ -1,0 +1,100 @@
+Specifications Middya et al. 2021 Weaver et al. 2022 O’Leary et al. 2022 This Work
+
+MEA Experimental Demonstrations
+Amplification/acquisition
+Open source electronics
+Open source CADs
+Multiple rec. capacities
+
+Open source software
+
+Open Ephys+Intan Multi-Channel Systems Open Ephys+Intan Self-assembled FPGA+Intan Open Ephys+Intan
+Yes Yes Yes Yes
+Yes Yes Yes
+
+No
+No No
+
+No No No Yes Yes
+No (256) No (59) No (61) No (59) Yes (59/128/256/512)
+
+Demonstrated portability No No No No Yes
+Tested topologies
+Electrode diameters
+Material/transparency
+Photolithography
+
+1 / No 1 / No 1 / No 1 / No 7 designs / Yes
+masked masked masked masked maskless
+10, 30, 50μm 30μm 20μm 50, 500μm 5, 10, 20, 30μm
+metal / No PEDOT:PSS / Yes ITO / Yes metal / No metal & ITO / Yes
+
+Neural culture type
+
+Electrical stim.
+Optical stim.
+Long-term recording
+Media circulation
+
+Concurrent imaging
+&recording
+
+primary primary primary brain tissue
+
+primary,
+
+No No No Yes Yes
+No No No No Yes
+No No No No Yes (24hrs)
+No No No Yes Yes
+
+No No No No Yes
+
+Demonstrated
+
+HPC / Cloud support
+electronics
+
+/ open-source
+
+ESC-derived
+brain tissue
+3D eng. tissue mimic
+
+reproducibility
+
+No No No No Yes
+
+Software
+
+No No No No Yes
+Short term recording Yes Yes Yes Yes Yes
+
+Figure 2: Comparison among recent custom electrophysiology approaches [27, 28, 29, 26]
+
+Software. Handling large streams of electrophysiology data, particularly when a high number of recording
+channels or multiple platforms are used in parallel, introduces challenges in compressing/archiving, transferring, and
+processing collected information. For reference, a single 24-hour experiment carried out with a 512-channel platform
+sampling at 30kHz produces approximately 4TB of data. In light of this rising demand, we have developed a cloud
+computing solution that simplifies the management of terabyte-size data and streamlines post processing. Our
+software offers a user-friendly interface for experimentalists who desire to construct processing pipelines and view
+results on their local desktop, while power-users can utilize the backend tools that support scalable high-performance
+computing (HPC) for custom, large-scale analysis. A software overview is presented in Fig. 1e.
+The core of our software is a Pythonic pipelining platform specifically developed for maximizing flexibility
+and promoting consistency in experimental research. Our software provides a structured analysis template, while
+its backend incorporates essential features that are frequently used for analysis, eliminating the need for user
+implementation or maintenance. These features include caching, data pipelining, filtering, spike detection, principal
+component analysis (PCA), burst detection, criticality analysis, as well as an array of visualization functions. In
+addition, the software includes HPC support to integrate existing algorithms and pipelines into supercomputing
+clusters, enabling parallel processing and I/O capabilities to accelerate large-scale analysis. This template relies on
+common data structures and order of operation, ensuring compatibility among different data sources, methods, and
+algorithms. Furthermore, this approach modularizes the software, where users can selectively install only needed
+components as plug-ins, resulting in a compact and lightweight package.
+To maximize impact, our software natively integrates with a variety of external packages of demonstrated utility,
+such as H5py with standard H5-data structure for scalable I/O [38], Aim UI for Slurm monitoring [39], Jupyter
+server for interactive GUI, PyInform/IDTxl for multi-variate analysis [40, 41], Globus APIs for synchronizing data
+stream, NeuralEnsemble [42, 43] or Kilosort [44, 45] for neurophysiology processing, and scikit-learn for machine
+learning [35]. Besides enabling the effective use of our platform, our software ecosystem aims at bridging the gap
+between experimental practice, data management and advanced analysis. While an in-depth characterization and
+demonstration of this software is beyond the scope of this paper, we note that all case studies presented here have
+been configured, analyzed and visualized using it.

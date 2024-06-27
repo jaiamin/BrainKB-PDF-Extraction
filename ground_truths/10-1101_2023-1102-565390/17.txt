@@ -1,0 +1,35 @@
+[12] Cohen JA, Edwards TN, Liu AW, Hirai T, Jones MR, Wu J, Li Y, Zhang S, Ho J, Davis
+BM, Albers KM, Kaplan DH. Cutaneous TRPV1+ Neurons Trigger Protective Innate
+Type 17 Anticipatory Immunity. Cell 2019;178(4):919-932.e914.
+[13] Daou I, Tuttle AH, Longo G, Wieskopf JS, Bonin RP, Ase AR, Wood JN, De Koninck
+Y, Ribeiro-da-Silva A, Mogil JS, Séguéla P. Remote optogenetic activation and
+sensitization of pain pathways in freely moving mice. J Neurosci 2013;33(47):18631-
+18640.
+[14] Dedek C, Azadgoleh MA, Prescott SA. Reproducible and fully automated testing of
+nocifensive behavior in mice. bioRxiv 2023:2023.2004. 2013.536768.
+[15] Deuis JR, Dvorakova LS, Vetter I. Methods Used to Evaluate Pain Behaviors in
+Rodents. Front Mol Neurosci 2017;10:284.
+[16] Duan B, Cheng L, Bourane S, Britz O, Padilla C, Garcia-Campmany L, Krashes M,
+Knowlton W, Velasquez T, Ren X. Identification of spinal circuits transmitting and
+gating mechanical pain. Cell 2014;159(6):1417-1432.
+[17] Friard O, Gamba M. BORIS: a free, versatile opensource eventlogging software for
+video/audio coding and live observations. Methods in ecology and evolution
+2016;7(11):1325-1330.
+[18] Fried NT, Chamessian A, Zylka MJ, Abdus-Saboor I. Improving pain assessment in
+mice and rats with advanced videography and computational approaches. Pain
+2020;161(7):1420-1424.
+[19] Grajales-Reyes JG, Copits BA, Lie F, Yu Y, Avila R, Vogt SK, Huang Y, Banks AR,
+Rogers JA, Gereau IV RW. Surgical implantation of wireless, battery-free
+optoelectronic epidural implants for optogenetic manipulation of spinal cord circuits
+in mice. Nature protocols 2021;16(6):3072-3088.
+[20] Iyer SM, Montgomery KL, Towne C, Lee SY, Ramakrishnan C, Deisseroth K, Delp SL.
+Virally mediated optogenetic excitation and inhibition of pain in freely moving
+nontransgenic mice. Nature Biotechnology 2014;32(3):274-278.
+[21] Ji J, He Q, Luo X, Bang S, Matsuoka Y, McGinnis A, Nackley AG, Ji R-R. IL-23
+enhances C-fiber-mediated and blue light-induced spontaneous pain in female mice.
+Frontiers in Immunology 2021;12.
+[22] Kissin I. The development of new analgesics over the past 50 years: a lack of real
+breakthrough drugs. Anesth Analg 2010;110(3):780-789.
+[23] Landerholm ÅH, Hansson PT. The perception threshold counterpart to dynamic and
+static mechanical allodynia assessed using von Frey filaments in peripheral
+neuropathic pain patients. Scandinavian Journal of Pain 2011;2(1):9-16.

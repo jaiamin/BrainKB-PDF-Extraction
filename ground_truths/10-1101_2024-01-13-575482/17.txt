@@ -1,0 +1,153 @@
+∂
+n
+x
+sˆ(x) = ∂x
+∂
+n−1
+x
+sˆ(x)
+
+= ∂x
+
+σ
+−2n+2C
+(n)
+x
+
+= σ
+−2n+2∂xC
+(n)
+x
+
+(S12)
+To calculate this derivative of a cumulant, we begin by applying identity (S4) to the derivative of the cumulant
+generator
+
+∂x log⟨e
+ts⟩ = σ
+−2
+⟨(s − x)e
+ts⟩s|x
+⟨e
+ts⟩s|x
+= −σ
+−2x + σ
+−2
+∂t log⟨e
+ts⟩ = σ
+−2
+∂t
+X
+n≥0
+C
+(n)
+n!
+t
+n + h(x) = σ
+−2 X
+n≥0
+C
+(n+1)
+n!
+t
+n + h(x)
+(S13)
+
+where h(x) is not a function of t and therefore has no effect on derivatives with respect to t.
+The derivative of the cumulants is calculated by applying Eq. (S11) and then Eq. (S13). We find that, for all
+n ≥ 1,
+
+∂xC
+(n)
+x = n!
+
+∂
+n
+t ∂x log⟨e
+ts⟩
+
+t=0 = σ
+−2
+C
+(n+1) (S14)
+
+while explicit calculation shows that equation (S14) is also valid for n = 0.
+Substituting relationship (S14) into Eq. (S12) leads straight to formula (S10), thus proven by induction.
+
+D. Range of the posterior mean
+
+We show here that ⟨s⟩x lies between s ̄ and x if the prior distribution is symmetric and unimodal.
+Under these conditions, we can write the ρ(s) in terms of a zero-centered distribution nonincreasing for positive
+argument, as ρ(s) = ˆρ(s − s ̄). We first notice that, defining the normalization factor N =
+R
+dsgσ(x − s)ρ(s), we have
+
+sˆ(x) − x = N
+−1
+Z
+ds(s − x)gσ(x − s)ρ(s) = N
+−1
+Z
+dy y gσ(y) ˆρ(y + ˆx) = N
+−1
+Z ∞
+0
+dy y gσ(y)
+
+ρˆ(ˆx + y) − ρˆ(ˆx − y)
+
+(S15)
+where xˆ = x−s ̄. It’s clear by symmetry that this integral vanishes for xˆ = 0. Without lack of generality, let’s check
+its sign for x >ˆ 0. We have then
+
+sˆ(x) − x = N
+−1
+" Z xˆ
+0
+
+ρˆ(ˆx + y) − ρˆ(ˆx − y)
+
++
+Z ∞
+xˆ
+
+ρˆ(ˆx + y) − ρ(ˆx − y)
+
+#
+ygσ(y)dy (S16)
+
+= N
+−1
+Z xˆ
+0
+h
+ρˆ(ˆx + y) − ρˆ(ˆx − y)
+i
+ygσ(y)dy + N
+−1
+Z ∞
+0
+h
+ρˆ(2ˆx + v) − ρˆ(−v)
+i
+(v + ˆx)gσ(v + ˆx)dv (S17)
+The sign of this expression follows from the assumption that ρ(s) is symmetric and monotonous on either side of
+its mean. Indeed, in the first term we notice xˆ + y > xˆ − y > 0 and thus ρˆ(ˆx − y) > ρˆ(ˆx + y) and in the second term
+we notice ρ(−v) = ρ(v) > ρ(2 ̄x + v). Thus, in both terms, the square brackets have nonpositive content and multiply
+positive factors, leading to the conclusion that expression (S17) is nonpositive, hence sˆ(x) ≤ x. Analogously, x < ̄ 0
+leads to the result sˆ(x) ≥ x, i.e. sˆ(x) lies on the same side of x as s ̄ does.
+To prove that, conversely, sˆ(x) lies on the same side of s ̄ as x, one proceeds as above with the roles of likelihood
+and prior swapped, exploiting the monotonicity of the Gaussian density on either side of its mean.
+
+E. Bounds on the derivative of the posterior mean
+
+The posterior mean can be written as sˆ = sL/L in terms of prior averages, where L is an arbitrary likelihood
+L(s) := ρ((x, σ)|s). Its derivative is therefore
+
+sˆ
+′ =
+L sL′ − sL L′
+L
+2
+
+(S18)

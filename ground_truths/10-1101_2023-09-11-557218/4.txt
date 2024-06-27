@@ -1,0 +1,127 @@
+Flpe; RC-FPSit mice and observed double-labelled
+SypGFP, tdTomato boutons in the SCN (Extended
+Data Fig. 3d-g), confirming this pattern of
+collaterals. These data indicate that dual transmitter
+mrEn1-Pet1→SCN neurons segregate 5-HT versus
+glutamate (proxy VGLUT3) to distinct collaterals
+innervating different brain regions, suggesting
+differential deployment of neurotransmitters in a
+branch- and region-specific manner.
+Shift from equinox to short/long
+photoperiod induces branch-specific
+reorganization of neurotransmitter
+deployment
+Because changes in photoperiod duration and
+timing can induce switching of neurotransmitter
+usage by neurons in the SCN6
+
+, we queried whether
+neurotransmitter deployment by mrEn1-Pet1→SCN
+neurons might change upon shifting away from
+equinox to long or short photoperiod conditions. We
+exposed En1-cre, Pet1-Flpe, RC-FPSit mice, having
+previously been reared in equinox photoperiod
+conditions, to either long (19h light/5h dark) or short
+(5h light/19h dark) photoperiod for 2 weeks during
+adulthood6,14,36 (Fig. 2a) before harvesting brain
+tissue 2 h post light onset (light onset is fixed across
+conditions) for in situ phenotyping of mrEn1Pet1
+boutons. We found that the shift to long photoperiod
+exposure increased the percentage of triple positive
+(SypGFP+
+–5-HT+
+–VGLUT3+
+
+) mrEn1-Pet1 boutons
+in the SCN up to 30% without changing the overall
+number of GFP+
+
+boutons; and more strikingly, the
+shift to short photoperiod exposure increased the
+fraction of triple positive boutons up to 65% (Fig.
+2b,d), again with the number of GFP+
+
+boutons per
+field of view being unchanged across photoperiod
+conditions (Fig. 2c, f). When we exposed a separate
+cohort of En1-cre, Pet1-Flpe, RC-FPSit mice to
+short photoperiod for 2 weeks (Fig 2e), followed by
+standard equinox conditions for 2 weeks, we found
+that the percentage of triple positive mrEn1-Pet1
+boutons in the SCN returned to previous equinox
+levels (<1%; Fig. 2g), suggesting reversibility of this
+VGLUT3 deployment.
+To study whether VGLUT3 deployment in
+PVT- and Sfi-innervating collaterals varies across
+
+photoperiods, we infused a mixture of AAV-CAG-
+tdTomato and AAVretro-CAG-tdTomato in the SCN
+
+of triple transgenic En1-cre, Pet1-Flpe, RC-FPSit
+
+mice and exposed them to either equinox, long, or
+short photoperiod for 2 weeks (Fig. 2h; Extended
+data Fig.4). PVT collaterals of mrEn1-Pet1→SCN
+neurons were devoid of VGLUT3 in equinox
+conditions; long photoperiod exposure increased the
+percentage of triple positive mrEn1-Pet1 boutons
+(SypGFP+
+, tdTomato+
+
+, VGLUT3+
+
+) to 25%, while the
+increase was ~75% following short photoperiod
+exposure (Fig. 2i-j), mirroring the neurotransmitter
+re-organization observed in mrEn1-Pet1 boutons in
+the SCN. Sfi-innervating collaterals remained
+VGLUT3+
+, 5-HT+
+
+double-positive across the
+different photoperiod conditions (Fig. 2i-j).
+A possible mechanism by which mrEn1-
+Pet1→SCN neurons could augment VGLUT3 synaptic
+localization is through increased Vglut3 gene
+transcription. To explore this possibility, we infused
+
+a mixture of AAV-CAG-tdTomato and AAVretro-
+CAG-tdTomato in the SCN of En1-cre, Pet1-Flpe,
+
+RC-FPSit mice, exposed them to either equinox or
+short photoperiod (Fig. 2k-l), and performed in situ
+detection of Vglut3 transcripts concomitant with
+immunodetection of Syp-GFP (sufficient expression
+to illuminate soma) and viral tdTomato to distinguish
+the mrEn1-Pet1→SCN neurons. Transduced neurons
+showed comparable anatomical distribution between
+conditions (Fig. 2m, o ) and analyses showed similar
+number of Vglut3 transcripts per cell in mrEn1-
+Pet1→SCN neurons or other neighbouring mrEn1-Pet1
+neurons (SypGFP+
+
+, tdTomato-
+
+, not projecting to the
+SCN), in response to short photoperiod exposure
+(Fig. 2n). This suggests that post-transcriptional (e.g.
+
+mRNA trafficking), translational, or post-
+translational (e.g. local translation, protein
+
+trafficking) mechanisms might underlie this
+reversible, photoperiod-induced neurotransmitter
+reorganization undertaken by mrEn1-Pet1→SCN
+neurons.
+
+Conditional loss of Vglut3 in SCN-
+projecting neurons impairs adaptation to
+
+change in daylength
+We hypothesized that this dynamic system of axon
+branch-specific neurotransmitter deployment by
+mrEn1-Pet1→SCN neurons is a cellular mechanism
+underlying organismal adaptation to change in
+photoperiod. Disrupting such deployment thus might
+cause circadian and sleep dysfunctions in response to
+changes in daylength, without affecting behaviour in

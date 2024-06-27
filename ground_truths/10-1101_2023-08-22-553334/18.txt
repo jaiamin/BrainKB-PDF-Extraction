@@ -1,0 +1,42 @@
+SUPPLEMENTAL FIGURE TITLES & LEGENDS.
+Supplemental Figure 1. Pdlim5 conservation and function
+A. The conservation of Pdlim5 among various vertebrates is depicted in the figure. Conserved sequences
+are represented in red, while identical sequences are shown in gray. Gaps in the alignment are denoted
+by red lines. The number of amino acids for each species is indicated in the top right corner, and the
+species names are listed on the left side. The multiple sequence alignment was conducted using Clustal
+Omega software.
+B. Impact of Pdlim5 knockdown (siRNA992, siRNA993) on hippocampal neuron branching morphology.
+Exogenous expression of GFP (control), Pdlim5, and siRNA-mediated knockdown of Pdlim5. Following
+siRNA-mediated knockdown of Pdlim5 (siRNA992, siRNA993), we observed a significant reduction in
+dendritic complexity. In contrast, the exogenous expression of Pdlim5 resulted in an increase in
+branching morphology in comparison to negative control GFP. n=10 neurons each from three biological
+replicates.
+C. Illustrative images demonstrating the knockdown (KD) of Pdlim5. The control GFP image (green, first
+image on the left) exhibits less branching compared to the expression of exogenous Pdlim5 (green,
+second image from the left), while loss of branching morphology is observed in the Pdlim5 knockdown
+siRNA images (green, third and fourth images from the left). Neuron health was assessed using the
+Map2 marker. n = 3 biological replicates. The scale bars in the images indicate 20 μm. See panel D for
+quantitation.
+D. The Pdlim5 total cell fluorescence was quantified using ImageJ for negative control (GFP), positive
+control Pdlim5, and siRNA mediated knockdown of Pdlim5 (siRNA992, siRNA993). As expected in
+comparison to control, exogenous Pdlim5 significantly increases Pdlim5 total cell fluorescence while
+knockdown significantly decreases Pdlim5 total cell fluorescence. n≥10 neurons in each of three
+biological replicates. The quartiles represent data ranges and middle dark line represent median, and
+the statistical significance, determined using one-way ANOVA, is indicated as P ≤ 0.0001 (****).
+Supplemental Figure 2. Selected Pdlim5 associated candidates with known cytoskeletal functions
+Our yeast-2-hybrid (Y2H) screen suggested several Pdlim5-associated candidates involved in cytoskeletal
+functions. In total we resolved over 70 candidates with 11 being implicated in cytoskeletal contexts,
+including for example Beta-III Spectrin, Beta-IV Spectrin, and alpha-Actinin4. Our studies here focused
+upon PalmD for reasons outlined in the text.
+Supplemental Figure 3. PalmD, a novel partner of Pdlim5, associates with Pdlim5’s LIM domain
+A. The endogenous co-immunoprecipitation (co-IP) of Pdlim5 and PalmD was performed from rat
+primary cortical neurons at DIV9. Blots were used to demonstrate the pull-downs of Pdlim5 and PalmD.
+Separate blots for endogenous PalmD and Pdlim5 were undertaken given their similar molecular
+weights (~70kDa). Endogenous self-IP blots were also performed, confirming the effectiveness of the
+endogenous IP procedures. n≥3 biological replicates for each condition.
+
+B. In exogenous contexts (HEK293 cells), we engineered Pdlim5 with a 6x-Myc-epitope tag (MT) at its N-
+terminus (~75kD), while PalmD was fused with GFP (~100kD). Together with the findings noted in
+
+Figures 2 and 3, and immediately above in Panel A, we collectively provide evidence of both endogenous
+and exogenous association between Pdlim5 and PalmD. n≥3 biological replicates in each condition.

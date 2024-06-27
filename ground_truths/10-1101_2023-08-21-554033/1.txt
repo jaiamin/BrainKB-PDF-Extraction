@@ -1,0 +1,49 @@
+‘Mind in Vitro’ platforms: Versatile, scalable, robust and open
+solutions to interfacing with living neurons
+Xiaotian Zhang, Zhi Dou, Seung-Hyun Kim, Gaurav Upadhyay, Daniel Havert, Sehong Kang,
+Kimia Kazemi, Kai-Yu Huang, Onur Aydin, Raymond Huang, Saeedur Rahman, Austin Ellis-Mohr,
+Hayden A. Noblet, Ki H. Lim, Hee Jung Chung, Howard J. Gritton, M. Taher A. Saif, Hyun Joon Kong,
+John M. Beggs, Mattia Gazzola*
+Xiaotian Zhang, Onur Aydin, Hee Jung Chung, M. Taher A. Saif, Hyun Joon Kong and Mattia Gazzola
+Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Email Address: mgazzola@illinois.edu
+Zhi Dou, Seung-Hyun Kim, Gaurav Upadhyay, Sehong Kang, Kimia Kazemi,
+Raymond Huang, Saeedur Rahman, M. Taher A. Saif and Mattia Gazzola
+Department of Mechanical Science and Engineering, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Daniel Havert and John M. Beggs
+Department of Physics, Indiana University Bloomington
+Bloomington, IN 47405
+Kai-Yu Huang and Hyun Joon Kong
+Department of Chemical and Biomolecular Engineering, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Austin Ellis-Mohr
+Department of Electrical and Computer Engineering, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Hayden A. Noblet, Ki H. Lim and Hee Jung Chung
+Molecular and Integrative Physiology, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Hayden A. Noblet and Hee Jung Chung
+Neuroscience Program, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Hee Jung Chung and Howard J. Gritton
+Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana–Champaign
+Urbana, IL 61801
+Howard J. Gritton
+Department of Comparative Biosciences, University of Illinois at Urbana–Champaign
+Urbana, IL 61802
+Abstract. Motivated by the unexplored potential of in vitro neural systems for computing, and by the corresponding need of versatile,
+scalable interfaces for multimodal interaction, we present an accurate, modular, fully customizable and portable recording/stimulation
+solution that can be easily fabricated, robustly operated, and broadly disseminated. A reconfigurable platform that works across
+multiple industry standards enables a complete signal chain, from neural substrates sampled through high-density Micro-Electrode
+Arrays (MEAs) to data acquisition, downstream analysis and cloud storage. Built-in modularity supports the seamless integration
+of electrical/optical stimulation and fluidic interfaces. Custom MEA fabrication leverages maskless photolithography, favoring the
+rapid prototyping of a variety of configurations and spatial topologies. Through a native analysis and management software suite, the
+utility and robustness of our system is demonstrated across neural cultures and applications, including embryonic stem cell-derived and
+primary neurons, organotypic brain slices, 3D engineered tissue mimics, concurrent calcium imaging and long-term recording. Overall,
+our technology, termed ‘Mind in Vitro’ to underscore the computing inspiration, provides an end-to-end solution that can be widely
+deployed due to its affordable (>10X cost-reduction) and open-source nature, catering to the expanding needs of both conventional and
+unconventional electrophysiology.
+
+1

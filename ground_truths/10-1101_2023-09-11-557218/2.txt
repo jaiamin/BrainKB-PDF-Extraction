@@ -1,0 +1,114 @@
+synchronization to day-length changes. Combining
+intersectional genetics, viral circuit tracing, and
+pathway-specific genetic and neuronal
+manipulations with measurements of physical and
+sleep/wake activity, we discovered in mice a preoptic
+area-to-brainstem-to-hypothalamus neural circuit
+and novel phenomenon of axon branch-specific and
+periodic neurotransmitter deployment that together
+prove critical for behavioural and sleep adaptation to
+seasonally relevant photoperiod change. Thus,
+identified is a cellular mechanism as well as a circuit
+that links internal rhythms to external stimuli.
+Brain region-specific and differential
+neurotransmitter deployment by axon
+collaterals of the dual serotonin-glutamate
+neuron type mrEn1-Pet1
+Previously, we identified mrEn1-Pet1 neurons as a
+molecularly and developmentally distinct subtype of
+5-HT-producing neuron resident in the mouse
+MRN7,23,24 (Fig. 1a-c). As indicated by the name
+mrEn1-Pet1, these median raphe (mr) neurons can be
+accessed genetically through the combined
+
+expression of the gene En1 encoding a fate-
+specifying homeobox transcription factor, and Pet1
+
+(aka Fev) encoding an ETS-family transcriptional
+regulator of serotonergic pathway genes. To
+visualize and manipulate these neurons, we use mice
+transgenic for Pet1-Flpe23 and En1-cre51 along with
+dual Cre/Flp-dependent (intersectional) reporters
+(e.g. RC-FrePe25
+
+, RC-FPSit
+
+26; Fig. 1b) or effector
+
+transgenes27
+
+, or engineered stereotaxically injected
+viruses that allow for spatial targeting of just the mr
+(as opposed to dorsal raphe) group of En1-Pet1
+neurons. In previous work, we sorted fluorescently
+labelled mrEn1-Pet1 neurons followed by single-cell
+transcriptomic analyses7
+
+, which revealed that
+mrEn1-Pet1 neurons not only express the expected
+Tph2 gene, which encodes the rate limiting enzyme
+in 5-HT synthesis, but also express the Vglut3 gene,
+which encodes the vesicular glutamate transporter
+type 3 for packaging glutamate into synaptic
+vesicles. This finding suggests that mrEn1-Pet1
+neurons may transmit using glutamate as well as 5-
+HT; indeed, for other 5-HTergic neurons such as in
+the dorsal raphe, VGLUT3 has been demonstrated to
+be sufficient for glutamate neurotransmission28,29
+. In
+GFP-labelled mrEn1-Pet1 neurons, we confirmed
+presence of Vglut3 transcripts using single molecule
+fluorescent in situ hybridization (RNAscope)
+
+coupled with GFP immunodetection (Fig. 1d-e), and,
+furthermore, detected VGLUT3 protein along with
+5-HT immunoreactivity (Fig. 1f). We then mapped
+the En1-Pet1 efferent boutons (en passant and
+
+terminal) illuminated via synaptophysin-GFP (Syp-
+GFP) in triple transgenic En1-cre; Pet1-Flpe; RC-
+FPSit mice (aka En1cre/+; Pet1-FlpeTg/0;
+
+Gt(ROSA)26Sortm10(CAG-Syp/EGFP1,-tdTomato)Dym/+ ) (Fig.
+1b,g), finding dense innervation of the SCN, as
+expected from our previous work24 (Fig. 1h), but now
+applying super-resolution imaging, we found that the
+mrEn1-Pet1 boutons innervating the SCN harbour 5-
+HT but not VGLUT3. And while levels of 5-HT and
+mRNA for Tph2 in general have been reported to
+vary over the sleep/wake cycle30,31, this VGLUT3
+configuration we observed in tissue harvested at
+Zeitgeber (ZT) 2 (0900 hrs; highest sleep pressure)
+was indistinguishable from tissue harvested at ZT14
+(2100 hrs; lowest sleep pressure) suggesting stability
+across the sleep/wake cycle (Fig. 1i-j).
+To corroborate the finding that mrEn1-Pet1
+neurons lack VGLUT3 at their SCN terminals
+despite showing expression at the soma, we
+performed AAV-mediated retrograde tracing from
+the SCN, allowing direct comparison of soma and
+bouton neurochemical phenotype. We therefore
+infused a mixture of AAV-CAG-GFP (to mark the
+injection site) and AAVretro-CAG-tdTomato (which
+preferentially transduces projecting neurons32) in the
+
+SCN of triple transgenic En1-cre; Pet1-Flp; RC-
+FrePe mice (aka En1cre/+; Pet1-FlpeTg/0;
+
+Gt(ROSA)26Sortm8(CAG-mCherry,-EGFP)Dym/+) in which
+mrEn1-Pet1 neurons express EGFP (Fig. 1l,
+Extended Data Fig.1). We found that the mrEn1-Pet1
+neurons that project to the SCN (mrEn1-Pet1→SCN) –
+in this approach highlighted by the simultaneous
+presence of intersectionally-encoded EGFP and viral
+tdTomato – are a small subset within the broader
+mrEn1-Pet1 domain (Fig. 1m-n) and are
+preferentially located in the rostral MRN (Fig. 1p).
+~Eighty percent of the mrEn1-Pet1→SCN soma
+showed detectable VGLUT3 (Fig. 1o). We
+confirmed this finding using the retrograde dye
+Fluorogold infused in the SCN of En1-cre, Pet1-
+Flpe, RC-FrePe mice (Extended Data Fig. 2), ruling
+out synaptic bias by AAVretro. In both tracing
+experiments, no dorsal raphe En1-Pet1 neuron
+projection to the SCN was observed, as expected.

@@ -1,0 +1,49 @@
+into HEK-cells together with synthetical miR-1229-3p or control (Ctrl.) mimics (5-20 pmol).
+“Pink1 3’UTR mut.” contains three point mutations in the 8mer binding site (Fig. 4e). A linear
+model with an interaction effect for the sequence, miRNA mimic and miRNA mimic amount
+(including a fixed effect for the experiment) was used for the statistical analysis ( ~
+condition*sequence*amount + experiment). Statistical comparisons were acquired using
+emmeans by comparing the two conditions separately per amount and sequence
+(sequence|condition|amount, reference = Ctrl., N = 5). (* = p-value < 0.05, ** = p-value < 0.01,
+**** = p-value < 0.0001)
+
+miR-1229-3p controls mitochondrial homeostasis during human excitatory
+synaptogenesis.
+Mitochondria homeostasis plays an essential role in regulating synaptic signaling and
+development (28, 31). Given the profound impact of miR-1229-3p on the expression of
+mitochondrial genes and the identification of Pink1 as a direct miR-1229-3p target gene, we
+assessed the effects of miR-1229-3p depletion on mitochondrial morphology and homeostasis.
+To monitor mitochondrial morphology in human neurons, we performed stainings with the
+membrane potential sensitive dye Mitotracker (CMXRos) on day 27 of the neuronal
+differentiation. We noticed the frequent presence of Mitotracker “puncta” with a high local
+intensity almost exclusively in the soma of neurons treated with pLNA-1229 (Fig. 5a). Such
+mitochondrial accumulations have been previously associated with mitophagy driven by the
+Pink1/Parkin pathway (32). Mitotracker “puncta” repeatedly co-localized with the lysosomal
+marker Lamp2 (Fig. 5b), suggesting that they represent mitophagosomes (33). Moreover,
+human neurons treated with pLNA-1229 showed a significantly higher somatic entropy and
+intensity of the Mitotracker signal in comparison to neurons treated with the scrambled control
+(Fig. 5c-d), indicating elevated mitochondrial fragmentation. Together, these observations
+suggest that premature excitatory synaptogenesis in miR-1229-3p depleted human neurons
+correlates with enhanced mitophagy. These findings are consistent with earlier studies from
+Drosophila and C. elegans, which reported reduced synaptogenesis in several mutants of the
+autophagy pathway (34).
+In addition to promoting mitophagy, the miR-1229-3p target gene Pink1 has been shown to
+promote mitochondrial fission (35). In neurons, mitochondrial fission is required for
+mitochondria to be transported to axons and has been shown to be essential for synapse
+development (36, 37). We therefore quantified the Mitotracker signal in processes of human
+neurons at day 23 and found a higher number of axonal mitochondria in the pLNA-1229
+condition (Fig. 5e, Suppl. fig. S21a-e). In addition, we performed a detailed analysis of
+mitochondria ultrastructure using live-cell super resolution imaging of human neurons at day
+29 and day 36 (Fig. 5f). Consistent with enhanced mitochondrial fission upon miR-1229-3p
+
+inhibition, mitochondrial organelle size (area and length) was significantly reduced in pLNA-
+1229 compared to pLNA-Ctrl treated igNeurons at day36 (Fig. 5g, Suppl. fig. S22).
+
+Excessive mitophagy reduces the cellular mitochondrial content, possibly causing reduced
+mitochondrial metabolism (38, 39). This in turn would shift the provision of energy supply
+towards glycolysis, reflected by enhanced lactate production (Fig. 5h). In line with a decreased
+mitochondrial metabolic activity upon sustained miR-1229-3p depletion, we observed a
+significantly increased lactate concentration in the media collected from pLNA-1229-treated
+neurons in comparison to control neurons at day 36 (Fig. 5i). Besides energy provision, neuronal
+mitochondria play an important role in calcium buffering and uptake upon stimulation,
+particularly at presynaptic termini (31). Accordingly, it has been shown that mitochondria

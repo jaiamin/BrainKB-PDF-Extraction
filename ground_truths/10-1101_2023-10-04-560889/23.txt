@@ -1,0 +1,18 @@
+68. R. Patro, G. Duggal, M. I. Love, R. A. Irizarry, C. Kingsford, Salmon provides fast
+and bias-aware quantification of transcript expression. Nat Methods 14, 417-419
+(2017).
+69. M. Soutschek, T. Germade, P. L. Germain, G. Schratt, enrichMiR predicts functionally
+relevant microRNAs based on target collections. Nucleic Acids Res 50, W280-W289
+(2022).
+70. V. Agarwal, G. W. Bell, J. W. Nam, D. P. Bartel, Predicting effective microRNA target
+sites in mammalian mRNAs. Elife 4, (2015).
+
+71. S. Rath et al., MitoCarta3.0: an updated mitochondrial proteome now with sub-
+organelle localization and pathway annotations. Nucleic Acids Res 49, D1541-D1547
+
+(2021).
+72. S. Müller-Dott et al., Expanding the coverage of regulons from high-confidence prior
+knowledge for accurate estimation of transcription factor activities. bioRxiv,
+2023.2003.2030.534849 (2023).
+73. Y. Perez-Riverol et al., The PRIDE database resources in 2022: a hub for mass
+spectrometry-based proteomics evidences. Nucleic Acids Res 50, D543-D552 (2022).

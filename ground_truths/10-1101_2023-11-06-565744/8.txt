@@ -1,0 +1,35 @@
+each processed layer includes residual epoxide groups until final hard baking. In fact, oxygen plasma
+treatment between successive epoxy layers led to adhesive failure.
+The hard bake was important for adhesive stability of the final microfluidic structures in addition to its
+importance to eliminate toxicity (Baëtens et al., 2020). Slow ramping was critical to prevent thermal
+stress. The thermal shock of removing devices from a hot oven caused delamination accompanied by
+audible cracking. In a rare case, we observed that thermal stress caused cohesive failure within the
+glass substrate.
+Lateral segmentation of the 150-μm-thick SUEX to reduce stress was critical for successful fabrication.
+Glass and epoxy photoresists have a large difference in coefficients of thermal expansion (<10 and
+50–100 ppm/°C, respectively), so that a conservative estimate of the extra expansion of the polymer at
+200 °C is 0.7 %. A 32-mm-wide structure would need to accommodate 230 μm of strain. In contrast,
+the segmented structures had at least one dimension limited to 200 μm, which would need to
+accommodate a strain of 1.4 μm.
+Inspection of thick structures revealed peculiarities not observed in thin films. The vertical walls of
+SUEX created reflections (Figure 3c). When observed from above, the tunnels and microelectrodes
+(observed through 150 μm of SUEX) and electrical paths (observed through air-filled channels) were
+at different focal planes. These issues hindered interpretation of micrometer-scale features at the
+tunnel openings. Observation from below (Figure 3e) allowed resolving these features in a single focal
+plane. Filling the channels with isopropanol was a simple way to demonstrate that tunnels were
+unblocked (as isopropanol could be observed entering and flowing through the tunnels).
+In processing dry film resists, we used UV doses of two to three times the recommended values and
+lower PEB temperatures; these changes prevented collapse of tented structures. For the SUEX layer,
+the first step (45 °C) of the PEB enabled reflow of un-exposed SUEX into the tunnels while exposed
+SUEX remained stable. The second PEB step at 65 °C cross-linked exposed SUEX. Thereafter,
+unexposed SUEX could be developed and tunnels were unblocked. Skipping the first step caused
+reflow of exposed SUEX into the tunnels and its subsequent cross-linking created permanent
+blockages. Despite optimized processes, a handful of tunnels (~2 %) were observed to be blocked in
+finished devices (Figure S4). These blockages may be due to shadow-like defects in SUEX as
+revealed by scanning microscopy (Figure S5).
+The ADEX layer (20 μm thick) formed tented structures across channels (400 μm) and stress-release
+features (50 μm). The higher UV dose and lower PEB temperature reduced sagging of these tented
+structures. Sagging occurred not only during PEB, but also the hard bake. We observed that ADEX
+spanning stress-release features bulged upwards by 1 μm due to expansion of enclosed air during
+baking, while regions above the open-ended channels sagged downwards by several micrometers
+(Figure S5c).

@@ -1,0 +1,9 @@
+Figure 2. These figures show the F-values for each region in each individual when
+trained with models TERA and SVM. M1 to M4 correspond to each individual, and
+”Average” indicates the average F-values across the four individuals for each region.The
+dashed lines in the figures represent the chance level(1/7). (A)This figure shows the F
+value between individuals in each region using TERA. (B)This figure shows the F value
+between individuals in each region using spectrogram averaged the frequency components.
+(C)This figure shows the F value between individuals in each region using spectrogram,
+of which temporal component was shuffled. (D)This figure shows the F value between
+individuals in each region using SVM.

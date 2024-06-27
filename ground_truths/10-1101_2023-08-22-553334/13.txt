@@ -1,0 +1,29 @@
+36. Fukata, Y., and Fukata, M. (2010). Protein palmitoylation in neuronal development and synaptic
+plasticity. Nat Rev Neurosci 11, 161-175. 10.1038/nrn2788.
+37. Hu, B., Copeland, N.G., Gilbert, D.J., Jenkins, N.A., and Kilimann, M.W. (2001). The paralemmin protein
+family: identification of paralemmin-2, an isoform differentially spliced to AKAP2/AKAP-KL, and of
+palmdelphin, a more distant cytosolic relative. Biochem Biophys Res Commun 285, 1369-1376.
+10.1006/bbrc.2001.5329.
+38. Donta, M.S., Srivastava, Y., and McCrea, P.D. (2022). Delta-Catenin as a Modulator of Rho GTPases in
+Neurons. Front Cell Neurosci 16, 939143. 10.3389/fncel.2022.939143.
+39. Gu, D., Sater, A.K., Ji, H., Cho, K., Clark, M., Stratton, S.A., Barton, M.C., Lu, Q., and McCrea, P.D. (2009).
+Xenopus delta-catenin is essential in early embryogenesis and is functionally linked to cadherins and
+small GTPases. J Cell Sci 122, 4049-4061. 10.1242/jcs.031948.
+40. Martinez, M.C., Ochiishi, T., Majewski, M., and Kosik, K.S. (2003). Dual regulation of neuronal
+morphogenesis by a delta-catenin-cortactin complex and Rho. J Cell Biol 162, 99-111.
+10.1083/jcb.200211025.
+41. Abu-Elneel, K., Ochiishi, T., Medina, M., Remedi, M., Gastaldi, L., Caceres, A., and Kosik, K.S. (2008). A
+delta-catenin signaling pathway leading to dendritic protrusions. J Biol Chem 283, 32781-32791.
+10.1074/jbc.M804688200.
+42. Fischer, T.D., Dash, P.K., Liu, J., and Waxham, M.N. (2018). Morphology of mitochondria in spatially
+restricted axons revealed by cryo-electron tomography. PLoS Biol 16, e2006169.
+10.1371/journal.pbio.2006169.
+43. Gireud-Goss, M., Reyes, S., Tewari, R., Patrizz, A., Howe, M.D., Kofler, J., Waxham, M.N., McCullough,
+L.D., and Bean, A.J. (2020). The ubiquitin ligase UBE4B regulates amyloid precursor protein
+ubiquitination, endosomal trafficking, and amyloid beta42 generation and secretion. Mol Cell Neurosci
+108, 103542. 10.1016/j.mcn.2020.103542.
+44. Donta, M.S., Srivastava, Y., Di Mauro, C.M., Paulucci-Holthauzen, A., Waxham, M.N., and McCrea, P.D.
+(2023). p120-catenin subfamily members have distinct as well as shared effects on dendrite
+morphology during neuron development in vitro. Front Cell Neurosci 17, 1151249.
+10.3389/fncel.2023.1151249.
+45. Alam, M.S. (2018). Proximity Ligation Assay (PLA). Curr Protoc Immunol 123, e58. 10.1002/cpim.58.

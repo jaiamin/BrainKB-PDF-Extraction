@@ -1,0 +1,30 @@
+[42] S. Garcia, D. Guarino, F. Jaillet, T. Jennings, R. Pröpper, P. L. Rautenberg, C. C. Rodgers, A. Sobolev,
+T. Wachtler, P. Yger, et al., Frontiers in neuroinformatics 2014, 8 10.
+[43] M. Stimberg, R. Brette, D. F. Goodman, elife 2019, 8 e47314.
+[44] N. A. Steinmetz, C. Aydin, A. Lebedeva, M. Okun, M. Pachitariu, M. Bauza, M. Beau, J. Bhagat, C. Böhm,
+M. Broux, et al., Science 2021, 372, 6539 eabf4588.
+[45] M. Pachitariu, S. Sridhar, C. Stringer, bioRxiv 2023, 2023–01.
+[46] E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, A. F. Boe, M. S. Boguski, K. S.
+Brockway, E. J. Byrnes, et al., Nature 2007, 445, 7124 168.
+[47] S. Ito, F.-C. Yeh, E. Hiolski, P. Rydygier, D. E. Gunning, P. Hottowy, N. Timme, A. M. Litke, J. M. Beggs,
+PloS one 2014, 9, 8 e105324.
+[48] A. Levina, V. Priesemann, Nature communications 2017, 8, 1 1.
+[49] K. Mathieson, S. Kachiguine, C. Adams, W. Cunningham, D. Gunning, V. O’shea, K. Smith, E. Chichilnisky,
+A. Litke, A. Sher, et al., IEEE Transactions on Nuclear Science 2004, 51, 5 2027.
+[50] G. J. Pagan-Diaz, J. Drnevich, K. P. Ramos-Cruz, R. Sam, P. Sengupta, R. Bashir, Scientific reports 2020,
+10, 1 1.
+[51] Mutlichannel Systems Microelectrode Array User Manual .
+[52] D. A. Wagenaar, J. Pine, S. M. Potter, Journal of neuroscience methods 2004, 138, 1-2 27.
+[53] E. S. Boyden, F. Zhang, E. Bamberg, G. Nagel, K. Deisseroth, Nature neuroscience 2005, 8, 9 1263.
+[54] M. Toivanen, A. Pelkonen, M. Mäkinen, L. Ylä-Outinen, L. Sukki, P. Kallio, M. Ristola, S. Narkilahti, Frontiers
+in neuroscience 2017, 11 606.
+[55] S. R. Kelso, A. H. Ganong, T. H. Brown, Proceedings of the National Academy of Sciences 1986, 83, 14 5326.
+[56] P. Zhuang, A. X. Sun, J. An, C. K. Chua, S. Y. Chew, Biomaterials 2018, 154 113.
+[57] M. Eiraku, K. Watanabe, M. Matsuo-Takasaki, M. Kawada, S. Yonemura, M. Matsumura, T. Wataya,
+A. Nishiyama, K. Muguruma, Y. Sasai, Cell stem cell 2008, 3, 5 519.
+[58] Y. Hu, X. Diao, C. Wang, W. Hao, T. Wang, Vacuum 2004, 75, 2 183.
+[59] C.-Y. Wu, D. Whye, R. W. Mason, W. Wang, JoVE (Journal of Visualized Experiments) 2012, , 64 e3813.
+[60] H. B. Peng, J.-F. Yang, Z. Dai, C. W. Lee, H. W. Hung, Z. H. Feng, C.-P. Ko, Journal of Neuroscience 2003,
+23, 12 5050.
+[61] A. Tang, D. Jackson, J. Hobbs, W. Chen, J. L. Smith, H. Patel, A. Prieto, D. Petrusca, M. I. Grivich, A. Sher,
+et al., Journal of Neuroscience 2008, 28, 2 505.

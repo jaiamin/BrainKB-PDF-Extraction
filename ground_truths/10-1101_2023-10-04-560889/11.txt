@@ -1,0 +1,5 @@
+Fig. 3. Human-specific miR-1229-3p restricts excitatory synapse development.
+a) TaqMan miRNA qPCRs for miR-1229-3p and miR-181c-5p on the time course samples used
+for the small RNA sequencing (Fig 2e, g). b) Single-molecule miRNA FISH showing
+cytoplasmic localization of miR-1229-3p and miR-218-5p in igNeurons (Day 40). miRNA
+FISH signal in red, MAP2 in gray and Hoechst in cyan. c) TaqMan qPCR for indicated miRNAs

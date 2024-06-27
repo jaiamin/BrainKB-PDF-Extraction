@@ -1,0 +1,44 @@
+13. Saleh Fayaz, Mohammad Amin Fakharian, and Ali Ghazizadeh. Stimulus
+presentation can enhance spiking irregularity across subcortical and cortical
+regions. PLOS Computational Biology, 18(7):e1010256, July 2022.
+14. Brent A. Vogt, David M. Finch, and Carl R. Olson. Functional Heterogeneity in
+Cingulate Cortex: The Anterior Executive and Posterior Evaluative Regions.
+Cerebral Cortex, 2(6):435–443, 1992.
+15. Jiajia Yang, Yinghua Yu, Hiroaki Shigemasu, Hiroshi Kadota, Kiyoshi Nakahara,
+Takanori Kochiyama, Yoshimichi Ejima, and Jinglong Wu. Functional
+heterogeneity in the left lateral posterior parietal cortex during visual and haptic
+crossmodal dot-surface matching. Brain and Behavior, 11(3), March 2021.
+16. Carl E. Rosenkilde. Functional heterogeneity of the prefrontal cortex in the
+monkey: a review. Behavioral and Neural Biology, 25(3):301–345, March 1979.
+17. Jason P. Lerch, Keith Worsley, W. Philip Shaw, Deanna K. Greenstein,
+Rhoshel K. Lenroot, Jay Giedd, and Alan C. Evans. Mapping anatomical
+correlations across cerebral cortex (MACACC) using cortical thickness from MRI.
+NeuroImage, 31(3):993–1003, July 2006.
+18. Robert Dahnke, Rachel Aine Yotter, and Christian Gaser. Cortical thickness and
+central surface estimation. NeuroImage, 65:336–348, January 2013.
+19. Elizabeth R. Sowell, Paul M. Thompson, Christiana M. Leonard, Suzanne E.
+Welcome, Eric Kan, and Arthur W. Toga. Longitudinal Mapping of Cortical
+Thickness and Brain Growth in Normal Children. The Journal of Neuroscience,
+24(38):8223–8231, September 2004.
+20. Keyvan Mahjoory, Jan-Mathijs Schoffelen, Anne Keitel, and Joachim Gross. The
+frequency gradient of human resting-state brain oscillations follows cortical
+hierarchies. eLife, 9:e53715, August 2020.
+21. Toru Yanagawa, Zenas C. Chao, Naomi Hasegawa, and Naotaka Fujii.
+Large-Scale Information Flow in Conscious and Unconscious States: an ECoG
+Study in Monkeys. PLoS ONE, 8(11):e80845, November 2013.
+22. Yasuo Nagasaka, Kentaro Shimoda, and Naotaka Fujii. Multidimensional
+Recording (MDR) and Data Sharing: An Ecological Open Research and
+Educational Platform for Neuroscience. PLoS ONE, 6(7):e22561, July 2011.
+23. Andy T. Liu, Shang-Wen Li, and Hung-yi Lee. TERA: Self-Supervised Learning
+of Transformer Encoder Representation for Speech. IEEE/ACM Transactions on
+Audio, Speech, and Language Processing, 29:2351–2366, 2021.
+24. Maciej Sliwowski, Matthieu Martin, Antoine Souloumiac, Pierre Blanchart, and  ́
+Tetiana Aksenova. Decoding ECoG signal into 3D hand translation using deep
+learning. Journal of Neural Engineering, 19(2):026023, April 2022.
+arXiv:2110.03528 [cs, eess].
+25. Maciej Sliwowski, Matthieu Martin, Antoine Souloumiac, Pierre Blanchart, and  ́
+Tetiana Aksenova. Deep learning for ECoG brain-computer interface: end-to-end
+vs. hand-crafted features. 2022. Publisher: arXiv Version Number: 2.
+26. Harish RaviPrakash, Milena Korostenskaja, Eduardo M. Castillo, Ki H. Lee,
+Christine M. Salinas, James Baumgartner, Syed M. Anwar, Concetto Spampinato,
+and Ulas Bagci. Deep Learning Provides Exceptional Accuracy to ECoG-Based

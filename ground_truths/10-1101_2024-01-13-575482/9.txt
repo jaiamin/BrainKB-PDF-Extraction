@@ -1,0 +1,7 @@
+Figure 4. Bias and root-mean-square error as functions of the number of adjustment steps. If reanchoring sets s1 (and s0 in
+the spike) to the posterior mean sˆ, the anchor-induced bias persist for many steps (top panels). In contrast, if s1 is used for
+reanchoring, the bias is reduced rapidly (bottom panels). Completely rational behavior corresponds to zero bias as the two
+options to chose from have the same expected value. The right-hand panels show that the root-mean-square error decreases
+as a function of the number of adjustment steps. This provides a principled explanation to the experimental finding, reported
+by [15], that fluctuations shrins as a function of the number of steps. Simulation parameters: bias σ = 1, p0 = 0.9, s0 = 0, #
+of samples: 104

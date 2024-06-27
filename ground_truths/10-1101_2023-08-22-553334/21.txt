@@ -1,0 +1,53 @@
+Figure S1: Pdlim5 conservation and function
+A
+
+C
+
+B
+
+D
+
+PDZ DUF LIM1 LIM2 LIM3
+596
+591
+591
+623
+492
+621
+651
+593
+
+GFP
+MAP2
+
+Pdlim5
+MAP2
+Pdlim5 siRNA992
+MAP2
+
+Pdlim5 siRNA993
+MAP2
+Correlated Total Cell
+Fluorescence (CTCF) 4
+3
+2
+1
+0
+-1 GFP
+siRNA-992
+siRNA-993
+Pdlim5
+
+Avg. branch points/cell
+GFP
+siRNA-992
+siRNA-993
+
+Pdlim5
+40
+30
+20
+10
+0
+
+50 μm

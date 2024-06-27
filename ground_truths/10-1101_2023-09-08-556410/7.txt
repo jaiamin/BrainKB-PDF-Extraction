@@ -1,0 +1,28 @@
+minority of their birth cohort. Most individuals do not reach the age of 85, and those who do may
+be physiologically or behaviorally unusual (Silverman and Schmeidler et al., 2018; Kawas,
+Legdeur, & Corrada, 2021); even within oldest-old adults, an estimated 18-35% live with
+dementia (Gardner, Valcour, & Yaffe, 2013) and an additional 16-23% live with Mild Cognitive
+Impairment (Peltz et al., 2012; Yaffe et al., 2011). That is, with increasing age, the normative
+adult experiences accumulating age-related changes and neuropathological burden and
+concomitant cognitive decline, ultimately falling below a threshold required to sustain functional
+performance (Hertzog et al., 2008). The hypothesized relationship to GABA is visualized in
+Figure 3: smoothed extracted spline data are superimposed over the conceptual model proposed
+
+by Hertzog (2008). The trajectory of GABA across the lifespan shows good agreement with age-
+related cognitive decline, consistent with GABA levels representing a physiological constraint,
+
+below which cognition might transition to a dysfunctional state. Conversely, the attenuated slope
+of age-related GABA differences in our participants suggests that our participants show the
+range of GABA levels expected in the absence of significant age-related cognitive dysfunction.
+
+We characterize this as a “surviving and thriving” effect, in which the healthy and high-
+performing individuals included in a nonclinical sample exist within a relatively small range of
+
+variation of the outcome of interest.
+While MRS does not identify the mechanism underlying age-related decline in GABA,
+preclinical and postmortem research have identified potential cellular and molecular drivers.
+GABAergic interneurons and GABA-synthesizing enzymes GAD65 and GAD67 are depleted in
+rodent models of aging (reviewed in Rozycka and Liguz-Lecznar, 2017), and cortical GAD65 is
+reduced in older adults in postmortem human studies (Pinto et al., 2010). Depletion of GABA
+may in turn disrupt excitatory-inhibitory balance, leaving the brain vulnerable to excitotoxic
+injury.

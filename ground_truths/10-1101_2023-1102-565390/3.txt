@@ -1,0 +1,34 @@
+INTRODUCTION
+Despite decades of intensive preclinical research, progress to develop new pain treatments
+has remained slow and largely unsuccessful. While there are many potential explanations for
+this failure, questions have been raised about the validity and predictive capacity of current
+preclinical nociceptive assessment and analgesic screening tools, suggesting a need for novel
+approaches [10; 22; 32]. With no test able to directly measure pain in animals, assessments
+depend on evaluation of nociceptive responses, usually involving avoidance or nocifensive
+behaviours that are used as surrogate indicators of pain [4; 15; 28; 33]. The existing array of
+preclinical nociceptive assessment and analgesic screening tools include application of
+electrical, thermal, chemical, or mechanical stimuli to elicit a nociceptive response,
+commonly hindpaw withdrawal, licking, shaking, or grooming; and are typically used in
+conjunction with experimentally induced pain models that produce altered or pathological
+nociceptive signaling [4; 15; 28; 33].
+
+In addition to characterising pain responses, tests can also specifically determine sensory
+thresholds, determining the minimum stimulus intensity required to provoke a hindpaw
+withdrawal response that can be reassessed during or following the onset of pathology or
+administration of experimental compounds [4]. Together, these approaches provide
+quantifiable measures related to nociception with clear face validity to the experience of pain.
+A key limitation of these thresholding-based approaches, however, is that stimuli generally
+activate a range of sensory receptor types (e.g. mechanoreceptive, thermoreceptive and
+chemoreceptive) [4; 15; 23]. Furthermore, high intensity stimuli are required to study
+nociception, carrying the risk of tissue damage. Fortunately, a range of technical and
+experimental advances have provided opportunities to develop new measures of pain and
+nociception in animals, expanding the preclinical assessment tools for studying pathological
+pain and assessing analgesic efficacy. For example, combinations of high-speed video
+imaging, statistical analysis, and machine learning are increasingly being employed to
+identify novel measures of spontaneous pain behaviour and automate this analysis [18].
+
+Recent experimental advances have also provided new ways to activate neural pathways and
+study pain processing, including the fields of chemogenetics and optogenetics [16; 31; 35]. In
+the case of optogenetics, light sensitive proteins known as opsins can be specifically
+expressed in a target cell population, rendering these cells light-sensitive [27; 38]. Several
+studies have established that optogenetics can be used to activate peripheral nociceptors and

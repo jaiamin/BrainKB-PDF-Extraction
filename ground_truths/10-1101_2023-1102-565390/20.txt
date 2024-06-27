@@ -1,0 +1,42 @@
+Figure 1. In vivo peripheral photostimulation experimental setup and procedure. (A) a
+TRPV1::ChR2 animal is placed in a clear plexiglass cylinder positioned on an elevated
+plexiglass platform. Two mirrors are positioned behind the cylinder so that the animal can be
+visualised from all angles with front on video camera recording. An LED driver is connected
+to 470 nm fibre-coupled LED, attached to a custom-mounted fibre optic patch cable under the
+elevated platform to deliver photostimulation through a 1 mm exposed fibre optic probe. The
+fibre optic probe tip is positioned a set distance from the underside of the elevated plexiglass
+floor to deliver consistent photostimulation intensities. The LED driver is triggered after
+positioning under the hindpaw of the mouse via a Master-8 pulse stimulator, which provides
+a timed 1 second TTL pulse. (B) images show hindpaw photostimulation with an examples of
+no response and response trials. (C) diagram summarizes 5-trial up/down paradigm for
+photostimulation. Following the first photostimulus at a set intensity of 1mW, subsequent
+photostimulus intensities are determined based on the result of the previous trial, increasing
+intensity if no withdrawal response to the prior intensity was observed, or decreasing if a
+withdrawal response was observed. A total of 5 photostimulation trials are conducted and the
+optical threshold assigned as the last photostimulation intensity +/- an adjustment factor of
+half the intensity to the next highest photostimulation intensity if there was no withdrawal
+response recorded in the last photostimulation trial, or half the intensity to the next lowest
+photostimulation intensity if the last photostimulation trial caused a withdrawal response.
+Figure 2. Expression of ChR2 in DRG and spinal dorsal horn of TRPV1::ChR2 mice
+and validation of selective photostimulation responses. A-D, images show distribution of
+ChR2/GFP (green, A), CGRP (red, B) and NF200 (blue, C) expression in DRG section, taken
+from a TRPV1::ChR2 mouse. Merged image (D) shows significant overlap of ChR2/GFP and
+CGRP-labelled cell profiles confirming the expected expression in small diameter peptidergic
+DRG cells. The lack of overlap between ChR2/GFP and NF200 confirms expression is
+largely excluded from large diameter myelinated DRG cells. Plots compare marker overlap
+(E) supporting significant overlap between ChR2/GFP and CGRP with minimal overlap
+between NF200 and either ChR2/GFP or CGRP. This relationship also correlates with the
+cell diameter for each population (F), with significant overlap between ChR2/GFP and
+CGRP, both having an average of approximately 20 μm, and minimal overlap between
+NF200 and either ChR2/GFP or CGRP, with NF200 averaging approximately 30 μm. G-I,
+images show a spinal dorsal horn (DH) section with ChR2/GFP (green, G) and CGRP (red,
+H) labelling. The merged immunolabelling (I) shows significant overlap of ChR2/GFP and
+CGRP profiles, consistent with ChR2/GFP expression limited to nociceptive afferents
+terminals. J, to confirm nocifensive responses were specific to ChR2 activation in the
+TRPV1::ChR2 transgenic animal line two control models were assessed. The first assessed
+the uncrossed parent line for the TRPV1::ChR2 animal, the Ai32 animal (n = 4), lacking
+TRPV1:cre to enable ChR2 expression. The second control used crossed TRPV1::ChR2
+animals but instead of 470 nm blue light, photostimulation was applied at 532 nm light
+(green), outside the peak ChR2 excitation wavelength (n = 4). K, importantly, no response to
+peripheral photostimulation was observed in either control experiment at intensities up to 3
+mW, exceeding the photostimulation intensity required to evoke responses in peripheral

@@ -1,0 +1,33 @@
+latency of trial 2 significantly shorter than trial 1 (0.45 ± 0.08 s vs. 0.85 ± 0.14 s, p < 0.05,
+Figure 4). Finally, despite variability in the response duration between animals and trials,
+mean values did not differ across trials (p > 0.05, Figure 4). Together, these results indicate
+some measures remain consistent over multiple testing days whereas others (eg, response
+latency) show greater variability. In a subset of experiments (n =8), animals underwent an
+additional photostimulation stability test 14 days after the third trial. Group data comparisons
+of the first 3 trials and the fourth trial showed that optical withdrawal threshold (0.87 ± 0.06
+mW vs. 0.79 ± 0.22 mW), withdrawal latency (0.57 ± 0.06 s vs. 0.61 ± 0.14 s), and response
+duration (0.81 ± 0.23 s vs. 1.15 ± 0.52 s) did not differ over this period, further supporting the
+long-term stability of the peripheral photostimulation model (Figure 4).
+
+A necessary aspect of the up/down approach to optical withdrawal thresholding was the need
+to determine when withdrawal responses occurred as this determined the next
+photostimulation intensity. While full withdrawal of the hindpaw is a prominent movement
+that is easily detected, more subtle paw movements or adjustments related to
+photostimulation are potentially missed in real-time. Video recording of all trials made it
+possible assess each trial post hoc in slow motion to detect more subtle responses. This
+analysis confirmed that most withdrawal responses detected in real-time (79.84%, 293/367
+assessed) accurately identified the onset of photostimulation associated behaviour. Of the
+remaining responses, slow-motion analysis detected photostimulation related movement of
+the hindpaw in 16.9% of trials that were originally classified as no response. This highlights
+even finer sensitivity may be possible if high speed videography and analysis were employed
+in the future. In addition, slow motion reanalysis identified a small number of
+photostimulation trials (3%), originally classified as containing a withdrawal response, that
+were reappraised as a spontaneous movement rather than a nocifensive response. Although
+this is a low error rate for small rodent behavioural analyses, and unlikely to influence the
+outcome of the up/down analysis, it also highlights scope for improvements that might be
+possible implementing computer vision and machine learning to remove human error.
+
+Analgesic sensitivity of peripheral photostimulation
+To test the potential utility of peripheral photostimulation as an analgesic screening model, a
+cohort of animals was assessed before and after administration of a gold standard analgesic,
+morphine, as well as inclusion of a vehicle control saline injection (Figure 5, n = 7).

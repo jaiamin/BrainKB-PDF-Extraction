@@ -1,0 +1,53 @@
+In this regard, we applied an approach that is familiar to us, proximity ligation assay (PLA) 7
+
+. PLA points to very close
+
+protein:protein interactions (<30-40nm) 7
+
+. In common with our inital Y2H screen, PLA supported the liklihood of a direct
+Pdlim5:PalmD interaction relative to our negative and positive controls (Figure 2C&D). For example, the Pdlim5:PalmD
+signals (puncta) observed were comparable in number and intensity to those resolved for our positive-control complex
+of Pdlim5:delta-catenin 7 . Overall, our Y2H and PLA findings were supportive of the proposed Pdlim5:PalmD association.
+PalmD associates with Pdlim5 based upon endogenous co-IPs, as well as ectopic Golgi co-relocalization assays.
+We sought additional validations of the Pdlim5:PalmD association. For endogenous co-immunoprecipitations, we
+employed rat primary cortical neurons given their relative abundance in comparison to hippocampal neurons. Indeed,
+the immuno-precipitation of Pdlim5 produced a significant signal for associated PalmD (Figure 3A&B). The inverse co-IP
+was similarly supportive (Supplemental Figure 3A). Because endogenous Pdlim5 and PalmD migrate via SDS-PAGE at
+comparable positions, separate blots were used to resolve the co-IPs versus the self-IPs (Supplemental Figure 3A). We
+additionally assayed co-IPs of exogenous epitope-tagged constructs expressed in HEK293 cells, and we again readily
+resolved the Pdlim5:PalmD association (Supplemental Figure 3B). Our evidence suggests that the Pdlim5:PalmD
+association may be quite stable, as we found the complex routinely survived even overnight incubations in cell lysis/
+extraction buffer.
+To apply a further test, we took an orthogonal approach that we earlier developed 7
+
+. In it, one’s construct of interest is
+ectopically directed to the outer Golgi membrane via fusion to a Golgi localization sequence (GLS). A putative partner is
+then co-expressed, and we score for its ectopic co-targeting, versus not, to the Golgi (we assess if the partner “comes
+along for the ride”). An attractive aspect of this method is that potential associations are happening in the cell cytoplasm
+without biochemical treatment for lysis. Thus, the interactions are maintained in a more natural intra-cellular
+environment. We resolved strong Pdlim5:PalmD colocalization to Golgi when Pdlim5 was ectopically localized there via
+fusion to a GLS, but not when Pdlim5 lacked such a GLS (negative control) (Figure 3D). These experiments were
+conducted in HT-22 cells (immortalized mouse hippocampal neuronal cell line), as we found them amenable to Golgi
+visualization/ scoring. In summary, both our co-IP and GLS tests confirm Pdlim5:PalmD association (Figure 3), as
+originally supported via yeast 2-hybrid (Y2H) and proximity ligation assays (PLA) (Figure 2).
+We went on to apply the GLS methodology to map the region of Pdlim5 that binds to PalmD. Varied constructs of Pdlim5
+were tested that retained or lacked each of Pdlim5’s three principal domains: PDZ, DUF, and LIM (Supplemental Figure
+3). Our findings clearly indicated a primary role of Pdlim5’s C-terminal LIM domain in PalmD association, as opposed to
+the N-terminal PDZ or central DUF domains (Supplemental Figure 3D). This result was further supported using traditional
+co-IP strategies, where the LIM domain was found to co-IP with PalmD (Supplemental Figure 3C).
+Functional assays support Pdlim5’s relationship with PalmD.
+Analogous to what was earlier indicated in Figures 1A with regards to the developmental presence of Pdlim5 in rat
+hippocampal neurons (DIV1-9), PalmD is readily observed in dendrites and soma (Figure 4A; see also Figure 2). Using
+both exogenous expression and knock-down approaches we addressed the impact of manipulating the levels of PalmD
+in rat primary hippocampal neurons. Upon its exogenous expression, we found that PalmD potently enhanced dendritic
+branching as quantified via Sholl analysis, while conversely, PalmD knockdown using two independent siRNAs had the
+opposing impact, dramatically reducing such branching (Figure 4B&C). Similar exogenous expression and knockdown
+effects were observed when applying other measurements such as counting the number of dendritic tips or branch
+points per primary hippocampal neuron, or when using Imaris-generated 3-D renderings or binary images for
+visualizations. (Supplemental Figure 4). This suggested to us that the Pdlim5 and PalmD components within the
+Pdlim5:PalmD complex are positive modulators of branching.
+We next asked if the effects observed upon expressing Pdlim5 was dependent on the presence of PalmD, and vice versa.
+When Pdlim5 was exogenously expressed under conditions of PalmD knockdown, we failed to observe any
+enhancement of branching (Figure 4D&E). Indeed, as seen with the knockdown of PalmD-alone, we observed
+suppression of branching relative to the GFP-alone control. We likewise observed that the promotion of dendrite
+branching upon PalmD expression became suppressed upon the parallel knockdown of Pdlim5 (Supplemental Figure

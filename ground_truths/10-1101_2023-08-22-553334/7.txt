@@ -1,0 +1,48 @@
+0.05, n≥10 neurons. Relative to the nucleus, this signifies high statistical significance of the observed subcellular
+localizations of both Pdlim5 and PalmD to neurites and soma in rat hippocampal neurons.
+
+Figure 3. PalmD associates with Pdlim5
+A. Immunoblots displaying the endogenous pull-down of Pdlim5 followed by PalmD blotting. Since PalmD and Pdlim5
+have similar sizes (approximately 70kD), separate gels were used for blotting of Pdlim5 versus PalmD. n= 3 biological
+replicates.
+B. Quantitation by densitometric analysis (Image J software) of co-immunoprecipitations (co-Ips). n= 3 biological
+replicates of DIV9 rat primary cortical neurons. Each replicate utilized six 10cm dishes containing 2 x 106 cells each (see
+Methods). The error bars represent the standard error of the mean (SEM), and the statistical significance, determined
+using one-way ANOVA, is indicated as P ≤ 0.0001 (****).
+C. Golgi co-relocalization assays demonstrates that Pdlim5 when fused to a Golgi localization sequence (GLS) exhibits an
+
+ectopic (red) distribution to the Golgi apparatus as expected. Importantly, PalmD (shown in green) colocalizes with GLS-
+Pdlim5 to the Golgi. In contrast, when Pdlim5 lacks the GLS, PalmD no longer co-relocalizes with Pdlim5 to the Golgi. n=4
+
+biological replicates, each with analysis of ≥8 cells, scale bar in the images represent 20 μm. HT-22 cells.
+D. Calculation shows the Pearson's correlation coefficient for the co-distribution of Pdlim5 and PalmD in the presence
+
+versus absence of the GLS-tag upon Pdlim5. The level of statistical significance is indicated as ****, which signifies a p-
+value of ≤ 0.0001. The violin plot quartiles represent data ranges and middle dark line represent median, and the
+
+statistical significance, determined using one-way ANOVA, is indicated as P ≤ 0.0001 (****).
+
+Figure 4. PalmD characterization (?) and its functional dependency with Pdlim5:
+A. Rat primary hippocampal neurons at the indicated developmental stages (DIV1, DIV3, DIV5, DIV7, and DIV9), are
+immuno-stained for endogenous PalmD (shown in green) and the NeuN marker (shown in red), which identifies
+neuronal nuclei. n=2 biological replicates. The scale bars in the images indicate 20 μm and 50 μm.
+B. These immunofluorescent images illustrate the impact of PalmD exogenous expression versus siRNA-mediated
+knockdown of PalmD (siRNA714, siRNA716) on neuronal morphology. PalmD siRNA-mediated knockdown decreases
+process complexity, while exogenous expression increases branching morphology. Three biological replicates in each
+condition analyzing ≥ 10 neurons. Quantitation present in Panel C.
+C. Sholl analysis was conducted to examine the dendrite morphology of neurons under different conditions: namely
+negative control (GFP, blue line), PalmD exogenous expression (orange line), and PalmD siRNA-mediated knock down
+(siRNA714, green line; siRNA716, yellow line). The analysis demonstrates that neurons overexpressing PalmD exhibit a
+significant increase in dendritic complexity, while knockdown of PalmD results in severe reductions. The significance was
+assessed using a two-way ANOVA with Bonferroni post-hoc analysis that varies from P ≤ 0.0001 and P < 0.05, based on
+radial distance from the cell soma (compared to cells expressing GFP alone). The error bars represent the standard error
+of the mean (SEM). n≥15 neurons in each of three biological replicates.
+D. Functional interdependence of Pdlim5 and PalmD. The panel indicates the GFP control condition relative to Pdlim5
+exogenous expression, and versus PalmD exogenous expression in the presence of PalmD siRNA-mediated knockdown
+(KD). The results suggest an interdependence between Pdlim5 and PalmD in regulating neuronal morphology. Analyzed
+≥ 10 neurons in each of three biological replicates. See panel E for quantitation.
+E. Sholl analysis was performed to analyze dendrite morphology under different conditions: GFP control, Pdlim5
+exogenous expression, and Pdlim5 exogenous expression with concomitant knock down of PalmD (siRNA716). The
+analysis reveals that neurons overexpressing Pdlim5 (orange line) exhibit increased numbers of dendrites compared to
+control GFP-expressing cells (blue line) (P ≤ 0.0001 and P < 0.05 for the respective regions 20-90 μm and 110-170 μm
+from the soma). However, when PalmD siRNA716 is introduced alongside Pdlim5 exogenous expression (gray line), there

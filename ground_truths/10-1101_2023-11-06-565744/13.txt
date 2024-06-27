@@ -1,0 +1,19 @@
+Figure 6: Electrophysiological recordings of 3D neuronal cultures after 13 DIV. a: A representative 1 min
+raster plot of spontaneous activity captured by 19 electrodes in a single module. Each spike is represented by a
+vertical line. Bursting occurred roughly every 5 s synchronized on all electrodes. b: Representative voltage traces
+of five electrodes, with raster plots of spikes at one electrode, bursts from all electrodes, and network bursts.
+c: Threshold-aligned waveforms of 100 spikes measured at a single electrode revealed the expected waveform of
+an extracellular axonal action potential, with an amplified amplitude (here, 330 μV peak-to-peak). d: Acute
+application of 3 μM PTX increased spike frequency, illustrated by five representative voltage traces, and raster
+plots of spikes at one electrode, all bursts, and network bursts.
+4 Conclusions
+Here, we reported on the development of a two-compartment microphysiological system for the
+morphological and electrophysiological assessment of 3D neuronal cultures, and demonstrated its
+capabilities with primary 3D cultures of mouse hippocampal neurons. We developed this system to be
+compatible with automated liquid handling and commercial amplifier systems, although we note that
+the culture modules (with 12 in our format) can be extended to multiwell format devices with higher
+numbers of modules and electrodes.
+Our devices reliably achieved simple and non-invasive recording of electrical activity due to the
+unguided outgrowth of neurites from non-adherent cells into substrate-integrated tunnels having
+integrated microelectrodes. The devices were also capable of simultaneous microscopy to observe
+morphology of the 3D neuronal culture.

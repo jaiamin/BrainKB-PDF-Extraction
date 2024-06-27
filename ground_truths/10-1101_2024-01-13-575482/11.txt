@@ -1,0 +1,39 @@
+VII. ROBUSTNESS AND GENERALIZATIONS
+
+Most of the assumptions that went into the building of the theory are arguably natural – such as the normality
+assumption on the model of inner measurement error (which leads to the Gaussian likelihood in Eq. 2). However, to
+model the prior distribution of the outcome we condensed experimental knowledge from the anchoring-and-adjustment
+literature into a specific functional form (Eq. 5) that has been rarely encountered in psychology so far, albeit being
+common in studies on numerical methods [32, 33]. To test the robustness of the theory, we must check whether it
+would still be able to predict experimental observations if the prior distribution had a different form.
+Therefore, while so far we have deduced behavior from assumptions on the cognitive prior, we are now interested
+in the opposite logical path of inferring the underlying cognitive prior from what the experimental literature tells us
+on behavior (Fig. 2). The detailed investigation we carry out in the Technical Supplement proves that indeed a more
+general class of priors can account for the same fourfold pattern of risk attitudes, providing a more nuanced model
+of resource-rational economic decision-making. However, all cognitive priors compatible with the fourfold pattern of
+risk attitudes shares some essential features of the spike-and-slab prior. We report three rigorous results that clarify
+the connection between prior beliefs and behavior:
+1. Normality-rationality theorem. All options in the experiment described by Table I correspond to the same
+expected gain/loss. In the language of bounded rationality, rational behavior would be to rank all options equally.
+A striking result of our framework is that normality equals rationality. As we prove in Sec. S-V B, rationality is
+equivalent to normality of the cognitive prior. A subject’s preference over options is rational only if the cognitive
+prior is a Gaussian distribution (Fig. 5, panels 1e,1f).
+2. Open mind theorem. We show in Sec. S-V G that a compact-support prior is incompatible with experimental
+evidence. Since a Bayesian update cannot restore probability where it is zero at the outset, we would interpret a
+compact support as signifying that some potential values of the outcome have been ruled out a priori. Similarly, a
+non-compact support encodes an open-minded prior belief about possible outcome. Calculating the perceived utilities
+curves for our theory shows that, if the prior has compact support as in panel D of Fig. 6, the comparative utility
+function U behaves as in the dashed red curves of panels A and B of Fig. 6. The experimentally observed pattern of
+risk attitudes implies, therefore, that the prior beliefs are "open-minded".
+2. Leptokurticity of the cognitive prior. As an additional result, the emergence of the fourfold pattern reveals
+that the cognitive prior is leptokurtic. Leptokurtic distributions can be hand-wavingly described as possessing thin
+tall peaks, and thick tails clearly separated from them [34]. Thus, a spike-and-slab prior is a caricature of what a
+leptokurtic distribution looks like in the unimodal case; such distributions are less restrictive than the spike-and-slab
+prior of Eq. 5 but share its essential features (see e.g. Fig. 5, panel 2a). We can thus simply regard a leptokurtic prior
+as a "softer" way to encode anchoring. Any other type of prior distribution would not be able to yield the fourfold
+pattern of risk attitudes, as proven in Sec. S-V I of the Technical Supplement.
+
+In conclusion, the prior we used to encode the anchoring effect is not a necessary choice, but any cognitive prior com-
+patible with experiments shares its essential features, which points back to anchoring-and-adjustment as a mechanism
+
+supporting or enhancing the fourfold pattern in fast decision making.

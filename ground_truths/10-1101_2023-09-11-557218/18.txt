@@ -1,0 +1,52 @@
+was completed, the pipette was left in place for an additional 10 min, and then slowly withdrawn. The skin wound
+was then closed with absorbable sutures. Mice were monitored up to 5 days post-operation and administered
+Meloxicam 10 mg/kg (once a day for three days) and slow-release Buprenorphine 1 mg/kg (once, administered
+after surgery) to minimize pain. We used the following coordinates relative to Bregma: SCN -0.4 mm
+anteroposterior (AP), ±0.15 mm mediolateral (ML), -5.8 mm dorsoventral (DV) unilaterally (though achieving
+bilateral spread); MRN -4.2 mm AP, 0.0 mm ML, -4.5 mm DV unilaterally; POA +0.14 mm AP, ±0.5 mm ML,
+-5.5 mm DV bilaterally; LH -1.58 mm AP, ±1.25 mm ML, -5.0 mm DV bilaterally; Hb -1.34 AP, ± 0.35mm ML,
+-2.5mm DV bilaterally. To account for differences in brain size, Bregma-Lambda distance of each experimental
+mouse was measured and divided by 4.2 mm (~ Bregma-Lambda distance according to Paxinos Atlas) to calculate
+a normalizing factor that was used to scale the anteroposterior coordinate.
+Mice showing incorrect viral targeting, or partial coverage of the target area, were excluded from the study.
+Viral vectors
+The following viral vectors were used: AAVretro-CAG-tdTomato (Boston Children's Hospital (BCH) Viral
+
+Core), 1.2 x 1012 genomic copies (gc)/mL; AAV2-CAG-GFP (BCH Viral Core), 2 x 1012 gc/mL; AAV2-CAG-
+tdTomato (BCH Viral Core), 1.8 x 1011
+
+gc/mL; AAVretro-Syn-Cre (Addgene #105553, a gift from James M.
+Wilson) 4 x 1012 gc/mL; AAV8-Con-Fon-TVA-mCherry (Addgene plasmid #131779, a gift from Karl
+Deisseroth) and AAV5-Con-Fon-oG (Addgene plasmid #131778, a gift from Karl Deisseroth) were custom
+packaged by the BCH Viral Core at titers 3.2 x 1013 gc/ml and 2.4 x 1013 gc/ml, respectively; EnvA pseudotyped
+G-Deleted Rabies Virus GFP (Salk Institute GT3 Viral Core), 2 x 108
+
+infection units/mL; AAV8-DIO-Flpo
+
+(Addgene #87306-AAV8, a gift from Li Zhang) 2.3 x 1012 gc/mL.
+Home cage running-wheel assay
+For the duration of the running-wheel experiments, mice of either sex were single housed. Running wheels were
+custom built by Ofer Mazor and Pavel Gorelik from the Harvard Medical School Instrumentations Core Facility.
+Briefly, metal wheels were mounted on a plexiglass transparent support that fit standard mouse cages. An infrared
+sensor was integrated within the plexiglass support to detect the spokes of the wheel passing by (a single
+revolution was considered when the two spokes of the wheel passed by the sensor) and connected to a 24-port
+Raspberry Pi running a custom-made script for activity detection. Data was expressed as revolutions/second,
+visualized and analysed in 10 sec bins using custom R scripts . Sta) and Prism 9 (GraphPad). Mice were allowed
+to habituate to the running wheel for at least a week before collecting activity data.
+Chronic sleep/wake measurements
+Following stereotaxic injection of AAVs, mice were implanted with 2-channel Electroencephalography (EEG)/
+1-channel Electromyography (EMG) headmounts (Pinnacle Technology, # 8201-SS). Four screws (front 0.10’’,
+#8209; back 0.12’’, #8212, Pinnacle Technology) were inserted into the skull to anchor the headmount and
+simultaneously record cortical EEG signals. Two EMG wires positioned in the neck muscle recorded EMG
+signals. The headmount was secured using dental cement. Mice recoveredw for 5 days, and then were connected
+to the wireless EEG/EMG recording device (Pinnacle Technology, # 8200-K9-SL) for 24 hours (habituation)
+before the start of the recording session. Each device (up to 4 simultaneously, to avoid Bluetooth interference as
+per manufacturer recommendation) was then paired with a Bluetooth receiver connected via USB to a computer
+running the Sirenia data acquisition software (Pinnacle Technology). Baseline sleep/wake was recorded
+continuously over the following 2 days, before switching to either short or long photoperiod. Recordings lasted
+up to 3 weeks.
+Analysis of sleep/wake was performed using Sirenia Sleep Pro (Pinnacle technology). Digitized polygraphic data
+were analysed in 10 sec bins, their power spectra generated and then classified as Wake, NREM and REM using
+the Cluster Scoring function. Data was then manually curated to either confirm/correct sleep/wake states or to
+score unidentified epochs. Sirenia Sleep Pro was used to calculate the amount of Wake/NREM/REM in defined
+time periods. Data was visualized using GraphPad Prism 9.

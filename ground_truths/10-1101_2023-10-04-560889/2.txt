@@ -1,0 +1,15 @@
+Abstract: Neural circuit development in the human cortex is considerably prolonged in
+comparison to non-human primates, a trait that contributes to the remarkable cognitive
+capacity of modern humans. Here, we explore the regulatory role of non-coding RNAs, which
+dramatically expanded during brain evolution, in synapse development of human-induced
+pluripotent stem-cell derived neurons. Inhibition of a human-specific microRNA, miR-1229-
+3p, results in accelerated formation of excitatory synapses and enhanced synaptic
+transmission. Mechanistically, miR-1229-3p controls mitochondrial homeostasis by targeting
+important regulators of mitochondrial autophagy and fission, such as Pink1. Stimulation of
+mitochondrial metabolism rescues decreased calcium buffering in miR-1229-3p depleted
+neurons. Our findings reveal an important function of human-specific miR-1229-3p in
+developmental timing of human synaptogenesis and generally implicate non-coding RNAs in
+the control of human connectivity and cognition.
+
+One-Sentence Summary: A human-specific microRNA slows down the formation and
+maturation of neuronal synapses by reducing mitochondrial metabolism and renewal.

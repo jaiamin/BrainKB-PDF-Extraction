@@ -1,0 +1,34 @@
+[24] Lawson JJ, McIlwrath SL, Woodbury CJ, Davis BM, Koerber HR. TRPV1 unlike
+TRPV2 is restricted to a subset of mechanically insensitive cutaneous nociceptors
+responding to heat. J Pain 2008;9(4):298-308.
+[25] Li J, Ali MSS, Lemon CH. TRPV1-Lineage Somatosensory Fibers Communicate with
+Taste Neurons in the Mouse Parabrachial Nucleus. The Journal of Neuroscience
+2022;42(9):1719.
+[26] Michoud F, Seehus C, Schönle P, Brun N, Taub D, Zhang Z, Jain A, Furfaro I, Akouissi
+O, Moon R, Meier P, Galan K, Doyle B, Tetreault M, Talbot S, Browne LE, Huang
+Q, Woolf CJ, Lacour SP. Epineural optogenetic activation of nociceptors initiates and
+amplifies inflammation. Nature biotechnology 2021;39(2):179-185.
+[27] Mickle AD, Gereau RWt. A bright future? Optogenetics in the periphery for pain
+research and therapy. Pain 2018;159 Suppl 1(Suppl 1):S65-s73.
+[28] Mogil JS. Animal models of pain: progress and challenges. Nature Reviews
+Neuroscience 2009;10(4):283-294.
+[29] Park SI, Brenner DS, Shin G, Morgan CD, Copits BA, Chung HU, Pullen MY, Noh KN,
+Davidson S, Oh SJ, Yoon J, Jang KI, Samineni VK, Norman M, Grajales-Reyes JG,
+Vogt SK, Sundaram SS, Wilson KM, Ha JS, Xu R, Pan T, Kim TI, Huang Y,
+Montana MC, Golden JP, Bruchas MR, Gereau RWt, Rogers JA. Soft, stretchable,
+fully implantable miniaturized optoelectronic systems for wireless optogenetics. Nat
+Biotechnol 2015;33(12):1280-1286.
+[30] Peirs C, Seal RP. Neural circuits for pain: recent advances and current views. Science
+2016;354(6312):578-584.
+[31] Peirs C, Williams S-PG, Zhao X, Arokiaraj CM, Ferreira DW, Noh M-c, Smith KM,
+Halder P, Corrigan KA, Gedeon JY. Mechanical allodynia circuitry in the dorsal horn
+is defined by the nature of the injury. Neuron 2021;109(1):73-90. e77.
+[32] Percie du Sert N, Rice AS. Improving the translation of analgesic drugs to the clinic:
+animal models of neuropathic pain. Br J Pharmacol 2014;171(12):2951-2963.
+[33] Sandkuhler J. Models and mechanisms of hyperalgesia and allodynia. Physiological
+reviews 2009;89(2):707-758.
+[34] Sharif B, Ase AR, Ribeiro-da-Silva A, Séguéla P. Differential coding of itch and pain by
+a subpopulation of primary afferent neurons. Neuron 2020;106(6):940-951. e944.
+[35] Smith KM, Browne TJ, Davis OC, Coyle A, Boyle KA, Watanabe M, Dickinson SA,
+Iredale JA, Gradwell MA, Jobling P. Calretinin positive neurons form an excitatory
+amplifier network in the spinal cord dorsal horn. Elife 2019;8.

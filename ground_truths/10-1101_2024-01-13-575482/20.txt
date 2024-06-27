@@ -1,0 +1,97 @@
+U(q, r) = ⟨s⟩qr + q ⟨s⟩−r
+1 + q
+
+(S32)
+The case of a risk-free outcome is recovered for q = 0, when indeed we have UA = UB and thus U(q, r) = 0.
+In the main text we started out by deriving a theory based on a specific cognitive prior (the spike-and-slab prior),
+and calculated from it a specific form of the function S32, showing that it leads to experimentally verifiable results.
+In this supplement, we would like to proceed the other way around. Namely, we will now make some experimentally
+motivated demands on the perceived utility function given in Eq. S32 (which constitutes of course the final output of
+our theory) and will asking what cognitive priors would output a perceived utility fulfilling those requirements.
+The reflection effect amounts to the requirement that perceived utility U flips sign as a function of the gain/loss
+probability p, becoming positive for sufficiently large p if r is negative, and becoming negative for sufficiently large p
+if r is positive.
+The goal therefore is to characterize the set of prior densities ρ(s) such that:
+(A) For any r > 0, the equation U(q, r) = 0 is satisfied for a single q ∈ (0, ∞), let’s call it q+. At q+ the lowest-order
+nonvanishing derivative of U with respect to q is positive.
+(B) For any r < 0, the equation U(q, r) = 0 is satisfied for a single q ∈ (0, ∞), let’s call it q− . In q−, the lowest-order
+nonvanishing derivative of U with respect to q is negative.
+The point that makes U vanish will be called in either case the choice-switching point. Experiments suggest that
+q+ ≈ q− (reflection principle) and that this is around ≈ 0.2.
+Assuming ρ symmetric makes sˆ(x) antisymmetric, and a consequence of that is that conditions (B) are automatically
+satisfied if conditions (A) are.
+
+S-IV. PARTICULAR CASES
+A. Spike-and-slab prior
+
+Although in this supplement we do not restrict ourselves to the spike-and-slab form of the prior, that specific prior
+deserves special attention because it encodes relevant experimental knowledge from anchor-and-adjust heuristic. We
+review it briefly in this section.
+The spike-and-slab prior already stated in the main text (Eq. 5) is
+
+ρ(s) = p0δ(s) + (1 − p0)gγ(s) (S33)
+
+and leads to a posterior distribution of the form
+
+φ(s) ∝ p0gσ(x)δ(s) + (1 − p0)g√
+γ2+σ2
+(x)g √ γσ
+γ2+σ2
+
+s −
+γ
+2
+γ
+2 + σ
+2
+x
+
+
+(S34)
+
+The resulting optimal estimator (posterior mean) is then
+sˆ(x) = ax
+1 + b exp
+−
+x2
+2 ̃σ2
+ , (S35)
+
+with positive constants a, b, σ ̃ given by
+
+a =
+γ
+2
+γ
+2 + σ
+2
+, b =
+p0
+1 − p0
+p
+γ
+2 + σ
+2
+σ
+, σ ̃ =
+σ
+√
+a
+
+(S36)
+
+For x ≪ σ ̃ this reduces to
+
+sˆ(x) ≈
+a
+1 + b
+x +
+ab
+(1 + b)
+2
+x
+3
+2 ̃σ
+2
+
+(S37)

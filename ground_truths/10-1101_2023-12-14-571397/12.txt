@@ -1,0 +1,22 @@
+Fig. 3. The neural envelope tracking (NET) correlations and spectral entropy (SE) on Dataset I and Dataset II. The
+NET correlation is significantly higher when actively listening (‘Audio’) than when passively listening during the
+movie watching (‘Movie’), arithmetic exercise solving (‘Mathematics’) and text reading (‘Text’) distractor conditions.
+Contrarily, the SE in a network of frontal, parietal-occipital and occipital channels on a frequency range spanning the
+alpha and beta bands is significantly lower when actively listening than when passively listening during a distractor
+condition. This experiment has been repeated for window lengths of 10 s and 30 s. Red and blue dots represent the
+individual data points, whereas the black dots represent the data points per subject averaged across windows and folds.
+Lines connect the per-subject averages and p-values are noted on the right of the data.
+increases when evaluating on a reduced portion of high NET correlation segments.
+However, the sAAD accuracy decreases when evaluating on a reduced portion of low SE
+segments.
+
+As the SE characterises the uncertainty in distribution on a network of frontal, parietal-
+occipital and occipital channels on a frequency range spanning the alpha and beta bands,
+
+our hypothesis is that the SE does not detect the absolute auditory attention, but rather
+reflects the differences in cognitive resources spent on each task (either active listening or
+a distractor condition). Indeed, in Dataset I and Dataset II, the passive listening conditions
+are all coupled to specific distractor conditions (movie watching, arithmetic exercise
+solving and text reading) that require mental resources. The relation for SE between
+active and passive listening, consequently, seems to depend on the specific distractor
+task, reducing its relevance as a generic feature for absolute auditory attention detection.

@@ -1,0 +1,109 @@
+or
+
+sˆ(r
+′
+) − sˆ(r)
+r
+′ − r
+>
+sˆ(r) − sˆ(0)
+r − 0
+
+(S63)
+
+which doesn’t need to be true for any pair of values r and r
+′
+, and is only required to hold true in the limit r
+′ ≫ r.
+
+Now, because we already know that f has to be asymptotically linear, calling its asymptote sˆ(r) ∼ sˆ
+′
+(∞)x, we can
+
+write this as
+
+sˆ
+′
+(∞) > sˆ(r)/r ∀r (S64)
+
+or, given the continuity of the curve
+
+limr→0
+sˆ
+′
+(r) = sup
+R+
+sˆ(r)
+r
+
+(S65)
+
+E. Restating the two tangent inequalities
+The tangent inequalities, shown graphically in Fig. S1, can be collected in the form
+
+sˆ
+′
+(0) <
+sˆ(r)
+r
+< sˆ
+′
+(∞) (S66)
+
+Obviously, requiring sˆ
+′
+(r) to be monotonically increasing would be sufficient to ensure this. But it would also be
+overdemanding. The ratio sˆ(r)/r can range widely over the real axis as long as it never becomes smaller than its
+zero-deviation value, or larger than the asymptotic slope.
+Notice that, applying (S10) with n = 1, we can rewrite the tangent inequalities as
+
+Var(s|x = 0)
+σ
+2
+<
+⟨s⟩x
+x
+<
+Var(s|x → ∞)
+σ
+2
+
+(S67)
+which are direct constraints on the posterior distribution. The next question to tackle is therefore what constraints
+on the prior are posed by such constraints on the posterior.
+
+F. Second derivative vanishes for zero-deviation outcome
+
+The forbidden-region rules derived above teach us something about the derivatives of sˆ(x) in the origin. To see
+this, notice that the inequalities (S59) must apply also for infinitesimally small |r|. In other words, we must have
+
+sˆ(r) = ˆs(0) + ˆs
+′
+(0)r +
+1
+2
+sˆ
+′′(0)r
+2 + o(r
+2
+)
+(
+> sˆ
+′
+(0)r if r > 0
+< sˆ
+′
+(0)r if r < 0
+
+(S68)
+
+Now, we showed in Sec. S-V A that sˆ(0) = 0. Ad absurdum suppose sˆ
+
+′′(0) is different from zero. Then it becomes
+the dominant term in these inequalities near the origin, because everything else is zero or cancels out. The tangent
+inequalities require then the second derivative to be at the same time nonnegative and nonpositive, so it must vanish.
+The leading term is therefore the one of order r
+
+3 or higher. Applying Eq. (S10) with n = 2, notice that the vanishing
+of the second derivative is equivalent to the vanishing of the skewness of the posterior in the particular case of outcome
+r = 0.

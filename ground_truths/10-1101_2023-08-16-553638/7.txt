@@ -1,0 +1,40 @@
+not clear. To address this, we hypothesized that the frequency profiles of the regions 178
+might play a role. To evaluate this, we calculated the average power for each frequency 179
+by compressing the spectrogram over its temporal dimension, and then assessed the 180
+trained model to determine any degradation in prediction accuracy. If the model relies 181
+on primarily frequency information only, it is expected that even if the temporal 182
+information is removed by averaging, prediction accuracy would remain high. On the 183
+other hand, if the model relies on the combination of both frequency and temporal 184
+information, then the averaging would degrade the accuracy. 185
+The results of this analysis are shown in Figure2.B. Contrary to our expectation, the 186
+prediction accuracy was at chance levels. This implies that the predictions were not 187
+solely reliant on the frequency power profile. Instead, the model seems to be attuned to 188
+more intricate features within the time-frequency data. 189
+To further understand the contributing features, we shuffled the time of the input 190
+spectrogram to see how much the model relied on temporal features. Figure2.C shows 191
+the F value between individuals in each region using spectrogram, of which temporal 192
+component was shuffled. It is observed that the F-values did not change significantly 193
+compared to Figure2.A. This suggests that the temporal structure in the spectrogram 194
+plays little role in the prediction of the region. The combined results from these two 195
+additional analyses may be somehow perplexing because powerspectrum alone is not 196
+sufficient for successful prediction, suggesting the relevance of temporal information, 197
+whereas shuffling the temporal order did not harm the performance. Possible 198
+interpretations of these results will be discussed in the discussion section. 199
+Finally, we show the results from our baseline performance obtained with linear 200
+SVM. Figure2.D shows the F value between individuals in each region using SVM. From 201
+this figure, it appears that the F-values are close to the chance level. This suggests that 202
+when using the simple baseline model SVM, as compared to TERA, it was not able to 203
+capture the ECoG features effectively in each region. 204
+In addition to those attempts to reveal contributing features by degrading the input 205
+data, we also applied methods to visualize which portion of the data the model paid 206
+attention to for making predictions. Figure3 visualizes the saliency map of the model 207
+using the gradient of the model. The horizontal axis is time and the vertical axis is 208
+frequency, and the Saliency Map visualizes the features that the model pays attention 209
+to. The trial average, the average of correct cases, and the average of incorrect cases 210
+were calculated for each region for each individual. The highlighted horizontal bands in 211
+those figures suggest that the model focuses mainly on frequency components. The 212
+appearance of temporal changes at a certain moments may suggest that the model may 213
+be capturing a temporal feature. On a single trial basis, we often observed temporally 214
+specific attention that appeared as brief vertical lines that overlapped with high gamma 215
+activities. Such brief events may have also made contributions to the prediction 216
+accuracy. 217

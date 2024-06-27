@@ -1,0 +1,43 @@
+Fig. 5. Brain-wide mapping of inputs to mrEn1-Pet1 neurons. a, Schematic of the experimental approach
+and timeline. b, Representative images of starter cells in the MRN (upper; scale bar 200μm) and retrogradely
+labelled upstream neurons in the POA (lower; scale bar 500μm). Total number of RV+
+(GFP+
+) cells per mouse
+is reported in the bottom table. c, Heatmap showing atlas registration and quantification of input cells
+expressed as % of total inputs. Corresponding averaged data ± s.e.m. for each brain region is shown on the
+right. n = 8. d, Schematic of the experimental approach and timeline. e, Representative confocal images, and
+their 3D reconstructions, showing juxtaposition of boutons of input regions onto mrEn1-Pet1→SCN neurons. f,
+Quantification of the number of input boutons within 0.5μm of a mrEn1-Pet1→SCN neuron. Colors represent
+different mice. n = 3, for each input region.
+
+robust TVA-mCherry expression in Cre/Flp-double
+positive cells (Extended Data Fig. 8). However,
+similar to previous reports 38, we detected some
+mCherry in Cre-only cells, likely reflecting leaky
+expression from the antisense configuration of the
+Cre-recombined transgene; this prevented precise
+estimation of the starter cell population. No leaky
+expression was detected in Flp-only cells.
+Importantly, no trans-synaptic spread of the RV was
+detected in wild-type or single-transgenic animals38
+.
+Using this unbiased, brain-wide approach for
+mapping afferents, we identified four major
+monosynaptic inputs to mrEn1-Pet1 neurons:
+Preoptic Area (POA), Lateral Hypothalamus (LH),
+Lateral Habenula (LHb), and Ventral Tegmental
+
+Area (VTA) (Fig. 5c). Three of these regions (POA,
+LH, LHb) receive direct input from intrinsically
+photosensitive retinal ganglion cells and are known
+to influence sleep/wake behaviour as well as
+arousal39–42, thus representing possible circuit nodes
+capable of transmitting photoperiod information to
+mrEn1-Pet1 neurons.
+Having delineated afferents to the mrEn1-
+Pet1 population as a whole, we next queried which
+provide input to the SCN-projecting subset of
+mrEn1-Pet1 neurons – i.e. to mrEn1-Pet1→SCN
+neurons. We therefore labelled mrEn1-Pet1→SCN
+neurons and their upstream inputs simultaneously
+and performed high-resolution imaging and 3D

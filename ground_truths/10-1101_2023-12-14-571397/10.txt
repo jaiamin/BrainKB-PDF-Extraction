@@ -1,0 +1,65 @@
+channels is utilised as an active listening feature. The PSD estimate is calculated
+using the multitaper spectral analysis using 7 Slepian tapers with a frequency spacing
+of 0.5 Hz [33].
+C. Experimental setup
+1) Absolute auditory attention detection: To study how the NET and SE features vary
+across the different active listening and distractor conditions, a 10-fold cross-validation
+
+is conducted per subject on Dataset I and Dataset II, where the folds are split chronolog-
+ically. Regarding the NET, the decoder is trained solely on the active listening data of
+
+the left-in folds in order to reconstruct the speech envelope when attending to the speech
+stimulus, whereas regarding the SE, no training phase is required. The left-out fold is
+partitioned into windows, quantifying the amount of time given to decide whether the
+subject is in a state of active listening. To this end, window lengths of 5 s, 10 s, 20 s, 30 s
+and 60 s are used.
+Subsequently, the classification accuracy of the features, defined as the ratio of the
+number of correctly predicted windows and the total amount of windows, is analysed to
+discriminate between high versus low attention windows. To this end, an equal amount of
+active and passive listening windows are present. A linear discriminant analysis (LDA)
+classifier is used, although other classifiers could be used as well [34]. This LDA classifier
+is trained using a nested 10-fold cross-validation procedure, where the folds are split
+chronologically. As for the NET, the covariance matrix estimate in the LDA classifier is
+regularised by adding a weighted identity matrix to the estimate according to [31].
+2) Combination of aAAD and sAAD: Next, we aim to analyse whether aAAD can
+be incorporated into an sAAD framework. A 10-fold cross-validation is conducted on
+
+the sAAD task of Dataset III, where the folds are split chronologically and the left-
+out folds are split into 60 s windows. The performance of these sAAD decoders is
+
+evaluated on a proportion of the left-out folds spanning the x%, x = 0, . . . , 100, of
+the segments signalled by the NET and SE features as having the highest absolute
+auditory attention. Regarding the NET, this selection of active listening segments is
+performed by applying the sAAD decoders on the left-out folds, computing the maximum
+of the correlation between the decoder output
+
+
+yˆ and both speech envelopes y1 and y2
+
+max
+ρ
+
+yˆ, y
+(val)
+1
+
+, ρ
+yˆ, y
+(val)
+2
+ over 60 s windows, and selecting the segments which
+have the x% highest values of this feature. Regarding the SE, the x% lowest SE values
+on the left-out folds are selected in correspondence to the results on Dataset I and Dataset
+II as will be detailed infra. We hypothesise that by evaluating the sAAD performance
+only when subjects are signalled to be actively listening, the sAAD performance will
+increase as segments are removed where the subjects are not actively listening to any
+speech stimulus and no truthful sAAD decision can be made.
+D. Hypothesis tests
+Hypothesis tests are performed using the two-sided Wilcoxon signed rank test [35]
+
+and the resulting p-values are corrected for multiple comparisons using the Benjamini-
+Hochberg correction [36]. To assess the statistical significance of slopes, a linear regres-
+sion model is fitted, and the t-test [37] on the coefficient corresponding to the slope
+
+is performed under the null hypothesis that the corresponding coefficient is zero. All
+hypothesis tests are performed with respect to a significance level α = 0.05.

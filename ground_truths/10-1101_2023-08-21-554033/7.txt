@@ -1,0 +1,53 @@
+3 MEA-chip microfabrication, design and characterization
+In keeping with an approach centered on versatility, here we focus on the realization of custom MEA-chips. We
+adopt a microfabrication process based on maskless photolithography. This technique enables the direct patterning
+of any 2D topology imported from CAD files, bypassing the need of dedicated photomasks for each design. Chips
+can then be customized without additional manufacturing steps, reducing fabrication time and cost. Further, this
+protocol allows significant flexibility in terms of constitutive materials, which we demonstrate and leverage to
+manufacture transparent MEAs for optical applications, as described in Section 4.3.
+Microfabrication. An overview of the adopted fabrication process is illustrated in Fig. 3a, while detailed
+information about tools and settings is provided in Material and Methods and SI. We start by spin-coating a thin
+layer of photoresist (PR) onto a clean borosilicate glass wafer. Glass is selected as substrate material because of its
+transparency, chemical stability, and strength. We employ the Heidelberg MLA 150 Maskless Aligner to pattern
+custom MEA designs on the PR layer via a direct-writing laser source. The processed wafer is then submerged in
+developer solution to dissolve the exposed PR and reveal the MEA topology. Next, constitutive materials of the
+MEA are uniformly deposited on the developed wafer through sputtering. Most of the MEAs employed in this
+study consist of two metal layers of titanium (Ti) and platinum (Pt), with a total thickness of 100nm. Here, Pt
+serves as the main constitutive material because of its good conductivity and relative ease to obtain and utilize,
+while the Ti layer is used for enhancing adhesion between Pt and wafer. An alternative process is also discussed in
+Section 4.3 for the deposition of thin films of indium tin oxide (ITO), which has been previously demonstrated
+in fully transparent MEAs [29]. Subsequent to the sputtering process, materials outside of the MEA pattern are
+lifted-off through sonication in acetone.
+Next, we apply the passivation layer that encapsulates the entire MEA, with the exception of the electrodes and
+contact pads. To do this, the wafer is first deposited with a 500nm thick layer of silicon nitride (Si3N4), through
+plasma-enhanced chemical vapor deposition (PECVD). Then, a second photolithography process is performed,
+creating a patterned PR layer on top of the Si3N4, with openings at the electrode and contact pad locations. The
+exposed Si3N4 is then removed by reactive-ion etching, using the PR layer as a mask. The PR layer is subsequently
+stripped using acetone. The overall result is a chip in which electrodes and contact pads are exposed for recording
+and stimulation while connecting wires are insulated. Finally, the wafer is diced into chips of desired shapes.
+Design. In Fig. 3b,c we demonstrate the versatility of the above approach through the realization of a variety
+of MEA designs. Figure 3b illustrates a series of 30μm-electrode chips of increasing resolution spanning 59 to 512
+channels arranged in regular rectangular patterns. Each of these MEAs presents a contact pad layout compatible
+with one of the PCB interfaces of Fig. 1a, synergistically enabling the rapid reconfiguration of the platform. Besides
+the number of electrodes, the chip layout can be modified as well. Figure 3c illustrates three designs, of which
+the first two have not been previously reported (either commercially or through customization): a curved MEA
+arrangement optimized to conform to the natural morphology of the mouse cortex [47], and a perturbed layout in
+which electrodes are randomly displaced around uniform grid locations, to reduce subsampling and aliasing in the
+analysis of neuronal avalanches [9], as theoretically predicted in [48]. The third example implements a multi-well
+topology, allowing to host and monitor four independent cultures at once for parallel testing. The use of several of
+these layouts is demonstrated in the Results section.
+Characterization. Prior to deployment for cell seeding, electrical properties of the chip array are characterized,
+and their impedance is reduced through platinum black deposition. This is a commonly employed electroplating
+technique for which platinum in chloroplatinic acid solution forms granular structures that adhere to the electrodes,
+upon current application [49, 50] (Fig. 3d, further details in Section 6.1). The process increases the electrodes’
+effective surface area, lowering impedance and thus improving the capability of detecting neuronal signals.
+In order to gain operational insight, we characterize the dependence between impedance and electrode size. We
+employ a specially designed chip (again leveraging the versatility of our fabrication approach) in which electrodes
+of four distinct diameters (5, 10, 20 and 30μm) are patterned in separate quadrants (SI). Figure 3e shows that,
+while impedance is generally larger for smaller electrodes (as expected), in all cases the use of platinum deposition
+leads to reductions of at least one order of magnitude, yielding values below the neural signal detection threshold of
+< 1MΩ. This implies that all of these electrode sizes are viable, an additional asset relevant in specific applications.
+We also explore how impedance decreases relative to deposition time (Fig. 3f). Our results suggest that longer
+deposition time (of up to 100s) is needed for smaller electrodes (5-10μm) to achieve the ideal value of ∼200kΩ [51].
+Finally, we quantify the phase of the impedance (which is a complex variable) to confirm its negative value, that is
+to confirm the capacitive property of our electrodes. As can be seen in Fig. 3g, this is demonstrated across all cases,

@@ -1,0 +1,54 @@
+channel ceilings contain a mesh (green) which prevents overflow into the wells during filling. Inlets are outlined in
+yellow. For clarity, well outlines are shown only in iii. c: Scheme of the multiple layers for a single module. From
+bottom to top: a MEA with gold microelectrodes, ITO paths and a silicon nitride insulator; tunnels for neurites (3
+μm SU-8); compartments for hydrogel-based cell culture (150 μm SUEX); mesh ceiling for substance exchange
+(20 μm ADEX); and wells for culture medium (3 mm COC). d–f: Cross-section illustrating the two parallel
+compartments enclosed by a mesh ceiling (d) and connected by the tunnels (e). Neurons are suspended in the
+hydrogel below the mesh. Media is above the mesh. Neurites project in all directions, including through the
+tunnels where microelectrodes enable recording of action potentials. d–f are snapshots from Supplementary
+Video 1.
+2 Materials and methods
+2.1 Microfabrication
+The fabrication process is illustrated in Figure 2. Devices were designed with CleWin (WieWeb, the
+Netherlands). Custom MEAs were ordered from NMI TT GmbH (Reutlingen, Germany). MEAs on
+glass substrates (170 μm or 1 mm thick) had transparent indium tin oxide (ITO) electrical paths
+insulated by silicon nitride. After opening microelectrodes by etching the insulator through a
+photoresist mask, gold was sputter deposited and structured by lift-off. Adhesion of gold directly on
+ITO was sufficient without an extra adhesion layer.
+Microfluidic structures were produced in three photolithographically structured layers of permanent
+epoxy photoresist, described in detail below and shown in Figure S1. The first layer was spin-coated
+while the second and third layers were dry film resist which was laminated to produce enclosed
+channels. All baking steps were performed with ramping to and from room temperature, primarily to
+reduce stress caused by the order-of-magnitude difference between the thermal expansion
+coefficients of the glass and polymers. We found ramping reduced the need for manual handling as a
+large hotplate could fit up to 36 MEAs. Heating the hotplate required ca. 10 min, while cooling took
+more than an hour. For the oven, heating and cooling was controlled at 0.5 °C/min. All UV exposure
+used an i-line filter. Lamination temperatures were measured by stopping a thermocouple between the
+heated rollers. Proximity exposure was used to avoid physical damage to dry film resists, which could
+adhere to the mask and be partially removed.
+MEAs were pretreated by oxygen plasma (2 min, 200 W) then baked in an oven for 1 h at 150°C. For
+the first layer (tunnels), the liquid photoresist SU-8 2002 (Kayaku AM) was spin-coated to produce 3-
+μm-thick structures (10 s at 500 rpm then 30 s at 1000 rpm). A baking step (5 min at 95°C on a
+hotplate, ramped) removed solvent. Structures were exposed (250 mJ/cm2, ca. 20 s, i-line, soft
+contact, SÜSS MA6) through a photomask. A post-exposure bake (PEB), identical to the pre-exposure
+bake, cross-linked the exposed structures. Structures were developed in the SU-8 developer (mr dev
+600) for 40 s and then rinsed in isopropanol. An intermediate hardbake (150°C in an oven) further
+cross-linked the SU-8; this was necessary to avoid overdevelopment of SU-8 in subsequent steps with
+longer development and cyclohexanone.
+For the second layer (compartments), the dry film resist SUEX 150 (150 μm thick) was laminated at 3
+mm/s and 78°C. The carrier foil was removed, then SUEX was exposed through a photomask (2500
+mJ/cm2, i-line, 20 μm proximity exposure). The PEB was 2 h at 45°C, then ramped (ca. 5 min) to 65°C
+for an additional hour. After cooling, SUEX was developed for 10 min in mr dev 600, rinsed with
+isopropanol and dried with nitrogen. To remove residues in the tunnels, dry substrates were dipped
+again in mr dev 600, rinsed with isopropanol and dried with nitrogen.
+For the third layer (ceiling), substrates were prepared for lamination by temporarily fixing a
+150 μm-thick metal foil spacer around the SUEX structures to create a near-planar surface (Figure
+S2). The dry film resist ADEX A20 (20 μm thick) was laminated at 3 mm/s and 75–78°C. The cover foil
+was removed and ADEX was exposed (600 mJ/cm2, i-line, 20 μm proximity exposure). The PEB was 1
+h at 65°C, ramped. ADEX was developed in a two-step process which was necessary to remove
+unexposed ADEX and clean all residues from the enclosed channels. The first step was dipping in
+cyclohexanone for 3 min, rinsing with isopropanol for 1 min, and drying with nitrogen gas. The second
+step was dipping in cyclohexanone for 1 min, rinsing with isopropanol for 10 min, and drying with
+nitrogen gas. In the first step, cyclohexanone dissolved unexposed ADEX and flowed into the air-filled
+channels, transporting ADEX residue into the channels; some residue remained after drying. In the
+second step, fresh cyclohexanone entered the channels and dissolved the residue. In both steps,

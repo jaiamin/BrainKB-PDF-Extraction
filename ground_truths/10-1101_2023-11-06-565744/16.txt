@@ -1,0 +1,46 @@
+Kilic, O., Pamies, D., Lavell, E., Schiapparelli, P., Feng, Y., Hartung, T., et al. (2016). Brain-on-a-chip
+model enables analysis of human neuronal differentiation and chemotaxis. Lab Chip 16, 4152–4162.
+doi: 10.1039/C6LC00946H.
+Koo, Y., Hawkins, B. T., and Yun, Y. (2018). Three-dimensional (3D) tetra-culture brain on chip
+platform for organophosphate toxicity screening. Sci Rep 8, 2841. doi: 10.1038/s41598-018-20876-2.
+Lancaster, M. A., Renner, M., Martin, C.-A., Wenzel, D., Bicknell, L. S., Hurles, M. E., et al. (2013).
+Cerebral organoids model human brain development and microcephaly. Nature 501, 373–379. doi:
+10.1038/nature12517.
+Le Floch, P., Li, Q., Lin, Z., Zhao, S., Liu, R., Tasnim, K., et al. (2022). Stretchable Mesh
+Nanoelectronics for Three‐Dimensional Single‐Cell Chronic Electrophysiology from Developing Brain
+Organoids. Advanced Materials, 2106829. doi: 10.1002/adma.202106829.
+Lu, C., Lee, L. J., and Juang, Y. J. (2008). Packaging of microfluidic chips via interstitial bonding
+technique. Electrophoresis 29, 1407–1414. doi: 10.1002/elps.200700680.
+Lu, X., Kim-Han, J. S., O’Malley, K. L., and Sakiyama-Elbert, S. E. (2012). A microdevice platform for
+visualizing mitochondrial transport in aligned dopaminergic axons. Journal of Neuroscience Methods
+209, 35–39. doi: 10.1016/j.jneumeth.2012.05.021.
+Malishev, E., Pimashkin, A., Gladkov, A., Pigareva, Y., Bukatin, A., Kazantsev, V., et al. (2015).
+Microfluidic device for unidirectional axon growth. J. Phys.: Conf. Ser. 643, 012025. doi:
+10.1088/1742-6596/643/1/012025.
+Marx, U., Andersson, T. B., Bahinski, A., Beilmann, M., Beken, S., Cassee, F. R., et al. (2016).
+Biology-inspired microphysiological system approaches to solve the prediction dilemma of substance
+testing. ALTEX 33, 272–321. doi: 10.14573/altex.1603161.
+Marx, V. (2018). Neuroscience models: choose your dimension. Nat Methods 15, 863–866. doi:
+10.1038/s41592-018-0191-z.
+Mastrangeli, M., Millet, S., Mummery, C., Loskill, P., Braeken, D., Eberle, W., et al. (2019). Building
+blocks for a European Organ-on-Chip roadmap. ALTEX 36, 481–492. doi: 10.14573/altex.1905221.
+Mateus, J., Lopes, C., Aroso, M., Costa, A., Gerós, A., Meneses, J., et al. (2021). Bidirectional flow of
+action potentials in axons drives activity dynamics in neuronal cultures. J. Neural Eng. 18, 066045.
+doi: 10.1088/1741-2552/ac41db.
+McDonald, M., Sebinger, D., Brauns, L., Gonzalez-Cano, L., Menuchin-Lasowski, Y., Mierzejewski, M.,
+et al. (2023). A mesh microelectrode array for non-invasive electrophysiology within neural organoids.
+Biosensors and Bioelectronics 228, 115223. doi: 10.1016/j.bios.2023.115223.
+Mierzejewski, M., Steins, H., Kshirsagar, P., and Jones, P. D. (2020). The noise and impedance of
+microelectrodes. Journal of Neural Engineering, 7. doi: 10.1088/1741-2552/abb3b4.
+Mofazzal Jahromi, M. A., Abdoli, A., Rahmanian, M., Bardania, H., Bayandori, M., Moosavi Basri, S.
+M., et al. (2019). Microfluidic Brain-on-a-Chip: Perspectives for Mimicking Neural System Disorders.
+Mol Neurobiol 56, 8489–8512. doi: 10.1007/s12035-019-01653-2.
+Molina-Martinez, B. (2020). Development of a novel 3D microphysiological system for functional and
+morphological assessment of neuronal networks. doi: 10.15496/PUBLIKATION-61423.
+Molina-Martínez, B., Jentsch, L.-V., Ersoy, F., van der Moolen, M., Donato, S., Ness, T. V., et al.
+(2022). A multimodal 3D neuro-microphysiological system with neurite-trapping microelectrodes.
+Biofabrication 14, 025004. doi: 10.1088/1758-5090/ac463b.
+Neto, E., Leitao, L., Sousa, D. M., Alves, C. J., Alencastre, I. S., Aguiar, P., et al. (2016).
+Compartmentalized Microfluidic Platforms: The Unrivaled Breakthrough of In Vitro Tools for
+Neurobiological Research. Journal of Neuroscience 36, 11573–11584. doi:
+10.1523/JNEUROSCI.1748-16.2016.

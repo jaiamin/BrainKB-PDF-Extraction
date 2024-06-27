@@ -1,0 +1,28 @@
+[16] A. R. Otto, S. J. Gershman, A. B. Markman, and N. D. Daw, Psychological science 24, 751 (2013).
+[17] A. R. Otto, C. M. Raio, A. Chiang, E. A. Phelps, and N. D. Daw, Proceedings of the National Academy of Sciences 110,
+20941 (2013).
+[18] S. Frederick, Journal of Economic perspectives 19, 25 (2005).
+[19] K. C. Armel, A. Beaumel, and A. Rangel, Judgment and Decision making 3, 396 (2008).
+[20] K. Gidlöf, A. Wallin, R. Dewhurst, and K. Holmqvist, Journal of eye movement research 6 (2013).
+[21] I. Krajbich, C. Armel, and A. Rangel, Nature neuroscience 13, 1292 (2010).
+[22] S. Shimojo, C. Simion, E. Shimojo, and C. Scheier, Nature neuroscience 6, 1317 (2003).
+[23] S. E. Asch, The Journal of Abnormal and Social Psychology 41, 258 (1946).
+[24] E. E. Jones, L. Rock, K. G. Shaver, G. R. Goethals, and L. M. Ward, Journal of Personality and Social Psychology 10,
+317 (1968).
+[25] G. B. Chapman, G. R. Bergus, and A. S. Elstein, Journal of Behavioral Decision Making 9, 201 (1996).
+[26] J. Cunnington, J. M. Turnbull, G. Regehr, M. Marriott, and G. R. Norman, Academic Medicine 72, S40 (1997).
+[27] J. H. Kerstholt and J. L. Jackson, Applied Cognitive Psychology: The Official Journal of the Society for Applied Research
+in Memory and Cognition 12, 445 (1998).
+[28] Y. Kwak and S. Huettel, Acta Psychologica 182, 46 (2018).
+[29] F. Lieder, T. L. Griffiths, Q. J. M Huys, and N. D. Goodman, Psychonomic bulletin & review 25, 322 (2018).
+[30] H. J. Einhorn and R. M. Hogarth, Journal of business , S225 (1986).
+[31] A. Tversky and D. Kahneman, science 185, 1124 (1974).
+[32] T. J. Mitchell and J. J. Beauchamp, Journal of the american statistical association 83, 1023 (1988).
+[33] H. Ishwaran and J. S. Rao, Statistics & probability letters 81, 1920 (2011).
+[34] K. Pearson, Biometrika 4, 169 (1905).
+[35] H. A. Simon, The quarterly journal of economics 69, 99 (1955).
+[36] D. Kahneman, American economic review 93, 1449 (2003).
+[37] R. Bhui, L. Lai, and S. J. Gershman, Current Opinion in Behavioral Sciences 41, 15 (2021).
+[38] F. Lieder, T. Griffiths, and N. Goodman, Advances in neural information processing systems 25 (2012).
+[39] A. Prat-Carrabin, F. Meyniel, M. Tsodyks, and R. Azeredo da Silveira, Entropy 23, 603 (2021).
+[40] I. I. Hirschman and D. V. Widder, The convolution transform (Courier Corporation, 2012).

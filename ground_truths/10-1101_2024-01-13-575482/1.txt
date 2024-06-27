@@ -1,0 +1,62 @@
+"Bayesian anchoring" and the fourfold pattern of risk attitudes
+
+Francesco Fumarolaa
+
+RIKEN Center for Brain Science, Wako, Saitama 351-0198, Japan
+
+Lukasz Kusmierza
+
+Allen Institute, Seattle, WA 98109, United States
+
+Ronald B. Dekker
+
+Department of Experimental Psychology, University of Oxford, OX2 6BW Oxford, United Kingdom
+
+(Dated: January 13, 2024)
+
+Experiments on decision making under uncertainty are known to display a classical pattern of
+risk aversion and risk seeking referred to as "fourfold pattern" (or "reflection effect") , but recent
+experiments varying the speed and order of mental processing have brought to light a more nuanced
+phenomenology. We model experiments though a Bayesian formalization of the anchor-and-adjust
+heuristic observed in empirical studies on cognitive bias. Using only elementary assumptions on
+
+constrained information processing, we are able to infer three separate effects found in recent ob-
+servations: (1) the reported enhancement of the fourfold pattern for quicker decision processes; (2)
+
+the observed decrease of fluctuations for slower decision-making trials; (3) the reported dependence
+
+of the outcome on the order in which options are processed. The application of Bayesian mod-
+eling offers a solution to recent empirical riddles by bridging two heretofore separate domains of
+
+experimental inquiry on bounded rationality.
+
+I. INTRODUCTION
+
+One of the foundational results on decision making under uncertainty is the fourfold pattern of risk attitudes often
+referred to as reflection effect [1, 2]. Given a choice between a risky and a risk-free choice with identical average
+outcomes, subjects are risk-seeking when the possible gain is large (and unlikely) and when the loss is likely (but
+relatively small); subjects are risk-averse when the possible gain is likely but relatively small, and when the loss is
+unlikely and large (this is summarized in Fig. 1). The neural mechanisms underlying the effect have long been an object
+of debate among neuroscientists [3, 4]. The effect is customarily described through phenomenological models, the most
+relevant being Prospect Theory [5], which posits that subjects compute expected utilities by weighing probabilities
+through a nonlinear weight function. The function is unknown a priori and must be specified as a parameter of the
+theory, though only its convexity/concavity properties matter. Since the appearance of the theory, the literature has
+seen the proposal of both variations [6] and alternatives [7].
+One of the main recent developments in research on human decision making is the emergence of a body of empirical
+evidence that Prospect Theory alone is not able to account for. Such evidence was obtained by psychologists by
+modifying details of the classic experimental procedure – most notably the time allowed for decision-making and the
+order in which the options are presented to subjects.
+The former direction of inquiry concerns the influence of time constraints on individual preferences and choices (for
+an overview, [8]). By randomly allocating subjects into time pressure conditions (i.e. varying randomly the completion
+deadline for tasks), the literature has identified the effects of time constraints on risky, social, and strategic behavior in
+such contexts as bargaining [9], beauty contests [10], decisions under ambiguity [11], imitation in strategic games [12],
+and bidding in auctions [13].
+What may be called "slow" risk tasks – risky decisions made with no hindrance to tackling the full computation
+workload – have been carefully isolated in experiments such as those of [14], which involve substantial monetary
+rewards for completing the tasks correctly and allow the full necessary time for decision making. These studies have
+confirmed the risk behavior predicted by Prospect Theory, showing that such behavior arises as a result of underlying
+prioritization, not short-term cognitive-load issues. It has long remained inconclusive, however, whether constraints on
+information processing combine synergically with the fourfold pattern or affect the decision outcome in more complex
+ways [15].
+
+aEqual contributors

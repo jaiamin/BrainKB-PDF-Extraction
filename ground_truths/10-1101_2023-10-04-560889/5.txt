@@ -1,0 +1,12 @@
+Fig. 1. A glial-free protocol to study human excitatory synapse development
+a) Overview of our protocol to differentiate human neurons without the requirement to add glial
+cells together with an example of igNeurons cultured for over 10 weeks and stained for MAP2
+(red) and SYN1 (green). b) Example images of igNeurons used for the quantification of synapse
+development at three different time points. Shown is MAP2 in grays, SYN1 in green and PSD95
+in red. c) Synapse co-cluster quantification over five time points from three differentiations
+(236 pictures in total, two coverslips (CVS) were imaged per time point and differentiation).
+The detected number of co-clusters is normalized by the number of neurons and dendritic area
+in each image. Shown are violin plots of all datapoints together with the mean and standard
+deviation of each differentiation. Statistical analysis was performed on square root transformed
+values. A robust linear model was applied over the aggregated means of each day and
+differentiation to account for outliers in any of the time points ( ~ day + differentiation).

@@ -1,0 +1,11 @@
+Figure 3. These figures represents saliency map of each regions (A)This figure represents
+the averaged spectrograms when the prediction was True. (B)This figure represents the
+averaged spectrograms when the prediction was False.
+Similarities of cortical regions 218
+In order to assess the similarity between regions, we extracted the activation patterns 219
+from the layer just before the last layer of the trained model. This vector was used as 220
+the feature vector of the region to which the input ECoG data belonged, and this 221
+feature vector was used to examine the similarity between the regions. The similarity 222
+between regions was quantified using Cosine Similarity. For each region, the feature 223
+vectors were extracted for each 20-second segment and then concatenated to make a 224
+long vector spanning over the entire period. Similarities between regions were computed 225

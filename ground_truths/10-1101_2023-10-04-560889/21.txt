@@ -1,0 +1,53 @@
+24. T. Treiber, N. Treiber, G. Meister, Regulation of microRNA biogenesis and its
+crosstalk with other cellular pathways. Nat Rev Mol Cell Biol 20, 5-20 (2019).
+25. J. C. McCreight, S. E. Schneider, D. B. Wilburn, W. J. Swanson, Evolution of
+microRNA in primates. PLoS One 12, e0176596 (2017).
+26. M. Schornig et al., Comparison of induced neurons reveals slower structural and
+functional maturation in humans than in apes. Elife 10, (2021).
+27. H. Pontzer et al., Metabolic acceleration and the evolution of human brain size and life
+history. Nature 533, 390-392 (2016).
+28. R. Iwata et al., Mitochondria metabolism sets the species-specific tempo of neuronal
+development. Science 379, eabn4705 (2023).
+29. W. Springer, P. J. Kahle, Regulation of PINK1-Parkin-mediated mitophagy. Autophagy
+7, 266-278 (2011).
+30. M. Soutschek, F. Gross, G. Schratt, P. L. Germain, scanMiR: a biochemically based
+toolkit for versatile and efficient microRNA target prediction. Bioinformatics 38,
+2466-2473 (2022).
+31. M. J. Devine, J. T. Kittler, Mitochondria at the neuronal presynapse in health and
+disease. Nat Rev Neurosci 19, 63-80 (2018).
+
+32. R. Puri, X. T. Cheng, M. Y. Lin, N. Huang, Z. H. Sheng, Mul1 restrains Parkin-
+mediated mitophagy in mature neurons by maintaining ER-mitochondrial contacts.
+
+Nat Commun 10, 3645 (2019).
+33. P. Saftig, W. Beertsen, E. L. Eskelinen, LAMP-2: a control step for phagosome and
+autophagosome maturation. Autophagy 4, 510-512 (2008).
+34. A. K. H. Stavoe, E. L. F. Holzbaur, Autophagy in Neurons. Annu Rev Cell Dev Biol
+35, 477-500 (2019).
+35. Q. Gao et al., PINK1-mediated Drp1(S616) phosphorylation modulates synaptic
+development and plasticity via promoting mitochondrial fission. Signal Transduct
+Target Ther 7, 103 (2022).
+36. T. Misgeld, T. L. Schwarz, Mitostasis in Neurons: Maintaining Mitochondria in an
+Extended Cellular Architecture. Neuron 96, 651-666 (2017).
+37. N. Ishihara et al., Mitochondrial fission factor Drp1 is essential for embryonic
+development and synapse formation in mice. Nat Cell Biol 11, 958-966 (2009).
+38. C. Doxaki, K. Palikaras, Neuronal Mitophagy: Friend or Foe? Front Cell Dev Biol 8,
+611938 (2020).
+39. D. Alsina et al., FBXL4 deficiency increases mitochondrial removal by autophagy.
+EMBO Mol Med 12, e11659 (2020).
+40. B. Billups, I. D. Forsythe, Presynaptic mitochondrial calcium sequestration influences
+transmission at mammalian central synapses. J Neurosci 22, 5840-5847 (2002).
+41. S. K. Kwon et al., LKB1 Regulates Mitochondria-Dependent Presynaptic Calcium
+Clearance and Neurotransmitter Release Properties at Excitatory Synapses along
+Cortical Axons. PLoS Biol 14, e1002516 (2016).
+42. J. O. Westholm, E. C. Lai, Mirtrons: microRNA biogenesis via splicing. Biochimie 93,
+1897-1904 (2011).
+43. K. Chen, N. Rajewsky, The evolution of gene regulation by transcription factors and
+microRNAs. Nat Rev Genet 8, 93-103 (2007).
+44. Y. H. Takeo et al., GluD2- and Cbln1-mediated competitive interactions shape the
+dendritic arbors of cerebellar Purkinje cells. Neuron 109, 629-644 e628 (2021).
+45. M. Ghanbari et al., Genome-wide identification of microRNA-related variants
+associated with risk of Alzheimer's disease. Sci Rep 6, 28387 (2016).
+46. A. Bera, G. Lavanya, R. Reshmi, K. Dev, R. Kumar, Mechanistic and therapeutic role
+of Drp1 in the pathogenesis of Alzheimer's disease. Eur J Neurosci 56, 5516-5531
+(2022).

@@ -1,0 +1,26 @@
+2015), propagation of action potentials (Pan et al., 2011; Mateus et al., 2021), axonal regeneration
+and injury (Taylor et al., 2005), cocultures with neurons and glial cells (Adriani et al., 2017; Park et al.,
+2018) or innervation using cocultures of peripheral neurons with other cells (Uzel et al., 2016).
+Towards models with 3D cultures in a scalable format, we have developed a new microphysiological
+device that enables 3D culture, electrophysiology using integrated microelectrodes and high-resolution
+optical methods. Microfluidics were fabricated directly on MEAs by photolithography of permanent
+epoxy-based photopolymers. A notable advantage of this process is the flexibility to build precise
+multilayer 3D architectures. The inert surface and transparency of the epoxy polymers make them a
+suitable choice for microfluidic devices and compatible with microscopy techniques (Abgrall et al.,
+2007; Ren et al., 2013).
+With this device, we demonstrated a two-compartment 3D neuronal model, which required low
+numbers of cells and low medium volumes. Neurons embedded in hydrogel spontaneously extended
+neurites, including through the interconnecting tunnels with a cross-section of ca. 5×5 μm2 (Figure 1).
+After growth of neurites into these tunnels, transmitted action potentials were extracellularly amplified
+and readily recorded (Molina-Martinez, 2020; Molina-Martínez et al., 2022). We thereby achieved
+reliable recording of the 3D cultures’ activity using microelectrodes in neurite-trapping tunnels.
+Simultaneously, morphology of the cultures could be observed with high resolution. This method
+enabled the non-invasive recording of non-adherent neurons with high efficiency and reproducibility,
+enabling parallelization of up to 12 cultures per device.
+
+Figure 1: Device concept. a: Complete device with 12 microfluidic modules (brown, 32×32 mm2) on a glass-
+based 256-channel microelectrode array (49x49 mm2). Peripheral contact pads correspond to commercial
+
+amplifiers. b: An illustration of the filling procedure, with seeding of cells in the two channels (i, ii) and then filling
+of the central well (iii). Filling with different colors illustrates that different cell populations can be seeded in each
+compartment. Compartments are connected by tunnels (red) which contain microelectrodes (not shown). The

@@ -1,0 +1,51 @@
+1 Introduction
+Neural tissue supports a host of information processes fundamental to many organisms, from autonomic body
+functions to motion, sensing and high-level reasoning [1, 2, 3]. In the quest to decode the inner workings of
+neural architectures, their inspection has long relied on electrical recordings [4, 5]. While in vivo electrophysiology,
+instrumental in neuroscience, uniquely allows for sampling neural activities associated with specific behaviors [6, 7],
+its interpretation is challenged by whole-organism complexity. In vitro systems, including single cells, small networks,
+or tissue samples of larger-scale connectivity, in contrast represent a reduced –yet complementary– route to expose
+neural interactions across scales [8, 9, 10, 11, 12, 13]. From the perspective of synthesizing fundamental principles
+of biological computing, there are significant opportunities with deploying electrical interfaces in vitro, particularly
+in conjunction with engineered neural substrates [11, 12, 13, 14]. Indeed, by spatially distributing and connecting
+biological units (neural populations) of prescribed size, geometry or neuron-type onto input/output electronic
+platforms, living processing architectures may be realized, operated and tested [15, 16, 17, 18, 19], potentially
+enabling a new class of computing systems, with ramifications in engineering, biology and healthcare.
+In this context, Micro-Electrode Arrays (MEAs) technology, where electrodes of variable size, density and spatial
+arrangement are patterned on biocompatible surfaces, represents a powerful and mature option to interface with
+cellular systems, and has been employed from single neurons electrophysiology [20] to high-throughput pharmaceutical
+screens [21, 22]. However, the potential of MEA systems remains hindered by design, fabrication, integration and
+software management complexities. Labs have indeed little choice but to invest in commercial solutions [23, 24],
+which are proprietary, specialize to support biomedical research, afford minimal-to-no customization, and remain
+costly, limiting adoption (from tens of thousands of dollars for a standard 60-electrode system to hundreds of
+thousands for more advanced configurations). This has led to a recent interest in the open-source development
+of MEA platforms [25, 26], aimed at lowering barriers to entry while catering to needs such as multi-well drug
+testing [27], enhanced optical access [28, 29], or chronic tissue monitoring [26]. However, a comprehensive, accessible
+solution to flexibly and multimodally interact with a variety of neural substrates, from organotypic brain slices to
+engineered 3D tissue, remains to be demonstrated.
+Here, prompted by the untapped potential of in vitro neural systems for computing, we present an interfacing
+platform that is versatile, scalable, reconfigurable and portable, that can be easily fabricated, robustly operated
+across cellular contexts, and broadly disseminated. We term this technology ‘Mind in Vitro’ (MiV), to emphasize
+the information processing motivation. Our platform hosts high-density MEA chips, manufactured in standard
+cleanroom facilities via maskless photolithography, and varying in size, spatial topology and transparency depending
+on the application. These chips are matched to swappable, custom printed circuit boards (PCBs) relaying neural
+signals to Open Ephys [30] or Intan acquisition terminals [31] for signal acquisition and subsequent downstream
+processing. Our system seamlessly integrates with both electrical and optical stimulation modules, as well as other
+add-ons such as fluidic interfaces or tissue-specific positioning apparatuses. Reconfigurability is further leveraged to
+comply with industrial standards and integrate with common microscopic chambers, enabling concurrent imaging.
+Such flexibility allows for the combination of high-temporal (electric) and high-spatial (imaging) resolutions, seizing
+on the opportunities afforded by ever-expanding genetic optical markers used in neuroscience research [32, 33].
+Additionally, an open-source software package is developed to manage the system and support operability, data
+storage, analysis, and visualization. To increase usability, source code is based on Python language and native
+interfaces with external neurophysiology (NeuralEnsemble [34]) and machine learning (scikit-learn [35]) software
+suites are provided.
+Our integrated systems are demonstrated across a broad range of in vitro settings, from 2D cultures of embryonic
+stem cell-derived neurons and dissociated hippocampal cells to organotypic brain slices and 3D engineered neural
+tissue mimics. Multiple applications are illustrated including electrical, optical and fluidic manipulation, concurrent
+calcium imaging, and long-term recording (>24h). By logging over 1000 hours of experiments and tens of TB of data
+across distinct labs, robustness and portability are further showcased. By open-sourcing all design files, preparation
+protocols, documentation and software, a useful, accessible, and self-contained neural interfacing solution is then
+delivered, catering to the expanding needs of both traditional and non-traditional in vitro applications.
+2 Platform overview
+Here, a system-level overview of our hardware and software is provided (Fig. 1). We start by describing the recording
+platform, its basic configurations and extensions. We then discuss its deployment in the lab and managing software.

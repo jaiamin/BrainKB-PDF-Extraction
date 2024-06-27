@@ -1,0 +1,34 @@
+DISCUSSION
+This study presents data supporting the use of optogenetics and peripheral photostimulation
+as a quantitative model to investigate nociception and assess the efficacy of potential
+analgesic compounds. We confirm that baseline photostimulation responses are stable across
+a time period that allows repeated trials for several days, with the optical withdrawal
+threshold the most reliable measure. Our data also confirms that the peripheral
+photostimulation model is sensitive to morphine, a prototypical analgesic, supporting the
+proposal that this model can provide an index of analgesic efficacy, also establishing
+reference data to benchmark other compounds against. Together, these findings suggest that
+addition of peripheral photostimulation to the preclinical nociceptive screening toolkit, using
+light rather than tissue damage and evoking a purely nociceptive signal, can enhance our
+ability to identify and develop new pain therapies.
+
+It is important to recognise that several other studies have also utilized optogenetics to evoke
+peripheral photostimulation responses. Novel applications of this technology have continually
+grown since the first description of in vivo optogenetic nociceptive pathway activation,
+demonstrating photostimulation elicited acute behavioural responses, central sensitisation,
+and conditioned place aversion [13]. For example, precise control of peripheral afferents with
+photostimulation has allowed studies to characterise neural pathways and circuits [2; 3],
+demonstrate novel cytokine-mediated macrophage-nociceptor interactions [21], delineate an
+activity dependent protective molecular pathway for transient nociceptor sensitization [37]
+and resolve the role of specific afferents on sensory experience and pathology [34; 39].
+Interestingly, while some studies employed the same TRPV1::ChR2 used here, many used
+different transgenic animals selectively targeting a range of primary afferents types including
+Ab fibres [39], tachykinin-1 (TAC1)-expressing [3], neuropeptide Y receptor-2 (NPYR2)-
+expressing [2], mas1-related G-protein-coupled receptor A3 (MrgprA3)-expressing [34], mast
+cell function-associated antigen (MAFA)-expressing [2], voltage-gated sodium channel
+Nav1.8 [13], and advillin-positive [29]. Applying the optical thresholding and compound
+screening approach described here across this range of animals represents a valuable
+opportunity for future drug discovery, mechanism, and efficacy studies. Likewise, the field of
+visceral nociception and pain research has incorporated optogenetic research approaches to
+selectively activate specific organ afferents using implantable LED systems [36]. Optical
+thresholding principles may also be applied here to rapidly advance drug discovery for
+visceral pain although a reliable and consistent behavioural readout would be required.
